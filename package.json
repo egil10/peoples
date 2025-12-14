@@ -5,6 +5,7 @@
   "homepage": "https://egil10.github.io/peoples",
   "scripts": {
     "generate-data": "node scripts/data-pipeline.js",
+    "fetch-flags": "node scripts/fetch-flags.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
