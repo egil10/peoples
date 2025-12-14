@@ -1,7 +1,7 @@
 {
   "country": "Equatorial Guinea",
   "countryCode": "Q1013",
-  "generated": "2025-12-14T20:28:06.830Z",
+  "generated": "2025-12-14T21:03:25.508Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -433,5 +433,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q133871220",
       "answerKey": "adoro lephethesang"
     }
-  ]
+  ],
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
 }

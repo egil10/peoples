@@ -1,6 +1,7 @@
 /**
  * Fetch Country Flags from Wikidata
  * Adds flag image URLs to existing country JSON files
+ * Automatically uses all countries from data-pipeline.js
  */
 
 const fetch = require('node-fetch');
@@ -9,132 +10,36 @@ const path = require('path');
 
 const SPARQL_ENDPOINT = 'https://query.wikidata.org/sparql';
 
-// Map country names to their Wikidata IDs
-const COUNTRY_CODES = {
-    'USA': 'Q30',
-    'China': 'Q148',
-    'India': 'Q668',
-    'Brazil': 'Q155',
-    'Russia': 'Q159',
-    'Germany': 'Q183',
-    'France': 'Q142',
-    'UK': 'Q145',
-    'Japan': 'Q17',
-    'Italy': 'Q38',
-    'Canada': 'Q16',
-    'Australia': 'Q408',
-    'South Korea': 'Q884',
-    'Mexico': 'Q96',
-    'Spain': 'Q29',
-    'Dominican Republic': 'Q786',
-    'Ukraine': 'Q212',
-    'Egypt': 'Q79',
-    'Turkey': 'Q43',
-    'Chile': 'Q298',
-    'Norway': 'Q20',
-    'Sweden': 'Q34',
-    'Denmark': 'Q35',
-    'Finland': 'Q33',
-    'Poland': 'Q36',
-    'Netherlands': 'Q55',
-    'Belgium': 'Q31',
-    'Switzerland': 'Q39',
-    'Austria': 'Q40',
-    'Lithuania': 'Q37',
-    'Latvia': 'Q211',
-    'Estonia': 'Q191',
-    'Ireland': 'Q27',
-    'Iceland': 'Q189',
-    'Portugal': 'Q45',
-    'Greece': 'Q41',
-    'Croatia': 'Q224',
-    'Slovenia': 'Q215',
-    'Czech Republic': 'Q213',
-    'Slovakia': 'Q214',
-    'Hungary': 'Q28',
-    'Romania': 'Q218',
-    'Bulgaria': 'Q219',
-    'North Macedonia': 'Q221',
-    'Albania': 'Q222',
-    'Cyprus': 'Q229',
-    'Malta': 'Q233',
-    'Montenegro': 'Q236',
-    'Serbia': 'Q403',
-    'Bosnia': 'Q225',
-    'Taiwan': 'Q865',
-    'Malaysia': 'Q833',
-    'Singapore': 'Q334',
-    'Indonesia': 'Q252',
-    'Philippines': 'Q928',
-    'Thailand': 'Q869',
-    'Vietnam': 'Q881',
-    'Pakistan': 'Q843',
-    'Lebanon': 'Q822',
-    'Iraq': 'Q796',
-    'Israel': 'Q801',
-    'Syria': 'Q858',
-    'Jordan': 'Q810',
-    'Saudi Arabia': 'Q851',
-    'UAE': 'Q878',
-    'Qatar': 'Q846',
-    'Kuwait': 'Q817',
-    'Oman': 'Q842',
-    'Bahrain': 'Q398',
-    'Afghanistan': 'Q889',
-    'Ethiopia': 'Q115',
-    'Laos': 'Q819',
-    'Cambodia': 'Q424',
-    'Myanmar': 'Q836',
-    'Sri Lanka': 'Q854',
-    'Tajikistan': 'Q863',
-    'Kazakhstan': 'Q232',
-    'Uzbekistan': 'Q265',
-    'Kyrgyzstan': 'Q813',
-    'Turkmenistan': 'Q874',
-    'North Korea': 'Q423',
-    'Mongolia': 'Q711',
-    'Iran': 'Q794',
-    'Bhutan': 'Q967',
-    'Nepal': 'Q837',
-    'Argentina': 'Q414',
-    'Peru': 'Q419',
-    'Venezuela': 'Q717',
-    'Colombia': 'Q739',
-    'Ecuador': 'Q736',
-    'Bolivia': 'Q750',
-    'Paraguay': 'Q733',
-    'Uruguay': 'Q77',
-    'Haiti': 'Q790',
-    'Jamaica': 'Q766',
-    'Cuba': 'Q241',
-    'Costa Rica': 'Q800',
-    'Guatemala': 'Q774',
-    'Honduras': 'Q783',
-    'El Salvador': 'Q792',
-    'Nicaragua': 'Q811',
-    'Panama': 'Q804',
-    'South Africa': 'Q258',
-    'Nigeria': 'Q1033',
-    'Morocco': 'Q1028',
-    'Cameroon': 'Q1029',
-    'Angola': 'Q916',
-    'Kenya': 'Q114',
-    'Rwanda': 'Q1037',
-    'Mauritius': 'Q1025',
-    'Madagascar': 'Q1019',
-    'DRC': 'Q974',
-    'Uganda': 'Q1036',
-    'Malawi': 'Q1020',
-    'Sudan': 'Q1049',
-    'Somalia': 'Q1045',
-    'Tunisia': 'Q948',
-    'Algeria': 'Q262',
-    'Libya': 'Q1016',
-    'New Zealand': 'Q664',
-    'Papua New Guinea': 'Q691',
-    'Fiji': 'Q712',
-    'Samoa': 'Q683'
-};
+// Import countries from data-pipeline.js
+const dataPipelinePath = path.join(__dirname, 'data-pipeline.js');
+const dataPipelineContent = fs.readFileSync(dataPipelinePath, 'utf-8');
+const countriesMatch = dataPipelineContent.match(/const COUNTRIES = \[([\s\S]*?)\];/);
+
+if (!countriesMatch) {
+    console.error('❌ Could not find COUNTRIES array in data-pipeline.js');
+    process.exit(1);
+}
+
+// Parse the COUNTRIES array
+const countriesCode = countriesMatch[1];
+const countryEntries = countriesCode.match(/{ code: 'Q\d+', name: '[^']+' }/g);
+
+if (!countryEntries) {
+    console.error('❌ Could not parse countries from data-pipeline.js');
+    process.exit(1);
+}
+
+// Build COUNTRY_CODES map from the COUNTRIES array
+const COUNTRY_CODES = {};
+countryEntries.forEach(entry => {
+    const codeMatch = entry.match(/code: '(Q\d+)'/);
+    const nameMatch = entry.match(/name: '([^']+)'/);
+    if (codeMatch && nameMatch) {
+        COUNTRY_CODES[nameMatch[1]] = codeMatch[1];
+    }
+});
+
+console.log(`📋 Loaded ${Object.keys(COUNTRY_CODES).length} countries from data-pipeline.js\n`);
 
 function buildFlagQuery(countryCode) {
     return `

@@ -1,0 +1,97 @@
+{
+  "country": "Dominica",
+  "countryCode": "Q785",
+  "generated": "2025-12-14T21:01:12.967Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Terry Le Sueur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Senator%20Terry%20Le%20Sueur.jpg",
+      "sitelinks": 8,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "chartered accountant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1268367",
+      "answerKey": "terry le sueur"
+    },
+    {
+      "id": 2,
+      "name": "Robert Pipon Marett",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Robert%20Pipon%20Marett.jpg",
+      "sitelinks": 7,
+      "birthYear": "1820",
+      "deathYear": "1884",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1091442",
+      "answerKey": "robert pipon marett"
+    },
+    {
+      "id": 3,
+      "name": "Augustus Asplet Le Gros",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustus%20Asplet%20Le%20Gros.jpg",
+      "sitelinks": 6,
+      "birthYear": "1840",
+      "deathYear": "1877",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2871718",
+      "answerKey": "augustus asplet le gros"
+    },
+    {
+      "id": 4,
+      "name": "Carolyn Labey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ass%C3%A8rment%C3%A2tion%20des%20Membres%20d%27s%20%C3%8Atats%202011%20Saint%20H%C3%A9lyi%20J%C3%A8rri%2011.jpg",
+      "sitelinks": 4,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5045403",
+      "answerKey": "carolyn labey"
+    },
+    {
+      "id": 5,
+      "name": "Edmund Blampied",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edmund%20Blampied.jpg",
+      "sitelinks": 4,
+      "birthYear": "1886",
+      "deathYear": "1966",
+      "occupation": "etcher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3047757",
+      "answerKey": "edmund blampied"
+    },
+    {
+      "id": 6,
+      "name": "Jean Poingdestre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Poingdestre.gif",
+      "sitelinks": 4,
+      "birthYear": "1609",
+      "deathYear": "1691",
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3174061",
+      "answerKey": "jean poingdestre"
+    },
+    {
+      "id": 7,
+      "name": "Sarah Ferguson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Ferguson%20%28Jersey%29.JPG",
+      "sitelinks": 2,
+      "birthYear": "1942",
+      "deathYear": "2022",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16728956",
+      "answerKey": "sarah ferguson"
+    },
+    {
+      "id": 8,
+      "name": "Philippe Le Geyt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philippe%20Le%20Geyt%20%281655-1716%29%2C%20Lieutenant%20Bailiff%20of%20Jersey.jpg",
+      "sitelinks": 0,
+      "birthYear": "1635",
+      "deathYear": "1716",
+      "occupation": "jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18674352",
+      "answerKey": "philippe le geyt"
+    }
+  ],
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jersey.svg"
+}

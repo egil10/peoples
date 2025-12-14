@@ -1,7 +1,7 @@
 {
   "country": "Zimbabwe",
   "countryCode": "Q1039",
-  "generated": "2025-12-14T20:27:12.383Z",
+  "generated": "2025-12-14T21:02:36.168Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -61,17 +61,6 @@
     },
     {
       "id": 6,
-      "name": "Miguel Trovoada",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Trovoada%20in%201995.jpg",
-      "sitelinks": 28,
-      "birthYear": "1936",
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q504522",
-      "answerKey": "miguel trovoada"
-    },
-    {
-      "id": 7,
       "name": "Maria do Carmo Silveira",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20do%20Carmo%20Silveira.jpg",
       "sitelinks": 28,
@@ -82,7 +71,7 @@
       "answerKey": "maria do carmo silveira"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Maria das Neves",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20das%20Neves.jpg",
       "sitelinks": 28,
@@ -91,6 +80,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q454046",
       "answerKey": "maria das neves"
+    },
+    {
+      "id": 8,
+      "name": "Miguel Trovoada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Trovoada%20in%201995.jpg",
+      "sitelinks": 28,
+      "birthYear": "1936",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q504522",
+      "answerKey": "miguel trovoada"
     },
     {
       "id": 9,
@@ -193,17 +193,6 @@
     },
     {
       "id": 18,
-      "name": "Olinda Beja",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olinda%20Beja.jpg",
-      "sitelinks": 12,
-      "birthYear": "1946",
-      "deathYear": null,
-      "occupation": "poet",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q21290381",
-      "answerKey": "olinda beja"
-    },
-    {
-      "id": 19,
       "name": "Tomé Vera Cruz",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A9%20Vera%20Cruz%20%28cropped%29.jpg",
       "sitelinks": 12,
@@ -212,6 +201,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1286743",
       "answerKey": "tome vera cruz"
+    },
+    {
+      "id": 19,
+      "name": "Olinda Beja",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olinda%20Beja.jpg",
+      "sitelinks": 12,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21290381",
+      "answerKey": "olinda beja"
     },
     {
       "id": 20,
@@ -237,17 +237,6 @@
     },
     {
       "id": 22,
-      "name": "Natália Pedro da Costa Umbelina Neto",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Ying-jeou%20and%20Nat%C3%A1lia%20Pedro%20da%20Costa%20Umbelina%20Neto%202014%20%28cropped%29.jpg",
-      "sitelinks": 7,
-      "birthYear": "1951",
-      "deathYear": null,
-      "occupation": "historian",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q28497470",
-      "answerKey": "natalia pedro da costa umbelina neto"
-    },
-    {
-      "id": 23,
       "name": "Christopher Lima da Costa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20at%20the%202012%20Summer%20Olympics%20%E2%80%93%20Men%27s%20100%20metres%2C%20Preliminaries%20heat%201%20%282%29.JPG",
       "sitelinks": 7,
@@ -258,7 +247,7 @@
       "answerKey": "christopher lima da costa"
     },
     {
-      "id": 24,
+      "id": 23,
       "name": "Aurélio Martins",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aureliomartins-1.jpg",
       "sitelinks": 7,
@@ -267,6 +256,17 @@
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4822692",
       "answerKey": "aurelio martins"
+    },
+    {
+      "id": 24,
+      "name": "Natália Pedro da Costa Umbelina Neto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Ying-jeou%20and%20Nat%C3%A1lia%20Pedro%20da%20Costa%20Umbelina%20Neto%202014%20%28cropped%29.jpg",
+      "sitelinks": 7,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28497470",
+      "answerKey": "natalia pedro da costa umbelina neto"
     },
     {
       "id": 25,
@@ -281,17 +281,6 @@
     },
     {
       "id": 26,
-      "name": "Elsa Teixeira Pinto",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elsa%20Pinto%20and%20Neven%20Mimica%202019%2001%20%28cropped%29.jpg",
-      "sitelinks": 6,
-      "birthYear": "1950",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q42626636",
-      "answerKey": "elsa teixeira pinto"
-    },
-    {
-      "id": 27,
       "name": "Maria do Nascimento da Graça Amorim",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20do%20Nascimento%20da%20Gra%C3%A7a%20Amorim%2C%20Minister%20for%20Foreign%20Affairs%20and%20Co-operation%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%20-%201979%20%28cropped%29.jpg",
       "sitelinks": 6,
@@ -302,7 +291,7 @@
       "answerKey": "maria do nascimento da graca amorim"
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "José Cassandra",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jos%C3%A9%20Cardoso%20Cassandra%20-%202025%20%28cropped%29.jpg",
       "sitelinks": 6,
@@ -311,6 +300,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2253728",
       "answerKey": "jose cassandra"
+    },
+    {
+      "id": 28,
+      "name": "Elsa Teixeira Pinto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elsa%20Pinto%20and%20Neven%20Mimica%202019%2001%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42626636",
+      "answerKey": "elsa teixeira pinto"
     },
     {
       "id": 29,
@@ -336,17 +336,6 @@
     },
     {
       "id": 31,
-      "name": "Olimpia Barbosa",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-08-21%20European%20Championships%202022%20%E2%80%93%20Women%27s%20100%20Metres%20Hurdles%20by%20Sandro%20Halank%E2%80%93034.jpg",
-      "sitelinks": 4,
-      "birthYear": "1995",
-      "deathYear": null,
-      "occupation": "athletics competitor",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q55185575",
-      "answerKey": "olimpia barbosa"
-    },
-    {
-      "id": 32,
       "name": "Delfim Neves",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delfim%20Neves%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -355,6 +344,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27062864",
       "answerKey": "delfim neves"
+    },
+    {
+      "id": 32,
+      "name": "Olimpia Barbosa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-08-21%20European%20Championships%202022%20%E2%80%93%20Women%27s%20100%20Metres%20Hurdles%20by%20Sandro%20Halank%E2%80%93034.jpg",
+      "sitelinks": 4,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55185575",
+      "answerKey": "olimpia barbosa"
     },
     {
       "id": 33,
@@ -424,17 +424,6 @@
     },
     {
       "id": 39,
-      "name": "Aurelio do Espírito Santo",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Signing%20of%20a%20fisheries%20agreement%20between%20the%20EEC%20and%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%2C%201983%2003.jpg",
-      "sitelinks": 2,
-      "birthYear": null,
-      "deathYear": null,
-      "occupation": null,
-      "wikidataUrl": "http://www.wikidata.org/entity/Q111801759",
-      "answerKey": "aurelio do espirito santo"
-    },
-    {
-      "id": 40,
       "name": "Gareth Santo Guadalupe",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gareth%20Guadalupe.jpg",
       "sitelinks": 2,
@@ -443,6 +432,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115277369",
       "answerKey": "gareth santo guadalupe"
+    },
+    {
+      "id": 40,
+      "name": "Aurelio do Espírito Santo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Signing%20of%20a%20fisheries%20agreement%20between%20the%20EEC%20and%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%2C%201983%2003.jpg",
+      "sitelinks": 2,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q111801759",
+      "answerKey": "aurelio do espirito santo"
     },
     {
       "id": 41,
@@ -499,5 +499,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q59572738",
       "answerKey": "carlos olimpio stock"
     }
-  ]
+  ],
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg"
 }
