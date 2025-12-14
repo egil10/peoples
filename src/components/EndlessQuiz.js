@@ -506,7 +506,13 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                             <div className="feedback-correct">
                                                 <Check size={32} />
                                                 <h3>Correct!</h3>
-                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                {currentQuestion.correct.wikipediaUrl ? (
+                                                    <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                        <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                    </a>
+                                                ) : (
+                                                    <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                )}
                                                 <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
                                             </div>
                                         ) : (
@@ -519,7 +525,13 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                                 </div>
                                                 <div className="feedback-correct-answer">
                                                     <span className="label">Correct answer:</span>
-                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                    {currentQuestion.correct.wikipediaUrl ? (
+                                                        <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                            <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                        </a>
+                                                    ) : (
+                                                        <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                    )}
                                                 </div>
                                                 <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
                                             </div>
@@ -590,7 +602,13 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                             <div className="feedback-correct">
                                                 <Check size={32} />
                                                 <h3>Correct!</h3>
-                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                {currentQuestion.correct.wikipediaUrl ? (
+                                                    <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                        <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                    </a>
+                                                ) : (
+                                                    <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                )}
                                                 <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
                                             </div>
                                         ) : (
@@ -603,7 +621,13 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                                 </div>
                                                 <div className="feedback-correct-answer">
                                                     <span className="label">Correct answer:</span>
-                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                    {currentQuestion.correct.wikipediaUrl ? (
+                                                        <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                            <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                        </a>
+                                                    ) : (
+                                                        <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                    )}
                                                 </div>
                                                 <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
                                             </div>

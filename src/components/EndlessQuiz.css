@@ -816,8 +816,8 @@ html {
     background: #FFF;
     border-radius: 12px;
     padding: 16px;
-    max-width: 360px;
-    width: 100%;
+    width: 360px;
+    min-height: 200px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
     border: 1px solid #E0E0E0;
     contain: layout style paint;
@@ -881,6 +881,32 @@ html {
     font-weight: 700;
     margin-bottom: 6px;
     line-height: 1.2;
+    min-height: 24px;
+}
+
+/* Clickable name link */
+.feedback-name-link {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+    transition: all 0.15s ease;
+    border-radius: 4px;
+    padding: 2px 4px;
+    margin: -2px -4px;
+}
+
+.feedback-name-link:hover {
+    background: rgba(0, 0, 0, 0.05);
+    transform: translateX(2px);
+}
+
+.feedback-name-link:active {
+    transform: translateX(1px);
+    background: rgba(0, 0, 0, 0.08);
+}
+
+.feedback-name-link .feedback-name {
+    cursor: pointer;
 }
 
 .feedback-name.wrong-name {
@@ -903,8 +929,9 @@ html {
     padding-top: 12px;
     display: flex;
     flex-direction: column;
-    gap: 6px;
-    margin-top: 8px;
+    gap: 8px;
+    margin-top: 12px;
+    min-height: 80px;
 }
 
 .detail-item {
@@ -1019,7 +1046,8 @@ html {
     }
 
     .feedback-content {
-        max-width: calc(100vw - 32px);
+        width: calc(100vw - 32px);
+        max-width: 360px;
         padding: 16px;
     }
 }
