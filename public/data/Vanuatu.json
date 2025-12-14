@@ -1,7 +1,7 @@
 {
   "country": "Vanuatu",
   "countryCode": "Q686",
-  "generated": "2025-12-14T21:04:38.059Z",
+  "generated": "2025-12-14T21:22:01.748Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 74,
       "birthYear": "1986",
       "deathYear": null,
-      "occupation": "television personality",
+      "occupation": "digital marketing expert",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18637166",
       "answerKey": "andrew tate"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 29,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316133",
       "answerKey": "kalkot mataskelekele"
     },
@@ -171,17 +171,6 @@
     },
     {
       "id": 16,
-      "name": "Joe Natuman",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Natuman%202014%20%28cropped%29.jpg",
-      "sitelinks": 16,
-      "birthYear": "1952",
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q58222",
-      "answerKey": "joe natuman"
-    },
-    {
-      "id": 17,
       "name": "Moana Carcasses Kalosil",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moana%20Carcasses%20Kalosil%202013%20%28cropped%29.jpg",
       "sitelinks": 16,
@@ -190,6 +179,17 @@
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3317554",
       "answerKey": "moana carcasses kalosil"
+    },
+    {
+      "id": 17,
+      "name": "Joe Natuman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Natuman%202014%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58222",
+      "answerKey": "joe natuman"
     },
     {
       "id": 18,
@@ -237,17 +237,6 @@
     },
     {
       "id": 22,
-      "name": "Barak Sopé",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barak%20Sope%202000.jpg",
-      "sitelinks": 12,
-      "birthYear": "1955",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q807232",
-      "answerKey": "barak sope"
-    },
-    {
-      "id": 23,
       "name": "Brian Kaltak",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Kaltak.jpg",
       "sitelinks": 12,
@@ -258,13 +247,24 @@
       "answerKey": "brian kaltak"
     },
     {
+      "id": 23,
+      "name": "Barak Sopé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barak%20Sope%202000.jpg",
+      "sitelinks": 12,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q807232",
+      "answerKey": "barak sope"
+    },
+    {
       "id": 24,
       "name": "Grace Mera Molisa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grace%20Mera%20Molisa.jpg",
       "sitelinks": 10,
       "birthYear": "1946",
       "deathYear": "2002",
-      "occupation": "politician",
+      "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3113009",
       "answerKey": "grace mera molisa"
     },
@@ -477,6 +477,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q120482939",
       "answerKey": "vincent boulekone"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vanuatu.svg"
+  ]
 }

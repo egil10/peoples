@@ -1,7 +1,7 @@
 {
   "country": "Palau",
   "countryCode": "Q695",
-  "generated": "2025-12-14T21:04:37.962Z",
+  "generated": "2025-12-14T21:22:01.340Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -264,7 +264,7 @@
       "sitelinks": 2,
       "birthYear": null,
       "deathYear": null,
-      "occupation": "physician",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123907808",
       "answerKey": "emais roberts"
     },
@@ -323,6 +323,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q107845064",
       "answerKey": "francis matsutaro"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg"
+  ]
 }

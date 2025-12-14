@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-14T21:05:15.178Z",
+  "generated": "2025-12-14T21:22:29.220Z",
   "countries": [
     {
       "name": "USA",
@@ -137,6 +137,11 @@
       "file": "Belgium.json"
     },
     {
+      "name": "Luxembourg",
+      "code": "Q32",
+      "file": "Luxembourg.json"
+    },
+    {
       "name": "Switzerland",
       "code": "Q39",
       "file": "Switzerland.json"
@@ -212,6 +217,11 @@
       "file": "Slovenia.json"
     },
     {
+      "name": "Moldova",
+      "code": "Q217",
+      "file": "Moldova.json"
+    },
+    {
       "name": "Czech Republic",
       "code": "Q213",
       "file": "Czech_Republic.json"
@@ -252,6 +262,11 @@
       "file": "Cyprus.json"
     },
     {
+      "name": "Georgia",
+      "code": "Q230",
+      "file": "Georgia.json"
+    },
+    {
       "name": "Malta",
       "code": "Q233",
       "file": "Malta.json"
@@ -270,6 +285,11 @@
       "name": "Bosnia",
       "code": "Q225",
       "file": "Bosnia.json"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "Q227",
+      "file": "Azerbaijan.json"
     },
     {
       "name": "Belarus",
@@ -417,6 +437,11 @@
       "file": "Lebanon.json"
     },
     {
+      "name": "Maldives",
+      "code": "Q826",
+      "file": "Maldives.json"
+    },
+    {
       "name": "Iraq",
       "code": "Q796",
       "file": "Iraq.json"
@@ -467,6 +492,11 @@
       "file": "Bahrain.json"
     },
     {
+      "name": "Armenia",
+      "code": "Q399",
+      "file": "Armenia.json"
+    },
+    {
       "name": "Peru",
       "code": "Q419",
       "file": "Peru.json"
@@ -488,7 +518,7 @@
     },
     {
       "name": "Paraguay",
-      "code": "Q733",
+      "code": "Q299",
       "file": "Paraguay.json"
     },
     {
@@ -508,7 +538,7 @@
     },
     {
       "name": "Jamaica",
-      "code": "Q766",
+      "code": "Q754",
       "file": "Jamaica.json"
     },
     {
@@ -553,7 +583,7 @@
     },
     {
       "name": "Trinidad and Tobago",
-      "code": "Q754",
+      "code": "Q734",
       "file": "Trinidad_and_Tobago.json"
     },
     {
@@ -573,7 +603,7 @@
     },
     {
       "name": "Saint Kitts and Nevis",
-      "code": "Q784",
+      "code": "Q763",
       "file": "Saint_Kitts_and_Nevis.json"
     },
     {
@@ -588,12 +618,12 @@
     },
     {
       "name": "Grenada",
-      "code": "Q730",
+      "code": "Q769",
       "file": "Grenada.json"
     },
     {
       "name": "Dominica",
-      "code": "Q785",
+      "code": "Q766",
       "file": "Dominica.json"
     },
     {
@@ -603,7 +633,7 @@
     },
     {
       "name": "Guyana",
-      "code": "Q734",
+      "code": "Q733",
       "file": "Guyana.json"
     },
     {
@@ -748,18 +778,13 @@
     },
     {
       "name": "Ivory Coast",
-      "code": "Q1009",
+      "code": "Q1008",
       "file": "Ivory_Coast.json"
     },
     {
       "name": "Burkina Faso",
-      "code": "Q1008",
+      "code": "Q965",
       "file": "Burkina_Faso.json"
-    },
-    {
-      "name": "Mali",
-      "code": "Q1007",
-      "file": "Mali.json"
     },
     {
       "name": "Niger",
@@ -803,7 +828,7 @@
     },
     {
       "name": "Guinea-Bissau",
-      "code": "Q1011",
+      "code": "Q1007",
       "file": "Guinea-Bissau.json"
     },
     {
@@ -833,8 +858,13 @@
     },
     {
       "name": "Lesotho",
-      "code": "Q1021",
+      "code": "Q1009",
       "file": "Lesotho.json"
+    },
+    {
+      "name": "Mali",
+      "code": "Q1021",
+      "file": "Mali.json"
     },
     {
       "name": "Eswatini",

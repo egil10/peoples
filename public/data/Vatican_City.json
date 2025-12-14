@@ -1,7 +1,7 @@
 {
   "country": "Vatican City",
   "countryCode": "Q237",
-  "generated": "2025-12-14T20:57:56.252Z",
+  "generated": "2025-12-14T21:15:05.174Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -44,7 +44,7 @@
       "sitelinks": 122,
       "birthYear": "1912",
       "deathYear": "1978",
-      "occupation": "transitional deacon",
+      "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37278",
       "answerKey": "john paul i"
     },
@@ -182,17 +182,6 @@
     },
     {
       "id": 17,
-      "name": "Henryk Jagodziński",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ks.%20Henryk%20Jagodzi%C5%84ski.jpg",
-      "sitelinks": 10,
-      "birthYear": "1969",
-      "deathYear": null,
-      "occupation": "Catholic bishop",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q9288231",
-      "answerKey": "henryk jagodzinski"
-    },
-    {
-      "id": 18,
       "name": "Andrzej Józwowicz",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mons%20andrzej.jpg",
       "sitelinks": 10,
@@ -201,6 +190,17 @@
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28961836",
       "answerKey": "andrzej jozwowicz"
+    },
+    {
+      "id": 18,
+      "name": "Henryk Jagodziński",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ks.%20Henryk%20Jagodzi%C5%84ski.jpg",
+      "sitelinks": 10,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9288231",
+      "answerKey": "henryk jagodzinski"
     },
     {
       "id": 19,
@@ -279,6 +279,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q62819156",
       "answerKey": "girolamo luigi crivelli"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City%20%282023%E2%80%93present%29.svg"
+  ]
 }

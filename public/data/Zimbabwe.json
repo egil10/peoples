@@ -1,7 +1,7 @@
 {
   "country": "Zimbabwe",
   "countryCode": "Q1039",
-  "generated": "2025-12-14T21:02:36.168Z",
+  "generated": "2025-12-14T21:19:59.697Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -336,17 +336,6 @@
     },
     {
       "id": 31,
-      "name": "Delfim Neves",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delfim%20Neves%20%28cropped%29.jpg",
-      "sitelinks": 4,
-      "birthYear": "1965",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q27062864",
-      "answerKey": "delfim neves"
-    },
-    {
-      "id": 32,
       "name": "Olimpia Barbosa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-08-21%20European%20Championships%202022%20%E2%80%93%20Women%27s%20100%20Metres%20Hurdles%20by%20Sandro%20Halank%E2%80%93034.jpg",
       "sitelinks": 4,
@@ -355,6 +344,17 @@
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55185575",
       "answerKey": "olimpia barbosa"
+    },
+    {
+      "id": 32,
+      "name": "Delfim Neves",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delfim%20Neves%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27062864",
+      "answerKey": "delfim neves"
     },
     {
       "id": 33,
@@ -424,17 +424,6 @@
     },
     {
       "id": 39,
-      "name": "Gareth Santo Guadalupe",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gareth%20Guadalupe.jpg",
-      "sitelinks": 2,
-      "birthYear": null,
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q115277369",
-      "answerKey": "gareth santo guadalupe"
-    },
-    {
-      "id": 40,
       "name": "Aurelio do Espírito Santo",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Signing%20of%20a%20fisheries%20agreement%20between%20the%20EEC%20and%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe%2C%201983%2003.jpg",
       "sitelinks": 2,
@@ -443,6 +432,17 @@
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q111801759",
       "answerKey": "aurelio do espirito santo"
+    },
+    {
+      "id": 40,
+      "name": "Gareth Santo Guadalupe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gareth%20Guadalupe.jpg",
+      "sitelinks": 2,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115277369",
+      "answerKey": "gareth santo guadalupe"
     },
     {
       "id": 41,
@@ -499,6 +499,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q59572738",
       "answerKey": "carlos olimpio stock"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg"
+  ]
 }

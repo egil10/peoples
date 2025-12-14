@@ -1,7 +1,7 @@
 {
   "country": "Micronesia",
   "countryCode": "Q702",
-  "generated": "2025-12-14T21:04:44.635Z",
+  "generated": "2025-12-14T21:22:08.466Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -270,17 +270,6 @@
     },
     {
       "id": 25,
-      "name": "John Mangefel",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Senator%20John%20A.%20Mangefel%2C%20Yap.jpg",
-      "sitelinks": 3,
-      "birthYear": "1932",
-      "deathYear": "2007",
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q54895021",
-      "answerKey": "john mangefel"
-    },
-    {
-      "id": 26,
       "name": "Andon Amaraich",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andon%20Amaraich.jpg",
       "sitelinks": 3,
@@ -289,6 +278,17 @@
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4063959",
       "answerKey": "andon amaraich"
+    },
+    {
+      "id": 26,
+      "name": "John Mangefel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Senator%20John%20A.%20Mangefel%2C%20Yap.jpg",
+      "sitelinks": 3,
+      "birthYear": "1932",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54895021",
+      "answerKey": "john mangefel"
     },
     {
       "id": 27,
@@ -433,6 +433,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q124667477",
       "answerKey": "tiwiter aritos"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg"
+  ]
 }

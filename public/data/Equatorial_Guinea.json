@@ -1,7 +1,7 @@
 {
   "country": "Equatorial Guinea",
   "countryCode": "Q1013",
-  "generated": "2025-12-14T21:03:25.508Z",
+  "generated": "2025-12-14T21:20:49.966Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -154,7 +154,7 @@
       "sitelinks": 10,
       "birthYear": "1991",
       "deathYear": null,
-      "occupation": "athletics competitor",
+      "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5307471",
       "answerKey": "tsepo mathibelle"
     },
@@ -176,7 +176,7 @@
       "sitelinks": 9,
       "birthYear": "1984",
       "deathYear": null,
-      "occupation": "marathon runner",
+      "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11880732",
       "answerKey": "mamorallo tjoka"
     },
@@ -204,6 +204,17 @@
     },
     {
       "id": 19,
+      "name": "Mamonaheng Mokitimi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mamonaheng%20Mokitimi.jpg",
+      "sitelinks": 7,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q108744062",
+      "answerKey": "mamonaheng mokitimi"
+    },
+    {
+      "id": 20,
       "name": "Sunny Jane",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CINvRIC%202017-07-09%20-%20Sunny%20Jane%20%2841164995304%29%20%28cropped%29.jpg",
       "sitelinks": 7,
@@ -214,7 +225,7 @@
       "answerKey": "sunny jane"
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Phetetso Monese",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pheteso%20Monese%20LS%20Qualification%20race.JPG",
       "sitelinks": 7,
@@ -225,7 +236,7 @@
       "answerKey": "phetetso monese"
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Thabiso Brown",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AuroraJorgeWilstermamm.jpg",
       "sitelinks": 7,
@@ -236,7 +247,7 @@
       "answerKey": "thabiso brown"
     },
     {
-      "id": 22,
+      "id": 23,
       "name": "Thabiso Brown",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AuroraJorgeWilstermamm.jpg",
       "sitelinks": 7,
@@ -245,17 +256,6 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22162698",
       "answerKey": "thabiso brown"
-    },
-    {
-      "id": 23,
-      "name": "Mamonaheng Mokitimi",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mamonaheng%20Mokitimi.jpg",
-      "sitelinks": 7,
-      "birthYear": "1970",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q108744062",
-      "answerKey": "mamonaheng mokitimi"
     },
     {
       "id": 24,
@@ -433,6 +433,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q133871220",
       "answerKey": "adoro lephethesang"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
+  ]
 }

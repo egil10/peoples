@@ -1,7 +1,7 @@
 {
   "country": "Nauru",
   "countryCode": "Q697",
-  "generated": "2025-12-14T21:05:08.146Z",
+  "generated": "2025-12-14T21:22:22.470Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -226,17 +226,6 @@
     },
     {
       "id": 21,
-      "name": "Dominic Tabuna",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Tabuna%20%28crop1%29.jpg",
-      "sitelinks": 6,
-      "birthYear": "1980",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q5290659",
-      "answerKey": "dominic tabuna"
-    },
-    {
-      "id": 22,
       "name": "Charmaine Scotty",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charmaine%20Scotty%20crop.jpg",
       "sitelinks": 6,
@@ -245,6 +234,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13454037",
       "answerKey": "charmaine scotty"
+    },
+    {
+      "id": 22,
+      "name": "Dominic Tabuna",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Tabuna%20%28crop1%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5290659",
+      "answerKey": "dominic tabuna"
     },
     {
       "id": 23,
@@ -259,17 +259,6 @@
     },
     {
       "id": 24,
-      "name": "Shadlog Bernicke",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shadlog%20Bernicke%20%28cropped%29.jpg",
-      "sitelinks": 4,
-      "birthYear": "1966",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q282252",
-      "answerKey": "shadlog bernicke"
-    },
-    {
-      "id": 25,
       "name": "Ludwig Keke",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Keke%202016%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -280,7 +269,7 @@
       "answerKey": "ludwig keke"
     },
     {
-      "id": 26,
+      "id": 25,
       "name": "Aaron Cook",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Cook%20MP%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -291,7 +280,7 @@
       "answerKey": "aaron cook"
     },
     {
-      "id": 27,
+      "id": 26,
       "name": "Sean Oppenheimer",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Oppenheimer%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -302,7 +291,7 @@
       "answerKey": "sean oppenheimer"
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "Gabrissa Hartman",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabrissa%20Hartman%202023%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -311,6 +300,17 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42698375",
       "answerKey": "gabrissa hartman"
+    },
+    {
+      "id": 28,
+      "name": "Shadlog Bernicke",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shadlog%20Bernicke%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q282252",
+      "answerKey": "shadlog bernicke"
     },
     {
       "id": 29,
@@ -411,6 +411,5 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q114321576",
       "answerKey": "delvin oneil thoma"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nauru.svg"
+  ]
 }
