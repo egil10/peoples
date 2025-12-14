@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3 } from 'lucide-react';
 import './EndlessQuiz.css';
 
@@ -52,9 +52,9 @@ const PersonOption = React.memo(({ person, index, isSelected, isCorrect, isAnswe
     );
 }, (prevProps, nextProps) => {
     return prevProps.person.wikidataUrl === nextProps.person.wikidataUrl &&
-           prevProps.isSelected === nextProps.isSelected &&
-           prevProps.isCorrect === nextProps.isCorrect &&
-           prevProps.isAnswered === nextProps.isAnswered;
+        prevProps.isSelected === nextProps.isSelected &&
+        prevProps.isCorrect === nextProps.isCorrect &&
+        prevProps.isAnswered === nextProps.isAnswered;
 });
 
 const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswered, onSelect }) => {
@@ -86,9 +86,9 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
     );
 }, (prevProps, nextProps) => {
     return prevProps.person.wikidataUrl === nextProps.person.wikidataUrl &&
-           prevProps.isSelected === nextProps.isSelected &&
-           prevProps.isCorrect === nextProps.isCorrect &&
-           prevProps.isAnswered === nextProps.isAnswered;
+        prevProps.isSelected === nextProps.isSelected &&
+        prevProps.isCorrect === nextProps.isCorrect &&
+        prevProps.isAnswered === nextProps.isAnswered;
 });
 
 function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGallery }) {
@@ -142,6 +142,17 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         setCorrectCount(0);
     }, [selectedCountry, allPeople]);
 
+    // Close sidebar on Escape key
+    useEffect(() => {
+        const handleEscape = (e) => {
+            if (e.key === 'Escape' && showCountryFilter) {
+                setShowCountryFilter(false);
+            }
+        };
+        window.addEventListener('keydown', handleEscape);
+        return () => window.removeEventListener('keydown', handleEscape);
+    }, [showCountryFilter]);
+
     // Memoize question generation to reduce re-computation
     const generateQuestion = useCallback(() => {
         if (filteredPeople.length < 4) return null;
@@ -161,7 +172,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
 
     const preloadQuestionImages = useCallback(async (question, priority = false) => {
         if (!question) return;
-        
+
         // Only preload if priority (current question) or if we have bandwidth
         const imagesToLoad = question.options
             .map(p => p.image)
@@ -177,7 +188,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
 
         // Load images - don't await, let them load in background
         const promises = imagesToLoad.map(src => preloadImage(src));
-        
+
         Promise.all(promises).then(() => {
             setPreloadedImages(prev => {
                 const next = new Set(prev);
@@ -288,7 +299,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         const saved = localStorage.getItem('quizStats');
         let bestStreak = 0;
         let bestElo = 1500;
-        
+
         if (saved) {
             try {
                 const parsed = JSON.parse(saved);
@@ -298,7 +309,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 // Ignore parse errors
             }
         }
-        
+
         const stats = {
             totalAnswered,
             correctCount,
@@ -366,8 +377,8 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
 
                 <div className="controls">
                     {onNavigateToGallery && (
-                        <button 
-                            onClick={onNavigateToGallery} 
+                        <button
+                            onClick={onNavigateToGallery}
                             className="gallery-button"
                             title="View Gallery"
                         >
@@ -375,8 +386,8 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                         </button>
                     )}
                     {onNavigateToStatistics && (
-                        <button 
-                            onClick={onNavigateToStatistics} 
+                        <button
+                            onClick={onNavigateToStatistics}
                             className="stats-button"
                             title="View Statistics"
                         >
@@ -422,23 +433,30 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 </div>
             </header>
 
+            {/* Backdrop overlay */}
+            <div
+                className={`sidebar-backdrop ${showCountryFilter ? 'open' : ''}`}
+                onClick={() => setShowCountryFilter(false)}
+                aria-hidden="true"
+            />
+
             {/* Sidebar */}
             <aside className={`sidebar ${showCountryFilter ? 'open' : ''}`}>
                 <div className="sidebar-header">
                     <h3>Select Country</h3>
-                    <button onClick={() => setShowCountryFilter(false)} className="sidebar-close">×</button>
+                    <button onClick={() => setShowCountryFilter(false)} className="sidebar-close" aria-label="Close sidebar">×</button>
                 </div>
                 <div className="sidebar-content">
-                    <button 
-                        className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`} 
+                    <button
+                        className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`}
                         onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}
                     >
                         All ({allPeople.length})
                     </button>
                     {countries.map(c => (
-                        <button 
-                            key={c} 
-                            className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`} 
+                        <button
+                            key={c}
+                            className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`}
                             onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}
                         >
                             {c}
@@ -456,159 +474,159 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 ) : (
                     gameMode === 'image-to-name' ? (
                         <div className="split">
-                        <div className="img-box">
-                            <img
-                                src={currentQuestion.correct.image}
-                                alt=""
-                                loading="eager"
-                                decoding="async"
-                                width="400"
-                                height="533"
-                                fetchpriority="high"
-                            />
-                        </div>
-                        <div className="opts">
-                            {currentQuestion.options.map((person, i) => (
-                                <PersonOption
-                                    key={person.wikidataUrl}
-                                    person={person}
-                                    index={i}
-                                    isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
-                                    isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
-                                    isAnswered={isAnswered}
-                                    onSelect={() => handleAnswerSelect(person)}
+                            <div className="img-box">
+                                <img
+                                    src={currentQuestion.correct.image}
+                                    alt=""
+                                    loading="eager"
+                                    decoding="async"
+                                    width="400"
+                                    height="533"
+                                    fetchpriority="high"
                                 />
-                            ))}
-                        </div>
+                            </div>
+                            <div className="opts">
+                                {currentQuestion.options.map((person, i) => (
+                                    <PersonOption
+                                        key={person.wikidataUrl}
+                                        person={person}
+                                        index={i}
+                                        isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
+                                        isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
+                                        isAnswered={isAnswered}
+                                        onSelect={() => handleAnswerSelect(person)}
+                                    />
+                                ))}
+                            </div>
 
-                        {isAnswered && (
-                            <div className="feedback-popup">
-                                <div className="feedback-content">
-                                    {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                        <div className="feedback-correct">
-                                            <Check size={32} />
-                                            <h3>Correct!</h3>
-                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                            <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
-                                        </div>
-                                    ) : (
-                                        <div className="feedback-wrong">
-                                            <X size={32} />
-                                            <h3>Incorrect</h3>
-                                            <div className="feedback-wrong-answer">
-                                                <span className="label">You selected:</span>
-                                                <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                            {isAnswered && (
+                                <div className="feedback-popup">
+                                    <div className="feedback-content">
+                                        {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
+                                            <div className="feedback-correct">
+                                                <Check size={32} />
+                                                <h3>Correct!</h3>
+                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
                                             </div>
-                                            <div className="feedback-correct-answer">
-                                                <span className="label">Correct answer:</span>
-                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
-                                            </div>
-                                            <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
-                                        </div>
-                                    )}
-                                    <div className="feedback-details">
-                                        {currentQuestion.correct.occupation && (
-                                            <div className="detail-item">
-                                                <strong>{currentQuestion.correct.occupation}</strong>
+                                        ) : (
+                                            <div className="feedback-wrong">
+                                                <X size={32} />
+                                                <h3>Incorrect</h3>
+                                                <div className="feedback-wrong-answer">
+                                                    <span className="label">You selected:</span>
+                                                    <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                                </div>
+                                                <div className="feedback-correct-answer">
+                                                    <span className="label">Correct answer:</span>
+                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                </div>
+                                                <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
                                             </div>
                                         )}
-                                        {currentQuestion.correct.description && (
-                                            <div className="detail-item desc">{currentQuestion.correct.description}</div>
-                                        )}
-                                        {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                                            <div className="detail-item">
-                                                {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
-                                            </div>
-                                        )}
-                                        <div className="country-flag-large">
-                                            {countryData?.flag && (
-                                                <img
-                                                    src={countryData.flag}
-                                                    alt=""
-                                                    className="flag-large"
-                                                    loading="lazy"
-                                                    decoding="async"
-                                                />
+                                        <div className="feedback-details">
+                                            {currentQuestion.correct.occupation && (
+                                                <div className="detail-item">
+                                                    <strong>{currentQuestion.correct.occupation}</strong>
+                                                </div>
                                             )}
-                                            <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                            {currentQuestion.correct.description && (
+                                                <div className="detail-item desc">{currentQuestion.correct.description}</div>
+                                            )}
+                                            {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                                <div className="detail-item">
+                                                    {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
+                                                </div>
+                                            )}
+                                            <div className="country-flag-large">
+                                                {countryData?.flag && (
+                                                    <img
+                                                        src={countryData.flag}
+                                                        alt=""
+                                                        className="flag-large"
+                                                        loading="lazy"
+                                                        decoding="async"
+                                                    />
+                                                )}
+                                                <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        )}
+                            )}
                         </div>
                     ) : (
                         <div className="name-top">
-                        <h2>{currentQuestion.correct.name}</h2>
-                        <div className="imgs">
-                            {currentQuestion.options.map((person, i) => (
-                                <ImageOption
-                                    key={person.wikidataUrl}
-                                    person={person}
-                                    index={i}
-                                    isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
-                                    isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
-                                    isAnswered={isAnswered}
-                                    onSelect={() => handleAnswerSelect(person)}
-                                />
-                            ))}
-                        </div>
+                            <h2>{currentQuestion.correct.name}</h2>
+                            <div className="imgs">
+                                {currentQuestion.options.map((person, i) => (
+                                    <ImageOption
+                                        key={person.wikidataUrl}
+                                        person={person}
+                                        index={i}
+                                        isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
+                                        isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
+                                        isAnswered={isAnswered}
+                                        onSelect={() => handleAnswerSelect(person)}
+                                    />
+                                ))}
+                            </div>
 
-                        {isAnswered && (
-                            <div className="feedback-popup feedback-popup-name-mode">
-                                <div className="feedback-content">
-                                    {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                        <div className="feedback-correct">
-                                            <Check size={32} />
-                                            <h3>Correct!</h3>
-                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                            <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
-                                        </div>
-                                    ) : (
-                                        <div className="feedback-wrong">
-                                            <X size={32} />
-                                            <h3>Incorrect</h3>
-                                            <div className="feedback-wrong-answer">
-                                                <span className="label">You selected:</span>
-                                                <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                            {isAnswered && (
+                                <div className="feedback-popup feedback-popup-name-mode">
+                                    <div className="feedback-content">
+                                        {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
+                                            <div className="feedback-correct">
+                                                <Check size={32} />
+                                                <h3>Correct!</h3>
+                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
                                             </div>
-                                            <div className="feedback-correct-answer">
-                                                <span className="label">Correct answer:</span>
-                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
-                                            </div>
-                                            <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
-                                        </div>
-                                    )}
-                                    <div className="feedback-details">
-                                        {currentQuestion.correct.occupation && (
-                                            <div className="detail-item">
-                                                <strong>{currentQuestion.correct.occupation}</strong>
+                                        ) : (
+                                            <div className="feedback-wrong">
+                                                <X size={32} />
+                                                <h3>Incorrect</h3>
+                                                <div className="feedback-wrong-answer">
+                                                    <span className="label">You selected:</span>
+                                                    <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                                </div>
+                                                <div className="feedback-correct-answer">
+                                                    <span className="label">Correct answer:</span>
+                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                </div>
+                                                <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
                                             </div>
                                         )}
-                                        {currentQuestion.correct.description && (
-                                            <div className="detail-item desc">{currentQuestion.correct.description}</div>
-                                        )}
-                                        {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                                            <div className="detail-item">
-                                                {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
-                                            </div>
-                                        )}
-                                        <div className="country-flag-large">
-                                            {countryData?.flag && (
-                                                <img
-                                                    src={countryData.flag}
-                                                    alt=""
-                                                    className="flag-large"
-                                                    loading="lazy"
-                                                    decoding="async"
-                                                />
+                                        <div className="feedback-details">
+                                            {currentQuestion.correct.occupation && (
+                                                <div className="detail-item">
+                                                    <strong>{currentQuestion.correct.occupation}</strong>
+                                                </div>
                                             )}
-                                            <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                            {currentQuestion.correct.description && (
+                                                <div className="detail-item desc">{currentQuestion.correct.description}</div>
+                                            )}
+                                            {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                                <div className="detail-item">
+                                                    {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
+                                                </div>
+                                            )}
+                                            <div className="country-flag-large">
+                                                {countryData?.flag && (
+                                                    <img
+                                                        src={countryData.flag}
+                                                        alt=""
+                                                        className="flag-large"
+                                                        loading="lazy"
+                                                        decoding="async"
+                                                    />
+                                                )}
+                                                <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        )}
+                            )}
                         </div>
                     )
                 )}

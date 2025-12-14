@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { PanelLeft, Filter } from 'lucide-react';
+import { Filter } from 'lucide-react';
 import './Gallery.css';
 
 function Gallery({ allPeopleData, onNavigateToQuiz }) {
@@ -37,7 +37,7 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     // Filter and shuffle people based on selected country
     useEffect(() => {
         if (allPeople.length === 0) return;
-        
+
         let filtered;
         if (selectedCountry === 'all') {
             filtered = [...allPeople];
@@ -47,14 +47,14 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                 return p.country && p.country.trim() === selectedCountry.trim();
             });
         }
-        
+
         // Properly shuffle array using Fisher-Yates
         const shuffled = shuffleArray(filtered);
         setShuffledPeople(shuffled);
-        
+
         // Reset loaded count when filter changes
         setLoadedCount(30);
-        
+
         // Take first 30 (3 rows × 10 people) or all if less than 30
         setDisplayedPeople(shuffled.slice(0, Math.min(30, shuffled.length)));
     }, [selectedCountry, allPeople]);
@@ -62,7 +62,7 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     // Load more people
     const handleLoadMore = () => {
         if (shuffledPeople.length === 0) return;
-        
+
         const newCount = loadedCount + 30;
         setLoadedCount(newCount);
         setDisplayedPeople(shuffledPeople.slice(0, newCount));
@@ -74,6 +74,17 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
         [...new Set(allPeople.map(p => p.country))].sort(),
         [allPeople]
     );
+
+    // Close sidebar on Escape key
+    useEffect(() => {
+        const handleEscape = (e) => {
+            if (e.key === 'Escape' && showCountryFilter) {
+                setShowCountryFilter(false);
+            }
+        };
+        window.addEventListener('keydown', handleEscape);
+        return () => window.removeEventListener('keydown', handleEscape);
+    }, [showCountryFilter]);
 
     const getShortBio = (person) => {
         const parts = [];
@@ -92,8 +103,8 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                     <h1>Famous Nationals</h1>
                 </button>
                 <div className="gallery-controls">
-                    <button 
-                        onClick={() => setShowCountryFilter(!showCountryFilter)} 
+                    <button
+                        onClick={() => setShowCountryFilter(!showCountryFilter)}
                         className="filter-button"
                     >
                         <Filter size={16} />
@@ -102,23 +113,30 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                 </div>
             </header>
 
+            {/* Backdrop overlay */}
+            <div
+                className={`sidebar-backdrop ${showCountryFilter ? 'open' : ''}`}
+                onClick={() => setShowCountryFilter(false)}
+                aria-hidden="true"
+            />
+
             {/* Sidebar */}
             <aside className={`sidebar ${showCountryFilter ? 'open' : ''}`}>
                 <div className="sidebar-header">
                     <h3>Filter by Country</h3>
-                    <button onClick={() => setShowCountryFilter(false)} className="sidebar-close">×</button>
+                    <button onClick={() => setShowCountryFilter(false)} className="sidebar-close" aria-label="Close sidebar">×</button>
                 </div>
                 <div className="sidebar-content">
-                    <button 
-                        className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`} 
+                    <button
+                        className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`}
                         onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}
                     >
                         All ({allPeople.length})
                     </button>
                     {countries.map(c => (
-                        <button 
-                            key={c} 
-                            className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`} 
+                        <button
+                            key={c}
+                            className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`}
                             onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}
                         >
                             {c}
@@ -152,7 +170,7 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                         </div>
                     ))}
                 </div>
-                
+
                 {hasMore && (
                     <div className="gallery-load-more">
                         <button className="load-more-button" onClick={handleLoadMore}>

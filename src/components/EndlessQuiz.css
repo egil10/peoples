@@ -10,6 +10,11 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+    overscroll-behavior: none;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 .quiz-container {
@@ -66,15 +71,11 @@ body {
     background: #FFF;
     position: sticky;
     top: 0;
-    z-index: 10;
+    z-index: 100;
     contain: layout style;
-    transition: transform 0.3s ease;
+    transition: none;
     gap: 16px;
     min-height: 56px;
-}
-
-.header.sidebar-open {
-    transform: translateX(-280px);
 }
 
 .logo-button {
@@ -110,13 +111,15 @@ body {
     margin: 0;
     background: none !important;
     background-color: transparent !important;
+    transition: opacity 0.15s ease;
 }
 
-.logo-button h1:hover,
-.logo-button h1:active,
-.logo-button h1:focus {
-    background: none !important;
-    background-color: transparent !important;
+.logo-button:hover h1 {
+    opacity: 0.7;
+}
+
+.logo-button:active h1 {
+    opacity: 0.5;
 }
 
 .stats {
@@ -170,16 +173,20 @@ body {
     cursor: pointer;
     color: #666;
     outline: none;
+    transition: all 0.15s ease;
 }
 
 .gallery-button:hover,
 .stats-button:hover {
-    color: #E8E8E8;
+    background: #F5F5F5;
+    color: #000;
 }
 
 .gallery-button:active,
 .stats-button:active {
-    color: #E8E8E8;
+    background: #E8E8E8;
+    color: #000;
+    transform: scale(0.95);
 }
 
 .gallery-button svg,
@@ -313,14 +320,18 @@ body {
     color: #666;
     border-radius: 4px;
     outline: none;
+    transition: all 0.15s ease;
 }
 
 .controls button:hover {
-    color: #E8E8E8;
+    background: #F5F5F5;
+    color: #000;
 }
 
 .controls button:active {
-    color: #E8E8E8;
+    background: #E8E8E8;
+    color: #000;
+    transform: scale(0.95);
 }
 
 .controls button svg {
@@ -332,26 +343,46 @@ body {
     border: none;
 }
 
-/* Sidebar */
+/* Sidebar - Slides under header */
 .sidebar {
     position: fixed;
-    top: 0;
+    top: 56px;
     right: 0;
     bottom: 0;
     width: 280px;
     background: #FFF;
     box-shadow: -2px 0 12px rgba(0, 0, 0, 0.1);
-    z-index: 999;
+    z-index: 90;
     display: flex;
     flex-direction: column;
     transform: translateX(100%);
-    transition: transform 0.3s ease;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     contain: layout style paint;
     border-left: 1px solid #F0F0F0;
+    overflow: hidden;
 }
 
 .sidebar.open {
     transform: translateX(0);
+}
+
+/* Backdrop overlay when sidebar is open */
+.sidebar-backdrop {
+    position: fixed;
+    top: 56px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);
+    z-index: 80;
+    pointer-events: none;
+    transition: background 0.35s ease;
+}
+
+.sidebar-backdrop.open {
+    background: rgba(0, 0, 0, 0.15);
+    pointer-events: auto;
+    cursor: pointer;
 }
 
 .sidebar-header {
@@ -375,18 +406,56 @@ body {
     color: #666;
     cursor: pointer;
     padding: 0;
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+    transition: all 0.15s ease;
+    outline: none;
+}
+
+.sidebar-close:hover {
+    background: #F5F5F5;
+    color: #000;
+}
+
+.sidebar-close:active {
+    background: #E8E8E8;
+    transform: scale(0.9);
+}
+
+.sidebar-close:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: 2px;
 }
 
 .sidebar-content {
     flex: 1;
     overflow-y: auto;
+    overflow-x: hidden;
     padding: 8px;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Custom scrollbar for sidebar */
+.sidebar-content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.sidebar-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb {
+    background: #E0E0E0;
+    border-radius: 4px;
+}
+
+.sidebar-content::-webkit-scrollbar-thumb:hover {
+    background: #BDBDBD;
 }
 
 .sidebar-item {
@@ -400,11 +469,33 @@ body {
     color: #000;
     border-radius: 6px;
     margin-bottom: 4px;
+    transition: all 0.15s ease;
+    outline: none;
+}
+
+.sidebar-item:hover:not(.active) {
+    background: #F5F5F5;
+}
+
+.sidebar-item:active:not(.active) {
+    background: #E8E8E8;
+    transform: scale(0.98);
 }
 
 .sidebar-item.active {
     background: #000;
     color: #FFF;
+}
+
+/* Focus styles for keyboard navigation */
+.sidebar-item:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: -2px;
+}
+
+.sidebar-item.active:focus-visible {
+    outline: 2px solid #FFF;
+    outline-offset: -2px;
 }
 
 /* CONTENT */
@@ -417,12 +508,13 @@ body {
     justify-content: center;
     padding: 40px 24px;
     contain: layout style;
-    transition: transform 0.3s ease;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.35s ease;
     min-width: 0;
 }
 
 .content.sidebar-open {
-    transform: translateX(-280px);
+    transform: translateX(-30px);
+    opacity: 0.7;
 }
 
 /* IMAGE → NAME */
@@ -476,6 +568,22 @@ body {
     color: #000;
     border-radius: 6px;
     contain: layout style paint;
+    transition: all 0.15s ease;
+}
+
+.opt:hover:not(.correct):not(.wrong):not(.dim) {
+    background: #F9F9F9;
+    border-color: #BDBDBD;
+    transform: translateX(4px);
+}
+
+.opt:active:not(.correct):not(.wrong):not(.dim) {
+    transform: translateX(2px);
+}
+
+.opt:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: 2px;
 }
 
 .opt.correct {
@@ -570,6 +678,23 @@ body {
     padding: 0;
     border-radius: 8px;
     contain: layout style paint;
+    transition: all 0.2s ease;
+}
+
+.img-opt:hover:not(.correct):not(.wrong):not(.dim) {
+    border-color: #BDBDBD;
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.img-opt:active:not(.correct):not(.wrong):not(.dim) {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.img-opt:focus-visible {
+    outline: 2px solid #000;
+    outline-offset: 2px;
 }
 
 .img-opt.correct {
@@ -600,9 +725,12 @@ body {
 }
 
 @keyframes pulse {
-    0%, 100% {
+
+    0%,
+    100% {
         opacity: 1;
     }
+
     50% {
         opacity: 0.6;
     }
@@ -677,6 +805,7 @@ body {
         transform: translateX(100%);
         opacity: 0;
     }
+
     to {
         transform: translateX(0);
         opacity: 1;
@@ -918,14 +1047,12 @@ body {
 
     .sidebar {
         width: 260px;
+        top: 56px;
     }
 
     .content.sidebar-open {
-        transform: translateX(-260px);
-    }
-
-    .header.sidebar-open {
-        transform: translateX(-260px);
+        transform: translateX(-20px);
+        opacity: 0.7;
     }
 }
 
