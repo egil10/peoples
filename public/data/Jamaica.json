@@ -1,0 +1,118 @@
+{
+  "country": "Jamaica",
+  "countryCode": "Q766",
+  "generated": "2025-12-14T01:58:17.544Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Bob Marley",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Marley%201976%20press%20photo.jpg",
+      "sitelinks": 162,
+      "birthYear": "1945",
+      "deathYear": "1981",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q409",
+      "answerKey": "bob marley"
+    },
+    {
+      "id": 2,
+      "name": "Usain Bolt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Usain%20Bolt%20Rio%20100m%20final%202016k.jpg",
+      "sitelinks": 136,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1189",
+      "answerKey": "usain bolt"
+    },
+    {
+      "id": 3,
+      "name": "Harry Belafonte",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Belafonte%202011%20Shankbone.JPG",
+      "sitelinks": 73,
+      "birthYear": "1927",
+      "deathYear": "2023",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214959",
+      "answerKey": "harry belafonte"
+    },
+    {
+      "id": 4,
+      "name": "Marcus Garvey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Garvey%201924-08-05.jpg",
+      "sitelinks": 65,
+      "birthYear": "1887",
+      "deathYear": "1940",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272504",
+      "answerKey": "marcus garvey"
+    },
+    {
+      "id": 5,
+      "name": "Shelly-Ann Fraser-Pryce",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shelly%20Fraser%20Oregon%2022.jpg",
+      "sitelinks": 60,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5793",
+      "answerKey": "shellyann fraserpryce"
+    },
+    {
+      "id": 6,
+      "name": "Sean Paul",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Paul%202024%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200577",
+      "answerKey": "sean paul"
+    },
+    {
+      "id": 7,
+      "name": "Asafa Powell",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asafa%20Powell%20com%20medalha%20de%20ouro%20no%204%20x%20100%20metros%201039105-19.08.2016%20frz-120%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182747",
+      "answerKey": "asafa powell"
+    },
+    {
+      "id": 8,
+      "name": "Grace Jones",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grace%20Jones%20at%20Carriageworks%20%28Vivid%29%20-%201st%20June%202015%2008.jpg",
+      "sitelinks": 51,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450429",
+      "answerKey": "grace jones"
+    },
+    {
+      "id": 9,
+      "name": "Yohan Blake",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/London%202012%20Yohan%20Blake.jpg",
+      "sitelinks": 49,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1651",
+      "answerKey": "yohan blake"
+    },
+    {
+      "id": 10,
+      "name": "Elaine Thompson-Herah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaine%20Thompson%20Beijing%202015.jpg",
+      "sitelinks": 48,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20035636",
+      "answerKey": "elaine thompsonherah"
+    }
+  ]
+}

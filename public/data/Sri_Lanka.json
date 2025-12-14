@@ -1,0 +1,118 @@
+{
+  "country": "Sri Lanka",
+  "countryCode": "Q854",
+  "generated": "2025-12-14T01:56:45.599Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Sirimavo Bandaranaike",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Bandaranaike%20w%20Polsce%20%28Sirimavo%20cropped%20close%29.jpg",
+      "sitelinks": 85,
+      "birthYear": "1916",
+      "deathYear": "2000",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194291",
+      "answerKey": "sirimavo bandaranaike"
+    },
+    {
+      "id": 2,
+      "name": "Mahinda Rajapaksa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahinda%20Rajapaksa%201.jpg",
+      "sitelinks": 72,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57338",
+      "answerKey": "mahinda rajapaksa"
+    },
+    {
+      "id": 3,
+      "name": "Chandrika Kumaratunga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chandrika%20Kumaratunga.jpg",
+      "sitelinks": 66,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207432",
+      "answerKey": "chandrika kumaratunga"
+    },
+    {
+      "id": 4,
+      "name": "Maithripala Sirisena",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maithripala%20Sirisena%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6737124",
+      "answerKey": "maithripala sirisena"
+    },
+    {
+      "id": 5,
+      "name": "Ranil Wickremesinghe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20the%20Democratic%20Socialist%20Republic%20of%20Sri%20Lanka%2C%20Mr.%20Ranil%20Wickremesinghe%2C%20at%20Hyderabad%20House%2C%20in%20New%20Delhi%20on%20November%2023%2C%202017.jpg",
+      "sitelinks": 55,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983402",
+      "answerKey": "ranil wickremesinghe"
+    },
+    {
+      "id": 6,
+      "name": "M.I.A.",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MIA%20press%20photo%202016.png",
+      "sitelinks": 54,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204019",
+      "answerKey": "mia"
+    },
+    {
+      "id": 7,
+      "name": "Jacqueline Fernandez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacqueline%20MTV%20SFL.jpg",
+      "sitelinks": 53,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2312801",
+      "answerKey": "jacqueline fernandez"
+    },
+    {
+      "id": 8,
+      "name": "Gotabaya Rajapaksa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gotabaya%20Rajapaksa%20November%202019%20crop.jpg",
+      "sitelinks": 51,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1538702",
+      "answerKey": "gotabaya rajapaksa"
+    },
+    {
+      "id": 9,
+      "name": "Velupillai Prabhakaran",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prabhakaran%202%20by%20Rajasekharan%202019.jpg",
+      "sitelinks": 49,
+      "birthYear": "1954",
+      "deathYear": "2009",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204016",
+      "answerKey": "velupillai prabhakaran"
+    },
+    {
+      "id": 10,
+      "name": "Anura Kumara Dissanayake",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20of%20External%20Affairs%2C%20Govt.%20of%20Bharat%2C%20Dr.%20Subrahmanyam%20Jaishankar%20with%20the%20President%20of%20Sri%20Lanka%20Mr.%20Anura%20Kumara%20Dissanayake%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "president",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4777855",
+      "answerKey": "anura kumara dissanayake"
+    }
+  ]
+}

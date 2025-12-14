@@ -1,0 +1,118 @@
+{
+  "country": "Portugal",
+  "countryCode": "Q45",
+  "generated": "2025-12-14T01:53:33.493Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristiano%20Ronaldo%202275%20%28cropped%29.jpg",
+      "sitelinks": 206,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11571",
+      "answerKey": "cristiano ronaldo"
+    },
+    {
+      "id": 2,
+      "name": "José Saramago",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JSJoseSaramago.jpg",
+      "sitelinks": 135,
+      "birthYear": "1922",
+      "deathYear": "2010",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37060",
+      "answerKey": "jose saramago"
+    },
+    {
+      "id": 3,
+      "name": "António Guterres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Guterres%2C%2023.03.23.jpg",
+      "sitelinks": 127,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311440",
+      "answerKey": "antonio guterres"
+    },
+    {
+      "id": 4,
+      "name": "António Guterres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20Guterres%20United%20Nations%20Secretary-General%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 127,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311440",
+      "answerKey": "antonio guterres"
+    },
+    {
+      "id": 5,
+      "name": "José Mourinho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mourinho%2020250206%20%281%29.jpg",
+      "sitelinks": 106,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q79983",
+      "answerKey": "jose mourinho"
+    },
+    {
+      "id": 6,
+      "name": "Fernando Pessoa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/216%202310-Fernando-Pessoa.jpg",
+      "sitelinks": 105,
+      "birthYear": "1888",
+      "deathYear": "1935",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173481",
+      "answerKey": "fernando pessoa"
+    },
+    {
+      "id": 7,
+      "name": "Eusébio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eusebio%20en%201973.jpg",
+      "sitelinks": 95,
+      "birthYear": "1942",
+      "deathYear": "2014",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q162043",
+      "answerKey": "eusebio"
+    },
+    {
+      "id": 8,
+      "name": "António de Oliveira Salazar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ant%C3%B3nio%20de%20Oliveira%20Salazar%20portrait%20%28by%20Manuel%20Alves%20San%20Payo%29%20%E2%80%93%20Lisboa.jpg",
+      "sitelinks": 93,
+      "birthYear": "1889",
+      "deathYear": "1970",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151394",
+      "answerKey": "antonio de oliveira salazar"
+    },
+    {
+      "id": 9,
+      "name": "Nelly Furtado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelly%20Furtado%20at%20Radio%20Regenbogen%20Award%202017%20%286%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80424",
+      "answerKey": "nelly furtado"
+    },
+    {
+      "id": 10,
+      "name": "José Manuel Durão Barroso",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Manuel%20Barroso%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15849",
+      "answerKey": "jose manuel durao barroso"
+    }
+  ]
+}

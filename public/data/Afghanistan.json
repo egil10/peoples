@@ -1,0 +1,118 @@
+{
+  "country": "Afghanistan",
+  "countryCode": "Q889",
+  "generated": "2025-12-14T01:56:39.100Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Hamid Karzai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamid%20Karzai%20listens%20to%20Barack%20Obama%20in%20Kabul%202012%20%28cropped%29.jpg",
+      "sitelinks": 107,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43944",
+      "answerKey": "hamid karzai"
+    },
+    {
+      "id": 2,
+      "name": "Mohammed Zahir Shah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Zahir%20Shah%20of%20Afghanistan%20in%201963.jpg",
+      "sitelinks": 70,
+      "birthYear": "1914",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152265",
+      "answerKey": "mohammed zahir shah"
+    },
+    {
+      "id": 3,
+      "name": "Mohammed Zahir Shah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Mohammad%20Zahir%20Shah.jpg",
+      "sitelinks": 70,
+      "birthYear": "1914",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152265",
+      "answerKey": "mohammed zahir shah"
+    },
+    {
+      "id": 4,
+      "name": "Mohammad Najibullah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Najibullah%201986.jpg",
+      "sitelinks": 63,
+      "birthYear": "1947",
+      "deathYear": "1996",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207728",
+      "answerKey": "mohammad najibullah"
+    },
+    {
+      "id": 5,
+      "name": "Burhanuddin Rabbani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burhanuddin%20Rabbani%20Cropped%20DVIDS.jpg",
+      "sitelinks": 60,
+      "birthYear": "1940",
+      "deathYear": "2011",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188667",
+      "answerKey": "burhanuddin rabbani"
+    },
+    {
+      "id": 6,
+      "name": "Jamal al-Din al-Afghani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20afghani.jpg",
+      "sitelinks": 57,
+      "birthYear": "1839",
+      "deathYear": "1897",
+      "occupation": "theologian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298434",
+      "answerKey": "jamal aldin alafghani"
+    },
+    {
+      "id": 7,
+      "name": "Jamal al-Din al-Afghani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20afghani.jpg",
+      "sitelinks": 57,
+      "birthYear": "1838",
+      "deathYear": "1897",
+      "occupation": "theologian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298434",
+      "answerKey": "jamal aldin alafghani"
+    },
+    {
+      "id": 8,
+      "name": "Nur Muhammad Taraki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nur%20Muhammad%20Taraki.jpg",
+      "sitelinks": 55,
+      "birthYear": "1917",
+      "deathYear": "1979",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299559",
+      "answerKey": "nur muhammad taraki"
+    },
+    {
+      "id": 9,
+      "name": "Amanullah Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Amanullah%20Khan.jpg",
+      "sitelinks": 54,
+      "birthYear": "1892",
+      "deathYear": "1960",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153620",
+      "answerKey": "amanullah khan"
+    },
+    {
+      "id": 10,
+      "name": "Abdul Ghani Baradar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Ghani%20Baradar.jpg",
+      "sitelinks": 53,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317219",
+      "answerKey": "abdul ghani baradar"
+    }
+  ]
+}

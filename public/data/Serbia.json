@@ -1,0 +1,118 @@
+{
+  "country": "Serbia",
+  "countryCode": "Q403",
+  "generated": "2025-12-14T01:55:07.786Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Novak Djokovic",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novak%20Djokovic%20Paris%202024%20Olympic%20Games%20%28cropped%29.jpg",
+      "sitelinks": 152,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5812",
+      "answerKey": "novak djokovic"
+    },
+    {
+      "id": 2,
+      "name": "Steven Seagal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Seagal%20at%20Russia%20Expo.jpg",
+      "sitelinks": 127,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82110",
+      "answerKey": "steven seagal"
+    },
+    {
+      "id": 3,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 4,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 5,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 6,
+      "name": "Aleksandar Vučić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandar%20Vu%C4%8Di%C4%87%202024%20%28cropped%29.jpg",
+      "sitelinks": 90,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q222031",
+      "answerKey": "aleksandar vucic"
+    },
+    {
+      "id": 7,
+      "name": "Yingluck Shinawatra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/THAI%20PRIME%20MINISTER%20YINGLUCK%20SHINAWATRA%20in%202013%20%28cropped%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57670",
+      "answerKey": "yingluck shinawatra"
+    },
+    {
+      "id": 8,
+      "name": "Emir Kusturica",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kusturica%202024.jpg",
+      "sitelinks": 80,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q94882",
+      "answerKey": "emir kusturica"
+    },
+    {
+      "id": 9,
+      "name": "Ralph Fiennes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20Fiennes%20from%20%22The%20White%20Crow%22%20at%20Opening%20Ceremony%20of%20the%20Tokyo%20International%20Film%20Festival%202018%20%2831747095048%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28493",
+      "answerKey": "ralph fiennes"
+    },
+    {
+      "id": 10,
+      "name": "Boris Tadić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Tadi%C4%87%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483290",
+      "answerKey": "boris tadic"
+    }
+  ]
+}

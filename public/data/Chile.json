@@ -1,0 +1,118 @@
+{
+  "country": "Chile",
+  "countryCode": "Q298",
+  "generated": "2025-12-14T01:50:04.858Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Pablo Neruda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Neruda%201963.jpg",
+      "sitelinks": 164,
+      "birthYear": "1904",
+      "deathYear": "1973",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34189",
+      "answerKey": "pablo neruda"
+    },
+    {
+      "id": 2,
+      "name": "Salvador Allende",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salvador%20Allende%2C%20President%20of%20Chile%2C%20gtfy.00154.jpg",
+      "sitelinks": 124,
+      "birthYear": "1908",
+      "deathYear": "1973",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q440",
+      "answerKey": "salvador allende"
+    },
+    {
+      "id": 3,
+      "name": "Gabriela Mistral",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriela%20Mistral%201945.jpg",
+      "sitelinks": 121,
+      "birthYear": "1889",
+      "deathYear": "1957",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80871",
+      "answerKey": "gabriela mistral"
+    },
+    {
+      "id": 4,
+      "name": "Augusto Pinochet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augusto%20Pinochet%20foto%20oficial%20%28cropped%29%282%29.jpg",
+      "sitelinks": 120,
+      "birthYear": "1915",
+      "deathYear": "2006",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q368",
+      "answerKey": "augusto pinochet"
+    },
+    {
+      "id": 5,
+      "name": "Michelle Bachelet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelle%20Bachelet%2C%202020%201.1%20%28cropped%29.jpg",
+      "sitelinks": 118,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q320",
+      "answerKey": "michelle bachelet"
+    },
+    {
+      "id": 6,
+      "name": "Isabel Allende",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabel%20Allende%20Frankfurter%20Buchmesse%202015%20%28cropped%29.JPG",
+      "sitelinks": 96,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83566",
+      "answerKey": "isabel allende"
+    },
+    {
+      "id": 7,
+      "name": "Sebastián Piñera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20Oficial%20Presidente%20Pi%C3%B1era%202018.jpg",
+      "sitelinks": 95,
+      "birthYear": "1949",
+      "deathYear": "2024",
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q306",
+      "answerKey": "sebastian pinera"
+    },
+    {
+      "id": 8,
+      "name": "Gabriel Boric",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20Oficial%20Presidente%20Boric%20Font.jpg",
+      "sitelinks": 81,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16297876",
+      "answerKey": "gabriel boric"
+    },
+    {
+      "id": 9,
+      "name": "Arturo Vidal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20VS.%20Australia%20%2813%29%202017-6-25%20Arturo%20Vidal.jpg",
+      "sitelinks": 74,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192671",
+      "answerKey": "arturo vidal"
+    },
+    {
+      "id": 10,
+      "name": "Alexis Sánchez Chileno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20Sanchez%20Cobreloa20171.png",
+      "sitelinks": 73,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180553",
+      "answerKey": "alexis sanchez chileno"
+    }
+  ]
+}

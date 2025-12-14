@@ -1,0 +1,118 @@
+{
+  "country": "Malaysia",
+  "countryCode": "Q833",
+  "generated": "2025-12-14T01:55:17.056Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mahathir Mohamad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahathir%20Mohamad%2013112018%20%28cropped%29.jpg",
+      "sitelinks": 162,
+      "birthYear": "1925",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181383",
+      "answerKey": "mahathir mohamad"
+    },
+    {
+      "id": 2,
+      "name": "Siti Nurhaliza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siti%20Nurhaliza%20at%20Siti%20Nurhaliza%27s%2030th%20Anniversary%20Event%2006.jpg",
+      "sitelinks": 78,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2725555",
+      "answerKey": "siti nurhaliza"
+    },
+    {
+      "id": 3,
+      "name": "Najib Razak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Najib%20Razak%202008-08-21.jpg",
+      "sitelinks": 77,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57675",
+      "answerKey": "najib razak"
+    },
+    {
+      "id": 4,
+      "name": "Michelle Yeoh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michelle%20Yeoh%20at%20EC%20%282023%29%202.jpg",
+      "sitelinks": 73,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214289",
+      "answerKey": "michelle yeoh"
+    },
+    {
+      "id": 5,
+      "name": "Anwar Ibrahim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20of%20Malaysia%20Anwar%20Ibrahim%20meeting%20with%20PM%20of%20Japan%20Fumio%20Kishida%20%282024%29%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299574",
+      "answerKey": "anwar ibrahim"
+    },
+    {
+      "id": 6,
+      "name": "Tunku Abdul Rahman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tunku%20abd%20rahman.jpg",
+      "sitelinks": 61,
+      "birthYear": "1903",
+      "deathYear": "1990",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296317",
+      "answerKey": "tunku abdul rahman"
+    },
+    {
+      "id": 7,
+      "name": "P. Ramlee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/P%20Ramlee%20Dunia%20Film%2015%20May%201954%20p20.jpg",
+      "sitelinks": 60,
+      "birthYear": "1929",
+      "deathYear": "1973",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3058202",
+      "answerKey": "p ramlee"
+    },
+    {
+      "id": 8,
+      "name": "Abdullah Ahmad Badawi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20Ahmad%20Badawi%20at%20the%20XIVth%20Non-Aligned%20Movement%20Summit%20at%20Havana%2C%20Cuba%20on%20September%2016%2C%202006.jpg",
+      "sitelinks": 57,
+      "birthYear": "1939",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272588",
+      "answerKey": "abdullah ahmad badawi"
+    },
+    {
+      "id": 9,
+      "name": "James Wan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Wan%20by%20Gage%20Skidmore%202.jpg",
+      "sitelinks": 57,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q108047434",
+      "answerKey": "james wan"
+    },
+    {
+      "id": 10,
+      "name": "Abdullah of Pahang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Abdullah%20of%20Pahang%20at%20the%20Enthronement%20of%20Naruhito%20%281%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15467111",
+      "answerKey": "abdullah of pahang"
+    }
+  ]
+}

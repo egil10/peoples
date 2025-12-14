@@ -1,0 +1,118 @@
+{
+  "country": "Lithuania",
+  "countryCode": "Q37",
+  "generated": "2025-12-14T01:51:56.767Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Emma Goldman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Goldman%20seated.jpg",
+      "sitelinks": 123,
+      "birthYear": "1869",
+      "deathYear": "1940",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q79969",
+      "answerKey": "emma goldman"
+    },
+    {
+      "id": 2,
+      "name": "Czesław Miłosz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Czeslaw%20Milosz%203%20ap.tif",
+      "sitelinks": 122,
+      "birthYear": "1911",
+      "deathYear": "2004",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45970",
+      "answerKey": "czesaw miosz"
+    },
+    {
+      "id": 3,
+      "name": "Dalia Grybauskaitė",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dalia%20Grybauskait%C4%97%2C%20Member%20of%20the%20EC.jpg",
+      "sitelinks": 86,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57379",
+      "answerKey": "dalia grybauskaite"
+    },
+    {
+      "id": 4,
+      "name": "Ingrida Šimonytė",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingrida%20Simonyte%202019.jpg",
+      "sitelinks": 72,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q437096",
+      "answerKey": "ingrida simonyte"
+    },
+    {
+      "id": 5,
+      "name": "Gitanas Nausėda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gitanas%20Naus%C4%97da%2C%202025.06.26%20%28cropped%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9268379",
+      "answerKey": "gitanas nauseda"
+    },
+    {
+      "id": 6,
+      "name": "Maya Plisetskaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maya%20Plisetskaya%20%282009-04-21%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1925",
+      "deathYear": "2015",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q460756",
+      "answerKey": "maya plisetskaya"
+    },
+    {
+      "id": 7,
+      "name": "Valdas Adamkus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdas%20Adamkus%20portretas.jpg",
+      "sitelinks": 65,
+      "birthYear": "1926",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153167",
+      "answerKey": "valdas adamkus"
+    },
+    {
+      "id": 8,
+      "name": "Emmanuel Levinas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emmanuel%20Levinas.jpg",
+      "sitelinks": 60,
+      "birthYear": "1906",
+      "deathYear": "1995",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153034",
+      "answerKey": "emmanuel levinas"
+    },
+    {
+      "id": 9,
+      "name": "Marija Gimbutas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prof-Dr-Marija-Gimbutas-Copyright-Foto-Monica-Boirar-aka-Monica-Beurer.jpg",
+      "sitelinks": 60,
+      "birthYear": "1921",
+      "deathYear": "1994",
+      "occupation": "historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q221084",
+      "answerKey": "marija gimbutas"
+    },
+    {
+      "id": 10,
+      "name": "Antanas Smetona",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antanas%20Smetona%202.jpg",
+      "sitelinks": 54,
+      "birthYear": "1874",
+      "deathYear": "1944",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296950",
+      "answerKey": "antanas smetona"
+    }
+  ]
+}

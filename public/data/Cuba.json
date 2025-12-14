@@ -1,0 +1,118 @@
+{
+  "country": "Cuba",
+  "countryCode": "Q241",
+  "generated": "2025-12-14T01:58:24.126Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Che Guevara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara%20-%20Guerrillero%20Heroico%20by%20Alberto%20Korda.jpg",
+      "sitelinks": 223,
+      "birthYear": "1928",
+      "deathYear": "1967",
+      "occupation": "partisan",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5809",
+      "answerKey": "che guevara"
+    },
+    {
+      "id": 2,
+      "name": "Fidel Castro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Castro%20%28c.%201959%29%20%283x4%20cropped%29.jpg",
+      "sitelinks": 203,
+      "birthYear": "1926",
+      "deathYear": "2016",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11256",
+      "answerKey": "fidel castro"
+    },
+    {
+      "id": 3,
+      "name": "Raúl Castro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ra%C3%BAl%20Castro%20Ruz%20en%20M%C3%A9xico%2C%202015%20%28cropped%29.jpg",
+      "sitelinks": 113,
+      "birthYear": "1931",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46809",
+      "answerKey": "raul castro"
+    },
+    {
+      "id": 4,
+      "name": "José Raúl Capablanca",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CAPABLANCA%2C%20JOSE%20R.%20CUBAN%20CHESS%20PLAYER%3B%20WORLD%20CHAMPION%20LCCN2016866175%20%28cropped%29.jpg",
+      "sitelinks": 90,
+      "birthYear": "1888",
+      "deathYear": "1942",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160702",
+      "answerKey": "jose raul capablanca"
+    },
+    {
+      "id": 5,
+      "name": "José Raúl Capablanca",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ra%C3%BAl%20Capablanca%201931.jpg",
+      "sitelinks": 90,
+      "birthYear": "1888",
+      "deathYear": "1942",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160702",
+      "answerKey": "jose raul capablanca"
+    },
+    {
+      "id": 6,
+      "name": "Fulgencio Batista",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fulgencio%20Batista%2C%201938.jpg",
+      "sitelinks": 88,
+      "birthYear": "1901",
+      "deathYear": "1973",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11270",
+      "answerKey": "fulgencio batista"
+    },
+    {
+      "id": 7,
+      "name": "Anaïs Nin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anais%20Nin.jpg",
+      "sitelinks": 87,
+      "birthYear": "1903",
+      "deathYear": "1977",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220018",
+      "answerKey": "anais nin"
+    },
+    {
+      "id": 8,
+      "name": "Miguel Díaz-Canel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Diaz-Canel%20on%20July%207%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 82,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1932603",
+      "answerKey": "miguel diazcanel"
+    },
+    {
+      "id": 9,
+      "name": "Camila Cabello",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camila%20Cabello%20Grammys%202017.png",
+      "sitelinks": 77,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18810940",
+      "answerKey": "camila cabello"
+    },
+    {
+      "id": 10,
+      "name": "Max Ernst",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Ernst%201968.jpg",
+      "sitelinks": 72,
+      "birthYear": "1891",
+      "deathYear": "1976",
+      "occupation": "photographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154842",
+      "answerKey": "max ernst"
+    }
+  ]
+}

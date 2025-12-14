@@ -1,0 +1,118 @@
+{
+  "country": "Croatia",
+  "countryCode": "Q224",
+  "generated": "2025-12-14T01:53:55.874Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Garry Kasparov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garry%20Kasparov%20European%20Union%202023%20%28cropped%29.jpg",
+      "sitelinks": 117,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28614",
+      "answerKey": "garry kasparov"
+    },
+    {
+      "id": 2,
+      "name": "Luka Modrić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Modric%20Interview%202021%20%28cropped%29.jpg",
+      "sitelinks": 110,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483837",
+      "answerKey": "luka modric"
+    },
+    {
+      "id": 3,
+      "name": "Kolinda Grabar-Kitarović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Kolinda%20Grabar-Kitarovic.jpg",
+      "sitelinks": 107,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3176299",
+      "answerKey": "kolinda grabarkitarovic"
+    },
+    {
+      "id": 4,
+      "name": "Rudolf Steiner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steiner%20um%201905.jpg",
+      "sitelinks": 84,
+      "birthYear": "1861",
+      "deathYear": "1925",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q78484",
+      "answerKey": "rudolf steiner"
+    },
+    {
+      "id": 5,
+      "name": "Ivan Rakitić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Rakiti%C4%87%202020%20%28cropped%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115453",
+      "answerKey": "ivan rakitic"
+    },
+    {
+      "id": 6,
+      "name": "Franjo Tuđman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Franjo%20Tudjman%201995.jpg",
+      "sitelinks": 76,
+      "birthYear": "1922",
+      "deathYear": "1999",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183703",
+      "answerKey": "franjo tuman"
+    },
+    {
+      "id": 7,
+      "name": "Mario Mandžukić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Mand%C5%BEuki%C4%87%20in%202018.jpg",
+      "sitelinks": 75,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187171",
+      "answerKey": "mario mandzukic"
+    },
+    {
+      "id": 8,
+      "name": "Lorde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lorde%20Glasto2025-9%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13476175",
+      "answerKey": "lorde"
+    },
+    {
+      "id": 9,
+      "name": "Stjepan Mesić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stjepan%20Mesi%C4%87%20%282004-02-25%29%20%28cropped%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146496",
+      "answerKey": "stjepan mesic"
+    },
+    {
+      "id": 10,
+      "name": "Zoran Milanović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Milanovi%C4%87%20at%20Palazzo%20del%20Quirinale%202021%20%2811%29%20%28cropped%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57687",
+      "answerKey": "zoran milanovic"
+    }
+  ]
+}

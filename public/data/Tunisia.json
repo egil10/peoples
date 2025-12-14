@@ -1,0 +1,118 @@
+{
+  "country": "Tunisia",
+  "countryCode": "Q948",
+  "generated": "2025-12-14T02:00:27.014Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Zine El Abidine Ben Ali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zine%20El%20Abidine%20Ben%20Ali.jpg",
+      "sitelinks": 86,
+      "birthYear": "1936",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204487",
+      "answerKey": "zine el abidine ben ali"
+    },
+    {
+      "id": 2,
+      "name": "Habib Bourguiba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20officiel%20de%20Habib%20Bourguiba.png",
+      "sitelinks": 77,
+      "birthYear": "1903",
+      "deathYear": "2000",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q643348",
+      "answerKey": "habib bourguiba"
+    },
+    {
+      "id": 3,
+      "name": "Sami Khedira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180602%20FIFA%20Friendly%20Match%20Austria%20vs.%20Germany%20Sami%20Khedira%20850%200707.jpg",
+      "sitelinks": 75,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54094",
+      "answerKey": "sami khedira"
+    },
+    {
+      "id": 4,
+      "name": "Beji Caid Essebsi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9ji%20Ca%C3%AFd%20Essebsi%202015-05-20.jpg",
+      "sitelinks": 69,
+      "birthYear": "1926",
+      "deathYear": "2019",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313539",
+      "answerKey": "beji caid essebsi"
+    },
+    {
+      "id": 5,
+      "name": "Moncef Marzouki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moncef%20Marzouki2.jpg",
+      "sitelinks": 55,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4715",
+      "answerKey": "moncef marzouki"
+    },
+    {
+      "id": 6,
+      "name": "Kais Saied",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kais%20Saied%202023.jpg",
+      "sitelinks": 53,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16120878",
+      "answerKey": "kais saied"
+    },
+    {
+      "id": 7,
+      "name": "Hatem Ben Arfa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hatem%20Ben%20Arfa%20Cannes%202016%202.jpg",
+      "sitelinks": 53,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1928",
+      "answerKey": "hatem ben arfa"
+    },
+    {
+      "id": 8,
+      "name": "Mohamed Ghannouchi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Ghannouchi.jpg",
+      "sitelinks": 49,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q431515",
+      "answerKey": "mohamed ghannouchi"
+    },
+    {
+      "id": 9,
+      "name": "Lassad Nouioui",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lassad%20Nouioui.jpg",
+      "sitelinks": 47,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q368345",
+      "answerKey": "lassad nouioui"
+    },
+    {
+      "id": 10,
+      "name": "Mohamed Bouazizi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/French%20support%20Bouazizi.jpg",
+      "sitelinks": 47,
+      "birthYear": "1984",
+      "deathYear": "2011",
+      "occupation": "street vendor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214088",
+      "answerKey": "mohamed bouazizi"
+    }
+  ]
+}

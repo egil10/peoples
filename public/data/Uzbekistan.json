@@ -1,0 +1,118 @@
+{
+  "country": "Uzbekistan",
+  "countryCode": "Q265",
+  "generated": "2025-12-14T01:56:52.903Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Islam Karimov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karimov%20Ufa.jpg",
+      "sitelinks": 95,
+      "birthYear": "1938",
+      "deathYear": "2016",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57558",
+      "answerKey": "islam karimov"
+    },
+    {
+      "id": 2,
+      "name": "Shavkat Mirziyoyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shavkat%20Mirziyoyev%20official%20portrait%20%28cropped%202%29.jpg",
+      "sitelinks": 95,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57808",
+      "answerKey": "shavkat mirziyoyev"
+    },
+    {
+      "id": 3,
+      "name": "Oleg Pashinin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oleg%20Pashinin%202021.jpg",
+      "sitelinks": 48,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181101",
+      "answerKey": "oleg pashinin"
+    },
+    {
+      "id": 4,
+      "name": "Rustam Kasimdzhanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rustam%20Kasimdzhanov%2008%2019%202007.jpg",
+      "sitelinks": 48,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q489015",
+      "answerKey": "rustam kasimdzhanov"
+    },
+    {
+      "id": 5,
+      "name": "Alina Kabaeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlinaKabaevaPortrait.jpg",
+      "sitelinks": 46,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q254220",
+      "answerKey": "alina kabaeva"
+    },
+    {
+      "id": 6,
+      "name": "Abdulla Aripov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdulla%20Aripov%20%282019-05-30%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28002959",
+      "answerKey": "abdulla aripov"
+    },
+    {
+      "id": 7,
+      "name": "Gulnara Karimova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulnora%20I.%20Karimova%20-%20World%20Economic%20Forum%20on%20the%20Middle%20East%202009%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q541680",
+      "answerKey": "gulnara karimova"
+    },
+    {
+      "id": 8,
+      "name": "Ravshan Irmatov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravshan%20Irmatov%202%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q488893",
+      "answerKey": "ravshan irmatov"
+    },
+    {
+      "id": 9,
+      "name": "Fozil Musaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fozil%20Musaev.jpg",
+      "sitelinks": 39,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5477400",
+      "answerKey": "fozil musaev"
+    },
+    {
+      "id": 10,
+      "name": "Timur Safin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20Safin%202014%20European%20Championships%20FMS-EQ%20t201018.jpg",
+      "sitelinks": 37,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "fencer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17388702",
+      "answerKey": "timur safin"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "country": "Montenegro",
+  "countryCode": "Q236",
+  "generated": "2025-12-14T01:54:55.376Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Thaksin Shinawatra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thaksin%20DOD%2020050915%20%28crop%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164373",
+      "answerKey": "thaksin shinawatra"
+    },
+    {
+      "id": 2,
+      "name": "Filip Vujanović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Filip%20Vujanovi%C4%87%20June%202015%20%28cropped%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57542",
+      "answerKey": "filip vujanovic"
+    },
+    {
+      "id": 3,
+      "name": "Milo Đukanović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milo%20%C4%90ukanovi%C4%87%20EP%202018%20%28cropped%29.jpg",
+      "sitelinks": 70,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200305",
+      "answerKey": "milo ukanovic"
+    },
+    {
+      "id": 4,
+      "name": "Sabiha Gökçen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sabiha%20gokcen2.jpg",
+      "sitelinks": 54,
+      "birthYear": "1913",
+      "deathYear": "2001",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q459104",
+      "answerKey": "sabiha gokcen"
+    },
+    {
+      "id": 5,
+      "name": "Milovan Đilas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milovan%20%C4%90ilas%20%281950%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1911",
+      "deathYear": "1995",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153909",
+      "answerKey": "milovan ilas"
+    },
+    {
+      "id": 6,
+      "name": "Stevan Jovetić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20vs.%20Montenegro%202014-05-26%20%28161%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q294541",
+      "answerKey": "stevan jovetic"
+    },
+    {
+      "id": 7,
+      "name": "Jakov Milatović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakov%20Milatovi%C4%87%20%282024-12-18%29%20%28cropped%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104417661",
+      "answerKey": "jakov milatovic"
+    },
+    {
+      "id": 8,
+      "name": "Dejan Savićević",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dejan%20Savi%C4%87evi%C4%87.jpg",
+      "sitelinks": 48,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q135625",
+      "answerKey": "dejan savicevic"
+    },
+    {
+      "id": 9,
+      "name": "Mirko Vučinić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirko%20Vucinic%202012%20MNE.jpg",
+      "sitelinks": 48,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192505",
+      "answerKey": "mirko vucinic"
+    },
+    {
+      "id": 10,
+      "name": "Zdravko Krivokapić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zdravko%20Krivokapi%C4%87%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q97999161",
+      "answerKey": "zdravko krivokapic"
+    }
+  ]
+}

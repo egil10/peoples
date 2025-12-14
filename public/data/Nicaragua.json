@@ -1,0 +1,118 @@
+{
+  "country": "Nicaragua",
+  "countryCode": "Q811",
+  "generated": "2025-12-14T01:58:38.965Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Daniel Ortega",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ortega%20Saavedra%20Diciembre%202024%20%283x4%20cropped%29.jpg",
+      "sitelinks": 95,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57402",
+      "answerKey": "daniel ortega"
+    },
+    {
+      "id": 2,
+      "name": "Rubén Darío",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rub%C3%A9n%20Dar%C3%ADo.jpg",
+      "sitelinks": 76,
+      "birthYear": "1867",
+      "deathYear": "1916",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173767",
+      "answerKey": "ruben dario"
+    },
+    {
+      "id": 3,
+      "name": "Violeta Chamorro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Violeta%20Chamorro%201993.jpg",
+      "sitelinks": 59,
+      "birthYear": "1929",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q114142",
+      "answerKey": "violeta chamorro"
+    },
+    {
+      "id": 4,
+      "name": "Mauricio Funes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Funes%20%28Brasilia%2C%20May%202008%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1959",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57342",
+      "answerKey": "mauricio funes"
+    },
+    {
+      "id": 5,
+      "name": "Augusto Nicolás Calderón Sandino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Augusto%20C%C3%A9sar%20Sandino.jpg",
+      "sitelinks": 55,
+      "birthYear": "1895",
+      "deathYear": "1934",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213746",
+      "answerKey": "augusto nicolas calderon sandino"
+    },
+    {
+      "id": 6,
+      "name": "Anastasio Somoza Debayle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1975%20Press%20Photo%20Nicaragua%20President%20Anastasio%20Somoza%20%28cropped%29.png",
+      "sitelinks": 51,
+      "birthYear": "1925",
+      "deathYear": "1980",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q218443",
+      "answerKey": "anastasio somoza debayle"
+    },
+    {
+      "id": 7,
+      "name": "Ernesto Cardenal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20Cardenal%20a%20la%20Chascona%202.jpg",
+      "sitelinks": 42,
+      "birthYear": "1925",
+      "deathYear": "2020",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q276510",
+      "answerKey": "ernesto cardenal"
+    },
+    {
+      "id": 8,
+      "name": "Ernesto Cardenal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ernesto%20Cardenal%202010.JPG",
+      "sitelinks": 42,
+      "birthYear": "1925",
+      "deathYear": "2020",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q276510",
+      "answerKey": "ernesto cardenal"
+    },
+    {
+      "id": 9,
+      "name": "Anastasio Somoza García",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anastasio%20Somoza%20Garc%C3%ADa.jpg",
+      "sitelinks": 41,
+      "birthYear": "1896",
+      "deathYear": "1956",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312622",
+      "answerKey": "anastasio somoza garcia"
+    },
+    {
+      "id": 10,
+      "name": "Claribel Alegría Vides",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claribel%20Alegria.jpg",
+      "sitelinks": 34,
+      "birthYear": "1924",
+      "deathYear": "2018",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q270601",
+      "answerKey": "claribel alegria vides"
+    }
+  ]
+}

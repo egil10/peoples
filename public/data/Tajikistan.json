@@ -1,0 +1,118 @@
+{
+  "country": "Tajikistan",
+  "countryCode": "Q863",
+  "generated": "2025-12-14T01:56:52.097Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Emomali Rahmon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emomali%20Rahmon%20on%20April%203%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57366",
+      "answerKey": "emomali rahmon"
+    },
+    {
+      "id": 2,
+      "name": "Daler Kuzyayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zen-SM%2017%20%286%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5210783",
+      "answerKey": "daler kuzyayev"
+    },
+    {
+      "id": 3,
+      "name": "Svetlana Gerasimenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Svetlana%20Gerasimenko%20cropped.jpg",
+      "sitelinks": 39,
+      "birthYear": "1945",
+      "deathYear": "2025",
+      "occupation": "astronomer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12095007",
+      "answerKey": "svetlana gerasimenko"
+    },
+    {
+      "id": 4,
+      "name": "Kokhir Rasulzoda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kokhir%20Rasulzoda.jpg",
+      "sitelinks": 39,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15222839",
+      "answerKey": "kokhir rasulzoda"
+    },
+    {
+      "id": 5,
+      "name": "Oqil Oqilov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oqil%20Oqilov.jpeg",
+      "sitelinks": 38,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57754",
+      "answerKey": "oqil oqilov"
+    },
+    {
+      "id": 6,
+      "name": "Rahmon Nabiyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rahmon%20Nabiyev%201991-1992%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1930",
+      "deathYear": "1993",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558515",
+      "answerKey": "rahmon nabiyev"
+    },
+    {
+      "id": 7,
+      "name": "Dilshod Nazarov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Medal%20Winner%2CDILSHOD%20NAZAROV%20Of%20TAJIKISTAN.jpg",
+      "sitelinks": 29,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "hammer thrower",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q591225",
+      "answerKey": "dilshod nazarov"
+    },
+    {
+      "id": 8,
+      "name": "Rustam Emomali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%BC%D0%B8%20%D0%AD%D0%BC%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24258837",
+      "answerKey": "rustam emomali"
+    },
+    {
+      "id": 9,
+      "name": "Temur Rakhimov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Temur%20Rakhimov%20at%20the%202024%20Summer%20Olympics%20%28cropped%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106602185",
+      "answerKey": "temur rakhimov"
+    },
+    {
+      "id": 10,
+      "name": "Rashid Rakhimov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashid%20Rakhimov%202011.jpg",
+      "sitelinks": 19,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q698344",
+      "answerKey": "rashid rakhimov"
+    }
+  ]
+}

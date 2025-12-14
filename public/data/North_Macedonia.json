@@ -1,0 +1,118 @@
+{
+  "country": "North Macedonia",
+  "countryCode": "Q221",
+  "generated": "2025-12-14T01:54:43.847Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Gjorge Ivanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gjorge%20Ivanov%20%282017-05-24%29%20%28cropped%29.jpg",
+      "sitelinks": 70,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57436",
+      "answerKey": "gjorge ivanov"
+    },
+    {
+      "id": 2,
+      "name": "Kaliopi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ESC2016%20-%20Macedonia%20Meet%20%26%20Greet%2002.jpg",
+      "sitelinks": 60,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q463897",
+      "answerKey": "kaliopi"
+    },
+    {
+      "id": 3,
+      "name": "Stevo Pendarovski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stevo%20Pendarovski%20%2829-10-2023%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15967423",
+      "answerKey": "stevo pendarovski"
+    },
+    {
+      "id": 4,
+      "name": "Nikola Gruevski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C5E%200815%20%2816864370215%29%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57766",
+      "answerKey": "nikola gruevski"
+    },
+    {
+      "id": 5,
+      "name": "Branko Crvenkovski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Branko%20Crvenkovski%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q157111",
+      "answerKey": "branko crvenkovski"
+    },
+    {
+      "id": 6,
+      "name": "Kiro Gligorov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B8%D1%80%D0%BE%20%D0%93%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%2003%20%2828-01-1993%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1917",
+      "deathYear": "2012",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153381",
+      "answerKey": "kiro gligorov"
+    },
+    {
+      "id": 7,
+      "name": "Zoran Zaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zoran%20Zaev%20official%20portrait%202020%20%28cropped%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220579",
+      "answerKey": "zoran zaev"
+    },
+    {
+      "id": 8,
+      "name": "Goran Pandev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goran%20Pandev.JPG",
+      "sitelinks": 50,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q238163",
+      "answerKey": "goran pandev"
+    },
+    {
+      "id": 9,
+      "name": "Toše Proeski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toseproeskiskopje.jpg",
+      "sitelinks": 49,
+      "birthYear": "1981",
+      "deathYear": "2007",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220645",
+      "answerKey": "tose proeski"
+    },
+    {
+      "id": 10,
+      "name": "Goce Sedloski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goce%20Sedloski%20-%20SV%20Mattersburg.jpg",
+      "sitelinks": 49,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q464412",
+      "answerKey": "goce sedloski"
+    }
+  ]
+}

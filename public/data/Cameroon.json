@@ -1,0 +1,118 @@
+{
+  "country": "Cameroon",
+  "countryCode": "Q1029",
+  "generated": "2025-12-14T01:59:31.494Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Samora Moisés Machel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samora%20Moises%20Machel%20detail%20DF-SC-88-01383.jpg",
+      "sitelinks": 63,
+      "birthYear": "1933",
+      "deathYear": "1986",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q219918",
+      "answerKey": "samora moises machel"
+    },
+    {
+      "id": 2,
+      "name": "Filipe Nyusi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Filipe%20Nyusi%20-%202019%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5448556",
+      "answerKey": "filipe nyusi"
+    },
+    {
+      "id": 3,
+      "name": "Joaquim Chissano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joaquim%20Chissano%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1939",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208355",
+      "answerKey": "joaquim chissano"
+    },
+    {
+      "id": 4,
+      "name": "Luísa Diogo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luisa%20Diogo%2C%20World%20Economic%20Forum%20Annual%20Meeting%202009%201.jpg",
+      "sitelinks": 47,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236020",
+      "answerKey": "luisa diogo"
+    },
+    {
+      "id": 5,
+      "name": "Armando Guebuza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guebuza2006.jpg",
+      "sitelinks": 45,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57392",
+      "answerKey": "armando guebuza"
+    },
+    {
+      "id": 6,
+      "name": "Armando Guebuza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Armando%20Guebuza%202014-08-11.jpg",
+      "sitelinks": 45,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57392",
+      "answerKey": "armando guebuza"
+    },
+    {
+      "id": 7,
+      "name": "Graça Machel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gra%C3%A7a%20Machel.jpg",
+      "sitelinks": 45,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q239105",
+      "answerKey": "graca machel"
+    },
+    {
+      "id": 8,
+      "name": "Maria Mutola",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Mutola%20Valence%202008%20cropped.jpg",
+      "sitelinks": 43,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q228807",
+      "answerKey": "maria mutola"
+    },
+    {
+      "id": 9,
+      "name": "Carlos Agostinho do Rosário",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mozambican%20Prime%20Minister%20Carlos%20Agostinho%20do%20Rosario.JPG",
+      "sitelinks": 37,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19057400",
+      "answerKey": "carlos agostinho do rosario"
+    },
+    {
+      "id": 10,
+      "name": "Mia Couto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mia%20Couto%20cropped.jpg",
+      "sitelinks": 34,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q382101",
+      "answerKey": "mia couto"
+    }
+  ]
+}

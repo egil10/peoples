@@ -1,0 +1,118 @@
+{
+  "country": "Slovakia",
+  "countryCode": "Q214",
+  "generated": "2025-12-14T01:54:17.760Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Zuzana Čaputová",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zuzana%20%C4%8Caputov%C3%A1%20%2820.6.2019%29%20VIII.jpg",
+      "sitelinks": 101,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26273268",
+      "answerKey": "zuzana caputova"
+    },
+    {
+      "id": 2,
+      "name": "Robert Fico",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Fico%20%2854359433078%29%20%28cropped%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57606",
+      "answerKey": "robert fico"
+    },
+    {
+      "id": 3,
+      "name": "Andrej Babiš",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Babi%C5%A1%202025%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10819807",
+      "answerKey": "andrej babis"
+    },
+    {
+      "id": 4,
+      "name": "Andrej Kiska",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Kiska%2C%20President%20of%20Slovakia%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12762303",
+      "answerKey": "andrej kiska"
+    },
+    {
+      "id": 5,
+      "name": "Marek Hamšík",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamsik%202016.jpg",
+      "sitelinks": 64,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q201825",
+      "answerKey": "marek hamsik"
+    },
+    {
+      "id": 6,
+      "name": "Ivan Gašparovič",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Ga%C5%A1parovi%C4%8D.jpg",
+      "sitelinks": 63,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57295",
+      "answerKey": "ivan gasparovic"
+    },
+    {
+      "id": 7,
+      "name": "Peter Pellegrini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Pellegrini%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17330556",
+      "answerKey": "peter pellegrini"
+    },
+    {
+      "id": 8,
+      "name": "Kamila Beregszásziová",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamila%20Beregsz%C3%A1sziov%C3%A1%20-%20Slovensk%C3%A1%20%C5%BEensk%C3%A1%20futbalov%C3%A1%20reprezentantka%202001.jpg",
+      "sitelinks": 61,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131293625",
+      "answerKey": "kamila beregszasziova"
+    },
+    {
+      "id": 9,
+      "name": "Iveta Radičová",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20europeanpeoplesparty%20-%20EPP%20Summit%20October%202010%20%28135%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211771",
+      "answerKey": "iveta radicova"
+    },
+    {
+      "id": 10,
+      "name": "Martin Škrtel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20%C5%A0krtel%202019.jpg",
+      "sitelinks": 54,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192913",
+      "answerKey": "martin skrtel"
+    }
+  ]
+}

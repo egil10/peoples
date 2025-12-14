@@ -1,0 +1,118 @@
+{
+  "country": "Bosnia",
+  "countryCode": "Q225",
+  "generated": "2025-12-14T01:55:05.585Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Radovan Karadžić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radovan%20Karad%C5%BEi%C4%87%20trial%20judgement%2024%20March%202016.jpg",
+      "sitelinks": 92,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123923",
+      "answerKey": "radovan karadzic"
+    },
+    {
+      "id": 2,
+      "name": "Ratko Mladić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evstafiev-ratko-mladic-1993-w.jpg",
+      "sitelinks": 75,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93167",
+      "answerKey": "ratko mladic"
+    },
+    {
+      "id": 3,
+      "name": "Alija Izetbegović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alija%20Izetbegovic%20%28cropped%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1925",
+      "deathYear": "2003",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183848",
+      "answerKey": "alija izetbegovic"
+    },
+    {
+      "id": 4,
+      "name": "Edin Džeko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20150331%202026%20AUT%20BIH%202177%20Edin%20D%C5%BEeko%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153786",
+      "answerKey": "edin dzeko"
+    },
+    {
+      "id": 5,
+      "name": "Miralem Pjanić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20150331%202026%20AUT%20BIH%202165%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146907",
+      "answerKey": "miralem pjanic"
+    },
+    {
+      "id": 6,
+      "name": "Ivica Osim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivica%20Osim%20-%20SK%20Sturm%20%281999%29%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1941",
+      "deathYear": "2022",
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q366783",
+      "answerKey": "ivica osim"
+    },
+    {
+      "id": 7,
+      "name": "Milorad Dodik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milorad%20Dodik%202025%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q335688",
+      "answerKey": "milorad dodik"
+    },
+    {
+      "id": 8,
+      "name": "Bakir Izetbegović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakir%20Izetbegovi%C4%87%202025.jpg",
+      "sitelinks": 53,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312355",
+      "answerKey": "bakir izetbegovic"
+    },
+    {
+      "id": 9,
+      "name": "Jasmila Žbanić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lux%20Audience%20Award%202022%20ceremony%20-%2052136109925%20%28cropped%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83487",
+      "answerKey": "jasmila zbanic"
+    },
+    {
+      "id": 10,
+      "name": "Dragan Đokanović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragan%20Djokanovic%20in%20Sankt%20Petersburg.jpg",
+      "sitelinks": 52,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q147057",
+      "answerKey": "dragan okanovic"
+    }
+  ]
+}

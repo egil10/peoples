@@ -1,0 +1,118 @@
+{
+  "country": "Malawi",
+  "countryCode": "Q1020",
+  "generated": "2025-12-14T02:00:02.233Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Hastings Banda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20HK%20Banda%2C%20first%20president%20of%20Malawi.jpg",
+      "sitelinks": 74,
+      "birthYear": "1890",
+      "deathYear": "1997",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184945",
+      "answerKey": "hastings banda"
+    },
+    {
+      "id": 2,
+      "name": "Joyce Banda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joyce%20Banda%20Department%20for%20International%20Development%20photo%20crop.jpg",
+      "sitelinks": 70,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57388",
+      "answerKey": "joyce banda"
+    },
+    {
+      "id": 3,
+      "name": "Peter Mutharika",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Peter%20Mutharika%202014%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7176020",
+      "answerKey": "peter mutharika"
+    },
+    {
+      "id": 4,
+      "name": "Bingu wa Mutharika",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bingu%20Wa%20Mutharika%20-%20World%20Economic%20Forum%20on%20Africa%202008.jpg",
+      "sitelinks": 59,
+      "birthYear": "1934",
+      "deathYear": "2012",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181586",
+      "answerKey": "bingu wa mutharika"
+    },
+    {
+      "id": 5,
+      "name": "Lazarus Chakwera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Blinken%20Meets%20With%20Malawian%20President%20Lazarus%20Chakwera%20%2852389622307%29%20%28cropped2%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16202782",
+      "answerKey": "lazarus chakwera"
+    },
+    {
+      "id": 6,
+      "name": "Lazarus Chakwera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lazarus%20Chakwera%202017.jpg",
+      "sitelinks": 47,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16202782",
+      "answerKey": "lazarus chakwera"
+    },
+    {
+      "id": 7,
+      "name": "Bakili Muluzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakili%20Muluzi%20Dialogue%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317107",
+      "answerKey": "bakili muluzi"
+    },
+    {
+      "id": 8,
+      "name": "William Kamkwamba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Kamkwamba%20at%20TED%20in%202007.jpg",
+      "sitelinks": 27,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q448964",
+      "answerKey": "william kamkwamba"
+    },
+    {
+      "id": 9,
+      "name": "Saulos Chilima",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saulos%20Chilima.jpg",
+      "sitelinks": 23,
+      "birthYear": "1973",
+      "deathYear": "2024",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16214780",
+      "answerKey": "saulos chilima"
+    },
+    {
+      "id": 10,
+      "name": "Theresa Kachindamoto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theresa%20Kachindamoto.jpg",
+      "sitelinks": 22,
+      "birthYear": "1958",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23793885",
+      "answerKey": "theresa kachindamoto"
+    }
+  ]
+}

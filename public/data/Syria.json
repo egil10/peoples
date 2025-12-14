@@ -1,0 +1,118 @@
+{
+  "country": "Syria",
+  "countryCode": "Q858",
+  "generated": "2025-12-14T01:55:55.682Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Bashar al-Assad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bashar%20al-Assad%20in%20May%202024.png",
+      "sitelinks": 148,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44329",
+      "answerKey": "bashar alassad"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed al-Sharaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20al-Sharaa%20in%20November%202025.jpg",
+      "sitelinks": 76,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7934206",
+      "answerKey": "ahmed alsharaa"
+    },
+    {
+      "id": 3,
+      "name": "Asma al-Assad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asma%20al-Assad.jpg",
+      "sitelinks": 50,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "financial analyst",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q231637",
+      "answerKey": "asma alassad"
+    },
+    {
+      "id": 4,
+      "name": "Yusra Mardini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yusra%20Mardini%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "Office of the United Nations High Commissioner for Refugees",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23701408",
+      "answerKey": "yusra mardini"
+    },
+    {
+      "id": 5,
+      "name": "Bassel Khartabil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bassel%20Khartabil%20%28Safadi%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1981",
+      "deathYear": "2015",
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q982696",
+      "answerKey": "bassel khartabil"
+    },
+    {
+      "id": 6,
+      "name": "Michel Aflaq",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Aflaq%2C%201960s.jpg",
+      "sitelinks": 42,
+      "birthYear": "1910",
+      "deathYear": "1989",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q355416",
+      "answerKey": "michel aflaq"
+    },
+    {
+      "id": 7,
+      "name": "Simeon Stylites",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simeon%20Stylites%20%28Syria%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "389",
+      "deathYear": "459",
+      "occupation": "stylite",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310987",
+      "answerKey": "simeon stylites"
+    },
+    {
+      "id": 8,
+      "name": "Michael Ansara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Ansara%20Law%20of%20the%20Plainsman%201959.JPG",
+      "sitelinks": 41,
+      "birthYear": "1922",
+      "deathYear": "2013",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1276579",
+      "answerKey": "michael ansara"
+    },
+    {
+      "id": 9,
+      "name": "John X of Antioch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patriarch%20John%20X%20of%20Antioch%202.jpg",
+      "sitelinks": 40,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "Eastern Orthodox priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1146609",
+      "answerKey": "john x of antioch"
+    },
+    {
+      "id": 10,
+      "name": "Ghassan Massoud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghassan%20Massoud.jpg",
+      "sitelinks": 36,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q546669",
+      "answerKey": "ghassan massoud"
+    }
+  ]
+}

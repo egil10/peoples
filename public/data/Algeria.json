@@ -1,0 +1,118 @@
+{
+  "country": "Algeria",
+  "countryCode": "Q262",
+  "generated": "2025-12-14T02:00:42.718Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Abd al-Aziz Boutafliqa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelaziz%20Bouteflika.jpg",
+      "sitelinks": 103,
+      "birthYear": "1937",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57308",
+      "answerKey": "abd alaziz boutafliqa"
+    },
+    {
+      "id": 2,
+      "name": "Miriam Makeba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miriam%20makeba%2001.jpg",
+      "sitelinks": 94,
+      "birthYear": "1932",
+      "deathYear": "2008",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146256",
+      "answerKey": "miriam makeba"
+    },
+    {
+      "id": 3,
+      "name": "Miriam Makeba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miriam%20Makeba%20%281968%29.png",
+      "sitelinks": 94,
+      "birthYear": "1932",
+      "deathYear": "2008",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146256",
+      "answerKey": "miriam makeba"
+    },
+    {
+      "id": 4,
+      "name": "Ahmad ibn Billah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Ben%20Bella%20aux%20USA%2C%20oct.1962%20%28cropped%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1916",
+      "deathYear": "2012",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q179908",
+      "answerKey": "ahmad ibn billah"
+    },
+    {
+      "id": 5,
+      "name": "Abdelmadjid Tebboune",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelmadjid%20Tebboune%20%282023%29%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2821166",
+      "answerKey": "abdelmadjid tebboune"
+    },
+    {
+      "id": 6,
+      "name": "Samir Nasri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samir%20Nasri%20Euro%202012.jpg",
+      "sitelinks": 65,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1920",
+      "answerKey": "samir nasri"
+    },
+    {
+      "id": 7,
+      "name": "Riyad Mahrez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahrez%202021.jpg",
+      "sitelinks": 63,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8338725",
+      "answerKey": "riyad mahrez"
+    },
+    {
+      "id": 8,
+      "name": "Hawwari Bumadian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Houari%20Boumediene%27s%20Portrait.jpg",
+      "sitelinks": 60,
+      "birthYear": "1932",
+      "deathYear": "1978",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310855",
+      "answerKey": "hawwari bumadian"
+    },
+    {
+      "id": 9,
+      "name": "Assia Djebar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Assia-Djebar%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1936",
+      "deathYear": "2015",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q157313",
+      "answerKey": "assia djebar"
+    },
+    {
+      "id": 10,
+      "name": "Ferhat Abbas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferhat%20Abbas%20-%20algerischer%20Staatspr%C3%A4sident.jpg",
+      "sitelinks": 54,
+      "birthYear": "1899",
+      "deathYear": "1985",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193043",
+      "answerKey": "ferhat abbas"
+    }
+  ]
+}

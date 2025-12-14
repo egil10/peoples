@@ -1,0 +1,118 @@
+{
+  "country": "Israel",
+  "countryCode": "Q801",
+  "generated": "2025-12-14T01:56:19.519Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Benjamin Netanyahu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Netanyahu%2C%20February%202023.jpg",
+      "sitelinks": 163,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "political writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43723",
+      "answerKey": "benjamin netanyahu"
+    },
+    {
+      "id": 2,
+      "name": "Natalie Portman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natalie%20Portman-4339%20%28cropped%29.jpg",
+      "sitelinks": 132,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37876",
+      "answerKey": "natalie portman"
+    },
+    {
+      "id": 3,
+      "name": "David Ben-Gurion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Ben-Gurion%20%28D597-087%29.jpg",
+      "sitelinks": 131,
+      "birthYear": "1886",
+      "deathYear": "1973",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37610",
+      "answerKey": "david bengurion"
+    },
+    {
+      "id": 4,
+      "name": "Golda Meir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Golda%20Meir%20%281964%29%20cropped.jpg",
+      "sitelinks": 129,
+      "birthYear": "1898",
+      "deathYear": "1978",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42992",
+      "answerKey": "golda meir"
+    },
+    {
+      "id": 5,
+      "name": "Shimon Peres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shimon%20Peres%20-%20portrait%20photograh%20-%201996%20%28full%29.jpg",
+      "sitelinks": 126,
+      "birthYear": "1923",
+      "deathYear": "2016",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57410",
+      "answerKey": "shimon peres"
+    },
+    {
+      "id": 6,
+      "name": "Ariel Sharon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariel%20Sharon%20official%20portrait%202001.webp",
+      "sitelinks": 119,
+      "birthYear": "1928",
+      "deathYear": "2014",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60206",
+      "answerKey": "ariel sharon"
+    },
+    {
+      "id": 7,
+      "name": "Yizhak Rabin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Israel%20Defense%20Forces%20-%20Life%20of%20Lt.%20Gen.%20Yitzhak%20Rabin%2C%207th%20IDF%20Chief%20of%20Staff%20in%20photos%20%2811%29.jpg",
+      "sitelinks": 113,
+      "birthYear": "1922",
+      "deathYear": "1995",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34060",
+      "answerKey": "yizhak rabin"
+    },
+    {
+      "id": 8,
+      "name": "Elie Wiesel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elie%20Wiesel%202012%20Shankbone.JPG",
+      "sitelinks": 105,
+      "birthYear": "1928",
+      "deathYear": "2016",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18391",
+      "answerKey": "elie wiesel"
+    },
+    {
+      "id": 9,
+      "name": "Menachem Begin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menachem%20Begin%2C%20Andrews%20AFB%2C%201978.JPG",
+      "sitelinks": 97,
+      "birthYear": "1913",
+      "deathYear": "1992",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q130873",
+      "answerKey": "menachem begin"
+    },
+    {
+      "id": 10,
+      "name": "Shmuel Yosef Agnon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A4%D7%95%D7%A8%D7%98%D7%A8%D7%98%20%D7%A9%22%D7%99%20%D7%A2%D7%92%D7%A0%D7%95%D7%9F%20%28cropped%29.jpg",
+      "sitelinks": 96,
+      "birthYear": "1887",
+      "deathYear": "1970",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q133042",
+      "answerKey": "shmuel yosef agnon"
+    }
+  ]
+}

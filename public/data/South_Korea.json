@@ -1,0 +1,118 @@
+{
+  "country": "South Korea",
+  "countryCode": "Q884",
+  "generated": "2025-12-14T01:48:27.697Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Sung Jae-gi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sungjaegi2013.png",
+      "sitelinks": 188,
+      "birthYear": "1967",
+      "deathYear": "2013",
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4688112",
+      "answerKey": "sung jaegi"
+    },
+    {
+      "id": 2,
+      "name": "Ban Ki-moon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20Ki-moon%201-2.jpg",
+      "sitelinks": 153,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1253",
+      "answerKey": "ban kimoon"
+    },
+    {
+      "id": 3,
+      "name": "Park Geun-hye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20Geun-hye%20presidential%20portrait.png",
+      "sitelinks": 104,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q138048",
+      "answerKey": "park geunhye"
+    },
+    {
+      "id": 4,
+      "name": "Moon Jae-in",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Jae-in%20%282017-10-01%29%20cropped.jpg",
+      "sitelinks": 103,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21001",
+      "answerKey": "moon jaein"
+    },
+    {
+      "id": 5,
+      "name": "Psy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PSY%20EMTV%20logo%2027%20%288198008711%29.jpg",
+      "sitelinks": 96,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20150",
+      "answerKey": "psy"
+    },
+    {
+      "id": 6,
+      "name": "Park Chung-hee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20Chung%20Hee%20%28%EB%B0%95%EC%A0%95%ED%9D%AC%29%20Presidential%20Portrait.jpg",
+      "sitelinks": 96,
+      "birthYear": "1917",
+      "deathYear": "1979",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14356",
+      "answerKey": "park chunghee"
+    },
+    {
+      "id": 7,
+      "name": "Han Kang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Han%20Kang%2C%202024%20Nobel%20Prize%20Laureate%20in%20Literature%20%28cropped%29.jpg",
+      "sitelinks": 93,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5646626",
+      "answerKey": "han kang"
+    },
+    {
+      "id": 8,
+      "name": "Yoon Suk Yeol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Korea%20President%20Yoon%20Suk%20Yeol%20portrait.jpg",
+      "sitelinks": 91,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16090635",
+      "answerKey": "yoon suk yeol"
+    },
+    {
+      "id": 9,
+      "name": "Kim Dae-jung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Dae-jung%20presidential%20portrait.jpg",
+      "sitelinks": 91,
+      "birthYear": "1924",
+      "deathYear": "2009",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45785",
+      "answerKey": "kim daejung"
+    },
+    {
+      "id": 10,
+      "name": "Syngman Rhee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rhee%20Syng-Man%20in%201948.jpg",
+      "sitelinks": 87,
+      "birthYear": "1875",
+      "deathYear": "1965",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171684",
+      "answerKey": "syngman rhee"
+    }
+  ]
+}

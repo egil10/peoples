@@ -1,0 +1,118 @@
+{
+  "country": "Mongolia",
+  "countryCode": "Q711",
+  "generated": "2025-12-14T01:57:05.562Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Tsakhiagiin Elbegdorj",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A6%D0%B0%D1%85%D0%B8%D0%B0%D0%B3%D0%B8%D0%B9%D0%BD%20%D0%AD%D0%BB%D0%B1%D1%8D%D0%B3%D0%B4%D0%BE%D1%80%D0%B6.jpg",
+      "sitelinks": 62,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57421",
+      "answerKey": "tsakhiagiin elbegdorj"
+    },
+    {
+      "id": 2,
+      "name": "Khurelsukh Ukhnaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ukhnaagiin%20Kh%C3%BCrels%C3%BCkh%20%28Kh%C3%BCrels%C3%BCkh%20Ukhnaa%29%20%28%D0%A3%D1%85%D0%BD%D0%B0%D0%B0%D0%B3%D0%B8%D0%B9%D0%BD%20%D0%A5%D2%AF%D1%80%D1%8D%D0%BB%D1%81%D2%AF%D1%85%29%2C%20President%20of%20Mongolia%20on%2026%20April%202024%20%28cropped%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27058418",
+      "answerKey": "khurelsukh ukhnaa"
+    },
+    {
+      "id": 3,
+      "name": "Khaltmaagiin Battulga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khaltmaagiin%20Battulga%20-%202019%20%2848425595252%29%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9122260",
+      "answerKey": "khaltmaagiin battulga"
+    },
+    {
+      "id": 4,
+      "name": "Nambaryn Enkhbayar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enkbayar.jpg",
+      "sitelinks": 44,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54820",
+      "answerKey": "nambaryn enkhbayar"
+    },
+    {
+      "id": 5,
+      "name": "Khorloogiin Choibalsan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Horloogiyn%20Choybalsan.jpg",
+      "sitelinks": 41,
+      "birthYear": "1895",
+      "deathYear": "1952",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311488",
+      "answerKey": "khorloogiin choibalsan"
+    },
+    {
+      "id": 6,
+      "name": "Arghun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ArghunEnthroned%20%28cropped%29.png",
+      "sitelinks": 36,
+      "birthYear": "1258",
+      "deathYear": "1291",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220099",
+      "answerKey": "arghun"
+    },
+    {
+      "id": 7,
+      "name": "Damdin Sükhbaatar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sukhbaatar.jpg",
+      "sitelinks": 34,
+      "birthYear": "1893",
+      "deathYear": "1923",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q314105",
+      "answerKey": "damdin sukhbaatar"
+    },
+    {
+      "id": 8,
+      "name": "Jügderdemidiin Gürragchaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCgderdemidiin%20G%C3%BCrragchaa.jpeg",
+      "sitelinks": 33,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "astronaut",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81129",
+      "answerKey": "jugderdemidiin gurragchaa"
+    },
+    {
+      "id": 9,
+      "name": "Luvsannamsrain Oyun-Erdene",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Oyun-Erdene%20Luvsannamsrai%20of%20Mongolia%20discussed%20space%20cooperation%20with%20NASA%20at%20a%20meeting%20on%204%20August%202023%20at%20the%20NASA%20Headquarters%20in%20Washington%2C%20D.C.%20%28cropped%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24248226",
+      "answerKey": "luvsannamsrain oyunerdene"
+    },
+    {
+      "id": 10,
+      "name": "Natsagiin Bagabandi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Natsagiin%20Bagabandi.jpg",
+      "sitelinks": 32,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334679",
+      "answerKey": "natsagiin bagabandi"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "country": "Bhutan",
+  "countryCode": "Q967",
+  "generated": "2025-12-14T01:57:05.366Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Pierre Nkurunziza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Nkurunziza%20-%20World%20Economic%20Forum%20on%20Africa%202008.jpg",
+      "sitelinks": 77,
+      "birthYear": "1964",
+      "deathYear": "2020",
+      "occupation": "president",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57343",
+      "answerKey": "pierre nkurunziza"
+    },
+    {
+      "id": 2,
+      "name": "Évariste Ndayishimiye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82%20%D0%9D%D0%B4%D0%B0%D0%B9%D0%B8%D1%88%D0%B8%D0%BC%D0%B8%D0%B5%20%2818-02-2022%29%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "president",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27329764",
+      "answerKey": "evariste ndayishimiye"
+    },
+    {
+      "id": 3,
+      "name": "Évariste Ndayishimiye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%AD%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82%20%D0%9D%D0%B4%D0%B0%D0%B9%D0%B8%D1%88%D0%B8%D0%BC%D0%B8%D0%B5%20%2818-02-2022%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "president",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27329764",
+      "answerKey": "evariste ndayishimiye"
+    },
+    {
+      "id": 4,
+      "name": "Sylvie Kinigi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sylvie%20Kinigi%20at%20Bujumbura%20airport%2C%201993.jpg",
+      "sitelinks": 41,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q291550",
+      "answerKey": "sylvie kinigi"
+    },
+    {
+      "id": 5,
+      "name": "Pierre Buyoya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Buyoya%20at%20Chatham%20House%202013%20crop.jpg",
+      "sitelinks": 38,
+      "birthYear": "1949",
+      "deathYear": "2020",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q380916",
+      "answerKey": "pierre buyoya"
+    },
+    {
+      "id": 6,
+      "name": "Melchior Ndadaye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melchior%20Ndadaye.png",
+      "sitelinks": 38,
+      "birthYear": "1953",
+      "deathYear": "1993",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457201",
+      "answerKey": "melchior ndadaye"
+    },
+    {
+      "id": 7,
+      "name": "Melchior Ndadaye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melchior%20Ndadaye%20speaking%20to%20RTNB%20at%20Bujumbura%20airport.jpg",
+      "sitelinks": 38,
+      "birthYear": "1953",
+      "deathYear": "1993",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457201",
+      "answerKey": "melchior ndadaye"
+    },
+    {
+      "id": 8,
+      "name": "Michel Micombero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20Burundi%204th%20anniversary%20stamp%201970%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1940",
+      "deathYear": "1983",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q282359",
+      "answerKey": "michel micombero"
+    },
+    {
+      "id": 9,
+      "name": "Jean-Baptiste Bagaza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Bagaza%20-%201978.tiff",
+      "sitelinks": 35,
+      "birthYear": "1946",
+      "deathYear": "2016",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q377765",
+      "answerKey": "jeanbaptiste bagaza"
+    },
+    {
+      "id": 10,
+      "name": "Cyprien Ntaryamira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cyprien%20Ntaryamira%20at%20a%20FRODEBU%20rally.jpg",
+      "sitelinks": 33,
+      "birthYear": "1955",
+      "deathYear": "1994",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q357830",
+      "answerKey": "cyprien ntaryamira"
+    }
+  ]
+}

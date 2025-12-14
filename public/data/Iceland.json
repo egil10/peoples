@@ -1,0 +1,118 @@
+{
+  "country": "Iceland",
+  "countryCode": "Q189",
+  "generated": "2025-12-14T01:53:29.781Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Bobby Fischer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bobby%20Fischer%201972%20%28cropped%29.jpg",
+      "sitelinks": 115,
+      "birthYear": "1943",
+      "deathYear": "2008",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41314",
+      "answerKey": "bobby fischer"
+    },
+    {
+      "id": 2,
+      "name": "Björk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bj%C3%B6rk%20at%20Cannes.jpg",
+      "sitelinks": 107,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42455",
+      "answerKey": "bjork"
+    },
+    {
+      "id": 3,
+      "name": "Halldór Laxness",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Halld%C3%B3r%20Kiljan%20Laxness%201955.jpg",
+      "sitelinks": 102,
+      "birthYear": "1902",
+      "deathYear": "1998",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80321",
+      "answerKey": "halldor laxness"
+    },
+    {
+      "id": 4,
+      "name": "Snorri Sturluson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Snorre%20Sturluson-Christian%20Krohg.jpg",
+      "sitelinks": 77,
+      "birthYear": "1179",
+      "deathYear": "1241",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q102323",
+      "answerKey": "snorri sturluson"
+    },
+    {
+      "id": 5,
+      "name": "Vigdís Finnbogadóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vigdis%20Finnbogadottir%20%281985%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1930",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189797",
+      "answerKey": "vigdis finnbogadottir"
+    },
+    {
+      "id": 6,
+      "name": "Jóhanna Sigurðardóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johanna%20sigurdardottir%20official%20portrait.jpg",
+      "sitelinks": 72,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57772",
+      "answerKey": "johanna sigurardottir"
+    },
+    {
+      "id": 7,
+      "name": "Katrín Jakobsdóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katr%C3%ADn%20Jakobsd%C3%B3ttir%20%2824539871465%29%20%28cropped%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q467464",
+      "answerKey": "katrin jakobsdottir"
+    },
+    {
+      "id": 8,
+      "name": "Ólafur Ragnar Grímsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olafur%20Ragnar%20Grimsson%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
+      "sitelinks": 67,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57284",
+      "answerKey": "olafur ragnar grimsson"
+    },
+    {
+      "id": 9,
+      "name": "Magnús Scheving",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Scheving%202%20cropped.jpg",
+      "sitelinks": 64,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q529925",
+      "answerKey": "magnus scheving"
+    },
+    {
+      "id": 10,
+      "name": "Guðni Jóhannesson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gu%C3%B0ni%20Th.%20J%C3%B3hannesson%20at%20the%20Enthronement%20of%20Naruhito%20%281%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24045706",
+      "answerKey": "guni johannesson"
+    }
+  ]
+}

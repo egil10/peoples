@@ -1,0 +1,118 @@
+{
+  "country": "Hungary",
+  "countryCode": "Q28",
+  "generated": "2025-12-14T01:54:34.896Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Nikola Tesla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tesla%20circa%201890.jpeg",
+      "sitelinks": 211,
+      "birthYear": "1856",
+      "deathYear": "1943",
+      "occupation": "electrician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9036",
+      "answerKey": "nikola tesla"
+    },
+    {
+      "id": 2,
+      "name": "Josip Broz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josip%20Broz%20Tito%20uniform%20portrait.jpg",
+      "sitelinks": 128,
+      "birthYear": "1892",
+      "deathYear": "1980",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9161",
+      "answerKey": "josip broz"
+    },
+    {
+      "id": 3,
+      "name": "John von Neumann",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnvonNeumann-LosAlamos.jpg",
+      "sitelinks": 120,
+      "birthYear": "1903",
+      "deathYear": "1957",
+      "occupation": "computer scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17455",
+      "answerKey": "john von neumann"
+    },
+    {
+      "id": 4,
+      "name": "John von Neumann",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnvonNeumann-LosAlamos.gif",
+      "sitelinks": 120,
+      "birthYear": "1903",
+      "deathYear": "1957",
+      "occupation": "computer scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17455",
+      "answerKey": "john von neumann"
+    },
+    {
+      "id": 5,
+      "name": "Viktor Orbán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Donald%20Trump%20hosts%20a%20bilateral%20lunch%20meeting%20with%20Hungarian%20Prime%20Minister%20Viktor%20Orban.2%20%28cropped%29.jpg",
+      "sitelinks": 110,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57641",
+      "answerKey": "viktor orban"
+    },
+    {
+      "id": 6,
+      "name": "Imre Kertész",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Mark%20-%20Imre%20Kert%C3%A9sz%2C%20Berlin%202005.jpg",
+      "sitelinks": 103,
+      "birthYear": "1929",
+      "deathYear": "2016",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47755",
+      "answerKey": "imre kertesz"
+    },
+    {
+      "id": 7,
+      "name": "Theodor Herzl",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Herzl.jpg",
+      "sitelinks": 103,
+      "birthYear": "1860",
+      "deathYear": "1904",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44003",
+      "answerKey": "theodor herzl"
+    },
+    {
+      "id": 8,
+      "name": "George Soros",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Soros%20-%20May%2031%2C%202017.jpg",
+      "sitelinks": 102,
+      "birthYear": "1930",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12908",
+      "answerKey": "george soros"
+    },
+    {
+      "id": 9,
+      "name": "Sándor Petőfi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Orlai-petofi1.jpg",
+      "sitelinks": 101,
+      "birthYear": "1823",
+      "deathYear": "1849",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81219",
+      "answerKey": "sandor petofi"
+    },
+    {
+      "id": 10,
+      "name": "Béla Bartók",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9la%20Bart%C3%B3k%201943.jpg",
+      "sitelinks": 99,
+      "birthYear": "1881",
+      "deathYear": "1945",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83326",
+      "answerKey": "bela bartok"
+    }
+  ]
+}

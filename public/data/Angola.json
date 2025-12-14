@@ -1,0 +1,118 @@
+{
+  "country": "Angola",
+  "countryCode": "Q1042",
+  "generated": "2025-12-14T01:59:30.753Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Ingrid Betancourt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%8Dngrid%20Betancourt%20%282014%29%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152472",
+      "answerKey": "ingrid betancourt"
+    },
+    {
+      "id": 2,
+      "name": "James Michel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Michel%202014.png",
+      "sitelinks": 41,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57476",
+      "answerKey": "james michel"
+    },
+    {
+      "id": 3,
+      "name": "France-Albert René",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/France%20Albert-Ren%C3%A9.png",
+      "sitelinks": 39,
+      "birthYear": "1935",
+      "deathYear": "2019",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q224986",
+      "answerKey": "francealbert rene"
+    },
+    {
+      "id": 4,
+      "name": "Danny Faure",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Danny%20Faure%202010%20Moscow%20Unesco.jpg",
+      "sitelinks": 36,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5220343",
+      "answerKey": "danny faure"
+    },
+    {
+      "id": 5,
+      "name": "Wavel Ramkalawan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wavel%20Ramkalawan%20-%20president%20of%20Seychelles%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1568174",
+      "answerKey": "wavel ramkalawan"
+    },
+    {
+      "id": 6,
+      "name": "James Mancham",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mancham%202014.jpg",
+      "sitelinks": 32,
+      "birthYear": "1939",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362948",
+      "answerKey": "james mancham"
+    },
+    {
+      "id": 7,
+      "name": "Michael Mancienne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Mancienne.jpg",
+      "sitelinks": 30,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315301",
+      "answerKey": "michael mancienne"
+    },
+    {
+      "id": 8,
+      "name": "Ahmed Afif",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Afif%20in%20November%202023.jpg",
+      "sitelinks": 18,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q64010186",
+      "answerKey": "ahmed afif"
+    },
+    {
+      "id": 9,
+      "name": "Patrick Herminie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20Herminie.jpg",
+      "sitelinks": 16,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16190544",
+      "answerKey": "patrick herminie"
+    },
+    {
+      "id": 10,
+      "name": "Danielle de St. Jorre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F088687-0020%2C%20Au%C3%9Fenministerin%20der%20Seychellen%20im%20BMZ%20%28cropped%29.jpg",
+      "sitelinks": 12,
+      "birthYear": "1941",
+      "deathYear": "1997",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173874",
+      "answerKey": "danielle de st jorre"
+    }
+  ]
+}

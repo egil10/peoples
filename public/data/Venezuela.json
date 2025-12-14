@@ -1,0 +1,118 @@
+{
+  "country": "Venezuela",
+  "countryCode": "Q717",
+  "generated": "2025-12-14T01:57:40.580Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Hugo Chávez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20Rafael%20Ch%C3%A1vez%20Fr%C3%ADas.jpeg",
+      "sitelinks": 185,
+      "birthYear": "1954",
+      "deathYear": "2013",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8440",
+      "answerKey": "hugo chavez"
+    },
+    {
+      "id": 2,
+      "name": "Simón Bolívar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg",
+      "sitelinks": 173,
+      "birthYear": "1783",
+      "deathYear": "1830",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
+      "answerKey": "simon bolivar"
+    },
+    {
+      "id": 3,
+      "name": "Nicolás Maduro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s%20Maduro%202023%20%28cropped2%29.jpg",
+      "sitelinks": 123,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58132",
+      "answerKey": "nicolas maduro"
+    },
+    {
+      "id": 4,
+      "name": "Alessandro Volta",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandro%20Volta.jpeg",
+      "sitelinks": 117,
+      "birthYear": "1745",
+      "deathYear": "1827",
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q680",
+      "answerKey": "alessandro volta"
+    },
+    {
+      "id": 5,
+      "name": "María Corina Machado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nobel%20Peace%20Prize%202025%20-%20Mar%C3%ADa%20Corina%20Machado%20press%20conference%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q439564",
+      "answerKey": "maria corina machado"
+    },
+    {
+      "id": 6,
+      "name": "Juan Guaidó",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Guaid%C3%B3%202019%20portrait.jpg",
+      "sitelinks": 75,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58833335",
+      "answerKey": "juan guaido"
+    },
+    {
+      "id": 7,
+      "name": "Radamel Falcao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radamel%20Falcao%20Garc%C3%ADa%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q138172",
+      "answerKey": "radamel falcao"
+    },
+    {
+      "id": 8,
+      "name": "Baruj Benacerraf",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baruj%20Benacerraf%201969.jpg",
+      "sitelinks": 62,
+      "birthYear": "1920",
+      "deathYear": "2011",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q234701",
+      "answerKey": "baruj benacerraf"
+    },
+    {
+      "id": 9,
+      "name": "Garbiñe Muguruza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garbine%20Muguruza%202016.jpg",
+      "sitelinks": 62,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34276",
+      "answerKey": "garbine muguruza"
+    },
+    {
+      "id": 10,
+      "name": "Garbiñe Muguruza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muguruza%20WM19%20%2866%29%20%2848521961407%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34276",
+      "answerKey": "garbine muguruza"
+    }
+  ]
+}

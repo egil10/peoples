@@ -1,0 +1,118 @@
+{
+  "country": "DRC",
+  "countryCode": "Q974",
+  "generated": "2025-12-14T02:00:17.849Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Joseph Kabila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Kabila%20April%202016.jpg",
+      "sitelinks": 80,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57416",
+      "answerKey": "joseph kabila"
+    },
+    {
+      "id": 2,
+      "name": "Joseph Kabila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20kabila.jpg",
+      "sitelinks": 80,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57416",
+      "answerKey": "joseph kabila"
+    },
+    {
+      "id": 3,
+      "name": "Denis Mukwege",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Mukwege%202018.jpg",
+      "sitelinks": 79,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "pastor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1187542",
+      "answerKey": "denis mukwege"
+    },
+    {
+      "id": 4,
+      "name": "Félix Tshisekedi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tshisekedi%20%2846615782065%29%20%28cropped%29.jpg",
+      "sitelinks": 68,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29032770",
+      "answerKey": "felix tshisekedi"
+    },
+    {
+      "id": 5,
+      "name": "Laurent-Désiré Kabila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Laurent%20D%C3%A9sir%C3%A9%20Kabila%2C%20President%20of%20the%20Democratic%20Republic%20of%20Congo%2C%20to%20the%20EC%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1939",
+      "deathYear": "2001",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q135547",
+      "answerKey": "laurentdesire kabila"
+    },
+    {
+      "id": 6,
+      "name": "Claude Makelélé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Mak%C3%A9l%C3%A9l%C3%A9%20%2853557564951%29%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184362",
+      "answerKey": "claude makelele"
+    },
+    {
+      "id": 7,
+      "name": "Eduardo Camavinga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ofrenda%20de%20la%20Liga%20y%20la%20Champions-13-L.Mill%C3%A1n%20%2852109790215%29%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "2002",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q62960177",
+      "answerKey": "eduardo camavinga"
+    },
+    {
+      "id": 8,
+      "name": "Steve Mandanda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Mandanda%202018.jpg",
+      "sitelinks": 57,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1924",
+      "answerKey": "steve mandanda"
+    },
+    {
+      "id": 9,
+      "name": "Joseph Kasa-Vubu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CNG%201961%20MiNr0060%20mt%20B002%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1910",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q206048",
+      "answerKey": "joseph kasavubu"
+    },
+    {
+      "id": 10,
+      "name": "Dikembe Mutombo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dikembe%20Mutombo%20at%20the%20Aspire4Sport%20Congress%20in%20Doha.%20crop.jpg",
+      "sitelinks": 46,
+      "birthYear": "1966",
+      "deathYear": "2024",
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313481",
+      "answerKey": "dikembe mutombo"
+    }
+  ]
+}

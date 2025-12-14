@@ -1,15 +1,15 @@
 {
-  "generated": "2025-12-14T01:33:46.730Z",
+  "generated": "2025-12-14T02:00:54.978Z",
   "countries": [
     {
-      "name": "Norway",
-      "code": "Q20",
-      "file": "Norway.json"
+      "name": "China",
+      "code": "Q148",
+      "file": "China.json"
     },
     {
-      "name": "Mexico",
-      "code": "Q96",
-      "file": "Mexico.json"
+      "name": "India",
+      "code": "Q668",
+      "file": "India.json"
     },
     {
       "name": "Brazil",
@@ -17,24 +17,74 @@
       "file": "Brazil.json"
     },
     {
-      "name": "China",
-      "code": "Q148",
-      "file": "China.json"
+      "name": "Russia",
+      "code": "Q159",
+      "file": "Russia.json"
     },
     {
-      "name": "Slovenia",
-      "code": "Q215",
-      "file": "Slovenia.json"
+      "name": "Germany",
+      "code": "Q183",
+      "file": "Germany.json"
     },
     {
-      "name": "Switzerland",
-      "code": "Q39",
-      "file": "Switzerland.json"
+      "name": "France",
+      "code": "Q142",
+      "file": "France.json"
     },
     {
-      "name": "Netherlands",
-      "code": "Q55",
-      "file": "Netherlands.json"
+      "name": "Japan",
+      "code": "Q17",
+      "file": "Japan.json"
+    },
+    {
+      "name": "Canada",
+      "code": "Q16",
+      "file": "Canada.json"
+    },
+    {
+      "name": "Australia",
+      "code": "Q408",
+      "file": "Australia.json"
+    },
+    {
+      "name": "South Korea",
+      "code": "Q884",
+      "file": "South_Korea.json"
+    },
+    {
+      "name": "Mexico",
+      "code": "Q96",
+      "file": "Mexico.json"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "Q786",
+      "file": "Dominican_Republic.json"
+    },
+    {
+      "name": "Ukraine",
+      "code": "Q212",
+      "file": "Ukraine.json"
+    },
+    {
+      "name": "Egypt",
+      "code": "Q79",
+      "file": "Egypt.json"
+    },
+    {
+      "name": "Turkey",
+      "code": "Q43",
+      "file": "Turkey.json"
+    },
+    {
+      "name": "Chile",
+      "code": "Q298",
+      "file": "Chile.json"
+    },
+    {
+      "name": "Norway",
+      "code": "Q20",
+      "file": "Norway.json"
     },
     {
       "name": "Sweden",
@@ -45,6 +95,501 @@
       "name": "Denmark",
       "code": "Q35",
       "file": "Denmark.json"
+    },
+    {
+      "name": "Finland",
+      "code": "Q33",
+      "file": "Finland.json"
+    },
+    {
+      "name": "Poland",
+      "code": "Q36",
+      "file": "Poland.json"
+    },
+    {
+      "name": "Netherlands",
+      "code": "Q55",
+      "file": "Netherlands.json"
+    },
+    {
+      "name": "Belgium",
+      "code": "Q31",
+      "file": "Belgium.json"
+    },
+    {
+      "name": "Switzerland",
+      "code": "Q39",
+      "file": "Switzerland.json"
+    },
+    {
+      "name": "Lithuania",
+      "code": "Q37",
+      "file": "Lithuania.json"
+    },
+    {
+      "name": "Latvia",
+      "code": "Q211",
+      "file": "Latvia.json"
+    },
+    {
+      "name": "Estonia",
+      "code": "Q191",
+      "file": "Estonia.json"
+    },
+    {
+      "name": "Ireland",
+      "code": "Q27",
+      "file": "Ireland.json"
+    },
+    {
+      "name": "Iceland",
+      "code": "Q189",
+      "file": "Iceland.json"
+    },
+    {
+      "name": "Portugal",
+      "code": "Q45",
+      "file": "Portugal.json"
+    },
+    {
+      "name": "Greece",
+      "code": "Q41",
+      "file": "Greece.json"
+    },
+    {
+      "name": "Croatia",
+      "code": "Q224",
+      "file": "Croatia.json"
+    },
+    {
+      "name": "Slovenia",
+      "code": "Q215",
+      "file": "Slovenia.json"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "Q213",
+      "file": "Czech_Republic.json"
+    },
+    {
+      "name": "Slovakia",
+      "code": "Q214",
+      "file": "Slovakia.json"
+    },
+    {
+      "name": "Hungary",
+      "code": "Q28",
+      "file": "Hungary.json"
+    },
+    {
+      "name": "Romania",
+      "code": "Q218",
+      "file": "Romania.json"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "Q219",
+      "file": "Bulgaria.json"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "Q221",
+      "file": "North_Macedonia.json"
+    },
+    {
+      "name": "Albania",
+      "code": "Q222",
+      "file": "Albania.json"
+    },
+    {
+      "name": "Cyprus",
+      "code": "Q229",
+      "file": "Cyprus.json"
+    },
+    {
+      "name": "Malta",
+      "code": "Q233",
+      "file": "Malta.json"
+    },
+    {
+      "name": "Montenegro",
+      "code": "Q236",
+      "file": "Montenegro.json"
+    },
+    {
+      "name": "Serbia",
+      "code": "Q403",
+      "file": "Serbia.json"
+    },
+    {
+      "name": "Bosnia",
+      "code": "Q225",
+      "file": "Bosnia.json"
+    },
+    {
+      "name": "Taiwan",
+      "code": "Q865",
+      "file": "Taiwan.json"
+    },
+    {
+      "name": "Malaysia",
+      "code": "Q833",
+      "file": "Malaysia.json"
+    },
+    {
+      "name": "Singapore",
+      "code": "Q334",
+      "file": "Singapore.json"
+    },
+    {
+      "name": "Indonesia",
+      "code": "Q252",
+      "file": "Indonesia.json"
+    },
+    {
+      "name": "Philippines",
+      "code": "Q928",
+      "file": "Philippines.json"
+    },
+    {
+      "name": "Thailand",
+      "code": "Q869",
+      "file": "Thailand.json"
+    },
+    {
+      "name": "Vietnam",
+      "code": "Q881",
+      "file": "Vietnam.json"
+    },
+    {
+      "name": "Pakistan",
+      "code": "Q843",
+      "file": "Pakistan.json"
+    },
+    {
+      "name": "Lebanon",
+      "code": "Q822",
+      "file": "Lebanon.json"
+    },
+    {
+      "name": "Iraq",
+      "code": "Q796",
+      "file": "Iraq.json"
+    },
+    {
+      "name": "Israel",
+      "code": "Q801",
+      "file": "Israel.json"
+    },
+    {
+      "name": "Syria",
+      "code": "Q858",
+      "file": "Syria.json"
+    },
+    {
+      "name": "Jordan",
+      "code": "Q810",
+      "file": "Jordan.json"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "Q851",
+      "file": "Saudi_Arabia.json"
+    },
+    {
+      "name": "UAE",
+      "code": "Q878",
+      "file": "UAE.json"
+    },
+    {
+      "name": "Qatar",
+      "code": "Q846",
+      "file": "Qatar.json"
+    },
+    {
+      "name": "Kuwait",
+      "code": "Q817",
+      "file": "Kuwait.json"
+    },
+    {
+      "name": "Oman",
+      "code": "Q842",
+      "file": "Oman.json"
+    },
+    {
+      "name": "Bahrain",
+      "code": "Q398",
+      "file": "Bahrain.json"
+    },
+    {
+      "name": "Afghanistan",
+      "code": "Q889",
+      "file": "Afghanistan.json"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "Q231",
+      "file": "Ethiopia.json"
+    },
+    {
+      "name": "Laos",
+      "code": "Q819",
+      "file": "Laos.json"
+    },
+    {
+      "name": "Cambodia",
+      "code": "Q424",
+      "file": "Cambodia.json"
+    },
+    {
+      "name": "Myanmar",
+      "code": "Q836",
+      "file": "Myanmar.json"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "Q854",
+      "file": "Sri_Lanka.json"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "Q863",
+      "file": "Tajikistan.json"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "Q232",
+      "file": "Kazakhstan.json"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "Q265",
+      "file": "Uzbekistan.json"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "Q813",
+      "file": "Kyrgyzstan.json"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "Q874",
+      "file": "Turkmenistan.json"
+    },
+    {
+      "name": "North Korea",
+      "code": "Q423",
+      "file": "North_Korea.json"
+    },
+    {
+      "name": "Mongolia",
+      "code": "Q711",
+      "file": "Mongolia.json"
+    },
+    {
+      "name": "Iran",
+      "code": "Q794",
+      "file": "Iran.json"
+    },
+    {
+      "name": "Bhutan",
+      "code": "Q967",
+      "file": "Bhutan.json"
+    },
+    {
+      "name": "Nepal",
+      "code": "Q837",
+      "file": "Nepal.json"
+    },
+    {
+      "name": "Argentina",
+      "code": "Q414",
+      "file": "Argentina.json"
+    },
+    {
+      "name": "Peru",
+      "code": "Q419",
+      "file": "Peru.json"
+    },
+    {
+      "name": "Venezuela",
+      "code": "Q717",
+      "file": "Venezuela.json"
+    },
+    {
+      "name": "Colombia",
+      "code": "Q739",
+      "file": "Colombia.json"
+    },
+    {
+      "name": "Ecuador",
+      "code": "Q736",
+      "file": "Ecuador.json"
+    },
+    {
+      "name": "Bolivia",
+      "code": "Q750",
+      "file": "Bolivia.json"
+    },
+    {
+      "name": "Paraguay",
+      "code": "Q733",
+      "file": "Paraguay.json"
+    },
+    {
+      "name": "Uruguay",
+      "code": "Q77",
+      "file": "Uruguay.json"
+    },
+    {
+      "name": "Haiti",
+      "code": "Q790",
+      "file": "Haiti.json"
+    },
+    {
+      "name": "Jamaica",
+      "code": "Q766",
+      "file": "Jamaica.json"
+    },
+    {
+      "name": "Cuba",
+      "code": "Q241",
+      "file": "Cuba.json"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "Q800",
+      "file": "Costa_Rica.json"
+    },
+    {
+      "name": "Guatemala",
+      "code": "Q774",
+      "file": "Guatemala.json"
+    },
+    {
+      "name": "Honduras",
+      "code": "Q783",
+      "file": "Honduras.json"
+    },
+    {
+      "name": "El Salvador",
+      "code": "Q792",
+      "file": "El_Salvador.json"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "Q811",
+      "file": "Nicaragua.json"
+    },
+    {
+      "name": "Panama",
+      "code": "Q804",
+      "file": "Panama.json"
+    },
+    {
+      "name": "South Africa",
+      "code": "Q258",
+      "file": "South_Africa.json"
+    },
+    {
+      "name": "Nigeria",
+      "code": "Q1033",
+      "file": "Nigeria.json"
+    },
+    {
+      "name": "Morocco",
+      "code": "Q1028",
+      "file": "Morocco.json"
+    },
+    {
+      "name": "Cameroon",
+      "code": "Q1029",
+      "file": "Cameroon.json"
+    },
+    {
+      "name": "Angola",
+      "code": "Q1042",
+      "file": "Angola.json"
+    },
+    {
+      "name": "Kenya",
+      "code": "Q115",
+      "file": "Kenya.json"
+    },
+    {
+      "name": "Rwanda",
+      "code": "Q1037",
+      "file": "Rwanda.json"
+    },
+    {
+      "name": "Mauritius",
+      "code": "Q1025",
+      "file": "Mauritius.json"
+    },
+    {
+      "name": "Madagascar",
+      "code": "Q1019",
+      "file": "Madagascar.json"
+    },
+    {
+      "name": "DRC",
+      "code": "Q974",
+      "file": "DRC.json"
+    },
+    {
+      "name": "Uganda",
+      "code": "Q1036",
+      "file": "Uganda.json"
+    },
+    {
+      "name": "Malawi",
+      "code": "Q1020",
+      "file": "Malawi.json"
+    },
+    {
+      "name": "Sudan",
+      "code": "Q1049",
+      "file": "Sudan.json"
+    },
+    {
+      "name": "Somalia",
+      "code": "Q1045",
+      "file": "Somalia.json"
+    },
+    {
+      "name": "Tunisia",
+      "code": "Q948",
+      "file": "Tunisia.json"
+    },
+    {
+      "name": "Algeria",
+      "code": "Q262",
+      "file": "Algeria.json"
+    },
+    {
+      "name": "Libya",
+      "code": "Q1016",
+      "file": "Libya.json"
+    },
+    {
+      "name": "New Zealand",
+      "code": "Q664",
+      "file": "New_Zealand.json"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "Q691",
+      "file": "Papua_New_Guinea.json"
+    },
+    {
+      "name": "Fiji",
+      "code": "Q712",
+      "file": "Fiji.json"
+    },
+    {
+      "name": "Samoa",
+      "code": "Q683",
+      "file": "Samoa.json"
     }
   ]
 }

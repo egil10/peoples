@@ -1,0 +1,118 @@
+{
+  "country": "Indonesia",
+  "countryCode": "Q252",
+  "generated": "2025-12-14T01:55:20.791Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Anggun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anggun%2C%20Paris%2C%202015%20%28cropped%29.jpg",
+      "sitelinks": 147,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q221310",
+      "answerKey": "anggun"
+    },
+    {
+      "id": 2,
+      "name": "Agnez Mo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnez%20Mo%202019%20by%20Glenn%20Francis.jpg",
+      "sitelinks": 144,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1362169",
+      "answerKey": "agnez mo"
+    },
+    {
+      "id": 3,
+      "name": "Sukarno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sukarno%20HBS.jpg",
+      "sitelinks": 123,
+      "birthYear": "1901",
+      "deathYear": "1970",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76127",
+      "answerKey": "sukarno"
+    },
+    {
+      "id": 4,
+      "name": "Sukarno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Presiden%20Sukarno.jpg",
+      "sitelinks": 123,
+      "birthYear": "1901",
+      "deathYear": "1970",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76127",
+      "answerKey": "sukarno"
+    },
+    {
+      "id": 5,
+      "name": "Joko Widodo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joko%20Widodo%202019%20official%20portrait.jpg",
+      "sitelinks": 119,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3318231",
+      "answerKey": "joko widodo"
+    },
+    {
+      "id": 6,
+      "name": "Suharto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Suharto%2C%201993.jpg",
+      "sitelinks": 116,
+      "birthYear": "1921",
+      "deathYear": "2008",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44819",
+      "answerKey": "suharto"
+    },
+    {
+      "id": 7,
+      "name": "Megawati Soekarnoputri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Megawati%20Sukarnoputri%20-%20Indonesia.jpg",
+      "sitelinks": 93,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76179",
+      "answerKey": "megawati soekarnoputri"
+    },
+    {
+      "id": 8,
+      "name": "Susilo Bambang Yudhoyono",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susilo%20Bambang%20Yudhoyono%2C%20official%20presidential%20portrait%20%282009%29.jpg",
+      "sitelinks": 90,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57405",
+      "answerKey": "susilo bambang yudhoyono"
+    },
+    {
+      "id": 9,
+      "name": "B. J. Habibie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/B.%20J.%20Habibie%2C%20President%20of%20Indonesia%20portrait.jpg",
+      "sitelinks": 73,
+      "birthYear": "1936",
+      "deathYear": "2019",
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76156",
+      "answerKey": "b j habibie"
+    },
+    {
+      "id": 10,
+      "name": "Abdurrahman Wahid",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Abdurrahman%20Wahid%20-%20Indonesia.jpg",
+      "sitelinks": 73,
+      "birthYear": "1940",
+      "deathYear": "2009",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76167",
+      "answerKey": "abdurrahman wahid"
+    }
+  ]
+}

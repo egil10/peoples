@@ -1,0 +1,118 @@
+{
+  "country": "Nepal",
+  "countryCode": "Q837",
+  "generated": "2025-12-14T01:57:19.079Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Tenzing Norgay",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tenzing%20Norgay%2C%201953%20-%202.jpg",
+      "sitelinks": 94,
+      "birthYear": "1914",
+      "deathYear": "1986",
+      "occupation": "mountain guide",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80732",
+      "answerKey": "tenzing norgay"
+    },
+    {
+      "id": 2,
+      "name": "Bidya Devi Bhandari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shinzo%20Abe%20and%20Bidhya%20Devi%20Bhandari%20at%20the%20Enthronement%20of%20Naruhito%20%281%29%20cropped.jpg",
+      "sitelinks": 81,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16193958",
+      "answerKey": "bidya devi bhandari"
+    },
+    {
+      "id": 3,
+      "name": "Suman Pokhrel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suman%20Pokhrel%2000543.jpg",
+      "sitelinks": 63,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17150957",
+      "answerKey": "suman pokhrel"
+    },
+    {
+      "id": 4,
+      "name": "Ram Baran Yadav",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Baran%20Yadav%2C%20portrait%20%28August%202014%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57441",
+      "answerKey": "ram baran yadav"
+    },
+    {
+      "id": 5,
+      "name": "Khadga Prasad Sharma Oli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%20of%20Nepal%2C%20Mr.%20K.P.%20Sharma%20Oli%20calls%20on%20the%20Prime%20Minister%2C%20Shri%20Narendra%20Modi%2C%20in%20New%20Delhi%20on%20April%2006%2C%202018%20%28cropped%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3195923",
+      "answerKey": "khadga prasad sharma oli"
+    },
+    {
+      "id": 6,
+      "name": "Pushpa Kamal Dahal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pushpa%20Kamal%20Dahal%202016.jpg",
+      "sitelinks": 56,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315500",
+      "answerKey": "pushpa kamal dahal"
+    },
+    {
+      "id": 7,
+      "name": "Sushila Karki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rt.%20Hon.%20Prime%20Minister%20Sushila%20Karki%20Official%20Portrait.jpg",
+      "sitelinks": 54,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23842116",
+      "answerKey": "sushila karki"
+    },
+    {
+      "id": 8,
+      "name": "Gyanendra of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gyanendra%2001.jpg",
+      "sitelinks": 53,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q201327",
+      "answerKey": "gyanendra of nepal"
+    },
+    {
+      "id": 9,
+      "name": "Manisha Koirala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manisha%20Koirala%20graces%20her%20film%20Dear%20Maya%E2%80%99s%20media%20meet%20%2805%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186606",
+      "answerKey": "manisha koirala"
+    },
+    {
+      "id": 10,
+      "name": "Birendra of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Birendra%20Bir%20Bikram%20Shah.jpg",
+      "sitelinks": 51,
+      "birthYear": "1945",
+      "deathYear": "2001",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q162306",
+      "answerKey": "birendra of nepal"
+    }
+  ]
+}

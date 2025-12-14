@@ -1,0 +1,118 @@
+{
+  "country": "Kyrgyzstan",
+  "countryCode": "Q813",
+  "generated": "2025-12-14T01:56:59.716Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Chinghiz Aitmatov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinghiz%20Aitmatov%20%282006-02-21%29.jpg",
+      "sitelinks": 99,
+      "birthYear": "1928",
+      "deathYear": "2008",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q484292",
+      "answerKey": "chinghiz aitmatov"
+    },
+    {
+      "id": 2,
+      "name": "Almazbek Atambaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Almazbek%20Atambayev%20%2809-11-2017%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24692",
+      "answerKey": "almazbek atambaev"
+    },
+    {
+      "id": 3,
+      "name": "Roza Otunbayeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roza%20Otunbayeva%20-%20Kyrgyzstan%20-%202011%20International%20Women%20of%20Courage%20awards.jpg",
+      "sitelinks": 71,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q485136",
+      "answerKey": "roza otunbayeva"
+    },
+    {
+      "id": 4,
+      "name": "Kurmanbek Bakiyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Kyrgyzstan%2C%20Kurmanbek%20Bakiyev.jpg",
+      "sitelinks": 62,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q484816",
+      "answerKey": "kurmanbek bakiyev"
+    },
+    {
+      "id": 5,
+      "name": "Sadyr Japarov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sadyr%20Japarov%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25597826",
+      "answerKey": "sadyr japarov"
+    },
+    {
+      "id": 6,
+      "name": "Sooronbay Jeenbekov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%20%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B0%20%D0%A1%D0%BE%D0%BE%D1%80%D0%BE%D0%BD%D0%B1%D0%B0%D0%B9%20%D0%96%D1%8D%D1%8D%D0%BD%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2.jpg",
+      "sitelinks": 57,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23810819",
+      "answerKey": "sooronbay jeenbekov"
+    },
+    {
+      "id": 7,
+      "name": "Askar Akayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Askar%20Akaev%20MoscowRia%2008-2016.jpg",
+      "sitelinks": 54,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q489893",
+      "answerKey": "askar akayev"
+    },
+    {
+      "id": 8,
+      "name": "Felix Kulov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Kulov%2022%20September%202010.jpg",
+      "sitelinks": 30,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457980",
+      "answerKey": "felix kulov"
+    },
+    {
+      "id": 9,
+      "name": "Muhammetkaliy Abulgaziyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mukhammedkalyi%20Abylgaziev%20in%20January%202019.jpg",
+      "sitelinks": 30,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37777535",
+      "answerKey": "muhammetkaliy abulgaziyev"
+    },
+    {
+      "id": 10,
+      "name": "Temir Sariyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Temir%20Sariev%20in%20August%202017.jpg",
+      "sitelinks": 27,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3736573",
+      "answerKey": "temir sariyev"
+    }
+  ]
+}

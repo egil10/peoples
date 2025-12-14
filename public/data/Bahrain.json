@@ -1,0 +1,118 @@
+{
+  "country": "Bahrain",
+  "countryCode": "Q398",
+  "generated": "2025-12-14T01:56:31.973Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Hamad II of Bahrain",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamad%20bin%20Isa%20Al%20Khalifa%20May%202025.jpg",
+      "sitelinks": 78,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57352",
+      "answerKey": "hamad ii of bahrain"
+    },
+    {
+      "id": 2,
+      "name": "Khalifa bin Salman Al Khalifa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shaikh%20Khalifa%20bin%20Salman%20Al%20Khalifa.jpg",
+      "sitelinks": 46,
+      "birthYear": "1935",
+      "deathYear": "2020",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57726",
+      "answerKey": "khalifa bin salman al khalifa"
+    },
+    {
+      "id": 3,
+      "name": "Salman bin Hamad, Crown Prince of Bahrain",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kingdom%20of%20Bahrain%20Crown%20Prince%20and%20Prime%20Minister%2C%20His%20Royal%20Highness%20Salman%20bin%20Hamad%20Al%20Khalifa%20%28Salman%20bin%20Hamad%20bin%20Isa%20Al%20Khalifa%29%20participates%20in%20a%20bilateral%20exchange%20at%20the%20Pentagon%20on%20September%2014%2C%202023%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58140",
+      "answerKey": "salman bin hamad crown prince of bahrain"
+    },
+    {
+      "id": 4,
+      "name": "Isa II of Bahrain",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Essa%20bin%20Salman%20Al-Khalifa%201998.jpg",
+      "sitelinks": 35,
+      "birthYear": "1933",
+      "deathYear": "1999",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q309650",
+      "answerKey": "isa ii of bahrain"
+    },
+    {
+      "id": 5,
+      "name": "Winfred Yavi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019-09-01%20ISTAF%202019%202000%20m%20steeplechase%20%28Martin%20Rulsch%29%2002.jpg",
+      "sitelinks": 33,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "steeplechase runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q36697245",
+      "answerKey": "winfred yavi"
+    },
+    {
+      "id": 6,
+      "name": "Kalkidan Gezahegne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalkidan%20Gezahegn%20Birmingham%20indoor%202010.jpg",
+      "sitelinks": 31,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q443605",
+      "answerKey": "kalkidan gezahegne"
+    },
+    {
+      "id": 7,
+      "name": "Maryam Yusuf Jamal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maryam%20Jamal%20Birmingham%20indoor%202010.jpg",
+      "sitelinks": 31,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5865",
+      "answerKey": "maryam yusuf jamal"
+    },
+    {
+      "id": 8,
+      "name": "Salwa Eid Naser",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salwa%20Eid%20Naser%20at%20Doha%202019%20%28cropped%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21089520",
+      "answerKey": "salwa eid naser"
+    },
+    {
+      "id": 9,
+      "name": "Rashid Ramzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osaka07%20D6A%20Rashid%20Ramzi.jpg",
+      "sitelinks": 29,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315111",
+      "answerKey": "rashid ramzi"
+    },
+    {
+      "id": 10,
+      "name": "Ruth Jebet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PortraitRuthJebet3000mStpRio2016.jpg",
+      "sitelinks": 28,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16209255",
+      "answerKey": "ruth jebet"
+    }
+  ]
+}

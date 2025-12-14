@@ -1,0 +1,118 @@
+{
+  "country": "Libya",
+  "countryCode": "Q1016",
+  "generated": "2025-12-14T02:00:32.502Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Omar al-Mukhtar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Mukhtar%2013.jpg",
+      "sitelinks": 57,
+      "birthYear": "1858",
+      "deathYear": "1931",
+      "occupation": "partisan",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212388",
+      "answerKey": "omar almukhtar"
+    },
+    {
+      "id": 2,
+      "name": "Idris I of Libya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koning%20van%20Lybie%20Mohammed%20Sayed%20el%20Idriss%2C%20Bestanddeelnr%20905-4130.jpg",
+      "sitelinks": 56,
+      "birthYear": "1890",
+      "deathYear": "1983",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q116430",
+      "answerKey": "idris i of libya"
+    },
+    {
+      "id": 3,
+      "name": "Idris I of Libya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Koning%20van%20Lybie%20Mohammed%20Sayed%20el%20Idriss%2C%20Bestanddeelnr%20905-4130.jpg",
+      "sitelinks": 56,
+      "birthYear": "1889",
+      "deathYear": "1983",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q116430",
+      "answerKey": "idris i of libya"
+    },
+    {
+      "id": 4,
+      "name": "Fayez al-Sarraj",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fayez%20al-Sarraj%20in%20Washington%20-%202017%20%2838751877521%29%20%28cropped%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "architect",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21089561",
+      "answerKey": "fayez alsarraj"
+    },
+    {
+      "id": 5,
+      "name": "Saif al-Islam al-Gaddafi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saif%20al-Islam%20Gaddafi%202021.png",
+      "sitelinks": 48,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "architect",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208135",
+      "answerKey": "saif alislam algaddafi"
+    },
+    {
+      "id": 6,
+      "name": "Khalifa Belqasim Haftar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Libyan%20General%20Khalifa%20Haftar%20in%202023.jpg",
+      "sitelinks": 45,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2298768",
+      "answerKey": "khalifa belqasim haftar"
+    },
+    {
+      "id": 7,
+      "name": "Mustafa Abdul Jalil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mustafa%20Abdul%20Jalil.jpg",
+      "sitelinks": 39,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q274769",
+      "answerKey": "mustafa abdul jalil"
+    },
+    {
+      "id": 8,
+      "name": "Mahmoud Jibril",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahmoud%20Jibril%20-%20World%20Economic%20Forum%20Special%20Meeting%20on%20Economic%20Growth%20and%20Job%20Creation%20in%20the%20Arab%20World%20cropped%20GNC.png",
+      "sitelinks": 36,
+      "birthYear": "1952",
+      "deathYear": "2020",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296724",
+      "answerKey": "mahmoud jibril"
+    },
+    {
+      "id": 9,
+      "name": "Mohamed al-Menfi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20al-Menfi%20Summit%20of%20NAM%20Contact%20Group%20on%20fight%20against%20COVID-19%2073%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q105319610",
+      "answerKey": "mohamed almenfi"
+    },
+    {
+      "id": 10,
+      "name": "Ali Zeidan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Zeidan%20at%20US%20State%20Department%202013.png",
+      "sitelinks": 30,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57847",
+      "answerKey": "ali zeidan"
+    }
+  ]
+}

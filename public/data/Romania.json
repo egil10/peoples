@@ -1,0 +1,118 @@
+{
+  "country": "Romania",
+  "countryCode": "Q218",
+  "generated": "2025-12-14T01:54:26.915Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Herta Müller",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herta%20M%C3%BCller%20Brucknerhaus%20Linz%202025%20BHO-4188.jpg",
+      "sitelinks": 125,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38049",
+      "answerKey": "herta muller"
+    },
+    {
+      "id": 2,
+      "name": "Eugène Ionesco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eugene%20Ionesco%2004.jpg",
+      "sitelinks": 102,
+      "birthYear": "1909",
+      "deathYear": "1994",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46706",
+      "answerKey": "eugene ionesco"
+    },
+    {
+      "id": 3,
+      "name": "Maia Sandu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maia%20Sandu%2C%20September%202025.jpg",
+      "sitelinks": 94,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15071069",
+      "answerKey": "maia sandu"
+    },
+    {
+      "id": 4,
+      "name": "Klaus Iohannis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20Iohannis%20-%20Feb%202024.jpg",
+      "sitelinks": 89,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q701484",
+      "answerKey": "klaus iohannis"
+    },
+    {
+      "id": 5,
+      "name": "Nadia Comăneci",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadia%20Com%C4%83neci%20Montreal1976c.jpg",
+      "sitelinks": 88,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "artistic gymnast",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q33228",
+      "answerKey": "nadia comaneci"
+    },
+    {
+      "id": 6,
+      "name": "Emil Cioran",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cioran%20in%20Romania.jpg",
+      "sitelinks": 81,
+      "birthYear": "1911",
+      "deathYear": "1995",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193405",
+      "answerKey": "emil cioran"
+    },
+    {
+      "id": 7,
+      "name": "Tristan Tzara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tristan%20Tzara.jpg",
+      "sitelinks": 81,
+      "birthYear": "1896",
+      "deathYear": "1963",
+      "occupation": "photographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16409",
+      "answerKey": "tristan tzara"
+    },
+    {
+      "id": 8,
+      "name": "Traian Băsescu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EPP%20Congress%204732.jpg",
+      "sitelinks": 81,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57279",
+      "answerKey": "traian basescu"
+    },
+    {
+      "id": 9,
+      "name": "Ion Iliescu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Iliescu%20%282004%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1930",
+      "deathYear": "2025",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189575",
+      "answerKey": "ion iliescu"
+    },
+    {
+      "id": 10,
+      "name": "Simona Halep",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Halep%20RG18%20%2825%29%20%2842929445712%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230156",
+      "answerKey": "simona halep"
+    }
+  ]
+}

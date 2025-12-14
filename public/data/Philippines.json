@@ -1,0 +1,118 @@
+{
+  "country": "Philippines",
+  "countryCode": "Q928",
+  "generated": "2025-12-14T01:55:29.977Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Ferdinand Marcos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Marcos%20%28cropped%29.jpg",
+      "sitelinks": 136,
+      "birthYear": "1917",
+      "deathYear": "1989",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1463",
+      "answerKey": "ferdinand marcos"
+    },
+    {
+      "id": 2,
+      "name": "Rodrigo Duterte",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodrigo%20Duterte%20and%20Laotian%20President%20Bounnhang%20Vorachith%20%28cropped%29.jpg",
+      "sitelinks": 113,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457786",
+      "answerKey": "rodrigo duterte"
+    },
+    {
+      "id": 3,
+      "name": "Corazon Aquino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Corazon%20Aquino%201986.jpg",
+      "sitelinks": 105,
+      "birthYear": "1933",
+      "deathYear": "2009",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1480",
+      "answerKey": "corazon aquino"
+    },
+    {
+      "id": 4,
+      "name": "Imelda Marcos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Imelda%20Marcos.jpg",
+      "sitelinks": 101,
+      "birthYear": "1929",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q285536",
+      "answerKey": "imelda marcos"
+    },
+    {
+      "id": 5,
+      "name": "Gloria Macapagal Arroyo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloria%20Macapagal%20Arroyo%20WEF%202009-crop.jpg",
+      "sitelinks": 87,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123665",
+      "answerKey": "gloria macapagal arroyo"
+    },
+    {
+      "id": 6,
+      "name": "Benigno Aquino III",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Noynoy%20Aquino.jpg",
+      "sitelinks": 75,
+      "birthYear": "1960",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1464",
+      "answerKey": "benigno aquino iii"
+    },
+    {
+      "id": 7,
+      "name": "Maria Ressa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025-10-19%20Buchmesse%20Maria%20Ressa%20%284%29.jpg",
+      "sitelinks": 74,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6761526",
+      "answerKey": "maria ressa"
+    },
+    {
+      "id": 8,
+      "name": "Manny Pacquiao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacquiao%20and%20Didal%20%28cropped%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q486359",
+      "answerKey": "manny pacquiao"
+    },
+    {
+      "id": 9,
+      "name": "Fidel Ramos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fidel%20Valdez%20Ramos%20Official%20Photo%20as%20President%20of%20the%20Philippines%20%281995%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1928",
+      "deathYear": "2022",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215351",
+      "answerKey": "fidel ramos"
+    },
+    {
+      "id": 10,
+      "name": "Emilio Aguinaldo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emilio%20Aguinaldo%20ca.%201919%20%28Restored%29.jpg",
+      "sitelinks": 68,
+      "birthYear": "1869",
+      "deathYear": "1964",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188939",
+      "answerKey": "emilio aguinaldo"
+    }
+  ]
+}

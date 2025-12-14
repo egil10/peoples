@@ -1,0 +1,118 @@
+{
+  "country": "Turkmenistan",
+  "countryCode": "Q874",
+  "generated": "2025-12-14T01:56:59.836Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Saparmurat Niyazov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nyyazov%20in%20February%201998.jpg",
+      "sitelinks": 89,
+      "birthYear": "1940",
+      "deathYear": "2006",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82918",
+      "answerKey": "saparmurat niyazov"
+    },
+    {
+      "id": 2,
+      "name": "Gurbanguly Berdimuhamedow",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gurbanguly%20Berdimuhamedov%20in%20Baku%20on%20July%2016%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "dentist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57530",
+      "answerKey": "gurbanguly berdimuhamedow"
+    },
+    {
+      "id": 3,
+      "name": "Serdar Berdimuhamedow",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Serdar%20Berdimuhamedov%20in%20Japan%20on%20April%2015%2C%202025.jpg",
+      "sitelinks": 57,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51874548",
+      "answerKey": "serdar berdimuhamedow"
+    },
+    {
+      "id": 4,
+      "name": "Oleg Kononenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oleg%20Kononenko%20Official%20Portrait%20%28jsc2023e052791%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "astronaut",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q375659",
+      "answerKey": "oleg kononenko"
+    },
+    {
+      "id": 5,
+      "name": "Kurban Berdyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosrov-Rubin%2018%20%2814%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q368902",
+      "answerKey": "kurban berdyev"
+    },
+    {
+      "id": 6,
+      "name": "Ruslan Mingazov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruslans%20Mingazovs.jpg",
+      "sitelinks": 23,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q557336",
+      "answerKey": "ruslan mingazov"
+    },
+    {
+      "id": 7,
+      "name": "Kara Yülük Osman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aq%20Qoyunlu%20domains%2C%20circa%201435.png",
+      "sitelinks": 22,
+      "birthYear": "1356",
+      "deathYear": "1435",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q600829",
+      "answerKey": "kara yuluk osman"
+    },
+    {
+      "id": 8,
+      "name": "Kara Yülük Osman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aq%20Qoyunlu%20domains%2C%20circa%201435.png",
+      "sitelinks": 22,
+      "birthYear": "1350",
+      "deathYear": "1435",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q600829",
+      "answerKey": "kara yuluk osman"
+    },
+    {
+      "id": 9,
+      "name": "Raşit Meredow",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rashid%20Meredov%202025%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58141",
+      "answerKey": "rasit meredow"
+    },
+    {
+      "id": 10,
+      "name": "Rolan Gusev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%BE%D0%BB%D0%B0%D0%BD%20%D0%93%D1%83%D1%81%D0%B5%D0%B2.jpg",
+      "sitelinks": 21,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q561553",
+      "answerKey": "rolan gusev"
+    }
+  ]
+}

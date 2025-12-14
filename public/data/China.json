@@ -1,7 +1,7 @@
 {
   "country": "China",
   "countryCode": "Q148",
-  "generated": "2025-12-14T01:33:18.915Z",
+  "generated": "2025-12-14T01:38:59.556Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -35,7 +35,7 @@
       "sitelinks": 172,
       "birthYear": "1899",
       "deathYear": "1982",
-      "occupation": "ethnologist",
+      "occupation": "folklorist",
       "description": "Chinese historian, ethnologist and educator (1899-1982)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
       "answerKey": "huang xianfan"
@@ -47,7 +47,7 @@
       "sitelinks": 172,
       "birthYear": "1899",
       "deathYear": "1982",
-      "occupation": "ethnologist",
+      "occupation": "folklorist",
       "description": "Chinese historian, ethnologist and educator (1899-1982)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
       "answerKey": "huang xianfan"
@@ -95,7 +95,7 @@
       "sitelinks": 121,
       "birthYear": "1942",
       "deathYear": null,
-      "occupation": "engineer",
+      "occupation": "politician",
       "description": "former General Secretary of the Chinese Communist Party",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15029",
       "answerKey": "hu jintao"

@@ -1,0 +1,118 @@
+{
+  "country": "Guatemala",
+  "countryCode": "Q774",
+  "generated": "2025-12-14T01:58:32.863Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Miguel Ángel Asturias",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Angel%20Asturias.jpg",
+      "sitelinks": 102,
+      "birthYear": "1899",
+      "deathYear": "1974",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q75603",
+      "answerKey": "miguel angel asturias"
+    },
+    {
+      "id": 2,
+      "name": "Rigoberta Menchú",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20240620%20NP%20PRESIDENTE%20BERNARDO%20AREVALO%20Y%20KARIN%20HERRERA%20PARTICIPAN%20EN%20DIALOGO%20PREMIO%20NOBEL%20DE%20LA%20PAZ%20054.jpg",
+      "sitelinks": 90,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188620",
+      "answerKey": "rigoberta menchu"
+    },
+    {
+      "id": 3,
+      "name": "Oscar Isaac",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Isaac%20at%2082nd%20Venice%20International%20Film%20Festival-1%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q336788",
+      "answerKey": "oscar isaac"
+    },
+    {
+      "id": 4,
+      "name": "Jacobo Árbenz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacoboarbenz1950.jpg",
+      "sitelinks": 54,
+      "birthYear": "1913",
+      "deathYear": "1971",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216943",
+      "answerKey": "jacobo arbenz"
+    },
+    {
+      "id": 5,
+      "name": "Jacobo Árbenz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacobo%20Arbenz%201951%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1913",
+      "deathYear": "1971",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216943",
+      "answerKey": "jacobo arbenz"
+    },
+    {
+      "id": 6,
+      "name": "Jimmy Morales",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Trump%20and%20the%20First%20Lady%20Welcome%20the%20President%20and%20First%20Lady%20of%20Guatemala%20%2849238996191%29%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17995110",
+      "answerKey": "jimmy morales"
+    },
+    {
+      "id": 7,
+      "name": "Otto Pérez Molina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Otto%20Perez%20Molina%20at%20World%20Economic%20Forum%202013-cropped.jpg",
+      "sitelinks": 46,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57539",
+      "answerKey": "otto perez molina"
+    },
+    {
+      "id": 8,
+      "name": "Álvaro Colom",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvaro%20Colom%20Caballeros.jpg",
+      "sitelinks": 45,
+      "birthYear": "1951",
+      "deathYear": "2023",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q250924",
+      "answerKey": "alvaro colom"
+    },
+    {
+      "id": 9,
+      "name": "Alejandro Giammattei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alejandro%20Giammattei%202023%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2134696",
+      "answerKey": "alejandro giammattei"
+    },
+    {
+      "id": 10,
+      "name": "Efraín Ríos Montt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Retrato%20oficial%20de%20Presidente%20Efra%C3%ADn%20R%C3%ADos%20Montt%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1926",
+      "deathYear": "2018",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q467077",
+      "answerKey": "efrain rios montt"
+    }
+  ]
+}

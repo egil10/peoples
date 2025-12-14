@@ -1,0 +1,118 @@
+{
+  "country": "South Africa",
+  "countryCode": "Q258",
+  "generated": "2025-12-14T01:58:51.306Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Nelson Mandela",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20Mandela%201994.jpg",
+      "sitelinks": 292,
+      "birthYear": "1918",
+      "deathYear": "2013",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8023",
+      "answerKey": "nelson mandela"
+    },
+    {
+      "id": 2,
+      "name": "Elon Musk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20-%2054820081119%20%28cropped%29.jpg",
+      "sitelinks": 194,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317521",
+      "answerKey": "elon musk"
+    },
+    {
+      "id": 3,
+      "name": "Nadine Gordimer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nadine%20Gordimer%2001.JPG",
+      "sitelinks": 123,
+      "birthYear": "1923",
+      "deathYear": "2014",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47619",
+      "answerKey": "nadine gordimer"
+    },
+    {
+      "id": 4,
+      "name": "Charlize Theron",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlize-theron-IMG%206045.jpg",
+      "sitelinks": 117,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80046",
+      "answerKey": "charlize theron"
+    },
+    {
+      "id": 5,
+      "name": "Desmond Tutu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Archbishop-Tutu-medium.jpg",
+      "sitelinks": 117,
+      "birthYear": "1931",
+      "deathYear": "2021",
+      "occupation": "archbishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43033",
+      "answerKey": "desmond tutu"
+    },
+    {
+      "id": 6,
+      "name": "J. M. Coetzee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.%20Coetzee.JPG",
+      "sitelinks": 116,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43293",
+      "answerKey": "j m coetzee"
+    },
+    {
+      "id": 7,
+      "name": "Thabo Mbeki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SthAfrica.ThaboMbeki.01.jpg",
+      "sitelinks": 108,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q101547",
+      "answerKey": "thabo mbeki"
+    },
+    {
+      "id": 8,
+      "name": "Jacob Zuma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20President%20Vladimir%20Putin%20alongside%20South%20African%20President%20Jacob%20Zuma%20%28cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57282",
+      "answerKey": "jacob zuma"
+    },
+    {
+      "id": 9,
+      "name": "Cyril Ramaphosa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/21.11.2025%20%E2%80%93%20Presidente%20da%20Rep%C3%BAblica%20da%20%C3%81frica%20do%20Sul%2C%20Cyril%20Ramaphosa%20%2854938010569%29%20%28cropped%29.jpg",
+      "sitelinks": 96,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1148669",
+      "answerKey": "cyril ramaphosa"
+    },
+    {
+      "id": 10,
+      "name": "Miriam Makeba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miriam%20makeba%2001.jpg",
+      "sitelinks": 94,
+      "birthYear": "1932",
+      "deathYear": "2008",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146256",
+      "answerKey": "miriam makeba"
+    }
+  ]
+}

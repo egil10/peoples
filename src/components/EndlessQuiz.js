@@ -1,30 +1,28 @@
 import React, { useState, useEffect } from 'react';
-import { Image, User, TrendingUp, Award, Check, X, Filter } from 'lucide-react';
+import { Image, User, Award, Check, X, Filter, Timer } from 'lucide-react';
 import './EndlessQuiz.css';
 
 function calculateElo(currentElo, isCorrect, questionDifficulty = 1500) {
     const K = 32;
     const expectedScore = 1 / (1 + Math.pow(10, (questionDifficulty - currentElo) / 400));
     const actualScore = isCorrect ? 1 : 0;
-    const newElo = Math.round(currentElo + K * (actualScore - expectedScore));
-    return newElo;
+    return Math.round(currentElo + K * (actualScore - expectedScore));
 }
 
 function getEloRank(elo) {
-    if (elo >= 2400) return { title: 'Legendary', color: '#FFD700' };
-    if (elo >= 2200) return { title: 'Master', color: '#C0C0C0' };
-    if (elo >= 2000) return { title: 'Expert', color: '#CD7F32' };
-    if (elo >= 1800) return { title: 'Advanced', color: '#4A90E2' };
-    if (elo >= 1600) return { title: 'Intermediate', color: '#50C878' };
-    if (elo >= 1400) return { title: 'Beginner', color: '#9B9B9B' };
-    return { title: 'Novice', color: '#6C757D' };
+    if (elo >= 2400) return { title: 'Legendary', color: '#0066FF' };
+    if (elo >= 2200) return { title: 'Master', color: '#0066FF' };
+    if (elo >= 2000) return { title: 'Expert', color: '#0066FF' };
+    if (elo >= 1800) return { title: 'Advanced', color: '#0066FF' };
+    if (elo >= 1600) return { title: 'Intermediate', color: '#666' };
+    return { title: 'Beginner', color: '#999' };
 }
 
 function preloadImage(src) {
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
         const img = new window.Image();
         img.onload = () => resolve(img);
-        img.onerror = reject;
+        img.onerror = () => resolve(null);
         img.src = src;
     });
 }
@@ -44,6 +42,7 @@ function EndlessQuiz({ allPeopleData }) {
     const [correctCount, setCorrectCount] = useState(0);
     const [showCountryFilter, setShowCountryFilter] = useState(false);
     const [preloadedImages, setPreloadedImages] = useState(new Set());
+    const [autoAdvanceDelay, setAutoAdvanceDelay] = useState(2); // seconds
 
     useEffect(() => {
         const flattened = [];
@@ -89,7 +88,7 @@ function EndlessQuiz({ allPeopleData }) {
         const imagesToLoad = question.options
             .map(p => p.image)
             .filter(img => img && !preloadedImages.has(img));
-        const promises = imagesToLoad.map(src => preloadImage(src).catch(() => null));
+        const promises = imagesToLoad.map(src => preloadImage(src));
         await Promise.all(promises);
         setPreloadedImages(prev => {
             const next = new Set(prev);
@@ -154,10 +153,12 @@ function EndlessQuiz({ allPeopleData }) {
         const newElo = calculateElo(elo, isCorrect, currentQuestion.correct.difficulty);
         setElo(newElo);
 
-        // Auto-advance after 2.5 seconds
-        setTimeout(() => {
-            handleNext();
-        }, 2500);
+        // Auto-advance based on delay setting
+        if (autoAdvanceDelay > 0) {
+            setTimeout(() => {
+                handleNext();
+            }, autoAdvanceDelay * 1000);
+        }
     };
 
     const toggleGameMode = () => {
@@ -168,12 +169,16 @@ function EndlessQuiz({ allPeopleData }) {
         setIsAnswered(false);
     };
 
+    const cycleDelay = () => {
+        setAutoAdvanceDelay(prev => (prev + 1) % 6); // 0-5 seconds
+    };
+
     if (!currentQuestion) {
         return (
-            <div className="app-container">
-                <div className="loading">
-                    <div className="spinner"></div>
-                    <p className="text-secondary">Loading...</p>
+            <div className="quiz-container">
+                <div className="loading-screen">
+                    <div className="modern-spinner"></div>
+                    <p>Loading Quiz...</p>
                 </div>
             </div>
         );
@@ -181,61 +186,73 @@ function EndlessQuiz({ allPeopleData }) {
 
     const rank = getEloRank(elo);
     const accuracy = totalAnswered > 0 ? Math.round((correctCount / totalAnswered) * 100) : 0;
-    const countries = [...new Set(allPeople.map(p => p.country))];
+    const countries = [...new Set(allPeople.map(p => p.country))].sort();
 
     return (
         <div className="quiz-container">
-            <div className="quiz-header-minimal">
-                <div className="stats-minimal"  >
-                    <div className="stat-item">
-                        <TrendingUp size={14} />
-                        <span style={{ color: rank.color }}>{elo}</span>
+            <header className="quiz-header">
+                <div className="header-left">
+                    <div className="stat">
+                        <span className="stat-value" style={{ color: rank.color }}>{elo}</span>
+                        <span className="stat-label">{rank.title}</span>
                     </div>
-                    <div className="stat-item">
-                        <Award size={14} />
-                        <span>{streak}</span>
+                    <div className="stat">
+                        <Award size={16} />
+                        <span className="stat-value">{streak}</span>
                     </div>
-                    <div className="stat-item">
-                        <span>{accuracy}%</span>
+                    <div className="stat">
+                        <span className="stat-value">{accuracy}%</span>
                     </div>
-                    <div className="stat-item question-num">
+                    <div className="stat question-number">
                         #{totalAnswered + 1}
                     </div>
                 </div>
-                <div className="controls-minimal">
-                    <button className={`mode-btn ${gameMode === 'image-to-name' ? 'active' : ''}`} onClick={toggleGameMode}>
-                        <Image size={16} />
+
+                <div className="header-right">
+                    <button className={`control-btn ${gameMode === 'image-to-name' ? 'active' : ''}`} onClick={toggleGameMode} title="Image → Names">
+                        <Image size={18} />
                     </button>
-                    <button className={`mode-btn ${gameMode === 'name-to-image' ? 'active' : ''}`} onClick={toggleGameMode}>
-                        <User size={16} />
+                    <button className={`control-btn ${gameMode === 'name-to-image' ? 'active' : ''}`} onClick={toggleGameMode} title="Name → Images">
+                        <User size={18} />
                     </button>
-                    <div className="filter-wrapper">
-                        <button className="filter-btn" onClick={() => setShowCountryFilter(!showCountryFilter)}>
-                            <Filter size={16} />
+
+                    <button className="control-btn" onClick={cycleDelay} title={`Auto-advance: ${autoAdvanceDelay}s`}>
+                        <Timer size={18} />
+                        <span className="delay-badge">{autoAdvanceDelay}s</span>
+                    </button>
+
+                    <div className="filter-container">
+                        <button className="control-btn" onClick={() => setShowCountryFilter(!showCountryFilter)}>
+                            <Filter size={18} />
                         </button>
                         {showCountryFilter && (
-                            <div className="dropdown">
-                                <button className={selectedCountry === 'all' ? 'active' : ''} onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}>All</button>
-                                {countries.sort().map(country => (
-                                    <button key={country} className={selectedCountry === country ? 'active' : ''} onClick={() => { setSelectedCountry(country); setShowCountryFilter(false); }}>{country}</button>
+                            <div className="country-menu">
+                                <button className={selectedCountry === 'all' ? 'active' : ''} onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}>
+                                    All Countries ({allPeople.length})
+                                </button>
+                                {countries.map(country => (
+                                    <button key={country} className={selectedCountry === country ? 'active' : ''} onClick={() => { setSelectedCountry(country); setShowCountryFilter(false); }}>
+                                        {country} ({allPeople.filter(p => p.country === country).length})
+                                    </button>
                                 ))}
                             </div>
                         )}
                     </div>
                 </div>
-            </div>
+            </header>
 
-            <div className="quiz-main">
+            <main className="quiz-content">
                 {gameMode === 'image-to-name' ? (
-                    <div className="layout-horizontal">
-                        <div className="image-large">
-                            <img src={currentQuestion.correct.image} alt="Who is this?" />
+                    <div className="layout-split">
+                        <div className="image-section">
+                            <img src={currentQuestion.correct.image} alt="Who?" />
                         </div>
-                        <div className="options-vertical">
+
+                        <div className="options-section">
                             {currentQuestion.options.map((person, index) => {
                                 const isSelected = selectedAnswer?.wikidataUrl === person.wikidataUrl;
                                 const isCorrect = person.wikidataUrl === currentQuestion.correct.wikidataUrl;
-                                let className = 'option-card';
+                                let className = 'option';
                                 if (isAnswered) {
                                     if (isCorrect) className += ' correct';
                                     else if (isSelected) className += ' incorrect';
@@ -243,23 +260,23 @@ function EndlessQuiz({ allPeopleData }) {
                                 }
                                 return (
                                     <button key={person.wikidataUrl} className={className} onClick={() => handleAnswerSelect(person)} disabled={isAnswered}>
-                                        <span className="letter">{String.fromCharCode(65 + index)}</span>
-                                        <span className="name">{person.name}</span>
-                                        {isAnswered && isCorrect && <Check size={18} />}
-                                        {isAnswered && isSelected && !isCorrect && <X size={18} />}
+                                        <span className="option-letter">{String.fromCharCode(65 + index)}</span>
+                                        <span className="option-name">{person.name}</span>
+                                        {isAnswered && isCorrect && <Check size={20} />}
+                                        {isAnswered && isSelected && !isCorrect && <X size={20} />}
                                     </button>
                                 );
                             })}
                         </div>
                     </div>
                 ) : (
-                    <div className="layout-vertical">
-                        <h2 className="name-prompt">{currentQuestion.correct.name}</h2>
-                        <div className="images-horizontal">
+                    <div className="layout-name-top">
+                        <h2 className="name-question">{currentQuestion.correct.name}</h2>
+                        <div className="images-grid">
                             {currentQuestion.options.map((person, index) => {
                                 const isSelected = selectedAnswer?.wikidataUrl === person.wikidataUrl;
                                 const isCorrect = person.wikidataUrl === currentQuestion.correct.wikidataUrl;
-                                let className = 'image-card';
+                                let className = 'image-option';
                                 if (isAnswered) {
                                     if (isCorrect) className += ' correct';
                                     else if (isSelected) className += ' incorrect';
@@ -268,9 +285,9 @@ function EndlessQuiz({ allPeopleData }) {
                                 return (
                                     <button key={person.wikidataUrl} className={className} onClick={() => handleAnswerSelect(person)} disabled={isAnswered}>
                                         <img src={person.image} alt={`Option ${index + 1}`} />
-                                        <span className="letter-overlay">{String.fromCharCode(65 + index)}</span>
-                                        {isAnswered && isCorrect && <Check size={28} className="result-icon" />}
-                                        {isAnswered && isSelected && !isCorrect && <X size={28} className="result-icon" />}
+                                        <span className="img-letter">{String.fromCharCode(65 + index)}</span>
+                                        {isAnswered && isCorrect && <Check size={32} className="result-check" />}
+                                        {isAnswered && isSelected && !isCorrect && <X size={32} className="result-x" />}
                                     </button>
                                 );
                             })}
@@ -279,26 +296,39 @@ function EndlessQuiz({ allPeopleData }) {
                 )}
 
                 {isAnswered && (
-                    <div className="info-bar">
-                        {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                            <div className="info-correct">
-                                <Check size={16} />
-                                <span>+{calculateElo(elo, true, currentQuestion.correct.difficulty) - elo}</span>
+                    <div className="answer-info">
+                        <div className={`info-pill ${selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? 'correct' : 'incorrect'}`}>
+                            <div className="pill-header">
+                                {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
+                                    <>
+                                        <Check size={20} />
+                                        <span>Correct! +{calculateElo(elo, true, currentQuestion.correct.difficulty) - elo}</span>
+                                    </>
+                                ) : (
+                                    <>
+                                        <X size={20} />
+                                        <span>{currentQuestion.correct.name}</span>
+                                    </>
+                                )}
                             </div>
-                        ) : (
-                            <div className="info-incorrect">
-                                <X size={16} />
-                                <span>{currentQuestion.correct.name}</span>
+
+                            <div className="pill-details">
+                                {currentQuestion.correct.occupation && <p><strong>Occupation:</strong> {currentQuestion.correct.occupation}</p>}
+                                {currentQuestion.correct.description && <p className="description">{currentQuestion.correct.description}</p>}
+                                {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                    <p><strong>Years:</strong> {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || 'present'}</p>
+                                )}
+                                <p><strong>Country:</strong> {currentQuestion.correct.country}</p>
+                                <p className="sitelinks">{currentQuestion.correct.sitelinks} Wikipedia articles</p>
                             </div>
-                        )}
-                        {currentQuestion.correct.occupation && <span className="info-detail">{currentQuestion.correct.occupation}</span>}
-                        {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                            <span className="info-detail">{currentQuestion.correct.birthYear || '?'}–{currentQuestion.correct.deathYear || ''}</span>
-                        )}
-                        <span className="info-detail country-badge">{currentQuestion.correct.country}</span>
+
+                            {autoAdvanceDelay === 0 && (
+                                <button className="next-btn" onClick={handleNext}>Next Question →</button>
+                            )}
+                        </div>
                     </div>
                 )}
-            </div>
+            </main>
         </div>
     );
 }

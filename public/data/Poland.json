@@ -1,0 +1,118 @@
+{
+  "country": "Poland",
+  "countryCode": "Q36",
+  "generated": "2025-12-14T01:51:48.770Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "John Paul II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20John%20Paul%20II%20smile.jpg",
+      "sitelinks": 202,
+      "birthYear": "1920",
+      "deathYear": "2005",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q989",
+      "answerKey": "john paul ii"
+    },
+    {
+      "id": 2,
+      "name": "Q444",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg",
+      "sitelinks": 171,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q444",
+      "answerKey": "q444"
+    },
+    {
+      "id": 3,
+      "name": "Henryk Sienkiewicz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henryk%20Sienkiewicz%20ca%201885%20%2845871548%29%20%28cropped%29.jpg",
+      "sitelinks": 136,
+      "birthYear": "1846",
+      "deathYear": "1916",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41502",
+      "answerKey": "henryk sienkiewicz"
+    },
+    {
+      "id": 4,
+      "name": "Adam Mickiewicz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adam%20Mickiewicz%20wed%C5%82ug%20dagerotypu%20paryskiego%20z%201842%20roku.jpg",
+      "sitelinks": 128,
+      "birthYear": "1798",
+      "deathYear": "1855",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q79822",
+      "answerKey": "adam mickiewicz"
+    },
+    {
+      "id": 5,
+      "name": "Joseph Conrad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Conrad-remastered%20to%20black%20and%20white.png",
+      "sitelinks": 126,
+      "birthYear": "1857",
+      "deathYear": "1924",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82925",
+      "answerKey": "joseph conrad"
+    },
+    {
+      "id": 6,
+      "name": "Czesław Miłosz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Czeslaw%20Milosz%203%20ap.tif",
+      "sitelinks": 122,
+      "birthYear": "1911",
+      "deathYear": "2004",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45970",
+      "answerKey": "czesaw miosz"
+    },
+    {
+      "id": 7,
+      "name": "Wisława Szymborska",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wis%C5%82awa%20Szymborska%202009.10.23%20%281%29.jpg",
+      "sitelinks": 119,
+      "birthYear": "1923",
+      "deathYear": "2012",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42552",
+      "answerKey": "wisawa szymborska"
+    },
+    {
+      "id": 8,
+      "name": "Lech Kaczyński",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Kaczy%C5%84ski.jpg",
+      "sitelinks": 114,
+      "birthYear": "1949",
+      "deathYear": "2010",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2757",
+      "answerKey": "lech kaczynski"
+    },
+    {
+      "id": 9,
+      "name": "Isaac Bashevis Singer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Hadani%20collection%20%28990044399930205171%29%20%28cropped%29.jpg",
+      "sitelinks": 111,
+      "birthYear": "1904",
+      "deathYear": "1991",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q75612",
+      "answerKey": "isaac bashevis singer"
+    },
+    {
+      "id": 10,
+      "name": "Roman Polanski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Polanski%20Cannes%202013.jpg",
+      "sitelinks": 110,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51552",
+      "answerKey": "roman polanski"
+    }
+  ]
+}

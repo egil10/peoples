@@ -1,0 +1,118 @@
+{
+  "country": "Madagascar",
+  "countryCode": "Q1019",
+  "generated": "2025-12-14T01:59:55.433Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Andry Rajoelina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andry%20Rajoelina%20on%20April%2028%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57363",
+      "answerKey": "andry rajoelina"
+    },
+    {
+      "id": 2,
+      "name": "Hery Rajaonarimampianina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hery%20Rajaonarimampianina%202014.jpg",
+      "sitelinks": 48,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15382355",
+      "answerKey": "hery rajaonarimampianina"
+    },
+    {
+      "id": 3,
+      "name": "Marc Ravalomanana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Ravalomanana.jpg",
+      "sitelinks": 48,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155554",
+      "answerKey": "marc ravalomanana"
+    },
+    {
+      "id": 4,
+      "name": "Philibert Tsiranana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philibert%20Tsiranana%201962.jpg",
+      "sitelinks": 42,
+      "birthYear": "1912",
+      "deathYear": "1978",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315944",
+      "answerKey": "philibert tsiranana"
+    },
+    {
+      "id": 5,
+      "name": "Didier Ratsiraka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Didier%20Ratsiraka%201997.jpg",
+      "sitelinks": 39,
+      "birthYear": "1936",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315953",
+      "answerKey": "didier ratsiraka"
+    },
+    {
+      "id": 6,
+      "name": "Christian Ntsay",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Ntsay%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54806925",
+      "answerKey": "christian ntsay"
+    },
+    {
+      "id": 7,
+      "name": "Andrianampoinimerina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrianampoinimerina%20HQ.jpg",
+      "sitelinks": 32,
+      "birthYear": "1745",
+      "deathYear": "1810",
+      "occupation": "king",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q218622",
+      "answerKey": "andrianampoinimerina"
+    },
+    {
+      "id": 8,
+      "name": "Albert Zafy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Albert%20Zafy.jpg",
+      "sitelinks": 32,
+      "birthYear": "1927",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q559672",
+      "answerKey": "albert zafy"
+    },
+    {
+      "id": 9,
+      "name": "Gabriel Ramanantsoa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F011092-0001%2C%20BPA%2C%20Generalstabschef%20aus%20Madagaskar.jpg",
+      "sitelinks": 30,
+      "birthYear": "1906",
+      "deathYear": "1979",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q365387",
+      "answerKey": "gabriel ramanantsoa"
+    },
+    {
+      "id": 10,
+      "name": "Jérémy Morel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Lorient%202010-211%20-%20J%C3%A9r%C3%A9my%20Morel.jpg",
+      "sitelinks": 29,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q436247",
+      "answerKey": "jeremy morel"
+    }
+  ]
+}

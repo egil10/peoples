@@ -1,0 +1,118 @@
+{
+  "country": "Haiti",
+  "countryCode": "Q790",
+  "generated": "2025-12-14T01:58:16.996Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Jovenel Moïse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Craft%20poses%20a%20photo%20with%20Haitian%20President%20Moise%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1968",
+      "deathYear": "2021",
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21294765",
+      "answerKey": "jovenel moise"
+    },
+    {
+      "id": 2,
+      "name": "François Duvalier",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois%20Duvalier%20%28cropped%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1907",
+      "deathYear": "1971",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187697",
+      "answerKey": "francois duvalier"
+    },
+    {
+      "id": 3,
+      "name": "Jean-Jacques Dessalines",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Jacques%20Dessalines.jpg",
+      "sitelinks": 57,
+      "birthYear": "1758",
+      "deathYear": "1806",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212068",
+      "answerKey": "jeanjacques dessalines"
+    },
+    {
+      "id": 4,
+      "name": "Jean-Claude Duvalier",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc%20%28centr%C3%A9e%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1951",
+      "deathYear": "2014",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310775",
+      "answerKey": "jeanclaude duvalier"
+    },
+    {
+      "id": 5,
+      "name": "Jean-Claude Duvalier",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc.jpg",
+      "sitelinks": 54,
+      "birthYear": "1951",
+      "deathYear": "2014",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310775",
+      "answerKey": "jeanclaude duvalier"
+    },
+    {
+      "id": 6,
+      "name": "René Préval",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Pr%C3%A9val%20on%20March%2031%2C%202010.jpg",
+      "sitelinks": 52,
+      "birthYear": "1943",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208834",
+      "answerKey": "rene preval"
+    },
+    {
+      "id": 7,
+      "name": "René Préval",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Preval.jpg",
+      "sitelinks": 52,
+      "birthYear": "1943",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208834",
+      "answerKey": "rene preval"
+    },
+    {
+      "id": 8,
+      "name": "Jean-Bertrand Aristide",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Bertrand%20Aristide%20-%201991%20%28cropped%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q209617",
+      "answerKey": "jeanbertrand aristide"
+    },
+    {
+      "id": 9,
+      "name": "Michaëlle Jean",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Micha%C3%ABlle%20Jean%201%2011072007.jpg",
+      "sitelinks": 46,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128933",
+      "answerKey": "michaelle jean"
+    },
+    {
+      "id": 10,
+      "name": "Wyclef Jean",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wyclef%20Jean%20at%20SXSW%20London%202025.jpg",
+      "sitelinks": 46,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202663",
+      "answerKey": "wyclef jean"
+    }
+  ]
+}

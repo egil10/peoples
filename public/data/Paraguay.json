@@ -1,0 +1,118 @@
+{
+  "country": "Paraguay",
+  "countryCode": "Q733",
+  "generated": "2025-12-14T01:57:59.663Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Alfredo Stroessner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Stroessner%20at%20desk%20%28cropped%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1912",
+      "deathYear": "2006",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152534",
+      "answerKey": "alfredo stroessner"
+    },
+    {
+      "id": 2,
+      "name": "Horacio Cartes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/08.16%20%E5%89%AF%E7%B8%BD%E7%B5%B1%E7%89%B9%E4%BD%BF%E5%9C%98%E5%87%BA%E5%B8%AD%E5%B7%B4%E6%8B%89%E5%85%B1%E5%92%8C%E5%9C%8B%E6%96%B0%E4%BB%BB%E7%B8%BD%E7%B5%B1%E8%B2%9D%E5%B0%BC%E4%BA%9E%E5%B0%B1%E8%81%B7%E5%85%B8%E7%A6%AE%E5%8F%8A%E7%9B%B8%E9%97%9C%E6%85%B6%E7%A5%9D%E6%B4%BB%E5%8B%95%20%285%29%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5901842",
+      "answerKey": "horacio cartes"
+    },
+    {
+      "id": 3,
+      "name": "Fernando Lugo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Lugo%2C%202012.jpg",
+      "sitelinks": 62,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151879",
+      "answerKey": "fernando lugo"
+    },
+    {
+      "id": 4,
+      "name": "Roque Santa Cruz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roque%20Luis%20Santa%20Cruz.jpg",
+      "sitelinks": 50,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152492",
+      "answerKey": "roque santa cruz"
+    },
+    {
+      "id": 5,
+      "name": "José Luis Chilavert",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chilavert%20sanlorenzo.jpg",
+      "sitelinks": 50,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216312",
+      "answerKey": "jose luis chilavert"
+    },
+    {
+      "id": 6,
+      "name": "Augusto Roa Bastos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Escritor%20Augusto%20R.%20Bastos.jpg",
+      "sitelinks": 48,
+      "birthYear": "1917",
+      "deathYear": "2005",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q159967",
+      "answerKey": "augusto roa bastos"
+    },
+    {
+      "id": 7,
+      "name": "Francisco Arce",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chiqui%20Arce.jpg",
+      "sitelinks": 47,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q264228",
+      "answerKey": "francisco arce"
+    },
+    {
+      "id": 8,
+      "name": "Eduardo Aranda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Aranda.jpg",
+      "sitelinks": 45,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5340511",
+      "answerKey": "eduardo aranda"
+    },
+    {
+      "id": 9,
+      "name": "Francisco Solano López",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Solano%20Lopez%201866%20by%20Garcia.jpg",
+      "sitelinks": 45,
+      "birthYear": "1827",
+      "deathYear": "1870",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37677",
+      "answerKey": "francisco solano lopez"
+    },
+    {
+      "id": 10,
+      "name": "Francisco Solano López",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Solano%20Lopez%201866%20by%20Garcia.jpg",
+      "sitelinks": 45,
+      "birthYear": "1826",
+      "deathYear": "1870",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37677",
+      "answerKey": "francisco solano lopez"
+    }
+  ]
+}

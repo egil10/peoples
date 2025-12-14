@@ -1,0 +1,118 @@
+{
+  "country": "Bolivia",
+  "countryCode": "Q750",
+  "generated": "2025-12-14T01:58:05.932Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Simón Bolívar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg",
+      "sitelinks": 173,
+      "birthYear": "1783",
+      "deathYear": "1830",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
+      "answerKey": "simon bolivar"
+    },
+    {
+      "id": 2,
+      "name": "Evo Morales",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evo%20Morales%20Ayma%20%28cropped%29.jpg",
+      "sitelinks": 122,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42410",
+      "answerKey": "evo morales"
+    },
+    {
+      "id": 3,
+      "name": "Luis Arce",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Alberto%20Arce%20Catacora%20%28Official%20Portrait%2C%202020%29%20Cropped%20II.png",
+      "sitelinks": 62,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16149892",
+      "answerKey": "luis arce"
+    },
+    {
+      "id": 4,
+      "name": "Jeanine Áñez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeanine%20%C3%81%C3%B1ez%20at%20the%20314th%20Anniversary%20of%20Reyes.%206%20January%202020%2C%20Ministry%20of%20Communication%2C%20Reyes.%20Cropped%20%2851907629988%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16581287",
+      "answerKey": "jeanine anez"
+    },
+    {
+      "id": 5,
+      "name": "Klaus Barbie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klaus%20Barbie.jpg",
+      "sitelinks": 51,
+      "birthYear": "1913",
+      "deathYear": "1991",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q77088",
+      "answerKey": "klaus barbie"
+    },
+    {
+      "id": 6,
+      "name": "Julio César Baldivieso",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Julio%20C%C3%A9sar%20Baldivieso%20en%20noviembre%20de%202015.jpg",
+      "sitelinks": 46,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558955",
+      "answerKey": "julio cesar baldivieso"
+    },
+    {
+      "id": 7,
+      "name": "Edivaldo Hermoza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edivaldo%20Hermoza.JPG",
+      "sitelinks": 46,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q785320",
+      "answerKey": "edivaldo hermoza"
+    },
+    {
+      "id": 8,
+      "name": "Carlos Mesa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Mesa.%20Su%C3%A1rez%2C%20Antonio.%202004%2C%20Antonio%20Su%C3%A1rez%20collection%2C%20La%20Paz.jpg",
+      "sitelinks": 44,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312668",
+      "answerKey": "carlos mesa"
+    },
+    {
+      "id": 9,
+      "name": "Lidia Gueiler Tejada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lidia%20Gueiler%20Tejada.png",
+      "sitelinks": 43,
+      "birthYear": "1921",
+      "deathYear": "2011",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466098",
+      "answerKey": "lidia gueiler tejada"
+    },
+    {
+      "id": 10,
+      "name": "Lidia Gueiler Tejada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lidia%20Gueiler%201980.jpg",
+      "sitelinks": 43,
+      "birthYear": "1921",
+      "deathYear": "2011",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466098",
+      "answerKey": "lidia gueiler tejada"
+    }
+  ]
+}

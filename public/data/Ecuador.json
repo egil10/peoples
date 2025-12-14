@@ -1,0 +1,118 @@
+{
+  "country": "Ecuador",
+  "countryCode": "Q736",
+  "generated": "2025-12-14T01:57:39.566Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Rafael Correa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Correa%2C%20Ecuador%20expresident.jpg",
+      "sitelinks": 174,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19581",
+      "answerKey": "rafael correa"
+    },
+    {
+      "id": 2,
+      "name": "Simón Bolívar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sim%C3%B3n%20Bol%C3%ADvar%20by%20Acevedo%20Bernal%2C%201922.jpg",
+      "sitelinks": 173,
+      "birthYear": "1783",
+      "deathYear": "1830",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
+      "answerKey": "simon bolivar"
+    },
+    {
+      "id": 3,
+      "name": "Guillermo Lasso",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Guillermo%20Lasso%202022.jpg",
+      "sitelinks": 160,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "president",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4414537",
+      "answerKey": "guillermo lasso"
+    },
+    {
+      "id": 4,
+      "name": "Pedro Pascal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Pascal%20at%20the%202025%20Cannes%20Film%20Festival%2006%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14752155",
+      "answerKey": "pedro pascal"
+    },
+    {
+      "id": 5,
+      "name": "Lenín Moreno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lenin%20Moreno%2C%20president%20of%20Ecuador.jpg",
+      "sitelinks": 65,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q518626",
+      "answerKey": "lenin moreno"
+    },
+    {
+      "id": 6,
+      "name": "Antonio Valencia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Valencia%20cropped.jpg",
+      "sitelinks": 65,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q174486",
+      "answerKey": "antonio valencia"
+    },
+    {
+      "id": 7,
+      "name": "Enner Valencia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enner%20Valencia%2C%20January%202016.jpg",
+      "sitelinks": 57,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2843080",
+      "answerKey": "enner valencia"
+    },
+    {
+      "id": 8,
+      "name": "Daniel Noboa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Daniel%20Noboa%20May%202025.jpg",
+      "sitelinks": 54,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q112075625",
+      "answerKey": "daniel noboa"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Noboa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Noboa%20en%20marzo%20de%202025.jpg",
+      "sitelinks": 54,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q112075625",
+      "answerKey": "daniel noboa"
+    },
+    {
+      "id": 10,
+      "name": "Moisés Caicedo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mois%C3%A9s%20Caicedo%2020042025%20%281%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "2001",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q87715532",
+      "answerKey": "moises caicedo"
+    }
+  ]
+}

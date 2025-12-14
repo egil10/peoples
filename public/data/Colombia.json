@@ -1,0 +1,118 @@
+{
+  "country": "Colombia",
+  "countryCode": "Q739",
+  "generated": "2025-12-14T01:57:51.751Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Gabriel García Márquez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garcia%20Marquez.jpg",
+      "sitelinks": 204,
+      "birthYear": "1927",
+      "deathYear": "2014",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5878",
+      "answerKey": "gabriel garcia marquez"
+    },
+    {
+      "id": 2,
+      "name": "Rafael Orozco Maestre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Orozco%201992.jpg",
+      "sitelinks": 169,
+      "birthYear": "1954",
+      "deathYear": "1992",
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7282241",
+      "answerKey": "rafael orozco maestre"
+    },
+    {
+      "id": 3,
+      "name": "Shakira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shakira%2C%202011.jpg",
+      "sitelinks": 157,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34424",
+      "answerKey": "shakira"
+    },
+    {
+      "id": 4,
+      "name": "Shakira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16%20Gala%20de%20los%20Latin%20Grammy%2C%2003%20%28cropped%2901.jpg",
+      "sitelinks": 157,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34424",
+      "answerKey": "shakira"
+    },
+    {
+      "id": 5,
+      "name": "Pablo Escobar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pablo%20Escobar%20Mug.jpg",
+      "sitelinks": 109,
+      "birthYear": "1949",
+      "deathYear": "1993",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187447",
+      "answerKey": "pablo escobar"
+    },
+    {
+      "id": 6,
+      "name": "Juan Manuel Santos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20Santos%20and%20Lula%20%28cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57311",
+      "answerKey": "juan manuel santos"
+    },
+    {
+      "id": 7,
+      "name": "Alfredo Di Stéfano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Di%20Stefano%20argentina%20%28colores%29.png",
+      "sitelinks": 90,
+      "birthYear": "1926",
+      "deathYear": "2014",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164546",
+      "answerKey": "alfredo di stefano"
+    },
+    {
+      "id": 8,
+      "name": "James Rodríguez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20al%20natural%20-%20Series%2C%2002.jpg",
+      "sitelinks": 88,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q368441",
+      "answerKey": "james rodriguez"
+    },
+    {
+      "id": 9,
+      "name": "Juanes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-11-16%20Gala%20de%20los%20Latin%20Grammy%2C%2014%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43189",
+      "answerKey": "juanes"
+    },
+    {
+      "id": 10,
+      "name": "Sofía Vergara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sof%C3%ADa%20Vergara%202019%20by%20Glenn%20Francis.jpg",
+      "sitelinks": 75,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q231911",
+      "answerKey": "sofia vergara"
+    }
+  ]
+}

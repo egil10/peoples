@@ -1,0 +1,118 @@
+{
+  "country": "Morocco",
+  "countryCode": "Q1028",
+  "generated": "2025-12-14T01:58:52.889Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mohammed VI of Morocco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Mohammed%20VI%20%28cropped%29.jpg",
+      "sitelinks": 103,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57553",
+      "answerKey": "mohammed vi of morocco"
+    },
+    {
+      "id": 2,
+      "name": "Enzo Ferrari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enzo-Ferrari.jpg",
+      "sitelinks": 76,
+      "birthYear": "1898",
+      "deathYear": "1988",
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181282",
+      "answerKey": "enzo ferrari"
+    },
+    {
+      "id": 3,
+      "name": "Hassan II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassan%20II%20%281983%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1929",
+      "deathYear": "1999",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q69103",
+      "answerKey": "hassan ii"
+    },
+    {
+      "id": 4,
+      "name": "Achraf Hakimi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Achraf%20Hakimi%20vs%20Niger%2C%205%20Sept%202025.jpg",
+      "sitelinks": 65,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26932598",
+      "answerKey": "achraf hakimi"
+    },
+    {
+      "id": 5,
+      "name": "Hakim Ziyech",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hakim%20Ziyech%202021.jpg",
+      "sitelinks": 58,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q327456",
+      "answerKey": "hakim ziyech"
+    },
+    {
+      "id": 6,
+      "name": "Adil Rami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adil%20Rami%2020120611.jpg",
+      "sitelinks": 58,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1909",
+      "answerKey": "adil rami"
+    },
+    {
+      "id": 7,
+      "name": "Medhi Benatia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Medhi%20Benatia.jpg",
+      "sitelinks": 54,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q462779",
+      "answerKey": "medhi benatia"
+    },
+    {
+      "id": 8,
+      "name": "Fatema Mernissi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Al%20Azm%20Mernissi%20Soroush%20Mernissi%20cropped.tif",
+      "sitelinks": 53,
+      "birthYear": "1940",
+      "deathYear": "2015",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242376",
+      "answerKey": "fatema mernissi"
+    },
+    {
+      "id": 9,
+      "name": "Mohammed V of Morocco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A.jpg",
+      "sitelinks": 53,
+      "birthYear": "1909",
+      "deathYear": "1961",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193874",
+      "answerKey": "mohammed v of morocco"
+    },
+    {
+      "id": 10,
+      "name": "Brahim Abdelkader Díaz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brahim%20Diaz%203%20vs%20Niger%20%28cropped%29%20%28cropped%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26973015",
+      "answerKey": "brahim abdelkader diaz"
+    }
+  ]
+}

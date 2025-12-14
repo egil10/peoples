@@ -1,0 +1,118 @@
+{
+  "country": "Pakistan",
+  "countryCode": "Q843",
+  "generated": "2025-12-14T01:55:46.843Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Malala Yousafzai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malala%20Yousafzai%20at%20the%202024%20Toronto%20International%20Film%20Festival%205.jpg",
+      "sitelinks": 153,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32732",
+      "answerKey": "malala yousafzai"
+    },
+    {
+      "id": 2,
+      "name": "Benazir Bhutto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oliver%20Mark%20-%20Benazir%20Bhutto%2C%20Dubai%202006%20%28cropped%29.jpg",
+      "sitelinks": 147,
+      "birthYear": "1953",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34413",
+      "answerKey": "benazir bhutto"
+    },
+    {
+      "id": 3,
+      "name": "Pervez Musharraf",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pervez%20Musharraf%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%20-%202008%20%28cropped%29.jpg",
+      "sitelinks": 116,
+      "birthYear": "1943",
+      "deathYear": "2023",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40495",
+      "answerKey": "pervez musharraf"
+    },
+    {
+      "id": 4,
+      "name": "Mohammad Ali Jinnah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jinnah1945c.jpg",
+      "sitelinks": 109,
+      "birthYear": "1870",
+      "deathYear": "1948",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160554",
+      "answerKey": "mohammad ali jinnah"
+    },
+    {
+      "id": 5,
+      "name": "Imran Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Imran%20Khan%20in%20Islamabad%20-%202018%20%2829559549217%29%20%28cropped%29.jpg",
+      "sitelinks": 98,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155164",
+      "answerKey": "imran khan"
+    },
+    {
+      "id": 6,
+      "name": "Imran Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iktearsoffpapers.jpg",
+      "sitelinks": 98,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155164",
+      "answerKey": "imran khan"
+    },
+    {
+      "id": 7,
+      "name": "Zulfikar Ali Bhutto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zulfikar%20Ali%20Bhutto%20Portrait%20%28cropped%202%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1928",
+      "deathYear": "1979",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131355",
+      "answerKey": "zulfikar ali bhutto"
+    },
+    {
+      "id": 8,
+      "name": "Asif Ali Zardari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asif%20Ali%20Zardari%20-%202024%20%28cropped%202%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57373",
+      "answerKey": "asif ali zardari"
+    },
+    {
+      "id": 9,
+      "name": "Abdus Salam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdus%20Salam%201987%20%28cropped%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1926",
+      "deathYear": "1996",
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28189",
+      "answerKey": "abdus salam"
+    },
+    {
+      "id": 10,
+      "name": "Nawaz Sharif",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nawaz%20Sharif%20January%202015.jpg",
+      "sitelinks": 83,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134068",
+      "answerKey": "nawaz sharif"
+    }
+  ]
+}

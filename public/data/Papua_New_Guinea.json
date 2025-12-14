@@ -1,0 +1,118 @@
+{
+  "country": "Papua New Guinea",
+  "countryCode": "Q691",
+  "generated": "2025-12-14T02:00:54.974Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Michael Somare",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Somare%202014.jpg",
+      "sitelinks": 42,
+      "birthYear": "1936",
+      "deathYear": "2021",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q316264",
+      "answerKey": "michael somare"
+    },
+    {
+      "id": 2,
+      "name": "James Marape",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papua%20New%20Guinea%20Prime%20Minister%20James%20Marape%20in%20Port%20Moresby%2C%20Papua%20New%20Guinea%20on%20July%2027%2C%202023%20-%20230727-D-TT977-0140%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6138903",
+      "answerKey": "james marape"
+    },
+    {
+      "id": 3,
+      "name": "Peter O'Neill",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20O%27Neill%20May%202015.jpg",
+      "sitelinks": 38,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57892",
+      "answerKey": "peter oneill"
+    },
+    {
+      "id": 4,
+      "name": "Julius Chan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Julius%20Chan%20%28cropped%29.jpg",
+      "sitelinks": 25,
+      "birthYear": "1939",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q950406",
+      "answerKey": "julius chan"
+    },
+    {
+      "id": 5,
+      "name": "Michael Ogio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Governor%20General%20of%20Papua%20New%20Guinea%2C%20Sir%20Michael%20Ogio%20%28cropped%2C%203x4%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1942",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q561338",
+      "answerKey": "michael ogio"
+    },
+    {
+      "id": 6,
+      "name": "Paulias Matane",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Paulias%20Matane%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1931",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471229",
+      "answerKey": "paulias matane"
+    },
+    {
+      "id": 7,
+      "name": "John Ribat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20Ribat.jpg",
+      "sitelinks": 22,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1701563",
+      "answerKey": "john ribat"
+    },
+    {
+      "id": 8,
+      "name": "Bob Dadae",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Bob%20Dadae%20%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28647870",
+      "answerKey": "bob dadae"
+    },
+    {
+      "id": 9,
+      "name": "Mekere Morauta",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mekere%20Morauta%202000.jpg",
+      "sitelinks": 15,
+      "birthYear": "1946",
+      "deathYear": "2020",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1381425",
+      "answerKey": "mekere morauta"
+    },
+    {
+      "id": 10,
+      "name": "Bill Skate",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Skate%20April%201998.gif",
+      "sitelinks": 14,
+      "birthYear": "1953",
+      "deathYear": "2006",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q719336",
+      "answerKey": "bill skate"
+    }
+  ]
+}

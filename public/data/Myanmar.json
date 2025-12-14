@@ -1,0 +1,118 @@
+{
+  "country": "Myanmar",
+  "countryCode": "Q836",
+  "generated": "2025-12-14T01:56:45.263Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Aung San Suu Kyi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aung%20San%20Suu%20Kyi%20at%20the%20Enthronement%20of%20Naruhito%20%281%29.jpg",
+      "sitelinks": 166,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q36740",
+      "answerKey": "aung san suu kyi"
+    },
+    {
+      "id": 2,
+      "name": "U Thant",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U%20Thant%20%281963%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1909",
+      "deathYear": "1974",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1264",
+      "answerKey": "u thant"
+    },
+    {
+      "id": 3,
+      "name": "Aung San",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aung%20San%20color%20portrait.jpg",
+      "sitelinks": 63,
+      "birthYear": "1915",
+      "deathYear": "1947",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194161",
+      "answerKey": "aung san"
+    },
+    {
+      "id": 4,
+      "name": "Thein Sein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TheinSeinASEAN.jpg",
+      "sitelinks": 53,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
+      "answerKey": "thein sein"
+    },
+    {
+      "id": 5,
+      "name": "Thein Sein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thein%20Sein%20in%20taikpon%20jacket.jpg",
+      "sitelinks": 53,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
+      "answerKey": "thein sein"
+    },
+    {
+      "id": 6,
+      "name": "Thein Sein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thein%20Sein.jpg",
+      "sitelinks": 53,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
+      "answerKey": "thein sein"
+    },
+    {
+      "id": 7,
+      "name": "Thein Sein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HE%20Thein%20Sein%2C%20President%20of%20the%20Republic%20of%20the%20Union%20of%20Myanmar%20%289292476975%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
+      "answerKey": "thein sein"
+    },
+    {
+      "id": 8,
+      "name": "Than Shwe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Than%20Shwe%202010-10-11.jpg",
+      "sitelinks": 52,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202553",
+      "answerKey": "than shwe"
+    },
+    {
+      "id": 9,
+      "name": "Than Shwe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chairman%2C%20State%20Peace%20and%20Development%20Council%2C%20Myanmar%2C%20Sr.%20Gen.%20Than%20Shwe%2C%20in%20New%20Delhi%20on%20July%2027%2C%202010.jpg",
+      "sitelinks": 52,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202553",
+      "answerKey": "than shwe"
+    },
+    {
+      "id": 10,
+      "name": "Ne Win",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ne%20Win%20in%201959%2C%20Jerusalem.jpg",
+      "sitelinks": 48,
+      "birthYear": "1911",
+      "deathYear": "2002",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315522",
+      "answerKey": "ne win"
+    }
+  ]
+}

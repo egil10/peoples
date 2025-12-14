@@ -1,0 +1,118 @@
+{
+  "country": "Thailand",
+  "countryCode": "Q869",
+  "generated": "2025-12-14T01:55:31.759Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Bhumibol Adulyadej",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aankomst%20Koning%20Bhumibol%20en%20Koningin%20Sirikit%20te%20Den%20Haag%2C%20Koning%20Bhumibol%2C%20Bestanddeelnr%20911-6993%20%28cropped%29%282%29.jpg",
+      "sitelinks": 142,
+      "birthYear": "1927",
+      "deathYear": "2016",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q855252",
+      "answerKey": "bhumibol adulyadej"
+    },
+    {
+      "id": 2,
+      "name": "Vajiralongkorn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Rama%20X%20official%20%28crop%29.png",
+      "sitelinks": 105,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q548733",
+      "answerKey": "vajiralongkorn"
+    },
+    {
+      "id": 3,
+      "name": "Pumpuang Duangjan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pumpuang%20Duangjan%20singer.jpg",
+      "sitelinks": 83,
+      "birthYear": "1961",
+      "deathYear": "1992",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6583188",
+      "answerKey": "pumpuang duangjan"
+    },
+    {
+      "id": 4,
+      "name": "Yingluck Shinawatra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/THAI%20PRIME%20MINISTER%20YINGLUCK%20SHINAWATRA%20in%202013%20%28cropped%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57670",
+      "answerKey": "yingluck shinawatra"
+    },
+    {
+      "id": 5,
+      "name": "Thaksin Shinawatra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thaksin%20DOD%2020050915%20%28crop%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164373",
+      "answerKey": "thaksin shinawatra"
+    },
+    {
+      "id": 6,
+      "name": "Lisa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20240314%20Lisa%20Manoban%2007.png",
+      "sitelinks": 78,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26707663",
+      "answerKey": "lisa"
+    },
+    {
+      "id": 7,
+      "name": "Jintara Poonlarp",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jintara%20Poonlarb%20Kaapelitehdas%20Helsinki%20Finland%2026%2005%202007.jpg",
+      "sitelinks": 75,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q383197",
+      "answerKey": "jintara poonlarp"
+    },
+    {
+      "id": 8,
+      "name": "Pridi Banomyong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pridi%20Panomyong%20%28Scholar%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1900",
+      "deathYear": "1983",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q714934",
+      "answerKey": "pridi banomyong"
+    },
+    {
+      "id": 9,
+      "name": "Abhisit Vejjajiva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vejjajivacropped2.jpg",
+      "sitelinks": 62,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q174267",
+      "answerKey": "abhisit vejjajiva"
+    },
+    {
+      "id": 10,
+      "name": "Paetongtarn Shinawatra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Paetongtarn%20of%20Thailand%20%282024%29%20%28cropped-4%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13026319",
+      "answerKey": "paetongtarn shinawatra"
+    }
+  ]
+}

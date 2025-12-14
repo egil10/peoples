@@ -1,0 +1,118 @@
+{
+  "country": "Sudan",
+  "countryCode": "Q1049",
+  "generated": "2025-12-14T02:00:23.878Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Omar al-Bashir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20al-Bashir%2C%2012th%20AU%20Summit%2C%20090202-N-0506A-137%20cropped.jpg",
+      "sitelinks": 94,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57265",
+      "answerKey": "omar albashir"
+    },
+    {
+      "id": 2,
+      "name": "Leni Riefenstahl",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leni%20Riefenstahl%2C%201935.jpg",
+      "sitelinks": 91,
+      "birthYear": "1902",
+      "deathYear": "2003",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55415",
+      "answerKey": "leni riefenstahl"
+    },
+    {
+      "id": 3,
+      "name": "Salva Kiir Mayardit",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salva%20Kiir%20Mayardit.jpg",
+      "sitelinks": 74,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57315",
+      "answerKey": "salva kiir mayardit"
+    },
+    {
+      "id": 4,
+      "name": "Abdel Fattah al-Burhan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdel%20Fattah%20al-Burhan%20in%20April%202025%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q63111184",
+      "answerKey": "abdel fattah alburhan"
+    },
+    {
+      "id": 5,
+      "name": "Piye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stele%20Piye%20submission%20Mariette.jpg",
+      "sitelinks": 46,
+      "birthYear": "-800",
+      "deathYear": "-715",
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315695",
+      "answerKey": "piye"
+    },
+    {
+      "id": 6,
+      "name": "Abdalla Hamdok",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Green%20and%20Abdalla%20Hamdok%20at%20USAID%20HQ%20%282%29%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27654948",
+      "answerKey": "abdalla hamdok"
+    },
+    {
+      "id": 7,
+      "name": "Josephine Bakhita",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakhita%20Szent%20Jozefina.jpeg",
+      "sitelinks": 42,
+      "birthYear": "1869",
+      "deathYear": "1947",
+      "occupation": "nun",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236030",
+      "answerKey": "josephine bakhita"
+    },
+    {
+      "id": 8,
+      "name": "Josephine Bakhita",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakhita%20Szent%20Jozefina.jpeg",
+      "sitelinks": 42,
+      "birthYear": "1868",
+      "deathYear": "1947",
+      "occupation": "nun",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236030",
+      "answerKey": "josephine bakhita"
+    },
+    {
+      "id": 9,
+      "name": "John Garang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Garang%20of%20Sudan.jpg",
+      "sitelinks": 41,
+      "birthYear": "1945",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167444",
+      "answerKey": "john garang"
+    },
+    {
+      "id": 10,
+      "name": "Gaafar Nimeiry",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaafar%20Nimeiry%20in%201974.jpg",
+      "sitelinks": 40,
+      "birthYear": "1931",
+      "deathYear": "2009",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311798",
+      "answerKey": "gaafar nimeiry"
+    }
+  ]
+}

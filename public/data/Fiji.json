@@ -1,0 +1,118 @@
+{
+  "country": "Fiji",
+  "countryCode": "Q712",
+  "generated": "2025-12-14T02:00:54.165Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Frank Bainimarama",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Bainimarama%20September%202014.jpg",
+      "sitelinks": 46,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57830",
+      "answerKey": "frank bainimarama"
+    },
+    {
+      "id": 2,
+      "name": "Jioji (George) Konrote",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jioji%20Konrote%20December%202017.jpg",
+      "sitelinks": 41,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5541411",
+      "answerKey": "jioji george konrote"
+    },
+    {
+      "id": 3,
+      "name": "Sitiveni Rabuka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sitiveni%20Rabuka%20PIF%202023.jpg",
+      "sitelinks": 37,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q981549",
+      "answerKey": "sitiveni rabuka"
+    },
+    {
+      "id": 4,
+      "name": "Sitiveni Rabuka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sitiveni%20Rabuka%20%282024%29%20%28cropped%29.jpg",
+      "sitelinks": 37,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q981549",
+      "answerKey": "sitiveni rabuka"
+    },
+    {
+      "id": 5,
+      "name": "Josefa Iloilo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josefa%20Iloilo.jpg",
+      "sitelinks": 37,
+      "birthYear": "1920",
+      "deathYear": "2011",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q316317",
+      "answerKey": "josefa iloilo"
+    },
+    {
+      "id": 6,
+      "name": "Seru Epenisa Cakobau",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cakobau%2C%20died%20February%201883%2C%20photograph%20by%20Francis%20H.%20Dufty.jpg",
+      "sitelinks": 35,
+      "birthYear": "1815",
+      "deathYear": "1883",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q681408",
+      "answerKey": "seru epenisa cakobau"
+    },
+    {
+      "id": 7,
+      "name": "Roy Krishna",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20Krishna%202016.jpg",
+      "sitelinks": 31,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q733523",
+      "answerKey": "roy krishna"
+    },
+    {
+      "id": 8,
+      "name": "Wiliame Katonivere",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wiliame%20Katonivere%202022.jpg",
+      "sitelinks": 30,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q109012733",
+      "answerKey": "wiliame katonivere"
+    },
+    {
+      "id": 9,
+      "name": "Kamisese Mara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamisese%20Mara.jpg",
+      "sitelinks": 30,
+      "birthYear": "1920",
+      "deathYear": "2004",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q469507",
+      "answerKey": "kamisese mara"
+    },
+    {
+      "id": 10,
+      "name": "Epeli Nailatikau",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Epeli%20Nailatikau%202012.jpg",
+      "sitelinks": 28,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q373605",
+      "answerKey": "epeli nailatikau"
+    }
+  ]
+}

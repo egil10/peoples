@@ -1,0 +1,118 @@
+{
+  "country": "Peru",
+  "countryCode": "Q419",
+  "generated": "2025-12-14T01:57:22.516Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Leo XIV",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/13.10.2025%20%E2%80%93%20audi%C3%AAncia%20com%20sua%20santidade%20o%20papa%20le%C3%A3o%20xiv%20-%2054850583467%20%28Le%C3%A3o%20XIV%29.jpg",
+      "sitelinks": 163,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "archbishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6109517",
+      "answerKey": "leo xiv"
+    },
+    {
+      "id": 2,
+      "name": "Q539",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Garibaldi%201861.jpg",
+      "sitelinks": 129,
+      "birthYear": "1807",
+      "deathYear": "1882",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q539",
+      "answerKey": "q539"
+    },
+    {
+      "id": 3,
+      "name": "Mario Vargas Llosa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Vargas%20Llosa%20%28crop%202%29.jpg",
+      "sitelinks": 127,
+      "birthYear": "1936",
+      "deathYear": "2025",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39803",
+      "answerKey": "mario vargas llosa"
+    },
+    {
+      "id": 4,
+      "name": "Alberto Fujimori",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alberto%20Fujimori%20en%201991.jpg",
+      "sitelinks": 84,
+      "birthYear": "1938",
+      "deathYear": "2024",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q133040",
+      "answerKey": "alberto fujimori"
+    },
+    {
+      "id": 5,
+      "name": "Javier Pérez de Cuéllar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Javier%20P%C3%A9rez%20de%20Cu%C3%A9llar%20%281982%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1920",
+      "deathYear": "2020",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1259",
+      "answerKey": "javier perez de cuellar"
+    },
+    {
+      "id": 6,
+      "name": "Alan García",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Garc%C3%ADa%20presidente%20del%20Per%C3%BA.jpg",
+      "sitelinks": 74,
+      "birthYear": "1949",
+      "deathYear": "2019",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167211",
+      "answerKey": "alan garcia"
+    },
+    {
+      "id": 7,
+      "name": "César Vallejo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Vallejo%20%281930%29%20-%20Restored.jpg",
+      "sitelinks": 64,
+      "birthYear": "1892",
+      "deathYear": "1938",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q222744",
+      "answerKey": "cesar vallejo"
+    },
+    {
+      "id": 8,
+      "name": "Ollanta Humala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ollanta%20Humala%20Tasso.jpg",
+      "sitelinks": 64,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57254",
+      "answerKey": "ollanta humala"
+    },
+    {
+      "id": 9,
+      "name": "Dina Boluarte",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dina%20Boluarte%20October%202022%20%28cropped%29.jpg",
+      "sitelinks": 64,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106474688",
+      "answerKey": "dina boluarte"
+    },
+    {
+      "id": 10,
+      "name": "Bernardo O'Higgins",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ohiggins.jpg",
+      "sitelinks": 60,
+      "birthYear": "1778",
+      "deathYear": "1842",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28930",
+      "answerKey": "bernardo ohiggins"
+    }
+  ]
+}

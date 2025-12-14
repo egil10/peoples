@@ -1,0 +1,118 @@
+{
+  "country": "Oman",
+  "countryCode": "Q842",
+  "generated": "2025-12-14T01:56:32.276Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Qaboos bin Said Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/QaboosBinSaidAlSaid.jpg",
+      "sitelinks": 90,
+      "birthYear": "1940",
+      "deathYear": "2020",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57331",
+      "answerKey": "qaboos bin said al said"
+    },
+    {
+      "id": 2,
+      "name": "Haitham bin Tarik Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haitham%20bin%20Tariq%20Al%20Said.jpg",
+      "sitelinks": 58,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12250314",
+      "answerKey": "haitham bin tarik al said"
+    },
+    {
+      "id": 3,
+      "name": "Said bin Taimur Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Wayyid%20Said%20Bin%20Taimur%20Bin%20Faisal%20arriving%20in%20Wash.%20to%20repay%20visit%20made%20by%20Edmund%20Roberts%20%281832%29%2C%20who%20was%20appointed%20by%20Pres.%20Andrew%20Jackson%20to%20negotiate%20treaties%20with%20small%20nations%20of%20LCCN2016878033%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1910",
+      "deathYear": "1972",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q879869",
+      "answerKey": "said bin taimur al said"
+    },
+    {
+      "id": 4,
+      "name": "Ali Al-Habsi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Al-Habsi%2027-02-2016%201.jpg",
+      "sitelinks": 36,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312062",
+      "answerKey": "ali alhabsi"
+    },
+    {
+      "id": 5,
+      "name": "Said bin Sultan Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Said%20bin%20Sultan.jpg",
+      "sitelinks": 26,
+      "birthYear": "1791",
+      "deathYear": "1856",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q506193",
+      "answerKey": "said bin sultan al busaidi"
+    },
+    {
+      "id": 6,
+      "name": "Taimur bin Faisal Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taimur%20bin%20Feisal.png",
+      "sitelinks": 24,
+      "birthYear": "1886",
+      "deathYear": "1965",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q888278",
+      "answerKey": "taimur bin faisal al said"
+    },
+    {
+      "id": 7,
+      "name": "Turki bin Said Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Turki%20ibn%20Said.jpg",
+      "sitelinks": 22,
+      "birthYear": "1832",
+      "deathYear": "1888",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q580930",
+      "answerKey": "turki bin said al busaidi"
+    },
+    {
+      "id": 8,
+      "name": "Faisal bin Turki Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Faysal%20bin%20Turki.jpg",
+      "sitelinks": 21,
+      "birthYear": "1864",
+      "deathYear": "1913",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q889847",
+      "answerKey": "faisal bin turki al busaidi"
+    },
+    {
+      "id": 9,
+      "name": "Thuwaini bin Said Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thuwaini%20bin%20Said.jpg",
+      "sitelinks": 18,
+      "birthYear": "1820",
+      "deathYear": "1866",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q888050",
+      "answerKey": "thuwaini bin said al busaidi"
+    },
+    {
+      "id": 10,
+      "name": "Theyazin bin Haitham Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theyazin%20bin%20Haitham%202%20%28cropped%29%20%28cropped%29.jpg",
+      "sitelinks": 18,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104828519",
+      "answerKey": "theyazin bin haitham al said"
+    }
+  ]
+}

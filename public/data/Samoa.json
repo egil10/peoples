@@ -1,0 +1,118 @@
+{
+  "country": "Samoa",
+  "countryCode": "Q683",
+  "generated": "2025-12-14T02:00:54.201Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Tuilaʻepa Saʻilele Malielegaoi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuilaepa%20Aiono%20Sailele%20Malielegaoi%202014%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57723",
+      "answerKey": "tuilaepa sailele malielegaoi"
+    },
+    {
+      "id": 2,
+      "name": "Malietoa Tanumafili II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malietoa%20Tanumafili%20II%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1913",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317378",
+      "answerKey": "malietoa tanumafili ii"
+    },
+    {
+      "id": 3,
+      "name": "Tufuga Efi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupua%20Tamasese%20Tupuola%20Tufuga%20Efi%2000%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57523",
+      "answerKey": "tufuga efi"
+    },
+    {
+      "id": 4,
+      "name": "Fiamē Naomi Mataʻafa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiam%C4%93%20Naomi%20Mata%CA%BBafa%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5446290",
+      "answerKey": "fiame naomi mataafa"
+    },
+    {
+      "id": 5,
+      "name": "Va'aletoa Sualauvi II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Va%27aleto%27a%20Sualauvi%20II%20profile%20%28cropped%29.png",
+      "sitelinks": 32,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32014514",
+      "answerKey": "vaaletoa sualauvi ii"
+    },
+    {
+      "id": 6,
+      "name": "David Tua",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Tua%20ONZM%20%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q708558",
+      "answerKey": "david tua"
+    },
+    {
+      "id": 7,
+      "name": "Frankie Adams",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frankie%20Adams%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 18,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23879973",
+      "answerKey": "frankie adams"
+    },
+    {
+      "id": 8,
+      "name": "Alex Rose",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Rose%20flagbearer%202020%20%28profile%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20020775",
+      "answerKey": "alex rose"
+    },
+    {
+      "id": 9,
+      "name": "Tupua Tamasese Meaʻole",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupua%20Tamasese%20Mea%CA%BBole.jpg",
+      "sitelinks": 15,
+      "birthYear": "1905",
+      "deathYear": "1963",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887243",
+      "answerKey": "tupua tamasese meaole"
+    },
+    {
+      "id": 10,
+      "name": "Albert Wendt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Wendt%20ONZ%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1939",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1235864",
+      "answerKey": "albert wendt"
+    }
+  ]
+}

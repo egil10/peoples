@@ -1,0 +1,118 @@
+{
+  "country": "Cambodia",
+  "countryCode": "Q424",
+  "generated": "2025-12-14T01:56:44.744Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Angelina Jolie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angelina%20Jolie-643531%20%28cropped%29.jpg",
+      "sitelinks": 170,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13909",
+      "answerKey": "angelina jolie"
+    },
+    {
+      "id": 2,
+      "name": "Pol Pot",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pol%20Pot%20%28cropped%29.jpg",
+      "sitelinks": 130,
+      "birthYear": "1925",
+      "deathYear": "1998",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39464",
+      "answerKey": "pol pot"
+    },
+    {
+      "id": 3,
+      "name": "Norodom Sihanouk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norodom%20Sihanouk%20%28c.%201952%2C%20colourized%29.jpg",
+      "sitelinks": 88,
+      "birthYear": "1922",
+      "deathYear": "2012",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160318",
+      "answerKey": "norodom sihanouk"
+    },
+    {
+      "id": 4,
+      "name": "Norodom Sihamoni",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ceremonial%20Reception%20of%20the%20King%20of%20Cambodia%2C%20Norodom%20Sihamoni%20on%20May%2030%2C%202023%20%283x4%20cropped%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "king",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57319",
+      "answerKey": "norodom sihamoni"
+    },
+    {
+      "id": 5,
+      "name": "Hun Sen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cambodian%20President%20of%20the%20Senate%20Hun%20Sen%20met%20United%20States%20Secretary%20of%20Defense%20Lloyd%20Austin%20during%20his%20visit%20to%20senior%20Cambodian%20government%20officials%20in%20Phnom%20Penh%20on%20June%204%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57788",
+      "answerKey": "hun sen"
+    },
+    {
+      "id": 6,
+      "name": "Lon Nol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LonNol%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1913",
+      "deathYear": "1985",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313400",
+      "answerKey": "lon nol"
+    },
+    {
+      "id": 7,
+      "name": "Haing S. Ngor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Haing%20S.%20Ngor%2C%201986.jpg",
+      "sitelinks": 42,
+      "birthYear": "1940",
+      "deathYear": "1996",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312364",
+      "answerKey": "haing s ngor"
+    },
+    {
+      "id": 8,
+      "name": "Hun Manet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hun%20Manet%20in%20Australia%20on%20March%205%2C%202024.jpg",
+      "sitelinks": 41,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13024351",
+      "answerKey": "hun manet"
+    },
+    {
+      "id": 9,
+      "name": "Nuon Chea",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nuon%20Chea%20on%2031%20October%202013.jpg",
+      "sitelinks": 39,
+      "birthYear": "1926",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379225",
+      "answerKey": "nuon chea"
+    },
+    {
+      "id": 10,
+      "name": "Chan Vathanaka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chan%20vathanaka%202013-11-04%2011-18.jpg",
+      "sitelinks": 39,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10556037",
+      "answerKey": "chan vathanaka"
+    }
+  ]
+}

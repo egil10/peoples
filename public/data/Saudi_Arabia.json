@@ -1,0 +1,118 @@
+{
+  "country": "Saudi Arabia",
+  "countryCode": "Q851",
+  "generated": "2025-12-14T01:56:26.304Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Osama bin Laden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osama%20bin%20Laden%20portrait.jpg",
+      "sitelinks": 173,
+      "birthYear": "1957",
+      "deathYear": "2011",
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1317",
+      "answerKey": "osama bin laden"
+    },
+    {
+      "id": 2,
+      "name": "Idi Amin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Idi%20Amin%20at%20UN%20%28United%20Nations%2C%20New%20York%29%20gtfy.00132%20%28cropped%29.jpg",
+      "sitelinks": 110,
+      "birthYear": "1925",
+      "deathYear": "2003",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48231",
+      "answerKey": "idi amin"
+    },
+    {
+      "id": 3,
+      "name": "Abdullah of Saudi Arabia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Abdullah%20bin%20Abdul%20al-Saud%20January%202007.jpg",
+      "sitelinks": 107,
+      "birthYear": "1924",
+      "deathYear": "2015",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57298",
+      "answerKey": "abdullah of saudi arabia"
+    },
+    {
+      "id": 4,
+      "name": "Salman bin Abdulaziz Al Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20%D9%84%D8%AE%D8%A7%D8%AF%D9%85%20%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%83%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A2%D9%84%20%D8%B3%D8%B9%D9%88%D8%AF.jpg",
+      "sitelinks": 100,
+      "birthYear": "1935",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q367825",
+      "answerKey": "salman bin abdulaziz al saud"
+    },
+    {
+      "id": 5,
+      "name": "Ibn Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ibn%20Saud.png",
+      "sitelinks": 93,
+      "birthYear": "1877",
+      "deathYear": "1953",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151509",
+      "answerKey": "ibn saud"
+    },
+    {
+      "id": 6,
+      "name": "Mohammed bin Salman Al Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20%D9%84%D9%84%D8%A3%D9%85%D9%8A%D8%B1%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B3%D9%84%D9%85%D8%A7%D9%86%20%D8%A8%D9%86%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2%20%D8%A2%D9%84%20%D8%B3%D8%B9%D9%88%D8%AF%20%28%D9%85%D9%82%D8%B5%D9%88%D8%B5%D8%A9%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6892571",
+      "answerKey": "mohammed bin salman al saud"
+    },
+    {
+      "id": 7,
+      "name": "Jamal Khashoggi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamal%20Khashoggi%20in%20March%202018%20%28cropped%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1958",
+      "deathYear": "2018",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1262052",
+      "answerKey": "jamal khashoggi"
+    },
+    {
+      "id": 8,
+      "name": "King Faisal bin Abdulaziz Al Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Faisal%20of%20Saudi%20Arabia%20on%20on%20arrival%20ceremony%20welcoming%2005-27-1971%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1906",
+      "deathYear": "1975",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217167",
+      "answerKey": "king faisal bin abdulaziz al saud"
+    },
+    {
+      "id": 9,
+      "name": "Fahd bin Abdulaziz Al Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fahd%20of%20Saudi%20Arabia%20Portrait.jpg",
+      "sitelinks": 76,
+      "birthYear": "1923",
+      "deathYear": "2005",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183187",
+      "answerKey": "fahd bin abdulaziz al saud"
+    },
+    {
+      "id": 10,
+      "name": "Fahd bin Abdulaziz Al Saud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fahd%20of%20Saudi%20Arabia%20Portrait.jpg",
+      "sitelinks": 76,
+      "birthYear": "1921",
+      "deathYear": "2005",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183187",
+      "answerKey": "fahd bin abdulaziz al saud"
+    }
+  ]
+}

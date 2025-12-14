@@ -1,0 +1,118 @@
+{
+  "country": "Albania",
+  "countryCode": "Q222",
+  "generated": "2025-12-14T01:54:42.451Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mother Teresa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa%20090.jpg",
+      "sitelinks": 196,
+      "birthYear": "1910",
+      "deathYear": "1997",
+      "occupation": "missionary",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30547",
+      "answerKey": "mother teresa"
+    },
+    {
+      "id": 2,
+      "name": "Dua Lipa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DuaLipa-byPhilipRomano.jpg",
+      "sitelinks": 108,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21914464",
+      "answerKey": "dua lipa"
+    },
+    {
+      "id": 3,
+      "name": "Masiela Lusha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Masiela%20Lusha%20as%20Goodwill%20Ambassador%20%28cropped%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37944",
+      "answerKey": "masiela lusha"
+    },
+    {
+      "id": 4,
+      "name": "Ismail Kadare",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Kadare%20%28portret%29.jpg",
+      "sitelinks": 85,
+      "birthYear": "1936",
+      "deathYear": "2024",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q179695",
+      "answerKey": "ismail kadare"
+    },
+    {
+      "id": 5,
+      "name": "Edi Rama",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edi%20Rama%20%282024-02-29%29.jpg",
+      "sitelinks": 82,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q316901",
+      "answerKey": "edi rama"
+    },
+    {
+      "id": 6,
+      "name": "Hashim Thaçi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hashim%20Tha%C3%A7i%20official%20portrait.jpg",
+      "sitelinks": 72,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57634",
+      "answerKey": "hashim thaci"
+    },
+    {
+      "id": 7,
+      "name": "Sali Berisha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sali%20Berisha%202025.jpg",
+      "sitelinks": 71,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57625",
+      "answerKey": "sali berisha"
+    },
+    {
+      "id": 8,
+      "name": "Bujar Nishani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bujar%20Nishani%20%2803-10-2016%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1966",
+      "deathYear": "2022",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57526",
+      "answerKey": "bujar nishani"
+    },
+    {
+      "id": 9,
+      "name": "Bleona",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bleona%20in%20Alexander%20Vuthier%20for%20CCercle%20Magazine%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22137038",
+      "answerKey": "bleona"
+    },
+    {
+      "id": 10,
+      "name": "Bamir Topi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bamir%20Topi%202.jpg",
+      "sitelinks": 62,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57300",
+      "answerKey": "bamir topi"
+    }
+  ]
+}

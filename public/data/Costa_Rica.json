@@ -1,0 +1,118 @@
+{
+  "country": "Costa Rica",
+  "countryCode": "Q800",
+  "generated": "2025-12-14T01:58:32.074Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Óscar Arias Sánchez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%93scar%20Arias%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q49344",
+      "answerKey": "oscar arias sanchez"
+    },
+    {
+      "id": 2,
+      "name": "Keylor Navas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keylor%20Navas%202018%20%28cropped%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q969423",
+      "answerKey": "keylor navas"
+    },
+    {
+      "id": 3,
+      "name": "Laura Chinchilla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laura%204%20%28cropped%29.jpg",
+      "sitelinks": 70,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57321",
+      "answerKey": "laura chinchilla"
+    },
+    {
+      "id": 4,
+      "name": "Bryan Ruiz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bryan%20Ruiz%20Gonz%C3%A1lez%202015.jpg",
+      "sitelinks": 54,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318383",
+      "answerKey": "bryan ruiz"
+    },
+    {
+      "id": 5,
+      "name": "Paulo Wanchope",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Wanchope%202007%202.jpg",
+      "sitelinks": 52,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211126",
+      "answerKey": "paulo wanchope"
+    },
+    {
+      "id": 6,
+      "name": "Luis Guillermo Solís",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Guillermo%20Sol%C3%ADs%2C%20Costa%20Rica%2003%28cropped%29.JPG",
+      "sitelinks": 48,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5983599",
+      "answerKey": "luis guillermo solis"
+    },
+    {
+      "id": 7,
+      "name": "Joel Campbell",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joel%20Campbell.jpg",
+      "sitelinks": 45,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q356797",
+      "answerKey": "joel campbell"
+    },
+    {
+      "id": 8,
+      "name": "Celso Borges",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Celso%20Borges%20-%20January%205th%2C%202015%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2208497",
+      "answerKey": "celso borges"
+    },
+    {
+      "id": 9,
+      "name": "Óscar Duarte",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Duarte%20Club%20Brugge.jpg",
+      "sitelinks": 41,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2063279",
+      "answerKey": "oscar duarte"
+    },
+    {
+      "id": 10,
+      "name": "Marco Ureña",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marco%20Ure%C3%B1a%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1511793",
+      "answerKey": "marco urena"
+    }
+  ]
+}

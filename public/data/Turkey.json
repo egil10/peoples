@@ -1,0 +1,118 @@
+{
+  "country": "Turkey",
+  "countryCode": "Q43",
+  "generated": "2025-12-14T01:50:22.130Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mustafa Kemal Atatürk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ataturk1930s.jpg",
+      "sitelinks": 250,
+      "birthYear": "1881",
+      "deathYear": "1938",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5152",
+      "answerKey": "mustafa kemal ataturk"
+    },
+    {
+      "id": 2,
+      "name": "Recep Tayyip Erdoğan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Recep%20Tayyip%20Erdogan%20in%20Ukraine.jpg",
+      "sitelinks": 182,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39259",
+      "answerKey": "recep tayyip erdogan"
+    },
+    {
+      "id": 3,
+      "name": "Orhan Pamuk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Orhan%20Pamuk%202009%20Shankbone.jpg",
+      "sitelinks": 134,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q241248",
+      "answerKey": "orhan pamuk"
+    },
+    {
+      "id": 4,
+      "name": "Abdullah Gül",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20G%C3%BCl%20%28cropped%20version%29.jpg",
+      "sitelinks": 115,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42852",
+      "answerKey": "abdullah gul"
+    },
+    {
+      "id": 5,
+      "name": "Dani Rodrik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dani%20Rodrik%2C%202012%20%28cropped%29.jpg",
+      "sitelinks": 105,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q559838",
+      "answerKey": "dani rodrik"
+    },
+    {
+      "id": 6,
+      "name": "Mesut Özil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mesut%20%C3%96zil%20at%20Baku%20before%202019%20UEFA%20Europe%20League%20Final.jpg",
+      "sitelinks": 104,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83488",
+      "answerKey": "mesut ozil"
+    },
+    {
+      "id": 7,
+      "name": "Ahmet Davutoğlu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Kerry%20Meets%20With%20Turkish%20Foreign%20Minister%20Davutoglu%20%282%29%20%28cropped%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58198",
+      "answerKey": "ahmet davutoglu"
+    },
+    {
+      "id": 8,
+      "name": "İsmet İnönü",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Inonu%20Ismet%20%28cropped%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1884",
+      "deathYear": "1973",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183297",
+      "answerKey": "ismet inonu"
+    },
+    {
+      "id": 9,
+      "name": "Fethullah Gülen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fetullahgulen.png",
+      "sitelinks": 86,
+      "birthYear": "1941",
+      "deathYear": "2024",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q488200",
+      "answerKey": "fethullah gulen"
+    },
+    {
+      "id": 10,
+      "name": "Turgut Özal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Turgut%20%C3%96zal%20as%20Turkish%20Prime%20Minister.jpg",
+      "sitelinks": 81,
+      "birthYear": "1927",
+      "deathYear": "1993",
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180280",
+      "answerKey": "turgut ozal"
+    }
+  ]
+}

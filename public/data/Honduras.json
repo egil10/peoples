@@ -1,0 +1,118 @@
+{
+  "country": "Honduras",
+  "countryCode": "Q783",
+  "generated": "2025-12-14T01:58:30.392Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Carlos Mencia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Mencia%20performing%20in%20Anchorage%2C%20Alaska%202010.jpg",
+      "sitelinks": 62,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1043065",
+      "answerKey": "carlos mencia"
+    },
+    {
+      "id": 2,
+      "name": "Manuel Zelaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Zelaya%202022.jpg",
+      "sitelinks": 57,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q191060",
+      "answerKey": "manuel zelaya"
+    },
+    {
+      "id": 3,
+      "name": "Juan Orlando Hernández",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Orlando%20Hern%C3%A1ndez%2C%20May%202015.jpg",
+      "sitelinks": 55,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "drug trafficker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5951723",
+      "answerKey": "juan orlando hernandez"
+    },
+    {
+      "id": 4,
+      "name": "Xiomara Castro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xiomara%20Castro%202024%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8044708",
+      "answerKey": "xiomara castro"
+    },
+    {
+      "id": 5,
+      "name": "Porfirio Lobo Sosa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pepe%20Lobo%202010-01-27.jpg",
+      "sitelinks": 45,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4737",
+      "answerKey": "porfirio lobo sosa"
+    },
+    {
+      "id": 6,
+      "name": "David Suazo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Suazo%20photo%20by%20Djuradj%20Vujcic.jpg",
+      "sitelinks": 42,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212756",
+      "answerKey": "david suazo"
+    },
+    {
+      "id": 7,
+      "name": "Maynor Figueroa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maynor%20Figueroa%202017.jpg",
+      "sitelinks": 42,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312064",
+      "answerKey": "maynor figueroa"
+    },
+    {
+      "id": 8,
+      "name": "Wilson Palacios",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilson%20Palacios%20National%20Team.jpg",
+      "sitelinks": 40,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299503",
+      "answerKey": "wilson palacios"
+    },
+    {
+      "id": 9,
+      "name": "Berta Cáceres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berta%20C%C3%A1ceres%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1971",
+      "deathYear": "2016",
+      "occupation": "human rights defender",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22999106",
+      "answerKey": "berta caceres"
+    },
+    {
+      "id": 10,
+      "name": "Emilio Izaguirre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Izaguirre%20Nov2010.jpg",
+      "sitelinks": 35,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q350415",
+      "answerKey": "emilio izaguirre"
+    }
+  ]
+}

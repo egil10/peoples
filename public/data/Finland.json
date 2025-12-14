@@ -1,0 +1,118 @@
+{
+  "country": "Finland",
+  "countryCode": "Q33",
+  "generated": "2025-12-14T01:50:45.114Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Linus Torvalds",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lc3%202018%20%28263682303%29%20%28cropped%29.jpeg",
+      "sitelinks": 150,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34253",
+      "answerKey": "linus torvalds"
+    },
+    {
+      "id": 2,
+      "name": "Jean Sibelius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sibelius%20in%201890%20%28cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1865",
+      "deathYear": "1957",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45682",
+      "answerKey": "jean sibelius"
+    },
+    {
+      "id": 3,
+      "name": "Jean Sibelius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Sibelius%201939.jpg",
+      "sitelinks": 104,
+      "birthYear": "1865",
+      "deathYear": "1957",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45682",
+      "answerKey": "jean sibelius"
+    },
+    {
+      "id": 4,
+      "name": "Martti Ahtisaari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martti%20Ahtisaari%202012-04-16.jpg",
+      "sitelinks": 100,
+      "birthYear": "1937",
+      "deathYear": "2023",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29230",
+      "answerKey": "martti ahtisaari"
+    },
+    {
+      "id": 5,
+      "name": "Sauli Niinistö",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sauli%20Niinist%C3%B6%20in%20the%20White%20House%20Oval%20Office%20on%20March%209%2C%202023%20-%20P20230309CS-0276%20%28cropped%29.jpg",
+      "sitelinks": 99,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29207",
+      "answerKey": "sauli niinisto"
+    },
+    {
+      "id": 6,
+      "name": "Sanna Marin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eurooppa-neuvosto%2023.%E2%80%9324.3.2023%20%2852766857233%29%20%28cropped%29.jpg",
+      "sitelinks": 98,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16986436",
+      "answerKey": "sanna marin"
+    },
+    {
+      "id": 7,
+      "name": "Alvar Aalto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvar%20Aalto1.jpg",
+      "sitelinks": 95,
+      "birthYear": "1898",
+      "deathYear": "1976",
+      "occupation": "architect",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82840",
+      "answerKey": "alvar aalto"
+    },
+    {
+      "id": 8,
+      "name": "Tarja Halonen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarja%20Halonen%201c389%208827-2.jpg",
+      "sitelinks": 93,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29213",
+      "answerKey": "tarja halonen"
+    },
+    {
+      "id": 9,
+      "name": "Kimi Räikkönen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kimi%20raikkonen%20%2852780844274%29%20%28cropped%29.jpg",
+      "sitelinks": 90,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "racing automobile driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11192",
+      "answerKey": "kimi raikkonen"
+    },
+    {
+      "id": 10,
+      "name": "Carl Gustaf Emil Mannerheim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mannerheim1940.jpg",
+      "sitelinks": 87,
+      "birthYear": "1867",
+      "deathYear": "1951",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152306",
+      "answerKey": "carl gustaf emil mannerheim"
+    }
+  ]
+}

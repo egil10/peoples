@@ -1,0 +1,118 @@
+{
+  "country": "Cyprus",
+  "countryCode": "Q229",
+  "generated": "2025-12-14T01:54:54.037Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Nikos Anastasiades",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicos%20Anastasiades%2C%20November%202022%20%28ABG%20GPO1%29.jpeg",
+      "sitelinks": 73,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2112764",
+      "answerKey": "nikos anastasiades"
+    },
+    {
+      "id": 2,
+      "name": "Dimitris Christofias",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Demetris%20Christofias%20in%20February%202011.jpg",
+      "sitelinks": 63,
+      "birthYear": "1946",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57334",
+      "answerKey": "dimitris christofias"
+    },
+    {
+      "id": 3,
+      "name": "Rauf Denktaş",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rauf%20Denktash.jpg",
+      "sitelinks": 57,
+      "birthYear": "1924",
+      "deathYear": "2012",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200436",
+      "answerKey": "rauf denktas"
+    },
+    {
+      "id": 4,
+      "name": "Makarios III",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Makarios%20III%20and%20Robert%20F.%20Wagner%20NYWTS%20cropped.jpg",
+      "sitelinks": 57,
+      "birthYear": "1913",
+      "deathYear": "1977",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153509",
+      "answerKey": "makarios iii"
+    },
+    {
+      "id": 5,
+      "name": "Tassos Papadopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Tassos%20Papadopoulos%2C%20President%20of%20Cyprus%2C%20to%20the%20EC%20%28P-011163%2000-02%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1934",
+      "deathYear": "2008",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200776",
+      "answerKey": "tassos papadopoulos"
+    },
+    {
+      "id": 6,
+      "name": "Christophoros A. Pissarides",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Pissarides%20Wiki%20MR2013.jpg",
+      "sitelinks": 49,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q109582",
+      "answerKey": "christophoros a pissarides"
+    },
+    {
+      "id": 7,
+      "name": "Christophoros A. Pissarides",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Pissarides.jpg",
+      "sitelinks": 49,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q109582",
+      "answerKey": "christophoros a pissarides"
+    },
+    {
+      "id": 8,
+      "name": "Nicos Christodoulides",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikos%20CHRISTODOULIDES%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48905549",
+      "answerKey": "nicos christodoulides"
+    },
+    {
+      "id": 9,
+      "name": "Marcos Baghdatis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcos%20Baghdatis%20Olympics%202012.jpg",
+      "sitelinks": 42,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207084",
+      "answerKey": "marcos baghdatis"
+    },
+    {
+      "id": 10,
+      "name": "Oleg Deripaska",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deripaska%20Oleg%20September%202020%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315514",
+      "answerKey": "oleg deripaska"
+    }
+  ]
+}

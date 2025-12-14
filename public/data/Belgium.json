@@ -1,0 +1,118 @@
+{
+  "country": "Belgium",
+  "countryCode": "Q31",
+  "generated": "2025-12-14T01:51:18.626Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Q49747",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Maurice%20Maeterlinck.jpg",
+      "sitelinks": 132,
+      "birthYear": "1862",
+      "deathYear": "1949",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q49747",
+      "answerKey": "q49747"
+    },
+    {
+      "id": 2,
+      "name": "Pierre-Joseph Proudhon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Pierre-Joseph%20Proudhon%20%28cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1809",
+      "deathYear": "1865",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5749",
+      "answerKey": "pierrejoseph proudhon"
+    },
+    {
+      "id": 3,
+      "name": "Max Verstappen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2024-08-25%20Motorsport%2C%20Formel%201%2C%20Gro%C3%9Fer%20Preis%20der%20Niederlande%202024%20STP%203973%20by%20Stepro%20%28portrait%20cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2239218",
+      "answerKey": "max verstappen"
+    },
+    {
+      "id": 4,
+      "name": "Claude Lévi-Strauss",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Levi-strauss%20260%20%28cropped2%29.jpg",
+      "sitelinks": 99,
+      "birthYear": "1908",
+      "deathYear": "2009",
+      "occupation": "photographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128126",
+      "answerKey": "claude levistrauss"
+    },
+    {
+      "id": 5,
+      "name": "Q7836",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
+      "sitelinks": 96,
+      "birthYear": "1898",
+      "deathYear": "1967",
+      "occupation": "photographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7836",
+      "answerKey": "q7836"
+    },
+    {
+      "id": 6,
+      "name": "Leopold II of Belgium",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20ii%20garter%20knight.jpg",
+      "sitelinks": 95,
+      "birthYear": "1835",
+      "deathYear": "1909",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12967",
+      "answerKey": "leopold ii of belgium"
+    },
+    {
+      "id": 7,
+      "name": "Eden Hazard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eden%20Hazard%20at%20Baku%20before%202019%20UEFA%20Europe%20League%20Final.jpg",
+      "sitelinks": 93,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214204",
+      "answerKey": "eden hazard"
+    },
+    {
+      "id": 8,
+      "name": "Philippe of Belgium",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20King%20Philippe%20I%20of%20Belgium%20to%20Ghent%20European%20Youth%20Capital%20on%2025%20April%202024%20-%20EU2024BE%20240425%20Visit%20of%20His%20Majesty%20the%20King%20to%20Ghent%20European%20Youth%20Capital%20Ghent%20JNZT%200078%20%2853677952391%29.jpg",
+      "sitelinks": 93,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155004",
+      "answerKey": "philippe of belgium"
+    },
+    {
+      "id": 9,
+      "name": "Jean-Claude Van Damme",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Damme%20Cannes%202010%20%28cropped%29.jpg",
+      "sitelinks": 92,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q308840",
+      "answerKey": "jeanclaude van damme"
+    },
+    {
+      "id": 10,
+      "name": "Jean-Claude Van Damme",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Claude%20Van%20Damme%202012.jpg",
+      "sitelinks": 92,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q308840",
+      "answerKey": "jeanclaude van damme"
+    }
+  ]
+}

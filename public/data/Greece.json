@@ -1,0 +1,118 @@
+{
+  "country": "Greece",
+  "countryCode": "Q41",
+  "generated": "2025-12-14T01:53:47.199Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Tom Hanks",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%20Hanks%20at%20the%20Elvis%20Premiere%202022.jpg",
+      "sitelinks": 132,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2263",
+      "answerKey": "tom hanks"
+    },
+    {
+      "id": 2,
+      "name": "Giorgos Seferis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giorgos%20Seferis%201963.jpg",
+      "sitelinks": 94,
+      "birthYear": "1900",
+      "deathYear": "1971",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q165823",
+      "answerKey": "giorgos seferis"
+    },
+    {
+      "id": 3,
+      "name": "Alexis Tsipras",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20Tsipras%2C%20prime%20minister%20of%20Greece.jpg",
+      "sitelinks": 94,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312015",
+      "answerKey": "alexis tsipras"
+    },
+    {
+      "id": 4,
+      "name": "Q128297",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201958.jpg",
+      "sitelinks": 89,
+      "birthYear": "1923",
+      "deathYear": "1977",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
+      "answerKey": "q128297"
+    },
+    {
+      "id": 5,
+      "name": "Q128297",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201959%20Amsterdam.jpg",
+      "sitelinks": 89,
+      "birthYear": "1923",
+      "deathYear": "1977",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
+      "answerKey": "q128297"
+    },
+    {
+      "id": 6,
+      "name": "Odysseas Elytis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Odysseas%20Elytis%201974.jpg",
+      "sitelinks": 86,
+      "birthYear": "1911",
+      "deathYear": "1996",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160478",
+      "answerKey": "odysseas elytis"
+    },
+    {
+      "id": 7,
+      "name": "Nikos Kazantzakis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikos%20Kazantzakis.jpg",
+      "sitelinks": 84,
+      "birthYear": "1883",
+      "deathYear": "1957",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214622",
+      "answerKey": "nikos kazantzakis"
+    },
+    {
+      "id": 8,
+      "name": "Aristotle Onassis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aristotle%20Onassis%201967cr.jpg",
+      "sitelinks": 82,
+      "birthYear": "1906",
+      "deathYear": "1975",
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180455",
+      "answerKey": "aristotle onassis"
+    },
+    {
+      "id": 9,
+      "name": "Elia Kazan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elia%20Kazan.JPG",
+      "sitelinks": 80,
+      "birthYear": "1909",
+      "deathYear": "2003",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q72717",
+      "answerKey": "elia kazan"
+    },
+    {
+      "id": 10,
+      "name": "Kyriakos Mitsotakis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyriakos%20MITSOTAKIS%20at%20European%20Council%20-%20March%202025.jpg",
+      "sitelinks": 78,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q552751",
+      "answerKey": "kyriakos mitsotakis"
+    }
+  ]
+}

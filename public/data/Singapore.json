@@ -1,0 +1,118 @@
+{
+  "country": "Singapore",
+  "countryCode": "Q334",
+  "generated": "2025-12-14T01:55:21.141Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Jet Li",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jet%20Li%20cropped.JPG",
+      "sitelinks": 118,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q159577",
+      "answerKey": "jet li"
+    },
+    {
+      "id": 2,
+      "name": "Lee Kuan Yew",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Kuan%20Yew.jpg",
+      "sitelinks": 115,
+      "birthYear": "1923",
+      "deathYear": "2015",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131248",
+      "answerKey": "lee kuan yew"
+    },
+    {
+      "id": 3,
+      "name": "Lee Hsien Loong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Hsien%20Loong%202016%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57643",
+      "answerKey": "lee hsien loong"
+    },
+    {
+      "id": 4,
+      "name": "Halimah Yacob",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Halimah%20Yacob%20in%202019.jpg",
+      "sitelinks": 73,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5642345",
+      "answerKey": "halimah yacob"
+    },
+    {
+      "id": 5,
+      "name": "Gong Li",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gong%20Li%20Cannes%202016.jpg",
+      "sitelinks": 67,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q150903",
+      "answerKey": "gong li"
+    },
+    {
+      "id": 6,
+      "name": "Vanessa-Mae",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanessa-Mae%202014%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215076",
+      "answerKey": "vanessamae"
+    },
+    {
+      "id": 7,
+      "name": "Tony Tan Keng Yam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Tan%20Keng%20Yam%20cropp.jpg",
+      "sitelinks": 53,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38987",
+      "answerKey": "tony tan keng yam"
+    },
+    {
+      "id": 8,
+      "name": "Goh Chok Tong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goh%20Chok%20Tong%2020080328.jpg",
+      "sitelinks": 50,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313300",
+      "answerKey": "goh chok tong"
+    },
+    {
+      "id": 9,
+      "name": "S. R. Nathan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Singapore%20SR%20Nathan.jpg",
+      "sitelinks": 47,
+      "birthYear": "1924",
+      "deathYear": "2016",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212188",
+      "answerKey": "s r nathan"
+    },
+    {
+      "id": 10,
+      "name": "Tharman Shanmugaratnam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tharman%20Shanmugaratnam%20Official%20photo%202023.tif",
+      "sitelinks": 47,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983752",
+      "answerKey": "tharman shanmugaratnam"
+    }
+  ]
+}

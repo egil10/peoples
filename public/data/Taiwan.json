@@ -1,0 +1,118 @@
+{
+  "country": "Taiwan",
+  "countryCode": "Q865",
+  "generated": "2025-12-14T01:55:09.436Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Chiang Kai-shek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png",
+      "sitelinks": 137,
+      "birthYear": "1887",
+      "deathYear": "1975",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16574",
+      "answerKey": "chiang kaishek"
+    },
+    {
+      "id": 2,
+      "name": "Tsai Ing-wen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%94%A1%E8%8B%B1%E6%96%87%E5%AE%98%E6%96%B9%E5%85%83%E9%A6%96%E8%82%96%E5%83%8F%E7%85%A7.png",
+      "sitelinks": 112,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233984",
+      "answerKey": "tsai ingwen"
+    },
+    {
+      "id": 3,
+      "name": "I. M. Pei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Itzhak%20Perlman%20with%20I.M.%20Pei%2C%20architect%2C%20looking%20at%20model%20of%20NYC%20Convention%20Center%20%2803124v%29%20%28cropped%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1917",
+      "deathYear": "2019",
+      "occupation": "architect",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46868",
+      "answerKey": "i m pei"
+    },
+    {
+      "id": 4,
+      "name": "Jolin Tsai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%94%A1%E4%BE%9D%E6%9E%97%E5%87%BA%E5%B8%AD%E7%8E%8B%E5%9B%BD%E5%A4%A7%E5%B8%9D%E5%85%A8%E7%90%83%E5%B7%A1%E5%9B%9E%E8%B5%9B%E7%8E%B0%E5%9C%BA%20cropped%20%28cropped%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51101",
+      "answerKey": "jolin tsai"
+    },
+    {
+      "id": 5,
+      "name": "Chen-ning Yang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang.jpg",
+      "sitelinks": 85,
+      "birthYear": "1922",
+      "deathYear": "2025",
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181369",
+      "answerKey": "chenning yang"
+    },
+    {
+      "id": 6,
+      "name": "Ang Lee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ang%20Lee%20-%2066%C3%A8me%20Festival%20de%20Venise%20%28Mostra%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160726",
+      "answerKey": "ang lee"
+    },
+    {
+      "id": 7,
+      "name": "Teresa Teng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teresa%20Teng%20US.jpg",
+      "sitelinks": 79,
+      "birthYear": "1953",
+      "deathYear": "1995",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q463945",
+      "answerKey": "teresa teng"
+    },
+    {
+      "id": 8,
+      "name": "Tsung-Dao Lee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TD%20Lee.jpg",
+      "sitelinks": 77,
+      "birthYear": "1926",
+      "deathYear": "2024",
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183679",
+      "answerKey": "tsungdao lee"
+    },
+    {
+      "id": 9,
+      "name": "Ma Ying-jeou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ma%20Ying-jeou%20election%20infobox.jpg",
+      "sitelinks": 68,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19216",
+      "answerKey": "ma yingjeou"
+    },
+    {
+      "id": 10,
+      "name": "Lai Ching-te",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%B8%BD%E7%B5%B1%201.jpg",
+      "sitelinks": 66,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3847080",
+      "answerKey": "lai chingte"
+    }
+  ]
+}

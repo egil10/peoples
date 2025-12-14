@@ -1,0 +1,118 @@
+{
+  "country": "Dominican Republic",
+  "countryCode": "Q786",
+  "generated": "2025-12-14T01:49:29.564Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mario Vargas Llosa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Vargas%20Llosa%20%28crop%202%29.jpg",
+      "sitelinks": 127,
+      "birthYear": "1936",
+      "deathYear": "2025",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39803",
+      "answerKey": "mario vargas llosa"
+    },
+    {
+      "id": 2,
+      "name": "Rafael Trujillo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20L.%20Trujillo%20en%20la%20silla%20presidencial%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1891",
+      "deathYear": "1961",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152474",
+      "answerKey": "rafael trujillo"
+    },
+    {
+      "id": 3,
+      "name": "Felipe González",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Gonz%C3%A1lez%20recibe%20al%20presidente%20de%20la%20Diputaci%C3%B3n%20General%20de%20Arag%C3%B3n%20%28cropped%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156799",
+      "answerKey": "felipe gonzalez"
+    },
+    {
+      "id": 4,
+      "name": "Leonel Fernández",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonel%20Fern%C3%A1ndez%20cropped.jpg",
+      "sitelinks": 47,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151944",
+      "answerKey": "leonel fernandez"
+    },
+    {
+      "id": 5,
+      "name": "Alejandro Balde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Esapana-inglaterra-74%20%2848899354493%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q105681392",
+      "answerKey": "alejandro balde"
+    },
+    {
+      "id": 6,
+      "name": "Danilo Medina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/V%20Cumbre%20CELAC-%20Rep%C3%BAblica%20Dominicana%20%2832130698470%29%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57429",
+      "answerKey": "danilo medina"
+    },
+    {
+      "id": 7,
+      "name": "Mariano Díaz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CSKA-RM18%20%2821%29%20Mariano%20D%C3%ADaz%20Mej%C3%ADa%202018-10-03.jpg",
+      "sitelinks": 45,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10556350",
+      "answerKey": "mariano diaz"
+    },
+    {
+      "id": 8,
+      "name": "Amaury Nolasco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amaury%20Nolasco%2010-13-2008.jpg",
+      "sitelinks": 44,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q210327",
+      "answerKey": "amaury nolasco"
+    },
+    {
+      "id": 9,
+      "name": "Luis Abinader",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Luis%20Abinader%20at%20the%20National%20Palace%20of%20the%20Dominican%20Republic%20in%20Santo%20Domingo%20on%20April%2025%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16594097",
+      "answerKey": "luis abinader"
+    },
+    {
+      "id": 10,
+      "name": "Junot Díaz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Junot%20D%C3%ADaz%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q402664",
+      "answerKey": "junot diaz"
+    }
+  ]
+}

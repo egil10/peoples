@@ -1,0 +1,118 @@
+{
+  "country": "Laos",
+  "countryCode": "Q819",
+  "generated": "2025-12-14T01:56:38.281Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Bounnhang Vorachith",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bounnhang%20Vorachit.JPG",
+      "sitelinks": 51,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q470024",
+      "answerKey": "bounnhang vorachith"
+    },
+    {
+      "id": 2,
+      "name": "Choummaly Sayasone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Choummaly%20Sayasone.jpg",
+      "sitelinks": 50,
+      "birthYear": "1936",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57444",
+      "answerKey": "choummaly sayasone"
+    },
+    {
+      "id": 3,
+      "name": "Thongloun Sisoulith",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thongloun%20Sisoulith%20in%20Kazan%20-%202024%20%28cropped%202%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58323",
+      "answerKey": "thongloun sisoulith"
+    },
+    {
+      "id": 4,
+      "name": "Souphanouvong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Souphanouvong1978.jpg",
+      "sitelinks": 41,
+      "birthYear": "1909",
+      "deathYear": "1995",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q320103",
+      "answerKey": "souphanouvong"
+    },
+    {
+      "id": 5,
+      "name": "Khamtai Siphandone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%2C%20Dr.%20Manmohan%20Singh%20meeting%20with%20the%20President%20of%20Laos%2C%20Mr.%20Khamtay%20Siphandone%20at%20Vientiane%20in%20Laos%20on%20November%2029%2C%202004%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1924",
+      "deathYear": "2025",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360138",
+      "answerKey": "khamtai siphandone"
+    },
+    {
+      "id": 6,
+      "name": "Souvanna Phouma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vice%20President%20Spiro%20Agnew%20and%20Prince%20Souvanna%20Phouma%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1901",
+      "deathYear": "1984",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q469498",
+      "answerKey": "souvanna phouma"
+    },
+    {
+      "id": 7,
+      "name": "Kaysone Phomvihane",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaysone%20Phomvihane%201978.jpg",
+      "sitelinks": 35,
+      "birthYear": "1920",
+      "deathYear": "1992",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q320100",
+      "answerKey": "kaysone phomvihane"
+    },
+    {
+      "id": 8,
+      "name": "Sisavang Vatthana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kroonprins%20Savang%20%2C%20nieuwe%20Koning%20van%20Laos%2C%20Bestanddeelnr%20910-7908.jpg",
+      "sitelinks": 34,
+      "birthYear": "1907",
+      "deathYear": "1978",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379797",
+      "answerKey": "sisavang vatthana"
+    },
+    {
+      "id": 9,
+      "name": "Thongsing Thammavong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thongsing%20Thammavong.jpg",
+      "sitelinks": 31,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57826",
+      "answerKey": "thongsing thammavong"
+    },
+    {
+      "id": 10,
+      "name": "Sonexay Siphandone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonexay%20Siphandone%20on%20January%2021%2C%202025.jpg",
+      "sitelinks": 31,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104914585",
+      "answerKey": "sonexay siphandone"
+    }
+  ]
+}

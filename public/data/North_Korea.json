@@ -1,0 +1,118 @@
+{
+  "country": "North Korea",
+  "countryCode": "Q423",
+  "generated": "2025-12-14T01:56:59.921Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Kim Jong-un",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Jong-un%20and%20Vladimir%20Putin%20%282023-09-13%29%2012%20%28cropped%29.jpg",
+      "sitelinks": 172,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56226",
+      "answerKey": "kim jongun"
+    },
+    {
+      "id": 2,
+      "name": "Kim Il-sung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Il%20Sung%20Portrait-3.jpg",
+      "sitelinks": 160,
+      "birthYear": "1912",
+      "deathYear": "1994",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41117",
+      "answerKey": "kim ilsung"
+    },
+    {
+      "id": 3,
+      "name": "Kim Jong-il",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Jong-il%20on%20August%2024%2C%202011.jpg",
+      "sitelinks": 135,
+      "birthYear": "1941",
+      "deathYear": "2011",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10665",
+      "answerKey": "kim jongil"
+    },
+    {
+      "id": 4,
+      "name": "Kim Yo-jong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Yo-jong%20%282018%29.png",
+      "sitelinks": 59,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4330912",
+      "answerKey": "kim yojong"
+    },
+    {
+      "id": 5,
+      "name": "Park Hon-young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pak%20Hon-yong12.jpg",
+      "sitelinks": 51,
+      "birthYear": "1900",
+      "deathYear": "1956",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
+      "answerKey": "park honyoung"
+    },
+    {
+      "id": 6,
+      "name": "Park Hon-young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pak%20Hon-yong%2002.jpg",
+      "sitelinks": 51,
+      "birthYear": "1900",
+      "deathYear": "1956",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
+      "answerKey": "park honyoung"
+    },
+    {
+      "id": 7,
+      "name": "Park Hon-young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pak%20Hon-yong12.jpg",
+      "sitelinks": 51,
+      "birthYear": "1900",
+      "deathYear": "1955",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
+      "answerKey": "park honyoung"
+    },
+    {
+      "id": 8,
+      "name": "Park Hon-young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pak%20Hon-yong%2002.jpg",
+      "sitelinks": 51,
+      "birthYear": "1900",
+      "deathYear": "1955",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
+      "answerKey": "park honyoung"
+    },
+    {
+      "id": 9,
+      "name": "Kim Yong-nam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Yong-nam%20in%20Moscow%20%28cropped%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1928",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q110456",
+      "answerKey": "kim yongnam"
+    },
+    {
+      "id": 10,
+      "name": "Ri Sol-ju",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ri%20Sol-ju%20%28April%2027%2C%202018%29.png",
+      "sitelinks": 42,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q714658",
+      "answerKey": "ri solju"
+    }
+  ]
+}

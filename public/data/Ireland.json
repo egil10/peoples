@@ -1,0 +1,118 @@
+{
+  "country": "Ireland",
+  "countryCode": "Q27",
+  "generated": "2025-12-14T01:53:06.880Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Oscar Wilde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20by%20Napoleon%20Sarony.%20Three-quarter-length%20photograph%2C%20seated.jpg",
+      "sitelinks": 216,
+      "birthYear": "1854",
+      "deathYear": "1900",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30875",
+      "answerKey": "oscar wilde"
+    },
+    {
+      "id": 2,
+      "name": "James Joyce",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Joyce%20by%20Alex%20Ehrenzweig%2C%201915%20cropped.jpg",
+      "sitelinks": 197,
+      "birthYear": "1882",
+      "deathYear": "1941",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6882",
+      "answerKey": "james joyce"
+    },
+    {
+      "id": 3,
+      "name": "George Bernard Shaw",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Bernard%20Shaw%201936.jpg",
+      "sitelinks": 184,
+      "birthYear": "1856",
+      "deathYear": "1950",
+      "occupation": "playwright",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19185",
+      "answerKey": "george bernard shaw"
+    },
+    {
+      "id": 4,
+      "name": "Samuel Beckett",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Beckett%2C%20Pic%2C%201%20%28cropped%29.jpg",
+      "sitelinks": 138,
+      "birthYear": "1906",
+      "deathYear": "1989",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37327",
+      "answerKey": "samuel beckett"
+    },
+    {
+      "id": 5,
+      "name": "Mel Gibson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mel%20Gibson%20Cannes%202016%202.jpg",
+      "sitelinks": 116,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42229",
+      "answerKey": "mel gibson"
+    },
+    {
+      "id": 6,
+      "name": "Enya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enya%202017.png",
+      "sitelinks": 113,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38257",
+      "answerKey": "enya"
+    },
+    {
+      "id": 7,
+      "name": "Seamus Heaney",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seamus%20Heaney%20%28cropped%29.jpg",
+      "sitelinks": 106,
+      "birthYear": "1939",
+      "deathYear": "2013",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93356",
+      "answerKey": "seamus heaney"
+    },
+    {
+      "id": 8,
+      "name": "Pierce Brosnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PierceBrosnan-byPhilipRomano.jpg",
+      "sitelinks": 103,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81520",
+      "answerKey": "pierce brosnan"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Day-Lewis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Day-Lewis%20-%20BFI%20Southbank%20-%20Wednesday%2015th%20October%202025.jpg",
+      "sitelinks": 101,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q166389",
+      "answerKey": "daniel daylewis"
+    },
+    {
+      "id": 10,
+      "name": "Peter O'Toole",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20O%27Toole%20-%201968.jpg",
+      "sitelinks": 101,
+      "birthYear": "1932",
+      "deathYear": "2013",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q103876",
+      "answerKey": "peter otoole"
+    }
+  ]
+}

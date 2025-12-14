@@ -1,0 +1,118 @@
+{
+  "country": "Jordan",
+  "countryCode": "Q810",
+  "generated": "2025-12-14T01:55:55.093Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Abdullah II of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20II%20portrait%20crop%202%20at%2010%20Downing%20Street%20June%202025.jpg",
+      "sitelinks": 112,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57464",
+      "answerKey": "abdullah ii of jordan"
+    },
+    {
+      "id": 2,
+      "name": "Hussein I of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HusseinJordanien.jpg",
+      "sitelinks": 77,
+      "birthYear": "1935",
+      "deathYear": "1999",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q146906",
+      "answerKey": "hussein i of jordan"
+    },
+    {
+      "id": 3,
+      "name": "Queen Rania of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Rania%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202008%20%281%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "queen consort",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200678",
+      "answerKey": "queen rania of jordan"
+    },
+    {
+      "id": 4,
+      "name": "Abdullah I of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Abdullah%20bin%20Hussein.png",
+      "sitelinks": 70,
+      "birthYear": "1882",
+      "deathYear": "1951",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192780",
+      "answerKey": "abdullah i of jordan"
+    },
+    {
+      "id": 5,
+      "name": "Abu Musab al-Zarqawi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abu%20Musab%20al-Zarqawi%20portrait.jpg",
+      "sitelinks": 63,
+      "birthYear": "1966",
+      "deathYear": "2006",
+      "occupation": "mujahid",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181049",
+      "answerKey": "abu musab alzarqawi"
+    },
+    {
+      "id": 6,
+      "name": "Khaled Mashal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khaled%20Meshaal%2001.jpg",
+      "sitelinks": 54,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46930",
+      "answerKey": "khaled mashal"
+    },
+    {
+      "id": 7,
+      "name": "Talal I of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20talal%20of%20Jordan%2070pg.jpg",
+      "sitelinks": 52,
+      "birthYear": "1909",
+      "deathYear": "1972",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q294365",
+      "answerKey": "talal i of jordan"
+    },
+    {
+      "id": 8,
+      "name": "Queen Noor of Jordan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Noor%20Jordan%202011.jpg",
+      "sitelinks": 48,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q240575",
+      "answerKey": "queen noor of jordan"
+    },
+    {
+      "id": 9,
+      "name": "Omar M. Yaghi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yaghi3%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "chemist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q743252",
+      "answerKey": "omar m yaghi"
+    },
+    {
+      "id": 10,
+      "name": "Sirhan Sirhan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sirhan%20Sirhan%20in%202021.jpg",
+      "sitelinks": 40,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "groom",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q297112",
+      "answerKey": "sirhan sirhan"
+    }
+  ]
+}

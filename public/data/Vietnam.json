@@ -1,0 +1,118 @@
+{
+  "country": "Vietnam",
+  "countryCode": "Q881",
+  "generated": "2025-12-14T01:55:38.174Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Võ Nguyên Giáp",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Vo%20Nguyen%20Giap.jpg",
+      "sitelinks": 84,
+      "birthYear": "1911",
+      "deathYear": "2013",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q179910",
+      "answerKey": "vo nguyen giap"
+    },
+    {
+      "id": 2,
+      "name": "Trương Tấn Sang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Truong%20Tan%20Sang%202015.jpg",
+      "sitelinks": 75,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57407",
+      "answerKey": "truong tan sang"
+    },
+    {
+      "id": 3,
+      "name": "Trần Đại Quang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Tran%20Dai%20Quang.jpg",
+      "sitelinks": 69,
+      "birthYear": "1956",
+      "deathYear": "2018",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7833292",
+      "answerKey": "tran ai quang"
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Phú Trọng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguyen%20Phu%20Trong%20HN2023.jpg",
+      "sitelinks": 64,
+      "birthYear": "1944",
+      "deathYear": "2024",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318458",
+      "answerKey": "nguyen phu trong"
+    },
+    {
+      "id": 5,
+      "name": "Thích Nhất Hạnh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thich%20Nhat%20Hanh%2012%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1926",
+      "deathYear": "2022",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310913",
+      "answerKey": "thich nhat hanh"
+    },
+    {
+      "id": 6,
+      "name": "Le Duc Tho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LeDucTho1973.jpg",
+      "sitelinks": 60,
+      "birthYear": "1911",
+      "deathYear": "1990",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233969",
+      "answerKey": "le duc tho"
+    },
+    {
+      "id": 7,
+      "name": "Nguyễn Xuân Phúc",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguyen%20Xuan%20Phuc%202022.jpg",
+      "sitelinks": 55,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10800073",
+      "answerKey": "nguyen xuan phuc"
+    },
+    {
+      "id": 8,
+      "name": "Nguyễn Minh Triết",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguyen%20Minh%20Triet%202008.jpg",
+      "sitelinks": 52,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57400",
+      "answerKey": "nguyen minh triet"
+    },
+    {
+      "id": 9,
+      "name": "Nguyễn Tấn Dũng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguyen%20Tan%20Dung%20June%202015.jpg",
+      "sitelinks": 51,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57600",
+      "answerKey": "nguyen tan dung"
+    },
+    {
+      "id": 10,
+      "name": "Thích Quảng Đức",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%ADch%20Qu%E1%BA%A3ng%20%C4%90%E1%BB%A9c%20self-immolation.jpg",
+      "sitelinks": 48,
+      "birthYear": "1897",
+      "deathYear": "1963",
+      "occupation": "Buddhist monk",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q271847",
+      "answerKey": "thich quang uc"
+    }
+  ]
+}

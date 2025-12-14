@@ -1,0 +1,118 @@
+{
+  "country": "Lebanon",
+  "countryCode": "Q822",
+  "generated": "2025-12-14T01:55:48.848Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Layal Abboud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Layal%20Abboud%20-%20Plaza%20Palace%20Ceremony%20-%20Beirut%20-%20July%202015%20-%20Lebanon%2015%20%28Cropped%29.jpg",
+      "sitelinks": 100,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12237722",
+      "answerKey": "layal abboud"
+    },
+    {
+      "id": 2,
+      "name": "Hassan Nasrallah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sayyid%20Hassan%20Nasrallah%2001%20%281%29.jpg",
+      "sitelinks": 94,
+      "birthYear": "1960",
+      "deathYear": "2024",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181182",
+      "answerKey": "hassan nasrallah"
+    },
+    {
+      "id": 3,
+      "name": "Mia Khalifa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mia%20Khalifa%20in%202016.jpg",
+      "sitelinks": 84,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "pornographic actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18735049",
+      "answerKey": "mia khalifa"
+    },
+    {
+      "id": 4,
+      "name": "Carlos Slim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Slim%20%2845680472234%29%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "computer scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170419",
+      "answerKey": "carlos slim"
+    },
+    {
+      "id": 5,
+      "name": "Michel Aoun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Aoun%20with%20Putin%201%20%28cropped%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q363392",
+      "answerKey": "michel aoun"
+    },
+    {
+      "id": 6,
+      "name": "Amin Maalouf",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amin%20Maalouf.jpg",
+      "sitelinks": 71,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115243",
+      "answerKey": "amin maalouf"
+    },
+    {
+      "id": 7,
+      "name": "Rafiq Hariri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafic%20Hariri%20in%202001.jpg",
+      "sitelinks": 67,
+      "birthYear": "1944",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192778",
+      "answerKey": "rafiq hariri"
+    },
+    {
+      "id": 8,
+      "name": "Saad Harirị",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Federica%20Mogherini%20to%20Lebanon%20-%20P039553-762713%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296771",
+      "answerKey": "saad hariri"
+    },
+    {
+      "id": 9,
+      "name": "Mika",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mika%20at%20Roundhouse%20London%203%20Jul%202022.jpg",
+      "sitelinks": 60,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186329",
+      "answerKey": "mika"
+    },
+    {
+      "id": 10,
+      "name": "Nancy Ajram",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nancy%20Ajram%20signing%20ceremony.jpg",
+      "sitelinks": 59,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q774155",
+      "answerKey": "nancy ajram"
+    }
+  ]
+}

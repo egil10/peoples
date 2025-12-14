@@ -1,0 +1,118 @@
+{
+  "country": "Ukraine",
+  "countryCode": "Q212",
+  "generated": "2025-12-14T01:49:51.205Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Volodymyr Zelenskyy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Volodymyr%20Zelensky%20Official%20portrait.jpg",
+      "sitelinks": 211,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3874799",
+      "answerKey": "volodymyr zelenskyy"
+    },
+    {
+      "id": 2,
+      "name": "Joseph Conrad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Conrad-remastered%20to%20black%20and%20white.png",
+      "sitelinks": 126,
+      "birthYear": "1857",
+      "deathYear": "1924",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82925",
+      "answerKey": "joseph conrad"
+    },
+    {
+      "id": 3,
+      "name": "Petro Poroshenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Petro%20Poroshenko.jpg",
+      "sitelinks": 123,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58077",
+      "answerKey": "petro poroshenko"
+    },
+    {
+      "id": 4,
+      "name": "Anatoliy Solovyanenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatoliy%20Solovianenko%20-%20Soviet%20Life%2C%20October%201984.jpg",
+      "sitelinks": 122,
+      "birthYear": "1932",
+      "deathYear": "1999",
+      "occupation": "opera singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q488006",
+      "answerKey": "anatoliy solovyanenko"
+    },
+    {
+      "id": 5,
+      "name": "Viktor Yanukovych",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Yanukovych%20official%20portrait.jpg",
+      "sitelinks": 115,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1459658",
+      "answerKey": "viktor yanukovych"
+    },
+    {
+      "id": 6,
+      "name": "Yulia Tymoshenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EPP%20Political%20Assembly%2C%2013%20%26%2014%20January%202025%20%2854265908219%29%20%28cropped%29.jpg",
+      "sitelinks": 112,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48283",
+      "answerKey": "yulia tymoshenko"
+    },
+    {
+      "id": 7,
+      "name": "Viktor Yushchenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%203-%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%20%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%D0%B0%20%D0%AE%D1%89%D0%B5%D0%BD%D0%BA%D0%B0.jpeg",
+      "sitelinks": 105,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1459699",
+      "answerKey": "viktor yushchenko"
+    },
+    {
+      "id": 8,
+      "name": "Leonid Kuchma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonid%20Kuchma.jpg",
+      "sitelinks": 89,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q629702",
+      "answerKey": "leonid kuchma"
+    },
+    {
+      "id": 9,
+      "name": "Andriy Shevchenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9%20%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE%202024%20%28cropped%29.png",
+      "sitelinks": 86,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41244",
+      "answerKey": "andriy shevchenko"
+    },
+    {
+      "id": 10,
+      "name": "Leonid Kravchuk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonid%20Kravchuk%20Senate%20of%20Poland%20%28cropped%29.JPG",
+      "sitelinks": 84,
+      "birthYear": "1934",
+      "deathYear": "2022",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189732",
+      "answerKey": "leonid kravchuk"
+    }
+  ]
+}

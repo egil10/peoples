@@ -1,0 +1,118 @@
+{
+  "country": "UAE",
+  "countryCode": "Q878",
+  "generated": "2025-12-14T01:56:25.429Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Gérard Depardieu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Depardieu%20%28Berlin%20Film%20Festival%202010%29.jpg",
+      "sitelinks": 99,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106508",
+      "answerKey": "gerard depardieu"
+    },
+    {
+      "id": 2,
+      "name": "Pavel Durov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20Europe%20Berlin%202013%20%2810536888854%29%20%28cropped%29.jpg",
+      "sitelinks": 80,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "computer scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q149067",
+      "answerKey": "pavel durov"
+    },
+    {
+      "id": 3,
+      "name": "Khalifa bin Zayed Al Nahyan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Khalifa.jpg",
+      "sitelinks": 79,
+      "birthYear": "1948",
+      "deathYear": "2022",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1059948",
+      "answerKey": "khalifa bin zayed al nahyan"
+    },
+    {
+      "id": 4,
+      "name": "Mohammed bin Rashid Al Maktoum",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammed%20bin%20Rashid%20Al%20Maktoum%20%2815-02-2021%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57655",
+      "answerKey": "mohammed bin rashid al maktoum"
+    },
+    {
+      "id": 5,
+      "name": "Mohammed Bin Zayed Al Nahyan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20bin%20Zayed%20Al%20Nahyan%20-%202024%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1951896",
+      "answerKey": "mohammed bin zayed al nahyan"
+    },
+    {
+      "id": 6,
+      "name": "Zayed bin Sultan Al Nahyan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdula%20latif%20Galadari%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1918",
+      "deathYear": "2004",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167846",
+      "answerKey": "zayed bin sultan al nahyan"
+    },
+    {
+      "id": 7,
+      "name": "Maktoum bin Rashid Al Maktoum",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maktoum%20bin%20Rashid%20Al%20Maktoum.jpg",
+      "sitelinks": 37,
+      "birthYear": "1943",
+      "deathYear": "2006",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215477",
+      "answerKey": "maktoum bin rashid al maktoum"
+    },
+    {
+      "id": 8,
+      "name": "Khamzat Chimaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khamzat%20Chimaev%202022.png",
+      "sitelinks": 36,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76476288",
+      "answerKey": "khamzat chimaev"
+    },
+    {
+      "id": 9,
+      "name": "Hamdan bin Mohammed Al Maktoum",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H.H.%20Sheikh%20Hamdan%20Bin%20Mohammed%20Bin%20Rashid%20Al%20Maktoum%20in%20Summit%20on%20the%20Global%20Agenda.jpg",
+      "sitelinks": 31,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q556586",
+      "answerKey": "hamdan bin mohammed al maktoum"
+    },
+    {
+      "id": 10,
+      "name": "Mansour bin Zayed Al Nahyan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheikh%20Mansour%20shaking%20the%20hand%20of%20Michael%20Spindelegger%20%28crop%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q556607",
+      "answerKey": "mansour bin zayed al nahyan"
+    }
+  ]
+}

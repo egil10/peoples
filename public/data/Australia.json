@@ -1,0 +1,118 @@
+{
+  "country": "Australia",
+  "countryCode": "Q408",
+  "generated": "2025-12-14T01:47:27.595Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Julian Assange",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RUEDA%20DE%20PRENSA%20CONJUNTA%20ENTRE%20CANCILLER%20RICARDO%20PATI%C3%91O%20Y%20JULIAN%20ASSANGE%20%28cropped%29.jpg",
+      "sitelinks": 136,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "hacker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360",
+      "answerKey": "julian assange"
+    },
+    {
+      "id": 2,
+      "name": "Nicole Kidman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicole%20Kidman%202%20%2829900987478%29.jpg",
+      "sitelinks": 131,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37459",
+      "answerKey": "nicole kidman"
+    },
+    {
+      "id": 3,
+      "name": "Cate Blanchett",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cate%20Blanchett-63298%20%28cropped%202%29.jpg",
+      "sitelinks": 126,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80966",
+      "answerKey": "cate blanchett"
+    },
+    {
+      "id": 4,
+      "name": "Kylie Minogue",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KylieMinogue-byPhilipRomano%20%28cropped%29.jpg",
+      "sitelinks": 121,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11998",
+      "answerKey": "kylie minogue"
+    },
+    {
+      "id": 5,
+      "name": "J. M. Coetzee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.M.%20Coetzee.JPG",
+      "sitelinks": 116,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43293",
+      "answerKey": "j m coetzee"
+    },
+    {
+      "id": 6,
+      "name": "Julia Gillard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Julia%20Gillard.jpg",
+      "sitelinks": 111,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41563",
+      "answerKey": "julia gillard"
+    },
+    {
+      "id": 7,
+      "name": "Heath Ledger",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heath%20Ledger.jpg",
+      "sitelinks": 109,
+      "birthYear": "1979",
+      "deathYear": "2008",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40572",
+      "answerKey": "heath ledger"
+    },
+    {
+      "id": 8,
+      "name": "Q129591",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugh%20Jackman%20Is%20This%20Thing%20On-68%20%28cropped%29.jpg",
+      "sitelinks": 106,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q129591",
+      "answerKey": "q129591"
+    },
+    {
+      "id": 9,
+      "name": "Scott Morrison",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Morrison%20portrait.jpg",
+      "sitelinks": 93,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7436908",
+      "answerKey": "scott morrison"
+    },
+    {
+      "id": 10,
+      "name": "Kevin Rudd",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Rudd%20DFAT%20%28smile%29.jpg",
+      "sitelinks": 93,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43135",
+      "answerKey": "kevin rudd"
+    }
+  ]
+}

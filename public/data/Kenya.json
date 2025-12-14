@@ -1,0 +1,118 @@
+{
+  "country": "Kenya",
+  "countryCode": "Q115",
+  "generated": "2025-12-14T01:59:33.453Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Abiy Ahmed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abiy%20Ahmed%202019.jpg",
+      "sitelinks": 90,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q50365049",
+      "answerKey": "abiy ahmed"
+    },
+    {
+      "id": 2,
+      "name": "Sahle-Work Zewde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sahle-Work%20Zewde%20in%202016.jpg",
+      "sitelinks": 80,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7399685",
+      "answerKey": "sahlework zewde"
+    },
+    {
+      "id": 3,
+      "name": "Tedros Adhanom Ghebreyesus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/World%20Health%20Organization%20%28WHO%29%20Director-General%20Dr.%20Tedros%20Adhanom%20Ghebreyesus%20on%2029%20July%202024%2C%20London%2C%20UK%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16196017",
+      "answerKey": "tedros adhanom ghebreyesus"
+    },
+    {
+      "id": 4,
+      "name": "Tedros Adhanom Ghebreyesus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tedros%20Adhanom%20Ghebreyesus%202023.jpg",
+      "sitelinks": 73,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16196017",
+      "answerKey": "tedros adhanom ghebreyesus"
+    },
+    {
+      "id": 5,
+      "name": "Mengistu Haile Mariam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mengistu%20Haile%20Mariam%204.jpg",
+      "sitelinks": 70,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192512",
+      "answerKey": "mengistu haile mariam"
+    },
+    {
+      "id": 6,
+      "name": "Meles Zenawi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meles%20Zenawi%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
+      "sitelinks": 68,
+      "birthYear": "1955",
+      "deathYear": "2012",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q161184",
+      "answerKey": "meles zenawi"
+    },
+    {
+      "id": 7,
+      "name": "Haile Gebrselassie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20great%20Haile%20Gebrselassie%20speaking%20at%20the%20Olympic%20hunger%20summit%20in%20Downing%20Street%2C%2012%20August%202012%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171500",
+      "answerKey": "haile gebrselassie"
+    },
+    {
+      "id": 8,
+      "name": "Abebe Bikila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abebe%20Bikila%201968c.jpg",
+      "sitelinks": 63,
+      "birthYear": "1932",
+      "deathYear": "1973",
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52596",
+      "answerKey": "abebe bikila"
+    },
+    {
+      "id": 9,
+      "name": "Menilek II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menelik%20II%20-%204.jpg",
+      "sitelinks": 55,
+      "birthYear": "1844",
+      "deathYear": "1913",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q244748",
+      "answerKey": "menilek ii"
+    },
+    {
+      "id": 10,
+      "name": "Mulatu Teshome",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mulatu%20Teshome%20in%20Warsaw%20-%202018%20%2840792938585%29%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15054736",
+      "answerKey": "mulatu teshome"
+    }
+  ]
+}

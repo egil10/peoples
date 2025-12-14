@@ -1,0 +1,118 @@
+{
+  "country": "Somalia",
+  "countryCode": "Q1045",
+  "generated": "2025-12-14T02:00:23.607Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Siad Barre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siad%20Barre.png",
+      "sitelinks": 57,
+      "birthYear": "1919",
+      "deathYear": "1995",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q209828",
+      "answerKey": "siad barre"
+    },
+    {
+      "id": 2,
+      "name": "Waris Dirie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Waris%20Dirie%2C%202018%20during%20her%20visit%20to%20Sierra%20Leone.jpg",
+      "sitelinks": 55,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q78644",
+      "answerKey": "waris dirie"
+    },
+    {
+      "id": 3,
+      "name": "Iman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iman%20at%20the%202009%20Tribeca%20Film%20Festival.jpg",
+      "sitelinks": 55,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q256531",
+      "answerKey": "iman"
+    },
+    {
+      "id": 4,
+      "name": "Iman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iman%201996.jpg",
+      "sitelinks": 55,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q256531",
+      "answerKey": "iman"
+    },
+    {
+      "id": 5,
+      "name": "Hassan Sheikh Mohamud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassan%20Sheikh%20Mohamud--StateDept%20Portrait--%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319153",
+      "answerKey": "hassan sheikh mohamud"
+    },
+    {
+      "id": 6,
+      "name": "Mohamed Abdullahi Mohamed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Abdullahi%20Mohamed%20%282020-07-22%29%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558575",
+      "answerKey": "mohamed abdullahi mohamed"
+    },
+    {
+      "id": 7,
+      "name": "Aden Abdullah Osman Daar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aden%20Abdulle%20Osman%20Daar.jpg",
+      "sitelinks": 45,
+      "birthYear": "1908",
+      "deathYear": "2007",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q157197",
+      "answerKey": "aden abdullah osman daar"
+    },
+    {
+      "id": 8,
+      "name": "Sharif Sheikh Ahmed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sharif%20Sheikh%20Ahmed%2C%2012th%20AU%20Summit%2C%20090202-N-0506A-337-2.jpg",
+      "sitelinks": 42,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q270783",
+      "answerKey": "sharif sheikh ahmed"
+    },
+    {
+      "id": 9,
+      "name": "Abdullahi Yusuf Ahmed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullahi%20Yusuf%20Ahmed%20%2828-03-2006%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1934",
+      "deathYear": "2012",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215585",
+      "answerKey": "abdullahi yusuf ahmed"
+    },
+    {
+      "id": 10,
+      "name": "K’naan Warsame",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%27naan%20by%20David%20Shankbone.jpg",
+      "sitelinks": 40,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q297693",
+      "answerKey": "knaan warsame"
+    }
+  ]
+}

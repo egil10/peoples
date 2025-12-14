@@ -1,0 +1,118 @@
+{
+  "country": "Qatar",
+  "countryCode": "Q846",
+  "generated": "2025-12-14T01:56:25.011Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Tamim bin Hamad Al",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamim%20bin%20Hamad%20Al%20Thani%20in%202018.jpg",
+      "sitelinks": 74,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1855372",
+      "answerKey": "tamim bin hamad al"
+    },
+    {
+      "id": 2,
+      "name": "Tamim bin Hamad Al",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emir%20of%20Qatar%20on%20February%2019%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 74,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1855372",
+      "answerKey": "tamim bin hamad al"
+    },
+    {
+      "id": 3,
+      "name": "Hamad bin Khalifa Al Thani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/5th%20Global%20Forum%20Vienna%202013%20%288512954534%29%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57360",
+      "answerKey": "hamad bin khalifa al thani"
+    },
+    {
+      "id": 4,
+      "name": "Yusuf al-Qaradawi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qardawi.JPG",
+      "sitelinks": 55,
+      "birthYear": "1926",
+      "deathYear": "2022",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q64129",
+      "answerKey": "yusuf alqaradawi"
+    },
+    {
+      "id": 5,
+      "name": "Emerson Sheik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emerson%20Sheik%2C%20October%202024%20%282%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q59870",
+      "answerKey": "emerson sheik"
+    },
+    {
+      "id": 6,
+      "name": "Zhu Chen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhu%20Chen%202011.jpg",
+      "sitelinks": 44,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q198104",
+      "answerKey": "zhu chen"
+    },
+    {
+      "id": 7,
+      "name": "M. F. Husain",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Husain%20with%20Rammanohar%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1915",
+      "deathYear": "2011",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558522",
+      "answerKey": "m f husain"
+    },
+    {
+      "id": 8,
+      "name": "Mutaz Essa Barshim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mutaz%20essa%20barshim.jpg",
+      "sitelinks": 41,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "high jumper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1739",
+      "answerKey": "mutaz essa barshim"
+    },
+    {
+      "id": 9,
+      "name": "Almoez Ali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Almoez%20Ali.jpg",
+      "sitelinks": 37,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21011188",
+      "answerKey": "almoez ali"
+    },
+    {
+      "id": 10,
+      "name": "Hassan Al Haidos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qatar%20-%20Japan%2C%20AFC%20Asian%20Cup%202019%2058%20-%20Hassan%20Al%20Haydos.jpg",
+      "sitelinks": 35,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5679556",
+      "answerKey": "hassan al haidos"
+    }
+  ]
+}

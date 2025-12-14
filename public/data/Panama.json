@@ -1,0 +1,118 @@
+{
+  "country": "Panama",
+  "countryCode": "Q804",
+  "generated": "2025-12-14T01:58:39.674Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Manuel Noriega",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuel%20Noriega%20mug%20shot.jpg",
+      "sitelinks": 65,
+      "birthYear": "1934",
+      "deathYear": "2017",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192667",
+      "answerKey": "manuel noriega"
+    },
+    {
+      "id": 2,
+      "name": "Jordana Brewster",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jordana%20Brewster%20at%20PaleyFest%202013%202.jpg",
+      "sitelinks": 55,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230827",
+      "answerKey": "jordana brewster"
+    },
+    {
+      "id": 3,
+      "name": "Kevin Kurányi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kevin%20Kuranyi%202016.jpg",
+      "sitelinks": 49,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152968",
+      "answerKey": "kevin kuranyi"
+    },
+    {
+      "id": 4,
+      "name": "Juan Carlos Varela",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carlos%20Varela%20%282014%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1134096",
+      "answerKey": "juan carlos varela"
+    },
+    {
+      "id": 5,
+      "name": "Ricardo Martinelli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo%20Martinelli.PNG",
+      "sitelinks": 46,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57491",
+      "answerKey": "ricardo martinelli"
+    },
+    {
+      "id": 6,
+      "name": "Omar Torrijos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Torrijos%20with%20Panamanian%20farmers.jpg",
+      "sitelinks": 45,
+      "birthYear": "1929",
+      "deathYear": "1981",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332055",
+      "answerKey": "omar torrijos"
+    },
+    {
+      "id": 7,
+      "name": "Laurentino Cortizo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurentino%20Cortizo%20%2852134360482%29%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28122455",
+      "answerKey": "laurentino cortizo"
+    },
+    {
+      "id": 8,
+      "name": "Mireya Moscoso",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mireya%20Moscoso.jpg",
+      "sitelinks": 39,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q231946",
+      "answerKey": "mireya moscoso"
+    },
+    {
+      "id": 9,
+      "name": "Miguel Bosé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Bos%C3%A9%20en%20la%20Presentaci%C3%B3n%20de%20la%20Gala%20Sida%20de%202017.jpg",
+      "sitelinks": 36,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q356762",
+      "answerKey": "miguel bose"
+    },
+    {
+      "id": 10,
+      "name": "Martín Torrijos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Panama.MartinTorrijos.01.jpg",
+      "sitelinks": 36,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q276283",
+      "answerKey": "martin torrijos"
+    }
+  ]
+}

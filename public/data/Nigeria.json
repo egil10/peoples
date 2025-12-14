@@ -1,0 +1,118 @@
+{
+  "country": "Nigeria",
+  "countryCode": "Q1033",
+  "generated": "2025-12-14T01:59:24.084Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Wole Soyinka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WoleSoyinka2015%20%28cropped%29.jpg",
+      "sitelinks": 111,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41488",
+      "answerKey": "wole soyinka"
+    },
+    {
+      "id": 2,
+      "name": "Chinua Achebe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chinua%20Achebe%2C%201966%20%28cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1930",
+      "deathYear": "2013",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155845",
+      "answerKey": "chinua achebe"
+    },
+    {
+      "id": 3,
+      "name": "Muhammadu Buhari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammadu%20Buhari%2C%20President%20of%20the%20Federal%20Republic%20of%20Nigeria%20%28cropped3%29.jpg",
+      "sitelinks": 93,
+      "birthYear": "1942",
+      "deathYear": "2025",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q361567",
+      "answerKey": "muhammadu buhari"
+    },
+    {
+      "id": 4,
+      "name": "Chimamanda Ngozi Adichie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chimamanda%20Ngozi%20Adichie%20%282015%29.png",
+      "sitelinks": 91,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230141",
+      "answerKey": "chimamanda ngozi adichie"
+    },
+    {
+      "id": 5,
+      "name": "Goodluck Jonathan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goodluck%20Jonathan%20World%20Economic%20Forum%202013.jpg",
+      "sitelinks": 70,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57380",
+      "answerKey": "goodluck jonathan"
+    },
+    {
+      "id": 6,
+      "name": "Umaru Musa Yar'Adua",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Umaruyaradua07052007.jpg",
+      "sitelinks": 69,
+      "birthYear": "1951",
+      "deathYear": "2010",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104705",
+      "answerKey": "umaru musa yaradua"
+    },
+    {
+      "id": 7,
+      "name": "Olusegun Obasanjo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olusegun%20Obasanjo%20DD-SC-07-14396-cropped.jpg",
+      "sitelinks": 67,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202006",
+      "answerKey": "olusegun obasanjo"
+    },
+    {
+      "id": 8,
+      "name": "Mikel John Obi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Obi%20Mikel%202018.jpg",
+      "sitelinks": 67,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q166984",
+      "answerKey": "mikel john obi"
+    },
+    {
+      "id": 9,
+      "name": "Chiwetel Ejiofor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chiwetel%20Ejiofor%20at%20the%202024%20Toronto%20International%20Film%20Festival%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317343",
+      "answerKey": "chiwetel ejiofor"
+    },
+    {
+      "id": 10,
+      "name": "Ngozi Okonjo-Iweala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Okonjo-Iweala%2C%20Ngozi%20%282008%20portrait%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q289350",
+      "answerKey": "ngozi okonjoiweala"
+    }
+  ]
+}

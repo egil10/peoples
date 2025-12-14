@@ -1,0 +1,118 @@
+{
+  "country": "Uganda",
+  "countryCode": "Q1036",
+  "generated": "2025-12-14T02:00:03.199Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Idi Amin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Idi%20Amin%20at%20UN%20%28United%20Nations%2C%20New%20York%29%20gtfy.00132%20%28cropped%29.jpg",
+      "sitelinks": 110,
+      "birthYear": "1925",
+      "deathYear": "2003",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48231",
+      "answerKey": "idi amin"
+    },
+    {
+      "id": 2,
+      "name": "Yoweri Museveni",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yoweri%20Museveni%20September%202015.jpg",
+      "sitelinks": 90,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57274",
+      "answerKey": "yoweri museveni"
+    },
+    {
+      "id": 3,
+      "name": "Zohran Mamdani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zohran%20Mamdani%2005.25.25%20%28b%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28034971",
+      "answerKey": "zohran mamdani"
+    },
+    {
+      "id": 4,
+      "name": "Milton Obote",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20John%20F.%20Kennedy%20with%20Prime%20Minister%20Milton%20Obote%20%28cropped%29.jpg",
+      "sitelinks": 65,
+      "birthYear": "1925",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q210069",
+      "answerKey": "milton obote"
+    },
+    {
+      "id": 5,
+      "name": "Joshua Cheptegei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joshua%20Cheptegei%20at%20Oregon%202022%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17403005",
+      "answerKey": "joshua cheptegei"
+    },
+    {
+      "id": 6,
+      "name": "Vanessa Nakate",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanessa%20Nakate.jpg",
+      "sitelinks": 39,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "climate activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83614709",
+      "answerKey": "vanessa nakate"
+    },
+    {
+      "id": 7,
+      "name": "Irshad Manji",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irshad%20Manji%202012%20%28cropped%29.png",
+      "sitelinks": 36,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242051",
+      "answerKey": "irshad manji"
+    },
+    {
+      "id": 8,
+      "name": "Stephen Kiprotich",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20Kiprotich%20-%20Paris%20Half%20Marathon%202014%20-%20b7543.jpg",
+      "sitelinks": 36,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1702",
+      "answerKey": "stephen kiprotich"
+    },
+    {
+      "id": 9,
+      "name": "Peruth Chemutai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bydgoszcz%202016%20IAAF%20World%20U20%20Championships%2C%203000m%20steeplechase%20women%20final14%2022-07-2016.jpg",
+      "sitelinks": 35,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "police officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26838082",
+      "answerKey": "peruth chemutai"
+    },
+    {
+      "id": 10,
+      "name": "Muteesa II of Buganda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir.%20Edward%20Fredrick%20Mutesa%2C%20The%20President%20of%20Uganda.jpg",
+      "sitelinks": 32,
+      "birthYear": "1924",
+      "deathYear": "1969",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q356026",
+      "answerKey": "muteesa ii of buganda"
+    }
+  ]
+}

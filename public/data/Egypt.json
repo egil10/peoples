@@ -1,0 +1,118 @@
+{
+  "country": "Egypt",
+  "countryCode": "Q79",
+  "generated": "2025-12-14T01:49:33.391Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Naguib Mahfouz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nagib%20Mahfouz.jpg",
+      "sitelinks": 163,
+      "birthYear": "1911",
+      "deathYear": "2006",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7176",
+      "answerKey": "naguib mahfouz"
+    },
+    {
+      "id": 2,
+      "name": "Hosni Mubarak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hosni%20Mubarak%20ritratto.jpg",
+      "sitelinks": 137,
+      "birthYear": "1928",
+      "deathYear": "2020",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34105",
+      "answerKey": "hosni mubarak"
+    },
+    {
+      "id": 3,
+      "name": "Anwar Sadat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sadat%201.jpg",
+      "sitelinks": 124,
+      "birthYear": "1918",
+      "deathYear": "1981",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42013",
+      "answerKey": "anwar sadat"
+    },
+    {
+      "id": 4,
+      "name": "Mohamed Morsi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Morsi%20official%20portrait.jpg",
+      "sitelinks": 116,
+      "birthYear": "1951",
+      "deathYear": "2019",
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4631",
+      "answerKey": "mohamed morsi"
+    },
+    {
+      "id": 5,
+      "name": "Moshe ben Maimon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maim%C3%B2nides.jpg",
+      "sitelinks": 111,
+      "birthYear": "1138",
+      "deathYear": "1204",
+      "occupation": "astronomer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q127398",
+      "answerKey": "moshe ben maimon"
+    },
+    {
+      "id": 6,
+      "name": "Moshe ben Maimon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maim%C3%B2nides.jpg",
+      "sitelinks": 111,
+      "birthYear": "1135",
+      "deathYear": "1204",
+      "occupation": "astronomer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q127398",
+      "answerKey": "moshe ben maimon"
+    },
+    {
+      "id": 7,
+      "name": "Abdel Fattah el-Sisi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AbdelFattah%20Elsisi%20%28cropped%29.jpg",
+      "sitelinks": 103,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q307871",
+      "answerKey": "abdel fattah elsisi"
+    },
+    {
+      "id": 8,
+      "name": "Mohamed Salah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Salah%202018.jpg",
+      "sitelinks": 100,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1354960",
+      "answerKey": "mohamed salah"
+    },
+    {
+      "id": 9,
+      "name": "Ayman al-Zawahiri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayman%20al-Zawahiri%20portrait.JPG",
+      "sitelinks": 97,
+      "birthYear": "1951",
+      "deathYear": "2022",
+      "occupation": "ulema",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186316",
+      "answerKey": "ayman alzawahiri"
+    },
+    {
+      "id": 10,
+      "name": "Boutros Boutros-Ghali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boutros%20Boutros%20Ghali%20%281993%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1922",
+      "deathYear": "2016",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1257",
+      "answerKey": "boutros boutrosghali"
+    }
+  ]
+}

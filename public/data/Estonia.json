@@ -1,0 +1,118 @@
+{
+  "country": "Estonia",
+  "countryCode": "Q191",
+  "generated": "2025-12-14T01:53:09.498Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Edgar de Wahl",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgar%20von%20Wahl%20%28cropped%29.jpg",
+      "sitelinks": 109,
+      "birthYear": "1867",
+      "deathYear": "1948",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q327195",
+      "answerKey": "edgar de wahl"
+    },
+    {
+      "id": 2,
+      "name": "Kaja Kallas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaja%20Kallas%2C%20High%20Representative%20of%20the%20Union%2C%20and%20Vice-President%20of%20the%20European%20Commission%20-%20P064583-775481%20%28cropped%29.jpg",
+      "sitelinks": 100,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11869065",
+      "answerKey": "kaja kallas"
+    },
+    {
+      "id": 3,
+      "name": "Kersti Kaljulaid",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kersti%20Kaljulaid%20-%202018.jpg",
+      "sitelinks": 95,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12366816",
+      "answerKey": "kersti kaljulaid"
+    },
+    {
+      "id": 4,
+      "name": "Toomas Hendrik Ilves",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toomas%20Hendrik%20Ilves%202011-12-19.jpg",
+      "sitelinks": 75,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57289",
+      "answerKey": "toomas hendrik ilves"
+    },
+    {
+      "id": 5,
+      "name": "Arvo Pärt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arvo%20P%C3%A4rt.jpg",
+      "sitelinks": 67,
+      "birthYear": "1935",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189534",
+      "answerKey": "arvo part"
+    },
+    {
+      "id": 6,
+      "name": "Birgit Sarrap",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Birgit%20%C3%95igemeel%2020130225%20by%20Ahsoous.jpg",
+      "sitelinks": 63,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q433003",
+      "answerKey": "birgit sarrap"
+    },
+    {
+      "id": 7,
+      "name": "Jüri Ratas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1718798568612%2020240618%20RATAS%20Juri%20EE%20007.jpg",
+      "sitelinks": 61,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2621730",
+      "answerKey": "juri ratas"
+    },
+    {
+      "id": 8,
+      "name": "Arnold Rüütel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vabariigi%20President%20Arnold%20R%C3%BC%C3%BCtel.jpg",
+      "sitelinks": 60,
+      "birthYear": "1928",
+      "deathYear": "2024",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194000",
+      "answerKey": "arnold ruutel"
+    },
+    {
+      "id": 9,
+      "name": "Alar Karis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%202024.jpg",
+      "sitelinks": 60,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12358575",
+      "answerKey": "alar karis"
+    },
+    {
+      "id": 10,
+      "name": "Andrus Ansip",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrus%20Ansip%202022%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57640",
+      "answerKey": "andrus ansip"
+    }
+  ]
+}

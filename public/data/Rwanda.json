@@ -1,0 +1,118 @@
+{
+  "country": "Rwanda",
+  "countryCode": "Q1037",
+  "generated": "2025-12-14T01:59:55.607Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Paul Kagame",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Kagame%20MSC%202017.jpg",
+      "sitelinks": 94,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1231345",
+      "answerKey": "paul kagame"
+    },
+    {
+      "id": 2,
+      "name": "Juvénal Habyarimana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juv%C3%A9nal%20Habyarimana%20%281980%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1937",
+      "deathYear": "1994",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272580",
+      "answerKey": "juvenal habyarimana"
+    },
+    {
+      "id": 3,
+      "name": "Ncuti Gatwa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ncuti%20Gatwa-65764.jpg",
+      "sitelinks": 41,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60618349",
+      "answerKey": "ncuti gatwa"
+    },
+    {
+      "id": 4,
+      "name": "Pasteur Bizimungu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pasteur%20Bizimungu%201998%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471882",
+      "answerKey": "pasteur bizimungu"
+    },
+    {
+      "id": 5,
+      "name": "Édouard Ngirente",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rt.Hon.%20Dr.%20Edouard%20Ngirente%20-%20Prime%20Minister%20of%20the%20Republic%20of%20Rwanda.jpg",
+      "sitelinks": 35,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
+      "answerKey": "edouard ngirente"
+    },
+    {
+      "id": 6,
+      "name": "Édouard Ngirente",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Ngirente%20-%202023%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
+      "answerKey": "edouard ngirente"
+    },
+    {
+      "id": 7,
+      "name": "Grégoire Kayibanda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1649592763733%2019650300%20RWANDA%2045.jpg",
+      "sitelinks": 31,
+      "birthYear": "1924",
+      "deathYear": "1976",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q557995",
+      "answerKey": "gregoire kayibanda"
+    },
+    {
+      "id": 8,
+      "name": "Paul Rusesabagin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Rusesabagina.jpg",
+      "sitelinks": 31,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q432712",
+      "answerKey": "paul rusesabagin"
+    },
+    {
+      "id": 9,
+      "name": "Bernard Makuza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Makuza.JPG",
+      "sitelinks": 29,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319916",
+      "answerKey": "bernard makuza"
+    },
+    {
+      "id": 10,
+      "name": "Scholastique Mukasonga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scholastique%20Mukasonga%20redux.jpg",
+      "sitelinks": 27,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3475485",
+      "answerKey": "scholastique mukasonga"
+    }
+  ]
+}

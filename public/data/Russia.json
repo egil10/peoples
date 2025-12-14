@@ -1,7 +1,7 @@
 {
   "country": "Russia",
   "countryCode": "Q159",
-  "generated": "2025-12-14T01:11:40.704Z",
+  "generated": "2025-12-14T01:39:23.680Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,8 @@
       "sitelinks": 309,
       "birthYear": "1952",
       "deathYear": null,
-      "occupation": null,
+      "occupation": "politician",
+      "description": "2nd and 4th President of Russia (2000-2008, 2012-present), 7th and 11th Prime Minister of Russia (1999-2000, 2008-2012), Director of the Federal Security Service (1998-1999) and Deputy Mayor of Saint Petersburg (1994-1996)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7747",
       "answerKey": "vladimir putin"
     },
@@ -22,7 +23,8 @@
       "sitelinks": 197,
       "birthYear": "1931",
       "deathYear": "2022",
-      "occupation": null,
+      "occupation": "environmentalist",
+      "description": "leader of the Soviet Union from 1985 to 1991 (1931–2022)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30487",
       "answerKey": "mikhail gorbachev"
     },
@@ -33,7 +35,8 @@
       "sitelinks": 168,
       "birthYear": "1965",
       "deathYear": null,
-      "occupation": null,
+      "occupation": "jurist",
+      "description": "President of Russia from 2008 to 2012, Prime Minister of Russia (2012-2020) and Deputy Chairman of the Security Council of Russia since 2020",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23530",
       "answerKey": "dmitry medvedev"
     },
@@ -44,7 +47,8 @@
       "sitelinks": 167,
       "birthYear": "1971",
       "deathYear": null,
-      "occupation": null,
+      "occupation": "recording artist",
+      "description": "Russian and Austrian operatic soprano",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78516",
       "answerKey": "anna netrebko"
     },
@@ -55,7 +59,8 @@
       "sitelinks": 158,
       "birthYear": "1931",
       "deathYear": "2007",
-      "occupation": null,
+      "occupation": "civil engineer",
+      "description": "Soviet and Russian politician, 1st President of Russia (1931–2007)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34453",
       "answerKey": "boris yeltsin"
     },
@@ -66,31 +71,34 @@
       "sitelinks": 157,
       "birthYear": "1918",
       "deathYear": "2008",
-      "occupation": null,
+      "occupation": "militant",
+      "description": "Russian writer, publicist, poet and politician (1918–2008)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34474",
       "answerKey": "aleksandr solzhenitsyn"
     },
     {
       "id": 7,
-      "name": "Valery Leontiev",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valery%20Leontiev%20at%20Laima%20Rendez%20Vous%20Jurmala%202017%20%282%29%20%28cropped%29.jpg",
-      "sitelinks": 130,
-      "birthYear": "1949",
-      "deathYear": null,
-      "occupation": null,
-      "wikidataUrl": "http://www.wikidata.org/entity/Q32927",
-      "answerKey": "valery leontiev"
-    },
-    {
-      "id": 8,
       "name": "Alexei Navalny",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Navalny%202018%20%28cropped%29.png",
       "sitelinks": 130,
       "birthYear": "1976",
       "deathYear": "2024",
-      "occupation": null,
+      "occupation": "activist",
+      "description": "Russian jurist and opposition leader (1976–2024)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155979",
       "answerKey": "alexei navalny"
+    },
+    {
+      "id": 8,
+      "name": "Valery Leontiev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valery%20Leontiev%20at%20Laima%20Rendez%20Vous%20Jurmala%202017%20%282%29%20%28cropped%29.jpg",
+      "sitelinks": 130,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "television actor",
+      "description": "Russian singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32927",
+      "answerKey": "valery leontiev"
     },
     {
       "id": 9,
@@ -99,7 +107,8 @@
       "sitelinks": 127,
       "birthYear": "1952",
       "deathYear": null,
-      "occupation": null,
+      "occupation": "karateka",
+      "description": "American actor, martial artist, and film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82110",
       "answerKey": "steven seagal"
     },
@@ -110,7 +119,8 @@
       "sitelinks": 126,
       "birthYear": "1937",
       "deathYear": null,
-      "occupation": null,
+      "occupation": "member of the State Duma",
+      "description": "Russian cosmonaut and pilot, first woman to have flown in space",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44371",
       "answerKey": "valentina tereshkova"
     }

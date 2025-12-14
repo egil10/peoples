@@ -1,0 +1,118 @@
+{
+  "country": "Iran",
+  "countryCode": "Q794",
+  "generated": "2025-12-14T01:57:12.617Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mahmoud Ahmadinejad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahmoud%20Ahmadinejad%202019%2002.jpg",
+      "sitelinks": 143,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34448",
+      "answerKey": "mahmoud ahmadinejad"
+    },
+    {
+      "id": 2,
+      "name": "Ali Khamenei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Khamenei%202025%20%283x4%20cropped%29.jpg",
+      "sitelinks": 131,
+      "birthYear": "1939",
+      "deathYear": null,
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57336",
+      "answerKey": "ali khamenei"
+    },
+    {
+      "id": 3,
+      "name": "Ruhollah Khomeini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruhollah%20Khomeini%20by%20Jamaran%201.jpg",
+      "sitelinks": 127,
+      "birthYear": "1902",
+      "deathYear": "1989",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38823",
+      "answerKey": "ruhollah khomeini"
+    },
+    {
+      "id": 4,
+      "name": "Hassan Rouhani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hassan%20Rouhani%202020.jpg",
+      "sitelinks": 123,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q348144",
+      "answerKey": "hassan rouhani"
+    },
+    {
+      "id": 5,
+      "name": "Mohammad Khatami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Khatami%20-%20December%2011%2C%202007.jpg",
+      "sitelinks": 113,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180795",
+      "answerKey": "mohammad khatami"
+    },
+    {
+      "id": 6,
+      "name": "Shirin Ebadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shirin%20Ebadi%2001.jpg",
+      "sitelinks": 110,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131152",
+      "answerKey": "shirin ebadi"
+    },
+    {
+      "id": 7,
+      "name": "Ebrahim Raisi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ebrahim%20Raisi%20%2819.05.2024%29%20%28cropped%29.jpg",
+      "sitelinks": 95,
+      "birthYear": "1960",
+      "deathYear": "2024",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5947347",
+      "answerKey": "ebrahim raisi"
+    },
+    {
+      "id": 8,
+      "name": "Maryam Mirzakhani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maryam%20Mirzakhani%20in%20Seoul%202014.jpg",
+      "sitelinks": 93,
+      "birthYear": "1977",
+      "deathYear": "2017",
+      "occupation": "mathematician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1771279",
+      "answerKey": "maryam mirzakhani"
+    },
+    {
+      "id": 9,
+      "name": "Qasem Soleimani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qasem%20Soleimani%20with%20Zolfaghar%20Order%20%28cropped%29.jpg",
+      "sitelinks": 92,
+      "birthYear": "1957",
+      "deathYear": "2020",
+      "occupation": "army officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q892014",
+      "answerKey": "qasem soleimani"
+    },
+    {
+      "id": 10,
+      "name": "Narges Mohammadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Narges%20Mohammadi%20%28cropped%29.jpg",
+      "sitelinks": 88,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "human rights defender",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4967771",
+      "answerKey": "narges mohammadi"
+    }
+  ]
+}

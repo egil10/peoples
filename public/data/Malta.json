@@ -1,0 +1,118 @@
+{
+  "country": "Malta",
+  "countryCode": "Q233",
+  "generated": "2025-12-14T01:54:58.331Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Roberta Metsola",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Roberta%20Metsola.jpg",
+      "sitelinks": 64,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7351526",
+      "answerKey": "roberta metsola"
+    },
+    {
+      "id": 2,
+      "name": "Marie-Louise Coleiro Preca",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie-Louise%20Coleiro%20Preca%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6762928",
+      "answerKey": "marielouise coleiro preca"
+    },
+    {
+      "id": 3,
+      "name": "Robert Abela",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Abela%2C%202025.06.26%20%2803%29%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37860840",
+      "answerKey": "robert abela"
+    },
+    {
+      "id": 4,
+      "name": "Agatha Barbara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ms%20Agatha%20Barbara.jpg",
+      "sitelinks": 52,
+      "birthYear": "1923",
+      "deathYear": "2002",
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q168387",
+      "answerKey": "agatha barbara"
+    },
+    {
+      "id": 5,
+      "name": "George Abela",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20Abela.jpg",
+      "sitelinks": 49,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57502",
+      "answerKey": "george abela"
+    },
+    {
+      "id": 6,
+      "name": "Joseph Muscat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Muscat%2C%20cropped.jpg",
+      "sitelinks": 49,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q938224",
+      "answerKey": "joseph muscat"
+    },
+    {
+      "id": 7,
+      "name": "George William Vella",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%95%CF%80%CE%AF%CF%83%CE%BA%CE%B5%CF%88%CE%B7%20%CE%A5%CE%A0%CE%95%CE%9E%20%CE%9D.%20%CE%94%CE%AD%CE%BD%CE%B4%CE%B9%CE%B1%20%CF%83%CF%84%CE%B7%20%CE%9C%CE%AC%CE%BB%CF%84%CE%B1%20-%20%CE%A3%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7%20%CE%BC%CE%B5%20%CE%A0%CF%81%CF%8C%CE%B5%CE%B4%CF%81%CE%BF%20%CE%9C%CE%AC%CE%BB%CF%84%CE%B1%CF%82%20George%20Vella%20%2810.10.2022%29%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1508402",
+      "answerKey": "george william vella"
+    },
+    {
+      "id": 8,
+      "name": "Myriam Spiteri Debono",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Myriam%20Spiteri%20Debono%20on%20April%2020%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1647394",
+      "answerKey": "myriam spiteri debono"
+    },
+    {
+      "id": 9,
+      "name": "Lawrence Gonzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Gonzi%202009.jpg",
+      "sitelinks": 42,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57620",
+      "answerKey": "lawrence gonzi"
+    },
+    {
+      "id": 10,
+      "name": "Lawrence Gonzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EPP%20Congress%20Marseille%207444.jpg",
+      "sitelinks": 42,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57620",
+      "answerKey": "lawrence gonzi"
+    }
+  ]
+}

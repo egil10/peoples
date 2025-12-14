@@ -1,0 +1,118 @@
+{
+  "country": "Uruguay",
+  "countryCode": "Q77",
+  "generated": "2025-12-14T01:58:03.822Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Luis Suárez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Su%C3%A1rez%20NE%20Revolution%20Inter%20Miami%207.9.25-053%20%28cropped%29.jpg",
+      "sitelinks": 112,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26517",
+      "answerKey": "luis suarez"
+    },
+    {
+      "id": 2,
+      "name": "José Mujica",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/13.07.2023%20-%2059%C2%BA%20Congresso%20da%20Uni%C3%A3o%20Nacional%20dos%20Estudantes%20%E2%80%93%20UNE%20%2853044654694%29%20%28cropped2%29.jpg",
+      "sitelinks": 108,
+      "birthYear": "1935",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9094",
+      "answerKey": "jose mujica"
+    },
+    {
+      "id": 3,
+      "name": "Natalia Oreiro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natalia%20Oreiro%20at%202017%20MIFF%20%28cropped%29.jpg",
+      "sitelinks": 97,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232458",
+      "answerKey": "natalia oreiro"
+    },
+    {
+      "id": 4,
+      "name": "Diego Forlán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U10%20Diego%20Forl%C3%A1n%207524.jpg",
+      "sitelinks": 87,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q261534",
+      "answerKey": "diego forlan"
+    },
+    {
+      "id": 5,
+      "name": "Edinson Cavani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edinson%20Cavani%202018%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167790",
+      "answerKey": "edinson cavani"
+    },
+    {
+      "id": 6,
+      "name": "Diego Godín",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20God%C3%ADn%202018%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214903",
+      "answerKey": "diego godin"
+    },
+    {
+      "id": 7,
+      "name": "Eduardo Galeano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20galeano%20002.png",
+      "sitelinks": 70,
+      "birthYear": "1940",
+      "deathYear": "2015",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44575",
+      "answerKey": "eduardo galeano"
+    },
+    {
+      "id": 8,
+      "name": "Eduardo Galeano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Galeano%20%282858983926%29.jpg",
+      "sitelinks": 70,
+      "birthYear": "1940",
+      "deathYear": "2015",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44575",
+      "answerKey": "eduardo galeano"
+    },
+    {
+      "id": 9,
+      "name": "Tabaré Vázquez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tabar%C3%A926022007.jpg",
+      "sitelinks": 70,
+      "birthYear": "1940",
+      "deathYear": "2020",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9099",
+      "answerKey": "tabare vazquez"
+    },
+    {
+      "id": 10,
+      "name": "Federico Valverde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Federico%20Valverde%202021%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19509544",
+      "answerKey": "federico valverde"
+    }
+  ]
+}

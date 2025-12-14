@@ -1,0 +1,118 @@
+{
+  "country": "Latvia",
+  "countryCode": "Q211",
+  "generated": "2025-12-14T01:53:22.702Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mikhail Tal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Tal%201982.jpg",
+      "sitelinks": 78,
+      "birthYear": "1936",
+      "deathYear": "1992",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q102664",
+      "answerKey": "mikhail tal"
+    },
+    {
+      "id": 2,
+      "name": "Mikhail Baryshnikov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Baryshnikov.jpg",
+      "sitelinks": 64,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295420",
+      "answerKey": "mikhail baryshnikov"
+    },
+    {
+      "id": 3,
+      "name": "Evika Siliņa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Evika%20Sili%C5%86a%20%282024%29%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q61121565",
+      "answerKey": "evika silina"
+    },
+    {
+      "id": 4,
+      "name": "Edgars Rinkēvičs",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgars%20Rink%C4%93vi%C4%8Ds%20as%20president-elect%2C%202023-05-31%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3047551",
+      "answerKey": "edgars rinkevics"
+    },
+    {
+      "id": 5,
+      "name": "Valdis Zatlers",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valdis%20Zatlers%20in%202011.jpg",
+      "sitelinks": 59,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182673",
+      "answerKey": "valdis zatlers"
+    },
+    {
+      "id": 6,
+      "name": "Vaira Vīķe-Freiberga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VVF2022.jpg",
+      "sitelinks": 58,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151301",
+      "answerKey": "vaira vikefreiberga"
+    },
+    {
+      "id": 7,
+      "name": "Raimonds Vējonis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raimonds%20Vejonis%202019%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2416022",
+      "answerKey": "raimonds vejonis"
+    },
+    {
+      "id": 8,
+      "name": "Egils Levits",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D1%83%D1%81%D1%82%D1%80%D1%96%D1%87%20%D0%93%D0%BB%D0%B0%D0%B2%D0%B8%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B8%20%D0%B7%20%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%BC%20%D0%9B%D0%B0%D1%82%D0%B2%D1%96%D1%97%20%D1%82%D0%B0%20%D0%9F%D1%80%D0%B5%D0%BC%E2%80%99%D1%94%D1%80-%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%BE%D0%BC%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%89%D1%96%2005%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q348043",
+      "answerKey": "egils levits"
+    },
+    {
+      "id": 9,
+      "name": "Valdis Dombrovskis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dombrovskis%20EC%20Portrait%202024%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57630",
+      "answerKey": "valdis dombrovskis"
+    },
+    {
+      "id": 10,
+      "name": "Andris Bērziņš",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flickr%20-%20Saeima%20-%2010.Saeimas%20deput%C4%81ts%20Andris%20B%C4%93rzi%C5%86%C5%A1%20%28iev%C4%93l%C4%93ts%20no%20Vidzemes%20apgabala%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57506",
+      "answerKey": "andris berzins"
+    }
+  ]
+}

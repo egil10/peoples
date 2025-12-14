@@ -1,0 +1,118 @@
+{
+  "country": "Bulgaria",
+  "countryCode": "Q219",
+  "generated": "2025-12-14T01:54:48.331Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Elias Canetti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elias%20Canetti%202.jpg",
+      "sitelinks": 112,
+      "birthYear": "1905",
+      "deathYear": "1994",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80064",
+      "answerKey": "elias canetti"
+    },
+    {
+      "id": 2,
+      "name": "Nina Dobrev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NinaDobrev-TIFF2025-01.png",
+      "sitelinks": 79,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183439",
+      "answerKey": "nina dobrev"
+    },
+    {
+      "id": 3,
+      "name": "Rumen Radev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rumen-Radev-with-Frank-Walter-Steinmeier%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26257557",
+      "answerKey": "rumen radev"
+    },
+    {
+      "id": 4,
+      "name": "Boyko Borissov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boyko%20Borisov%20%2849NS%29.png",
+      "sitelinks": 74,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57775",
+      "answerKey": "boyko borissov"
+    },
+    {
+      "id": 5,
+      "name": "Hristo Stoichkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stoichkov%20in%202016.jpg",
+      "sitelinks": 71,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187125",
+      "answerKey": "hristo stoichkov"
+    },
+    {
+      "id": 6,
+      "name": "Julia Kristeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Julia%20Kristeva%20%C3%A0%20Paris%20en%202008.jpg",
+      "sitelinks": 71,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q159876",
+      "answerKey": "julia kristeva"
+    },
+    {
+      "id": 7,
+      "name": "Baba Vanga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D0%BE%D0%BC%D1%8A%D1%82%20%D0%BD%D0%B0%20%D0%92%D0%B0%D0%BD%D0%B3%D0%B0.jpg",
+      "sitelinks": 69,
+      "birthYear": "1911",
+      "deathYear": "1996",
+      "occupation": "psychic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229625",
+      "answerKey": "baba vanga"
+    },
+    {
+      "id": 8,
+      "name": "Ivan Vazov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BASA-937K-1-410-7-Ivan%20Vazov%20%28cropped%29.JPG",
+      "sitelinks": 67,
+      "birthYear": "1850",
+      "deathYear": "1921",
+      "occupation": "judge",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310630",
+      "answerKey": "ivan vazov"
+    },
+    {
+      "id": 9,
+      "name": "Todor Zhivkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Todor%20Zhivkov%20%2C%20eerste%20secretaris%20Communistische%20Partij%20en%20president%20van%20Bulgari%2C%20Bestanddeelnr%20924-8077%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1911",
+      "deathYear": "1998",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28517",
+      "answerKey": "todor zhivkov"
+    },
+    {
+      "id": 10,
+      "name": "Veselin Topalov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/VeselinTopalov12a.jpg",
+      "sitelinks": 65,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q172798",
+      "answerKey": "veselin topalov"
+    }
+  ]
+}

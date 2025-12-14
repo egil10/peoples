@@ -1,0 +1,118 @@
+{
+  "country": "Kazakhstan",
+  "countryCode": "Q232",
+  "generated": "2025-12-14T01:56:54.173Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Nursultan Nazarbayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%20%D1%81%20%D0%9D%D1%83%D1%80%D1%81%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%BC%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B1%D0%B0%D0%B5%D0%B2%D1%8B%D0%BC%20%282025-05-29%29%203%20%28cropped%29.jpg",
+      "sitelinks": 112,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57394",
+      "answerKey": "nursultan nazarbayev"
+    },
+    {
+      "id": 2,
+      "name": "Nursultan Nazarbayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nazarbayev%20Alma-Ata%20Protocol.jpg",
+      "sitelinks": 112,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57394",
+      "answerKey": "nursultan nazarbayev"
+    },
+    {
+      "id": 3,
+      "name": "Kassym-Jomart Tokayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Tokayev%20Address%20to%20the%20Nation%20%28cropped%29.jpg",
+      "sitelinks": 85,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200881",
+      "answerKey": "kassymjomart tokayev"
+    },
+    {
+      "id": 4,
+      "name": "Karim Massimov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Masimov.jpg",
+      "sitelinks": 53,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q209639",
+      "answerKey": "karim massimov"
+    },
+    {
+      "id": 5,
+      "name": "Dimash Qudaibergen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dimash%20en%20Concierto.jpg",
+      "sitelinks": 47,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25501424",
+      "answerKey": "dimash qudaibergen"
+    },
+    {
+      "id": 6,
+      "name": "Elena Rybakina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elena%20Rybakina%20%282025%20DC%20Open%29%2007%20%28cropped2%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42055714",
+      "answerKey": "elena rybakina"
+    },
+    {
+      "id": 7,
+      "name": "Alina Kabaeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlinaKabaevaPortrait.jpg",
+      "sitelinks": 46,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q254220",
+      "answerKey": "alina kabaeva"
+    },
+    {
+      "id": 8,
+      "name": "Asqar Mamin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Askar%20Mamin%20official%20portrait%20%28cropped%202%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q527063",
+      "answerKey": "asqar mamin"
+    },
+    {
+      "id": 9,
+      "name": "Alexandra Elbakyan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandra%20Elbakyan%20at%20Sochi%20in%202021%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "computer scientist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21996568",
+      "answerKey": "alexandra elbakyan"
+    },
+    {
+      "id": 10,
+      "name": "Dariga Nazarbayeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dariga%20Nazarbayeva%202019%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q376532",
+      "answerKey": "dariga nazarbayeva"
+    }
+  ]
+}

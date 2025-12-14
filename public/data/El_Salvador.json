@@ -1,0 +1,118 @@
+{
+  "country": "El Salvador",
+  "countryCode": "Q792",
+  "generated": "2025-12-14T01:58:38.814Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Nayib Bukele",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nayib%20Bukele%20in%20the%20White%20House%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17712353",
+      "answerKey": "nayib bukele"
+    },
+    {
+      "id": 2,
+      "name": "Óscar Romero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monse%C3%B1or%20Romero%20%28colour%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1917",
+      "deathYear": "1980",
+      "occupation": "Latin Catholic priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q293455",
+      "answerKey": "oscar romero"
+    },
+    {
+      "id": 3,
+      "name": "Mauricio Funes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Funes%20%28Brasilia%2C%20May%202008%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1959",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57342",
+      "answerKey": "mauricio funes"
+    },
+    {
+      "id": 4,
+      "name": "Salvador Sánchez Cerén",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cadena%2012%20%2834186610605%29%20cropped.jpg",
+      "sitelinks": 46,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q936831",
+      "answerKey": "salvador sanchez ceren"
+    },
+    {
+      "id": 5,
+      "name": "Antonio Saca",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Saca.png",
+      "sitelinks": 37,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211000",
+      "answerKey": "antonio saca"
+    },
+    {
+      "id": 6,
+      "name": "Claribel Alegría Vides",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claribel%20Alegria.jpg",
+      "sitelinks": 34,
+      "birthYear": "1924",
+      "deathYear": "2018",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q270601",
+      "answerKey": "claribel alegria vides"
+    },
+    {
+      "id": 7,
+      "name": "Francisco Morazán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Francisco%20Moraz%C3%A1n.JPG",
+      "sitelinks": 33,
+      "birthYear": "1792",
+      "deathYear": "1842",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332111",
+      "answerKey": "francisco morazan"
+    },
+    {
+      "id": 8,
+      "name": "Maximiliano Hernández Martínez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Maximiliano%20Hern%C3%A1ndez%20Mart%C3%ADnez%2C%20President%20of%20El%20Salvador.jpg",
+      "sitelinks": 31,
+      "birthYear": "1882",
+      "deathYear": "1966",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319419",
+      "answerKey": "maximiliano hernandez martinez"
+    },
+    {
+      "id": 9,
+      "name": "José Napoleón Duarte",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Napole%C3%B3n%20Duarte%201987c.jpg",
+      "sitelinks": 29,
+      "birthYear": "1925",
+      "deathYear": "1990",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360283",
+      "answerKey": "jose napoleon duarte"
+    },
+    {
+      "id": 10,
+      "name": "Alfredo Cristiani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Cristiani.jpg",
+      "sitelinks": 28,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q365374",
+      "answerKey": "alfredo cristiani"
+    }
+  ]
+}

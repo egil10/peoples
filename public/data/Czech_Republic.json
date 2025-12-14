@@ -1,0 +1,118 @@
+{
+  "country": "Czech Republic",
+  "countryCode": "Q213",
+  "generated": "2025-12-14T01:54:09.707Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Václav Havel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A1clav%20Havel%20cut%20out.jpg",
+      "sitelinks": 141,
+      "birthYear": "1936",
+      "deathYear": "2011",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q36233",
+      "answerKey": "vaclav havel"
+    },
+    {
+      "id": 2,
+      "name": "Milan Kundera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Kundera%20redux.jpg",
+      "sitelinks": 113,
+      "birthYear": "1929",
+      "deathYear": "2023",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93166",
+      "answerKey": "milan kundera"
+    },
+    {
+      "id": 3,
+      "name": "Martina Navratilova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tennis%20Nederland%20tegen%20Verenigde%20Staten%20in%20Den%20Haag%20Navratilova%20in%20aktie%2C%20Bestanddeelnr%20930-9118%20%28cropped%29.jpg",
+      "sitelinks": 95,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54545",
+      "answerKey": "martina navratilova"
+    },
+    {
+      "id": 4,
+      "name": "Miloš Zeman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milo%C5%A1%20Zeman%202022.jpg",
+      "sitelinks": 90,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29032",
+      "answerKey": "milos zeman"
+    },
+    {
+      "id": 5,
+      "name": "Miloš Forman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milos%20Forman.jpg",
+      "sitelinks": 87,
+      "birthYear": "1932",
+      "deathYear": "2018",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51525",
+      "answerKey": "milos forman"
+    },
+    {
+      "id": 6,
+      "name": "Václav Klaus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/V%C3%A1clav%20Klaus%20CPAC%202022%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57434",
+      "answerKey": "vaclav klaus"
+    },
+    {
+      "id": 7,
+      "name": "Petr Čech",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20%C4%8Cech%20Chelsea%202013.jpg",
+      "sitelinks": 75,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483137",
+      "answerKey": "petr cech"
+    },
+    {
+      "id": 8,
+      "name": "Petr Pavel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Pavel.jpg",
+      "sitelinks": 70,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2080040",
+      "answerKey": "petr pavel"
+    },
+    {
+      "id": 9,
+      "name": "Andrej Babiš",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrej%20Babi%C5%A1%202025%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "businessperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10819807",
+      "answerKey": "andrej babis"
+    },
+    {
+      "id": 10,
+      "name": "Ivana Trump",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivana%20Trump%20cropped%20retouched.jpg",
+      "sitelinks": 65,
+      "birthYear": "1949",
+      "deathYear": "2022",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242351",
+      "answerKey": "ivana trump"
+    }
+  ]
+}

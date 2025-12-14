@@ -1,0 +1,118 @@
+{
+  "country": "Canada",
+  "countryCode": "Q16",
+  "generated": "2025-12-14T01:47:38.054Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Elon Musk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20-%2054820081119%20%28cropped%29.jpg",
+      "sitelinks": 194,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317521",
+      "answerKey": "elon musk"
+    },
+    {
+      "id": 2,
+      "name": "Justin Bieber",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Justin%20Bieber%20in%202015.jpg",
+      "sitelinks": 176,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34086",
+      "answerKey": "justin bieber"
+    },
+    {
+      "id": 3,
+      "name": "Céline Dion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Celine%20Dion%20by%20Linda%20Bisset.jpg",
+      "sitelinks": 157,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5105",
+      "answerKey": "celine dion"
+    },
+    {
+      "id": 4,
+      "name": "Céline Dion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9line%20Dion%202012.jpg",
+      "sitelinks": 157,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5105",
+      "answerKey": "celine dion"
+    },
+    {
+      "id": 5,
+      "name": "Justin Trudeau",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Justin%20Trudeau%20at%20the%20European%20Commission%20-%202025.jpg",
+      "sitelinks": 138,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3099714",
+      "answerKey": "justin trudeau"
+    },
+    {
+      "id": 6,
+      "name": "Avril Lavigne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avril%20Lavigne%20%40%20Grammy%20Museum%2009%2005%202019%20%2849311430057%29%20%28cropped%29.jpg",
+      "sitelinks": 137,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
+      "answerKey": "avril lavigne"
+    },
+    {
+      "id": 7,
+      "name": "Avril Lavigne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glaston2024%202806%20300624%20%28129%20of%20173%29%20%28cropped%29.jpg",
+      "sitelinks": 137,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
+      "answerKey": "avril lavigne"
+    },
+    {
+      "id": 8,
+      "name": "Leonard Cohen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonard%20Cohen%2C%201988%2001.jpg",
+      "sitelinks": 131,
+      "birthYear": "1934",
+      "deathYear": "2016",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1276",
+      "answerKey": "leonard cohen"
+    },
+    {
+      "id": 9,
+      "name": "Alice Munro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Munro%202006%20%28cropped%29.jpg",
+      "sitelinks": 126,
+      "birthYear": "1931",
+      "deathYear": "2024",
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q234819",
+      "answerKey": "alice munro"
+    },
+    {
+      "id": 10,
+      "name": "Jim Carrey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Carrey%202020%20cropped.jpg",
+      "sitelinks": 125,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40504",
+      "answerKey": "jim carrey"
+    }
+  ]
+}
