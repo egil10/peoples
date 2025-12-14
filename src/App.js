@@ -10,7 +10,9 @@ function App() {
     useEffect(() => {
         const loadAllData = async () => {
             try {
-                const indexResponse = await fetch(`${process.env.PUBLIC_URL}/data/index.json`);
+                // Handle PUBLIC_URL for both GitHub Pages (subdirectory) and Vercel (root)
+                const publicUrl = (process.env.PUBLIC_URL || '').replace(/\/$/, '');
+                const indexResponse = await fetch(`${publicUrl}/data/index.json`);
                 if (!indexResponse.ok) {
                     throw new Error(`Failed to load index: ${indexResponse.status}`);
                 }
@@ -22,7 +24,7 @@ function App() {
 
                 // Fetch ALL country data in parallel
                 const dataPromises = indexData.countries.map(country =>
-                    fetch(`${process.env.PUBLIC_URL}/data/${country.file}`)
+                    fetch(`${publicUrl}/data/${country.file}`)
                         .then(res => {
                             if (!res.ok) {
                                 throw new Error(`HTTP ${res.status}`);

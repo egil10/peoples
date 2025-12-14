@@ -27,16 +27,34 @@
 
 ## Vercel Configuration
 
-The `vercel.json` file is already configured for SPA routing:
+The `vercel.json` file is configured for SPA routing with proper static asset handling:
 ```json
 {
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json"
+        }
+      ]
+    }
   ]
 }
 ```
 
-This ensures all routes serve the React app correctly.
+This ensures:
+- All routes serve the React app correctly (SPA routing)
+- Static files in `/data/` and `/static/` are served with proper caching headers
+- JSON files are served with correct content type
 
 ## Environment Variables (Optional)
 
@@ -51,10 +69,10 @@ If you add API features later, you can add environment variables in:
 
 ## Build Optimization
 
-Your `package.json` already has the correct scripts:
+Your `package.json` has the correct configuration for Vercel:
 ```json
 {
-  "homepage": "/peoples",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -62,6 +80,8 @@ Your `package.json` already has the correct scripts:
   }
 }
 ```
+
+**Important:** The `homepage` field is set to `"."` for Vercel deployment (root path). If you also deploy to GitHub Pages, you may need to change it to `"/peoples"` for that platform.
 
 ## Data Files
 
@@ -75,10 +95,21 @@ All 118 country JSON files in `public/data/` will be automatically deployed with
 
 ## Troubleshooting
 
-If the build fails:
+### Build Fails
 1. Check that all dependencies are in `package.json`
 2. Ensure `public/data/` folder exists with all JSON files
-3. Verify `homepage` field matches your deployment path
+3. Verify `homepage` field is set to `"."` for Vercel (root deployment)
+
+### Data Files Not Loading
+1. Check browser console for 404 errors on `/data/*.json` files
+2. Verify `vercel.json` is in the root directory
+3. Ensure `public/data/` files are committed to git
+4. Check that build output includes `build/data/` directory
+
+### Routes Not Working
+1. Verify `vercel.json` has the rewrite rule for SPA routing
+2. Check that static files are being served (Vercel serves them automatically)
+3. Clear browser cache and try again
 
 ## Post-Deployment
 
@@ -90,6 +121,6 @@ After deployment, test:
 - ✅ Game mode toggle works
 - ✅ Timer delay toggle works
 
-Your quiz will be live at: `https://your-project.vercel.app/peoples`
+Your quiz will be live at: `https://your-project.vercel.app` (root domain, no subdirectory)
 
 Happy deploying! 🎉

@@ -2,7 +2,7 @@
   "name": "wikidata-quiz",
   "version": "1.0.0",
   "description": "A minimalist quiz application testing knowledge of notable people from different countries using Wikidata",
-  "homepage": "https://egil10.github.io/peoples",
+  "homepage": ".",
   "scripts": {
     "generate-data": "node scripts/data-pipeline.js",
     "fetch-flags": "node scripts/fetch-flags.js",
