@@ -78,7 +78,7 @@ body {
 }
 
 .logo-button {
-    background: none;
+    background: none !important;
     border: none;
     cursor: pointer;
     padding: 0;
@@ -93,10 +93,14 @@ body {
 .logo-button:visited,
 .logo-button:hover,
 .logo-button:active,
-.logo-button:focus {
-    color: #000;
-    text-decoration: none;
-    outline: none;
+.logo-button:focus,
+.logo-button:focus-visible {
+    color: #000 !important;
+    text-decoration: none !important;
+    outline: none !important;
+    background: none !important;
+    background-color: transparent !important;
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 .logo-button h1 {
@@ -104,6 +108,15 @@ body {
     font-weight: 700;
     color: #000;
     margin: 0;
+    background: none !important;
+    background-color: transparent !important;
+}
+
+.logo-button h1:hover,
+.logo-button h1:active,
+.logo-button h1:focus {
+    background: none !important;
+    background-color: transparent !important;
 }
 
 .stats {
@@ -262,6 +275,8 @@ body {
     z-index: 3;
     position: relative;
     margin: 0 auto;
+    min-width: 28px;
+    min-height: 28px;
 }
 
 .game-mode-option.active .game-mode-icon {
@@ -270,8 +285,15 @@ body {
 }
 
 .game-mode-option:not(.active) .game-mode-icon {
-    background: transparent;
+    background: rgba(255, 255, 255, 0.5);
     color: #999;
+}
+
+.game-mode-icon svg {
+    width: 16px;
+    height: 16px;
+    display: block;
+    flex-shrink: 0;
 }
 
 .controls button {
