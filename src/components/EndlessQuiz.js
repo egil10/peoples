@@ -2,11 +2,14 @@ import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Image, User, Award, Check, X, Filter, Timer } from 'lucide-react';
 import './EndlessQuiz.css';
 
-function calculateElo(currentElo, isCorrect, questionDifficulty = 1500) {
-    const K = 32;
-    const expectedScore = 1 / (1 + Math.pow(10, (questionDifficulty - currentElo) / 400));
+// Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
+function calculateElo(currentElo, isCorrect) {
+    const K = 32; // Fixed K-factor for simplicity
+    const baseElo = 1500; // Base difficulty
+    const expectedScore = 1 / (1 + Math.pow(10, (baseElo - currentElo) / 400));
     const actualScore = isCorrect ? 1 : 0;
-    return Math.round(currentElo + K * (actualScore - expectedScore));
+    const change = Math.round(K * (actualScore - expectedScore));
+    return currentElo + change;
 }
 
 function getEloRank(elo) {
@@ -74,6 +77,7 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
                 decoding="async"
                 width="200"
                 height="267"
+                fetchpriority="low"
             />
             <span className="letter">{String.fromCharCode(65 + index)}</span>
             {isAnswered && isCorrect && <Check size={24} className="result" />}
@@ -120,14 +124,22 @@ function EndlessQuiz({ allPeopleData }) {
         setFilteredPeople(flattened);
     }, [allPeopleData]);
 
-    // Filter people by country
+    // Filter people by country and reset quiz state
     useEffect(() => {
         if (selectedCountry === 'all') {
             setFilteredPeople(allPeople);
         } else {
             setFilteredPeople(allPeople.filter(p => p.country === selectedCountry));
         }
+        // Reset quiz state when country changes
         setQuestionQueue([]);
+        setCurrentQuestion(null);
+        setSelectedAnswer(null);
+        setIsAnswered(false);
+        setElo(1500);
+        setStreak(0);
+        setTotalAnswered(0);
+        setCorrectCount(0);
     }, [selectedCountry, allPeople]);
 
     // Memoize question generation to reduce re-computation
@@ -193,38 +205,44 @@ function EndlessQuiz({ allPeopleData }) {
     }, [questionQueue, currentQuestion]);
 
     const handleNext = useCallback(async () => {
-        const remainingQueue = questionQueue.slice(1);
-        const newQuestion = generateQuestion();
-        if (newQuestion) {
-            await preloadQuestionImages(newQuestion);
-            setQuestionQueue([...remainingQueue, newQuestion]);
-        } else {
-            setQuestionQueue(remainingQueue);
-        }
-        if (remainingQueue.length > 0) {
-            setCurrentQuestion(remainingQueue[0]);
-        }
-        setSelectedAnswer(null);
-        setIsAnswered(false);
+        // Use requestAnimationFrame for smooth transitions
+        requestAnimationFrame(async () => {
+            const remainingQueue = questionQueue.slice(1);
+            const newQuestion = generateQuestion();
+            if (newQuestion) {
+                await preloadQuestionImages(newQuestion);
+                setQuestionQueue([...remainingQueue, newQuestion]);
+            } else {
+                setQuestionQueue(remainingQueue);
+            }
+            if (remainingQueue.length > 0) {
+                setCurrentQuestion(remainingQueue[0]);
+            }
+            setSelectedAnswer(null);
+            setIsAnswered(false);
+        });
     }, [questionQueue, generateQuestion, preloadQuestionImages]);
 
     const handleAnswerSelect = useCallback((person) => {
         if (isAnswered) return;
 
-        setSelectedAnswer(person);
-        setIsAnswered(true);
-        setTotalAnswered(prev => prev + 1);
+        // Use requestAnimationFrame for smooth state updates
+        requestAnimationFrame(() => {
+            setSelectedAnswer(person);
+            setIsAnswered(true);
+            setTotalAnswered(prev => prev + 1);
 
-        const isCorrect = person.wikidataUrl === currentQuestion.correct.wikidataUrl;
-        if (isCorrect) {
-            setCorrectCount(prev => prev + 1);
-            setStreak(prev => prev + 1);
-        } else {
-            setStreak(0);
-        }
+            const isCorrect = person.wikidataUrl === currentQuestion.correct.wikidataUrl;
+            if (isCorrect) {
+                setCorrectCount(prev => prev + 1);
+                setStreak(prev => prev + 1);
+            } else {
+                setStreak(0);
+            }
 
-        const newElo = calculateElo(elo, isCorrect, currentQuestion.correct.difficulty);
-        setElo(newElo);
+            const newElo = calculateElo(elo, isCorrect);
+            setElo(newElo);
+        });
     }, [isAnswered, currentQuestion, elo]);
 
     // Handle auto-advance with proper cleanup
@@ -284,6 +302,12 @@ function EndlessQuiz({ allPeopleData }) {
         <div className="quiz-container">
             <header className="header">
                 <div className="stats">
+                    {selectedCountry !== 'all' && (
+                        <>
+                            <span className="country-badge">{selectedCountry}</span>
+                            <span className="dim">|</span>
+                        </>
+                    )}
                     <span>{elo}</span>
                     <span className="dim">{rank}</span>
                     <span className="dim">|</span>
@@ -337,6 +361,7 @@ function EndlessQuiz({ allPeopleData }) {
                                 decoding="async"
                                 width="400"
                                 height="533"
+                                fetchpriority="high"
                             />
                         </div>
                         <div className="opts">
@@ -354,33 +379,56 @@ function EndlessQuiz({ allPeopleData }) {
                         </div>
 
                         {isAnswered && (
-                            <div className="info">
-                                <div className={selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? 'correct' : 'wrong'}>
+                            <div className="feedback-overlay">
+                                <div className="feedback-content">
                                     {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                        <><Check size={16} /> Correct (+{calculateElo(elo, true, currentQuestion.correct.difficulty) - elo})</>
+                                        <div className="feedback-correct">
+                                            <Check size={32} />
+                                            <h3>Correct!</h3>
+                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                            <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
+                                        </div>
                                     ) : (
-                                        <><X size={16} /> {currentQuestion.correct.name}</>
+                                        <div className="feedback-wrong">
+                                            <X size={32} />
+                                            <h3>Incorrect</h3>
+                                            <div className="feedback-wrong-answer">
+                                                <span className="label">You selected:</span>
+                                                <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                            </div>
+                                            <div className="feedback-correct-answer">
+                                                <span className="label">Correct answer:</span>
+                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                            </div>
+                                            <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
+                                        </div>
                                     )}
-                                </div>
-                                <div className="details">
-                                    {currentQuestion.correct.occupation && <p><strong>{currentQuestion.correct.occupation}</strong></p>}
-                                    {currentQuestion.correct.description && <p className="desc">{currentQuestion.correct.description}</p>}
-                                    {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                                        <p>{currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}</p>
-                                    )}
-                                    <div className="country-flag">
-                                        {countryData?.flag && (
-                                            <img
-                                                src={countryData.flag}
-                                                alt=""
-                                                className="flag"
-                                                loading="lazy"
-                                                decoding="async"
-                                                width="24"
-                                                height="16"
-                                            />
+                                    <div className="feedback-details">
+                                        {currentQuestion.correct.occupation && (
+                                            <div className="detail-item">
+                                                <strong>{currentQuestion.correct.occupation}</strong>
+                                            </div>
                                         )}
-                                        <span>{currentQuestion.correct.country}</span>
+                                        {currentQuestion.correct.description && (
+                                            <div className="detail-item desc">{currentQuestion.correct.description}</div>
+                                        )}
+                                        {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                            <div className="detail-item">
+                                                {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
+                                            </div>
+                                        )}
+                                        <div className="country-flag-large">
+                                            {countryData?.flag && (
+                                                <img
+                                                    src={countryData.flag}
+                                                    alt=""
+                                                    className="flag-large"
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                />
+                                            )}
+                                            <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -404,33 +452,56 @@ function EndlessQuiz({ allPeopleData }) {
                         </div>
 
                         {isAnswered && (
-                            <div className="info">
-                                <div className={selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? 'correct' : 'wrong'}>
+                            <div className="feedback-overlay">
+                                <div className="feedback-content">
                                     {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                        <><Check size={16} /> Correct (+{calculateElo(elo, true, currentQuestion.correct.difficulty) - elo})</>
+                                        <div className="feedback-correct">
+                                            <Check size={32} />
+                                            <h3>Correct!</h3>
+                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                            <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
+                                        </div>
                                     ) : (
-                                        <><X size={16} /> {currentQuestion.correct.name}</>
+                                        <div className="feedback-wrong">
+                                            <X size={32} />
+                                            <h3>Incorrect</h3>
+                                            <div className="feedback-wrong-answer">
+                                                <span className="label">You selected:</span>
+                                                <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                            </div>
+                                            <div className="feedback-correct-answer">
+                                                <span className="label">Correct answer:</span>
+                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                            </div>
+                                            <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
+                                        </div>
                                     )}
-                                </div>
-                                <div className="details">
-                                    {currentQuestion.correct.occupation && <p><strong>{currentQuestion.correct.occupation}</strong></p>}
-                                    {currentQuestion.correct.description && <p className="desc">{currentQuestion.correct.description}</p>}
-                                    {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                                        <p>{currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}</p>
-                                    )}
-                                    <div className="country-flag">
-                                        {countryData?.flag && (
-                                            <img
-                                                src={countryData.flag}
-                                                alt=""
-                                                className="flag"
-                                                loading="lazy"
-                                                decoding="async"
-                                                width="24"
-                                                height="16"
-                                            />
+                                    <div className="feedback-details">
+                                        {currentQuestion.correct.occupation && (
+                                            <div className="detail-item">
+                                                <strong>{currentQuestion.correct.occupation}</strong>
+                                            </div>
                                         )}
-                                        <span>{currentQuestion.correct.country}</span>
+                                        {currentQuestion.correct.description && (
+                                            <div className="detail-item desc">{currentQuestion.correct.description}</div>
+                                        )}
+                                        {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                            <div className="detail-item">
+                                                {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
+                                            </div>
+                                        )}
+                                        <div className="country-flag-large">
+                                            {countryData?.flag && (
+                                                <img
+                                                    src={countryData.flag}
+                                                    alt=""
+                                                    className="flag-large"
+                                                    loading="lazy"
+                                                    decoding="async"
+                                                />
+                                            )}
+                                            <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
