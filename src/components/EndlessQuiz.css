@@ -16,7 +16,7 @@ body {
     min-height: 100vh;
     background: #FFF;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     contain: layout style paint;
     position: relative;
     overflow-x: hidden;

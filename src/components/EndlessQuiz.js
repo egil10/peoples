@@ -58,53 +58,6 @@ const PersonOption = React.memo(({ person, index, isSelected, isCorrect, isAnswe
 });
 
 const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswered, onSelect }) => {
-    const imageRef = useRef(null);
-    const [imageSrc, setImageSrc] = useState(null);
-    const [isInView, setIsInView] = useState(false);
-
-    // Reset state when person changes
-    useEffect(() => {
-        setImageSrc(null);
-        setIsInView(false);
-    }, [person.wikidataUrl]);
-
-    // Intersection Observer for true lazy loading
-    useEffect(() => {
-        if (!imageRef.current) return;
-
-        const observer = new IntersectionObserver(
-            (entries) => {
-                entries.forEach((entry) => {
-                    if (entry.isIntersecting) {
-                        setIsInView(true);
-                        observer.disconnect();
-                    }
-                });
-            },
-            {
-                rootMargin: '50px', // Start loading 50px before image enters viewport
-                threshold: 0.01
-            }
-        );
-
-        observer.observe(imageRef.current);
-
-        return () => {
-            observer.disconnect();
-        };
-    }, []);
-
-    // Load image when in view
-    useEffect(() => {
-        if (isInView && !imageSrc && person.image) {
-            // Preload image
-            const img = new Image();
-            img.onload = () => setImageSrc(person.image);
-            img.onerror = () => setImageSrc(person.image); // Fallback to direct load
-            img.src = person.image;
-        }
-    }, [isInView, person.image, imageSrc]);
-
     const cls = useMemo(() => {
         let c = 'img-opt';
         if (isAnswered) {
@@ -117,20 +70,15 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
 
     return (
         <button className={cls} onClick={onSelect} disabled={isAnswered}>
-            <div className="img-wrapper" ref={imageRef}>
-                {imageSrc ? (
-                    <img
-                        src={imageSrc}
-                        alt=""
-                        decoding="async"
-                        width="150"
-                        height="200"
-                        fetchpriority={index < 2 ? "high" : "low"}
-                    />
-                ) : (
-                    <div className="img-placeholder" />
-                )}
-            </div>
+            <img
+                src={person.image}
+                alt=""
+                loading={index < 2 ? "eager" : "lazy"}
+                decoding="async"
+                width="150"
+                height="200"
+                fetchpriority={index < 2 ? "high" : "low"}
+            />
             <span className="letter">{String.fromCharCode(65 + index)}</span>
             {isAnswered && isCorrect && <Check size={24} className="result" />}
             {isAnswered && isSelected && !isCorrect && <X size={24} className="result" />}
