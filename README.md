@@ -111,28 +111,38 @@ This will build and push the `build/` directory to the `gh-pages` branch.
 
 ```
 peoples/
+├── docs/                      # Documentation files
+│   ├── ENDLESS_QUIZ_COMPLETE.md
+│   ├── FINAL_IMPLEMENTATION.md
+│   ├── IMPLEMENTATION_SUMMARY.md
+│   ├── PERFORMANCE_OPTIMIZATIONS.md
+│   └── VERCEL_DEPLOY.md
 ├── public/
 │   ├── data/                  # Static quiz data (generated)
 │   │   ├── index.json         # List of available countries
 │   │   ├── Norway.json        # Quiz data for Norway
 │   │   ├── France.json        # Quiz data for France
-│   │   └── ...
+│   │   └── ...                # 100+ country JSON files
 │   ├── index.html             # HTML template
 │   └── manifest.json          # PWA manifest
 ├── scripts/
-│   └── data-pipeline.js       # Data generation script
+│   ├── data-pipeline.js       # Data generation script
+│   └── fetch-flags.js         # Flag fetching utility
 ├── src/
 │   ├── components/
-│   │   ├── CountrySelector.js # Country selection screen
-│   │   ├── CountrySelector.css
-│   │   ├── Quiz.js            # Main quiz component
+│   │   ├── EndlessQuiz.js     # Main endless quiz component
+│   │   ├── EndlessQuiz.css
+│   │   ├── Quiz.js            # Legacy quiz component
 │   │   ├── Quiz.css
 │   │   ├── Results.js         # Results/score screen
-│   │   └── Results.css
+│   │   ├── Results.css
+│   │   ├── CountrySelector.js # Country selection screen
+│   │   └── CountrySelector.css
 │   ├── App.js                 # Main app component
 │   ├── index.js               # React entry point
 │   └── index.css              # Global styles
 ├── package.json
+├── vercel.json                # Vercel deployment config
 └── README.md
 ```
 

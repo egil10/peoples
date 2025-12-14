@@ -47,6 +47,11 @@ const PersonOption = React.memo(({ person, index, isSelected, isCorrect, isAnswe
             {isAnswered && isSelected && !isCorrect && <X size={16} />}
         </button>
     );
+}, (prevProps, nextProps) => {
+    return prevProps.person.wikidataUrl === nextProps.person.wikidataUrl &&
+           prevProps.isSelected === nextProps.isSelected &&
+           prevProps.isCorrect === nextProps.isCorrect &&
+           prevProps.isAnswered === nextProps.isAnswered;
 });
 
 const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswered, onSelect }) => {
@@ -75,6 +80,11 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
             {isAnswered && isSelected && !isCorrect && <X size={24} className="result" />}
         </button>
     );
+}, (prevProps, nextProps) => {
+    return prevProps.person.wikidataUrl === nextProps.person.wikidataUrl &&
+           prevProps.isSelected === nextProps.isSelected &&
+           prevProps.isCorrect === nextProps.isCorrect &&
+           prevProps.isAnswered === nextProps.isAnswered;
 });
 
 function EndlessQuiz({ allPeopleData }) {
@@ -215,8 +225,12 @@ function EndlessQuiz({ allPeopleData }) {
 
         const newElo = calculateElo(elo, isCorrect, currentQuestion.correct.difficulty);
         setElo(newElo);
+    }, [isAnswered, currentQuestion, elo]);
 
-        // Use requestAnimationFrame for smooth auto-advance
+    // Handle auto-advance with proper cleanup
+    useEffect(() => {
+        if (!isAnswered || !selectedAnswer) return;
+
         const timeoutId = setTimeout(() => {
             requestAnimationFrame(() => {
                 handleNext();
@@ -224,7 +238,7 @@ function EndlessQuiz({ allPeopleData }) {
         }, autoAdvanceDelay * 1000);
 
         return () => clearTimeout(timeoutId);
-    }, [isAnswered, currentQuestion, elo, autoAdvanceDelay, handleNext]);
+    }, [isAnswered, selectedAnswer, autoAdvanceDelay, handleNext]);
 
     const toggleGameMode = useCallback(() => {
         setGameMode(prev => prev === 'image-to-name' ? 'name-to-image' : 'image-to-name');
