@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3, ExternalLink } from 'lucide-react';
 import './EndlessQuiz.css';
+import './EndlessQuiz-mobile.css';
 
 // Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
 function calculateElo(currentElo, isCorrect) {

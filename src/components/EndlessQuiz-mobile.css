@@ -1,0 +1,93 @@
+/* Mobile-Specific Optimizations */
+
+@media (max-width: 640px) {
+
+    /* Better feedback popup positioning on mobile */
+    .feedback-popup,
+    .feedback-popup-name-mode {
+        position: fixed !important;
+        left: 50% !important;
+        right: auto !important;
+        transform: translateX(-50%) !important;
+        bottom: 16px !important;
+        top: auto !important;
+        max-height: 60vh !important;
+    }
+
+    .feedback-content {
+        max-height: 60vh !important;
+        overflow-y: auto !important;
+    }
+
+    /* Larger touch targets for options */
+    .opt {
+        min-height: 56px !important;
+        padding: 16px 18px !important;
+        font-size: 16px !important;
+    }
+
+    /* Larger image options */
+    .img-opt {
+        min-height: 150px !important;
+    }
+
+    /* Better Wikipedia link for touch */
+    .wikipedia-link {
+        padding: 12px 16px !important;
+        font-size: 15px !important;
+    }
+
+    /* Smaller toggle on mobile */
+    .game-mode-toggle {
+        width: 48px !important;
+        height: 22px !important;
+    }
+
+    .game-mode-option {
+        width: 18px !important;
+        height: 18px !important;
+    }
+
+    .game-mode-toggle::after {
+        width: 18px !important;
+        height: 18px !important;
+    }
+
+    .game-mode-toggle[data-mode="name-to-image"]::after {
+        transform: translateX(26px) !important;
+    }
+
+    .game-mode-icon svg {
+        width: 10px !important;
+        height: 10px !important;
+    }
+}
+
+/* Extra-small phones */
+@media (max-width: 400px) {
+    .header {
+        padding: 8px 12px !important;
+    }
+
+    .logo-button h1 {
+        font-size: 14px !important;
+    }
+
+    .stats {
+        font-size: 11px !important;
+    }
+
+    .stat-item {
+        padding: 2px 5px !important;
+        font-size: 10px !important;
+    }
+
+    .opt {
+        font-size: 15px !important;
+        padding: 14px 16px !important;
+    }
+
+    .name-top h2 {
+        font-size: 20px !important;
+    }
+}
