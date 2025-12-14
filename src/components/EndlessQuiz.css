@@ -244,11 +244,16 @@ body {
     left: 4px;
     width: 28px;
     height: 28px;
+    min-width: 28px;
+    min-height: 28px;
+    max-width: 28px;
+    max-height: 28px;
     background: #FFF;
     border-radius: 50%;
     transition: transform 0.2s ease;
     z-index: 1;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    aspect-ratio: 1 / 1;
 }
 
 .game-mode-toggle[data-mode="name-to-image"]::after {
