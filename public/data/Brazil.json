@@ -1,0 +1,128 @@
+{
+  "country": "Brazil",
+  "countryCode": "Q155",
+  "generated": "2025-12-14T01:33:32.091Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Pelé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pele%20con%20brasil%20%28cropped%29.jpg",
+      "sitelinks": 180,
+      "birthYear": "1940",
+      "deathYear": "2022",
+      "occupation": "film actor",
+      "description": "Brazilian footballer (1940–2022)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12897",
+      "answerKey": "pele"
+    },
+    {
+      "id": 2,
+      "name": "Neymar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Neymar%20Jr.%20with%20Al%20Hilal%2C%203%20October%202023%20-%2004%20%28cropped%29.jpg",
+      "sitelinks": 155,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "description": "Brazilian association football player.",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q142794",
+      "answerKey": "neymar"
+    },
+    {
+      "id": 3,
+      "name": "Hebe Camargo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hebe%20Camargo.jpg",
+      "sitelinks": 150,
+      "birthYear": "1929",
+      "deathYear": "2012",
+      "occupation": "recording artist",
+      "description": "Brazilian recording artist, television host, actress and singer (1929-2012)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6105",
+      "answerKey": "hebe camargo"
+    },
+    {
+      "id": 4,
+      "name": "Jair Bolsonaro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Jair%20Messias%20Bolsonaro.jpg",
+      "sitelinks": 149,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "description": "38th President of the Federative Republic of Brazil from 2019 to 2023, Captain of the Brazilian Army, Federal Deputy of Brazil (1991-2019) and Councilman of the City of Rio de Janeiro (1989-1991)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10304982",
+      "answerKey": "jair bolsonaro"
+    },
+    {
+      "id": 5,
+      "name": "Luiz Inácio Lula da Silva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foto%20oficial%20de%20Luiz%20In%C3%A1cio%20Lula%20da%20Silva%20%28estreita%29.jpg",
+      "sitelinks": 148,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "turner",
+      "description": "President of the Federative Republic of Brazil from 2003 to 2011 and since 2023",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37181",
+      "answerKey": "luiz inacio lula da silva"
+    },
+    {
+      "id": 6,
+      "name": "Dilma Rousseff",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/04-06-2024%20Reuni%C3%A3o%20com%20a%20Presidente%20do%20Novo%20Banco%20de%20Desenvolvimento%20Dilma%20Rousseff%20%2853769684843%29%20%28cropped%29.jpg",
+      "sitelinks": 133,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "economist",
+      "description": "36th President of Brazil (2011-2016), 3rd President of the New Development Bank (BRICS), since 2023",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40722",
+      "answerKey": "dilma rousseff"
+    },
+    {
+      "id": 7,
+      "name": "Paulo Coelho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulo%20Coelho%2C%20June%202024.jpg",
+      "sitelinks": 132,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "science fiction writer",
+      "description": "Brazilian lyricist and novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12881",
+      "answerKey": "paulo coelho"
+    },
+    {
+      "id": 8,
+      "name": "Ronaldo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/051119SMcC0014.jpg",
+      "sitelinks": 121,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "description": "Brazilian association football player (born 1976)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q529207",
+      "answerKey": "ronaldo"
+    },
+    {
+      "id": 9,
+      "name": "Ronaldinho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronaldinho%20Kazan.jpg",
+      "sitelinks": 110,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "description": "Brazilian associaton fooball player (born 1980)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39444",
+      "answerKey": "ronaldinho"
+    },
+    {
+      "id": 10,
+      "name": "Ayrton Senna",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ayrton%20Senna%20Pesawat%20RC%20Cropped.jpg",
+      "sitelinks": 107,
+      "birthYear": "1960",
+      "deathYear": "1994",
+      "occupation": "Formula One driver",
+      "description": "Brazilian racing driver (1960-1994)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10490",
+      "answerKey": "ayrton senna"
+    }
+  ]
+}

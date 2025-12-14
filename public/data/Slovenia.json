@@ -1,0 +1,128 @@
+{
+  "country": "Slovenia",
+  "countryCode": "Q215",
+  "generated": "2025-12-14T01:32:54.775Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Melania Trump",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melania%20Trump%E2%80%99s%20Official%20White%20House%20Portrait%20%282025%29%20%28much%20further%20cropped%29.jpg",
+      "sitelinks": 113,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "model",
+      "description": "First Lady of the United States (2017–2021; since 2025)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q432473",
+      "answerKey": "melania trump"
+    },
+    {
+      "id": 2,
+      "name": "Slavoj Žižek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Slavoj%20%C5%BDi%C5%BEek%202015%20%28cropped%29.jpg",
+      "sitelinks": 97,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "cultural critic",
+      "description": "Slovenian philosopher (born 1949)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184750",
+      "answerKey": "slavoj zizek"
+    },
+    {
+      "id": 3,
+      "name": "Borut Pahor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novinarska%20konferenca%20predsednika%20republike%20Boruta%20Pahorja.jpg",
+      "sitelinks": 80,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "political scientist",
+      "description": "Slovenian Politician, former Prime Minister and President, born 1963",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q206471",
+      "answerKey": "borut pahor"
+    },
+    {
+      "id": 4,
+      "name": "Janez Janša",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Janez%20Jan%C5%A1a%2C%20EPP%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "description": "Slovenian politician (born 1958)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57627",
+      "answerKey": "janez jansa"
+    },
+    {
+      "id": 5,
+      "name": "Janez Drnovšek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Janez%20Drnovsek.jpg",
+      "sitelinks": 64,
+      "birthYear": "1950",
+      "deathYear": "2008",
+      "occupation": "banker",
+      "description": "Slovenian politician (1950–2008)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171228",
+      "answerKey": "janez drnovsek"
+    },
+    {
+      "id": 6,
+      "name": "Duncan Haldane",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duncan%20Haldane.jpg",
+      "sitelinks": 64,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "description": "professor of physics at Princeton University",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1002250",
+      "answerKey": "duncan haldane"
+    },
+    {
+      "id": 7,
+      "name": "Jan Oblak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Oblak%202019.jpg",
+      "sitelinks": 58,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "description": "Slovenian association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2058682",
+      "answerKey": "jan oblak"
+    },
+    {
+      "id": 8,
+      "name": "Danilo Türk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Predsednik%20vlade%20na%20posvetu%20Akademije%20znanosti%20za%20trajnostni%20razvoj%20Slovenije%20%2853657713196%29%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "agitator",
+      "description": "President of Slovenia from 2007 to 2012",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57329",
+      "answerKey": "danilo turk"
+    },
+    {
+      "id": 9,
+      "name": "Luka Dončić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luka%20Doncic%20%2851914951721%29%20%28cropped1%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "description": "Slovenian basketball player (born 1999)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19844712",
+      "answerKey": "luka doncic"
+    },
+    {
+      "id": 10,
+      "name": "Samir Handanović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samir%20Handanovi%C4%87%20Slovenia.jpg",
+      "sitelinks": 56,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "description": "Slovenian association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213002",
+      "answerKey": "samir handanovic"
+    }
+  ]
+}

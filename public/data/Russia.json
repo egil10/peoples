@@ -1,0 +1,118 @@
+{
+  "country": "Russia",
+  "countryCode": "Q159",
+  "generated": "2025-12-14T01:11:40.704Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Vladimir Putin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%20%D0%9F%D1%83%D1%82%D0%B8%D0%BD%20%282025-05-22%29%20cropped.jpg",
+      "sitelinks": 309,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7747",
+      "answerKey": "vladimir putin"
+    },
+    {
+      "id": 2,
+      "name": "Mikhail Gorbachev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/GorbachevMS.jpg",
+      "sitelinks": 197,
+      "birthYear": "1931",
+      "deathYear": "2022",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30487",
+      "answerKey": "mikhail gorbachev"
+    },
+    {
+      "id": 3,
+      "name": "Dmitry Medvedev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitry%20Medvedev%20official%20portrait%20%2805%29.jpg",
+      "sitelinks": 168,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23530",
+      "answerKey": "dmitry medvedev"
+    },
+    {
+      "id": 4,
+      "name": "Anna Netrebko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Netrebko%20-%20Romy%202013%20a.jpg",
+      "sitelinks": 167,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q78516",
+      "answerKey": "anna netrebko"
+    },
+    {
+      "id": 5,
+      "name": "Boris Yeltsin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D1%80%D0%B8%D1%81%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87%20%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1.jpg",
+      "sitelinks": 158,
+      "birthYear": "1931",
+      "deathYear": "2007",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34453",
+      "answerKey": "boris yeltsin"
+    },
+    {
+      "id": 6,
+      "name": "Aleksandr Solzhenitsyn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Solzhenitsyn%201974crop.jpg",
+      "sitelinks": 157,
+      "birthYear": "1918",
+      "deathYear": "2008",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34474",
+      "answerKey": "aleksandr solzhenitsyn"
+    },
+    {
+      "id": 7,
+      "name": "Valery Leontiev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valery%20Leontiev%20at%20Laima%20Rendez%20Vous%20Jurmala%202017%20%282%29%20%28cropped%29.jpg",
+      "sitelinks": 130,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32927",
+      "answerKey": "valery leontiev"
+    },
+    {
+      "id": 8,
+      "name": "Alexei Navalny",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexey%20Navalny%202018%20%28cropped%29.png",
+      "sitelinks": 130,
+      "birthYear": "1976",
+      "deathYear": "2024",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155979",
+      "answerKey": "alexei navalny"
+    },
+    {
+      "id": 9,
+      "name": "Steven Seagal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Seagal%20at%20Russia%20Expo.jpg",
+      "sitelinks": 127,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82110",
+      "answerKey": "steven seagal"
+    },
+    {
+      "id": 10,
+      "name": "Valentina Tereshkova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1st%20meeting%20of%208th%20State%20Duma%2007.jpg",
+      "sitelinks": 126,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44371",
+      "answerKey": "valentina tereshkova"
+    }
+  ]
+}

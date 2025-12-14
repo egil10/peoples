@@ -1,0 +1,118 @@
+{
+  "country": "India",
+  "countryCode": "Q668",
+  "generated": "2025-12-14T01:11:12.858Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mahatma Gandhi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahatma-Gandhi%2C%20studio%2C%201931.jpg",
+      "sitelinks": 280,
+      "birthYear": "1869",
+      "deathYear": "1948",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1001",
+      "answerKey": "mahatma gandhi"
+    },
+    {
+      "id": 2,
+      "name": "Mother Teresa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MotherTeresa%20090.jpg",
+      "sitelinks": 196,
+      "birthYear": "1910",
+      "deathYear": "1997",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30547",
+      "answerKey": "mother teresa"
+    },
+    {
+      "id": 3,
+      "name": "Jawaharlal Nehru",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jawaharlal%20Nehru%2C%201947.jpg",
+      "sitelinks": 189,
+      "birthYear": "1889",
+      "deathYear": "1964",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1047",
+      "answerKey": "jawaharlal nehru"
+    },
+    {
+      "id": 4,
+      "name": "Narendra Modi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Of%20Bharat%20Shri%20Narendra%20Damodardas%20Modi.jpg",
+      "sitelinks": 170,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1058",
+      "answerKey": "narendra modi"
+    },
+    {
+      "id": 5,
+      "name": "Indira Gandhi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Face%20detail%2C%20Premier%20Indira%20Gandhi%20%28Congrespartij%29%2C%20Bestanddeelnr%20929-0811%20%28cropped%29.jpg",
+      "sitelinks": 168,
+      "birthYear": "1917",
+      "deathYear": "1984",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1149",
+      "answerKey": "indira gandhi"
+    },
+    {
+      "id": 6,
+      "name": "B. R. Ambedkar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Bhimrao%20Ambedkar.jpg",
+      "sitelinks": 146,
+      "birthYear": "1891",
+      "deathYear": "1956",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q231690",
+      "answerKey": "b r ambedkar"
+    },
+    {
+      "id": 7,
+      "name": "Satyajit Ray",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Satyajit%20Ray%20in%20New%20York%20%28cropped%29.jpg",
+      "sitelinks": 138,
+      "birthYear": "1921",
+      "deathYear": "1992",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8873",
+      "answerKey": "satyajit ray"
+    },
+    {
+      "id": 8,
+      "name": "Shah Rukh Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shah%20Rukh%20Khan%20graces%20the%20launch%20of%20the%20new%20Santro.jpg",
+      "sitelinks": 133,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9535",
+      "answerKey": "shah rukh khan"
+    },
+    {
+      "id": 9,
+      "name": "Salman Rushdie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salman%20Rushdie%202014%20%28cropped%29.jpg",
+      "sitelinks": 126,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44306",
+      "answerKey": "salman rushdie"
+    },
+    {
+      "id": 10,
+      "name": "Amitabh Bachchan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BACHCHAN%20Amitabh%2003-24x30-2009b.jpg",
+      "sitelinks": 123,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9570",
+      "answerKey": "amitabh bachchan"
+    }
+  ]
+}

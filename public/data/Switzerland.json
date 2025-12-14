@@ -1,0 +1,128 @@
+{
+  "country": "Switzerland",
+  "countryCode": "Q39",
+  "generated": "2025-12-14T01:33:33.551Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Albert Einstein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg",
+      "sitelinks": 317,
+      "birthYear": "1879",
+      "deathYear": "1955",
+      "occupation": "physicist",
+      "description": "German-born theoretical physicist (1879–1955)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q937",
+      "answerKey": "albert einstein"
+    },
+    {
+      "id": 2,
+      "name": "Le Corbusier",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Corbusier%20%281964%29.jpg",
+      "sitelinks": 194,
+      "birthYear": "1887",
+      "deathYear": "1965",
+      "occupation": "carpets designer",
+      "description": "Swiss-French architect, designer, urbanist, and writer (1886–1965)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4724",
+      "answerKey": "le corbusier"
+    },
+    {
+      "id": 3,
+      "name": "Hermann Hesse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Hesse%202.jpg",
+      "sitelinks": 159,
+      "birthYear": "1877",
+      "deathYear": "1962",
+      "occupation": "Nobel Prize winner",
+      "description": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25973",
+      "answerKey": "hermann hesse"
+    },
+    {
+      "id": 4,
+      "name": "Roger Federer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Federer%20WM16%20%2837%29%20%2828136155830%29.jpg",
+      "sitelinks": 158,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "description": "Swiss tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1426",
+      "answerKey": "roger federer"
+    },
+    {
+      "id": 5,
+      "name": "Igor Stravinsky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Stravinsky%20LOC%2032392u.jpg",
+      "sitelinks": 156,
+      "birthYear": "1882",
+      "deathYear": "1971",
+      "occupation": "librettist",
+      "description": "Russian composer (1882–1971)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7314",
+      "answerKey": "igor stravinsky"
+    },
+    {
+      "id": 6,
+      "name": "Carl Jung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Jung%2C%20Carl%20Gustav%20%281875-1961%29-Portrait-Portr%2014163%20%28cropped%29.tif",
+      "sitelinks": 149,
+      "birthYear": "1875",
+      "deathYear": "1961",
+      "occupation": "essayist",
+      "description": "Swiss psychiatrist and psychotherapist (1875–1961)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41532",
+      "answerKey": "carl jung"
+    },
+    {
+      "id": 7,
+      "name": "Percy Bysshe Shelley",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Percy%20Bysshe%20Shelley%20by%20Alfred%20Clint.jpg",
+      "sitelinks": 139,
+      "birthYear": "1792",
+      "deathYear": "1822",
+      "occupation": "linguist",
+      "description": "British Romantic poet (1792–1822)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93343",
+      "answerKey": "percy bysshe shelley"
+    },
+    {
+      "id": 8,
+      "name": "Alain Delon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alain%20Delon%201961.jpg",
+      "sitelinks": 137,
+      "birthYear": "1935",
+      "deathYear": "2024",
+      "occupation": "producer",
+      "description": "French actor (1935–2024)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106529",
+      "answerKey": "alain delon"
+    },
+    {
+      "id": 9,
+      "name": "Tina Turner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tina%20Turner%2050th%20Anniversary%20Tour.jpg",
+      "sitelinks": 110,
+      "birthYear": "1939",
+      "deathYear": "2023",
+      "occupation": "recording artist",
+      "description": "American-born Swiss singer and songwriter (1939–2023)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131814",
+      "answerKey": "tina turner"
+    },
+    {
+      "id": 10,
+      "name": "Henry Dunant",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Dunant-young.jpg",
+      "sitelinks": 107,
+      "birthYear": "1828",
+      "deathYear": "1910",
+      "occupation": "founder",
+      "description": "Swiss businessman and co-founder of the Red Cross (1828-1910)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12091",
+      "answerKey": "henry dunant"
+    }
+  ]
+}

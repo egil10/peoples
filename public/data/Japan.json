@@ -1,0 +1,118 @@
+{
+  "country": "Japan",
+  "countryCode": "Q17",
+  "generated": "2025-12-14T01:11:44.266Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Matsuo Bashō",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basho%20by%20Buson.jpg",
+      "sitelinks": 197,
+      "birthYear": "1644",
+      "deathYear": "1694",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5676",
+      "answerKey": "matsuo basho"
+    },
+    {
+      "id": 2,
+      "name": "Naruhito",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Naruhito%2020250611%20%2854582524056%2C%20cropped%29.jpg",
+      "sitelinks": 188,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217096",
+      "answerKey": "naruhito"
+    },
+    {
+      "id": 3,
+      "name": "Akira Kurosawa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+      "sitelinks": 171,
+      "birthYear": "1910",
+      "deathYear": "1998",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8006",
+      "answerKey": "akira kurosawa"
+    },
+    {
+      "id": 4,
+      "name": "Katsushika Hokusai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hokusai%20as%20an%20old%20man.jpg",
+      "sitelinks": 170,
+      "birthYear": "1760",
+      "deathYear": "1849",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5586",
+      "answerKey": "katsushika hokusai"
+    },
+    {
+      "id": 5,
+      "name": "Shinzō Abe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shinz%C5%8D%20Abe%2020120501.jpg",
+      "sitelinks": 162,
+      "birthYear": "1954",
+      "deathYear": "2022",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q132345",
+      "answerKey": "shinzo abe"
+    },
+    {
+      "id": 6,
+      "name": "Murasaki Shikibu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Murasaki-Shikibu-composing-Genji-Monogatari.png",
+      "sitelinks": 156,
+      "birthYear": "970",
+      "deathYear": "1100",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81731",
+      "answerKey": "murasaki shikibu"
+    },
+    {
+      "id": 7,
+      "name": "Hirohito",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hirohito%20in%20dress%20uniform.jpg",
+      "sitelinks": 155,
+      "birthYear": "1901",
+      "deathYear": "1989",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34479",
+      "answerKey": "hirohito"
+    },
+    {
+      "id": 8,
+      "name": "Akihito",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Akihito%20%282016%29.jpg",
+      "sitelinks": 128,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37979",
+      "answerKey": "akihito"
+    },
+    {
+      "id": 9,
+      "name": "Haruki Murakami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conversatorio%20Haruki%20Murakami%20%2812%20de%2012%29%20%2845747009452%29%20%28cropped%29.jpg",
+      "sitelinks": 126,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134798",
+      "answerKey": "haruki murakami"
+    },
+    {
+      "id": 10,
+      "name": "Toshirō Mifune",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Toshiro%20Mifune%201954%20Scan10003%20160913.jpg",
+      "sitelinks": 123,
+      "birthYear": "1920",
+      "deathYear": "1997",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q37001",
+      "answerKey": "toshiro mifune"
+    }
+  ]
+}

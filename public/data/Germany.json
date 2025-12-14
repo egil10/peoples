@@ -1,0 +1,118 @@
+{
+  "country": "Germany",
+  "countryCode": "Q183",
+  "generated": "2025-12-14T01:11:36.446Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Albert Einstein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head%20cleaned.jpg",
+      "sitelinks": 317,
+      "birthYear": "1879",
+      "deathYear": "1955",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q937",
+      "answerKey": "albert einstein"
+    },
+    {
+      "id": 2,
+      "name": "Angela Merkel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Angela%20Merkel.%20Tallinn%20Digital%20Summit.jpg",
+      "sitelinks": 217,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q567",
+      "answerKey": "angela merkel"
+    },
+    {
+      "id": 3,
+      "name": "Benedict XVI",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papst%20Benedikt%20XVI%20in%20Berlin%202011.jpg",
+      "sitelinks": 198,
+      "birthYear": "1927",
+      "deathYear": "2022",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2494",
+      "answerKey": "benedict xvi"
+    },
+    {
+      "id": 4,
+      "name": "Rosa Luxemburg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Luxemburg.jpg",
+      "sitelinks": 184,
+      "birthYear": "1871",
+      "deathYear": "1919",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7231",
+      "answerKey": "rosa luxemburg"
+    },
+    {
+      "id": 5,
+      "name": "Michael Schumacher",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%C3%A9cio%20Neves%2C%20Michael%20Schumacher%20e%20Didi%20%28Cropped%29.jpg",
+      "sitelinks": 171,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9671",
+      "answerKey": "michael schumacher"
+    },
+    {
+      "id": 6,
+      "name": "Max Weber",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Weber%20in%201918.png",
+      "sitelinks": 168,
+      "birthYear": "1864",
+      "deathYear": "1920",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9387",
+      "answerKey": "max weber"
+    },
+    {
+      "id": 7,
+      "name": "Hermann Hesse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Hesse%202.jpg",
+      "sitelinks": 159,
+      "birthYear": "1877",
+      "deathYear": "1962",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25973",
+      "answerKey": "hermann hesse"
+    },
+    {
+      "id": 8,
+      "name": "Erwin Schrödinger",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erwin%20Schr%C3%B6dinger%20-%20Narodowe%20Archiwum%20Cyfrowe%20%281-E-939%29.jpg",
+      "sitelinks": 159,
+      "birthYear": "1887",
+      "deathYear": "1961",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9130",
+      "answerKey": "erwin schrodinger"
+    },
+    {
+      "id": 9,
+      "name": "Konrad Adenauer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F078072-0004%2C%20Konrad%20Adenauer.jpg",
+      "sitelinks": 144,
+      "birthYear": "1876",
+      "deathYear": "1967",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2492",
+      "answerKey": "konrad adenauer"
+    },
+    {
+      "id": 10,
+      "name": "Martin Heidegger",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heidegger%202%20%281960%29.jpg",
+      "sitelinks": 143,
+      "birthYear": "1889",
+      "deathYear": "1976",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48301",
+      "answerKey": "martin heidegger"
+    }
+  ]
+}

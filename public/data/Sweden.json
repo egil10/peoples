@@ -1,0 +1,128 @@
+{
+  "country": "Sweden",
+  "countryCode": "Q34",
+  "generated": "2025-12-14T01:33:16.193Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Basshunter",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basshunter%2C%2020%20april%202008%20in%20Halmstad.jpg",
+      "sitelinks": 222,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "description": "Swedish singer, record producer, and DJ",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q383541",
+      "answerKey": "basshunter"
+    },
+    {
+      "id": 2,
+      "name": "Carl Linnaeus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20von%20Linn%C3%A9.jpg",
+      "sitelinks": 209,
+      "birthYear": "1707",
+      "deathYear": "1778",
+      "occupation": "scientific collector",
+      "description": "Swedish botanist, physician, and zoologist (1707–1778)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1043",
+      "answerKey": "carl linnaeus"
+    },
+    {
+      "id": 3,
+      "name": "Alfred Nobel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlfredNobel2.jpg",
+      "sitelinks": 191,
+      "birthYear": "1833",
+      "deathYear": "1896",
+      "occupation": "weapons manufacturer",
+      "description": "Swedish chemist and inventor (1833–1896)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
+      "answerKey": "alfred nobel"
+    },
+    {
+      "id": 4,
+      "name": "Alfred Nobel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20Nobel3.jpg",
+      "sitelinks": 191,
+      "birthYear": "1833",
+      "deathYear": "1896",
+      "occupation": "weapons manufacturer",
+      "description": "Swedish chemist and inventor (1833–1896)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
+      "answerKey": "alfred nobel"
+    },
+    {
+      "id": 5,
+      "name": "Ingmar Bergman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingmar%20Bergman%20%281966%29.jpg",
+      "sitelinks": 158,
+      "birthYear": "1918",
+      "deathYear": "2007",
+      "occupation": "autobiographer",
+      "description": "Swedish director and screenwriter (1918–2007)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7546",
+      "answerKey": "ingmar bergman"
+    },
+    {
+      "id": 6,
+      "name": "Selma Lagerlöf",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atelje%20Jaeger%20-%20Selma%20Lagerl%C3%B6f%201928.jpeg",
+      "sitelinks": 153,
+      "birthYear": "1858",
+      "deathYear": "1940",
+      "occupation": "autobiographer",
+      "description": "Swedish writer (1858–1940)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44519",
+      "answerKey": "selma lagerlof"
+    },
+    {
+      "id": 7,
+      "name": "Greta Thunberg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greta%20Thunberg%20Stockholm%202024%20%283x4%20cropped%29.jpg",
+      "sitelinks": 149,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "environmentalist",
+      "description": "Swedish climate protection activist (born 2003)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56434717",
+      "answerKey": "greta thunberg"
+    },
+    {
+      "id": 8,
+      "name": "Dag Hammarskjöld",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dag%20Hammarskj%C3%B6ld.jpg",
+      "sitelinks": 122,
+      "birthYear": "1905",
+      "deathYear": "1961",
+      "occupation": "philosopher",
+      "description": "Swedish diplomat, economist, and author (1905-1961)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1267",
+      "answerKey": "dag hammarskjold"
+    },
+    {
+      "id": 9,
+      "name": "Willy Brandt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F057884-0009%2C%20Willy%20Brandt.jpg",
+      "sitelinks": 122,
+      "birthYear": "1913",
+      "deathYear": "1992",
+      "occupation": "social democrat",
+      "description": "German politician (SPD), chancellor of West Germany (1969–1974) and Nobel Peace Prize laureate",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
+      "answerKey": "willy brandt"
+    },
+    {
+      "id": 10,
+      "name": "Ingrid Bergman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bergman%20Harcourt%201957.jpg",
+      "sitelinks": 120,
+      "birthYear": "1915",
+      "deathYear": "1982",
+      "occupation": "autobiographer",
+      "description": "Swedish actress (1915–1982)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
+      "answerKey": "ingrid bergman"
+    }
+  ]
+}

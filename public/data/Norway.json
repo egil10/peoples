@@ -1,0 +1,128 @@
+{
+  "country": "Norway",
+  "countryCode": "Q20",
+  "generated": "2025-12-14T01:32:59.760Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Roald Amundsen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amundsen%20in%20fur%20skins.jpg",
+      "sitelinks": 183,
+      "birthYear": "1872",
+      "deathYear": "1928",
+      "occupation": "naval aviator",
+      "description": "Norwegian explorer; first person to reach the South Pole (1872–1928)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q926",
+      "answerKey": "roald amundsen"
+    },
+    {
+      "id": 2,
+      "name": "Henrik Ibsen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henrik%20Ibsen%20by%20Gustav%20Borgen%20NFB-19778.jpg",
+      "sitelinks": 168,
+      "birthYear": "1828",
+      "deathYear": "1906",
+      "occupation": "librettist",
+      "description": "Norwegian playwright and theatre director (1828–1906)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q36661",
+      "answerKey": "henrik ibsen"
+    },
+    {
+      "id": 3,
+      "name": "Knut Hamsun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrett%20av%20Knut%20Hamsun%20%281859-1952%29%20%28cropped%29.jpg",
+      "sitelinks": 133,
+      "birthYear": "1859",
+      "deathYear": "1952",
+      "occupation": "critic",
+      "description": "Norwegian novelist (1859–1952)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40826",
+      "answerKey": "knut hamsun"
+    },
+    {
+      "id": 4,
+      "name": "Bjørnstjerne Bjørnson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bj%C3%B8rnstjerne%20Bj%C3%B8rnson%20%28Stories%20By%20Foreign%20Authors%29.jpg",
+      "sitelinks": 125,
+      "birthYear": "1832",
+      "deathYear": "1910",
+      "occupation": "prose writer",
+      "description": "Norwegian writer (1832–1910)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46405",
+      "answerKey": "bjrnstjerne bjrnson"
+    },
+    {
+      "id": 5,
+      "name": "Willy Brandt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20B%20145%20Bild-F057884-0009%2C%20Willy%20Brandt.jpg",
+      "sitelinks": 122,
+      "birthYear": "1913",
+      "deathYear": "1992",
+      "occupation": "social democrat",
+      "description": "German politician (SPD), chancellor of West Germany (1969–1974) and Nobel Peace Prize laureate",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
+      "answerKey": "willy brandt"
+    },
+    {
+      "id": 6,
+      "name": "Edvard Munch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edvard%20Munch%201933-2.jpg",
+      "sitelinks": 118,
+      "birthYear": "1863",
+      "deathYear": "1944",
+      "occupation": "draftsperson",
+      "description": "Norwegian painter. (1863–1944)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41406",
+      "answerKey": "edvard munch"
+    },
+    {
+      "id": 7,
+      "name": "Sigrid Undset",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigrid%20Undset%201928.jpg",
+      "sitelinks": 116,
+      "birthYear": "1882",
+      "deathYear": "1949",
+      "occupation": "novelist",
+      "description": "Norwegian writer (1882–1949)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80889",
+      "answerKey": "sigrid undset"
+    },
+    {
+      "id": 8,
+      "name": "Fridtjof Nansen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fridtjof%20Nansen%20LOC%2003377u-3.jpg",
+      "sitelinks": 112,
+      "birthYear": "1861",
+      "deathYear": "1930",
+      "occupation": "scientific collector",
+      "description": "Norwegian polar explorer and diplomat; Nobel Peace Prize laureate (1861-1930)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q72292",
+      "answerKey": "fridtjof nansen"
+    },
+    {
+      "id": 9,
+      "name": "Magnus Carlsen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FIDE%20World%20FR%20Chess%20Championship%202019%20-%20Magnus%20Carlsen%20%28cropped1%29.jpg",
+      "sitelinks": 110,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "chess player",
+      "description": "Norwegian chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106807",
+      "answerKey": "magnus carlsen"
+    },
+    {
+      "id": 10,
+      "name": "Edvard Grieg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%28Edvard%20Grieg%20portrait%29%20%283470673354%29.jpg",
+      "sitelinks": 109,
+      "birthYear": "1843",
+      "deathYear": "1907",
+      "occupation": "pianist",
+      "description": "Norwegian composer and pianist (1843–1907)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80621",
+      "answerKey": "edvard grieg"
+    }
+  ]
+}

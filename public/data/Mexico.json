@@ -1,0 +1,128 @@
+{
+  "country": "Mexico",
+  "countryCode": "Q96",
+  "generated": "2025-12-14T01:33:29.960Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Frida Kahlo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg",
+      "sitelinks": 191,
+      "birthYear": "1907",
+      "deathYear": "1954",
+      "occupation": "visual artist",
+      "description": "Mexican painter (1907–1954)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5588",
+      "answerKey": "frida kahlo"
+    },
+    {
+      "id": 2,
+      "name": "Leon Trotsky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9B%D0%B5%D0%B2%20%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%20%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9.jpg",
+      "sitelinks": 178,
+      "birthYear": "1879",
+      "deathYear": "1940",
+      "occupation": "autobiographer",
+      "description": "Russian Marxist revolutionary (1879–1940)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q33391",
+      "answerKey": "leon trotsky"
+    },
+    {
+      "id": 3,
+      "name": "Octavio Paz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paz0.jpg",
+      "sitelinks": 118,
+      "birthYear": "1914",
+      "deathYear": "1998",
+      "occupation": "essayist",
+      "description": "Mexican writer, poet an diplomat (1914–1998)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46739",
+      "answerKey": "octavio paz"
+    },
+    {
+      "id": 4,
+      "name": "Lila Downs",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2012%20Lila%20Downs%20%288204932278%29.jpg",
+      "sitelinks": 114,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "description": "Mexican American singer-songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23880",
+      "answerKey": "lila downs"
+    },
+    {
+      "id": 5,
+      "name": "Salma Hayek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salma%20Hayek%2C%20Angelina%20Jolie%2C%20Demi%C3%A1n%20Bichir%20at%20the%202024%20Toronto%20International%20Film%20Festival%202%20%28cropped%29.jpg",
+      "sitelinks": 103,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "film actor",
+      "description": "Mexican and American actress (born 1966)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q125106",
+      "answerKey": "salma hayek"
+    },
+    {
+      "id": 6,
+      "name": "Emiliano Zapata",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emiliano%20Zapata4.jpg",
+      "sitelinks": 96,
+      "birthYear": "1879",
+      "deathYear": "1919",
+      "occupation": "revolutionary",
+      "description": "Mexican revolutionary (1879–1919)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41718",
+      "answerKey": "emiliano zapata"
+    },
+    {
+      "id": 7,
+      "name": "Luis Buñuel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LuisBu%C3%B1uel1929.jpg",
+      "sitelinks": 92,
+      "birthYear": "1900",
+      "deathYear": "1983",
+      "occupation": "film editor",
+      "description": "Spanish-Mexican filmmaker (1900–1983)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51545",
+      "answerKey": "luis bunuel"
+    },
+    {
+      "id": 8,
+      "name": "Andrés Manuel López Obrador",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Conferencia%20de%20prensa%20del%20Presidente%20de%20M%C3%A9xico%20-%20Mi%C3%A9rcoles%2024%20de%20junio%20de%202020%206%20%28cropped%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "political scientist",
+      "description": "Mexican politician. President of Mexico from 2018 to 2024",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318508",
+      "answerKey": "andres manuel lopez obrador"
+    },
+    {
+      "id": 9,
+      "name": "Claudia Sheinbaum",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudia%20Sheinbaum%20en%20su%20conferencia%20matutina%20%28cropped%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "environmentalist",
+      "description": "president of Mexico since 2024",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5771800",
+      "answerKey": "claudia sheinbaum"
+    },
+    {
+      "id": 10,
+      "name": "Anthony Quinn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Quinn%20around%20the%201960s.jpg",
+      "sitelinks": 84,
+      "birthYear": "1915",
+      "deathYear": "2001",
+      "occupation": "film actor",
+      "description": "Mexican and American actor (1915–2001)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83484",
+      "answerKey": "anthony quinn"
+    }
+  ]
+}

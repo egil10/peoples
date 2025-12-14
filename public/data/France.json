@@ -1,0 +1,118 @@
+{
+  "country": "France",
+  "countryCode": "Q142",
+  "generated": "2025-12-14T01:08:18.343Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 2,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "emperor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 3,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 4,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 5,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 6,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 7,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 8,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "art collector",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 9,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "militant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    },
+    {
+      "id": 10,
+      "name": "Napoleon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis%20David%20-%20The%20Emperor%20Napoleon%20in%20His%20Study%20at%20the%20Tuileries%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 282,
+      "birthYear": "1769",
+      "deathYear": "1821",
+      "occupation": "army officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q517",
+      "answerKey": "napoleon"
+    }
+  ]
+}

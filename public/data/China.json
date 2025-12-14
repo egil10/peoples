@@ -1,0 +1,128 @@
+{
+  "country": "China",
+  "countryCode": "Q148",
+  "generated": "2025-12-14T01:33:18.915Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Mao Zedong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mao%20Tse%20Tung.jpg",
+      "sitelinks": 226,
+      "birthYear": "1893",
+      "deathYear": "1976",
+      "occupation": "communist",
+      "description": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5816",
+      "answerKey": "mao zedong"
+    },
+    {
+      "id": 2,
+      "name": "Xi Jinping",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xi%20Jinping%20in%202025.jpg",
+      "sitelinks": 182,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "statesperson",
+      "description": "General Secretary of the Chinese Communist Party since 2012",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15031",
+      "answerKey": "xi jinping"
+    },
+    {
+      "id": 3,
+      "name": "Huang Xianfan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Xianfan%20Graduation%20Photo.jpg",
+      "sitelinks": 172,
+      "birthYear": "1899",
+      "deathYear": "1982",
+      "occupation": "ethnologist",
+      "description": "Chinese historian, ethnologist and educator (1899-1982)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
+      "answerKey": "huang xianfan"
+    },
+    {
+      "id": 4,
+      "name": "Huang Xianfan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Huang%20Xianfan%27s%20Graduation%20Photo.jpg",
+      "sitelinks": 172,
+      "birthYear": "1899",
+      "deathYear": "1982",
+      "occupation": "ethnologist",
+      "description": "Chinese historian, ethnologist and educator (1899-1982)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
+      "answerKey": "huang xianfan"
+    },
+    {
+      "id": 5,
+      "name": "Tenzin Gyatso",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dalai%20Lama%20in%202012.jpg",
+      "sitelinks": 164,
+      "birthYear": "1935",
+      "deathYear": null,
+      "occupation": "Buddhist monk",
+      "description": "14th Dalai Lama",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17293",
+      "answerKey": "tenzin gyatso"
+    },
+    {
+      "id": 6,
+      "name": "Jackie Chan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jackie%20Chan%20-%202025%20Locarno%20Film%20Festival.jpg",
+      "sitelinks": 160,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "taekwondo athlete",
+      "description": "Hong Kong actor and martial artist (born 1954)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q36970",
+      "answerKey": "jackie chan"
+    },
+    {
+      "id": 7,
+      "name": "Deng Xiaoping",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deng%20Xiaoping%20and%20Jimmy%20Carter%20at%20the%20arrival%20ceremony%20for%20the%20Vice%20Premier%20of%20China.%20-%20NARA%20-%20183157-restored%28cropped%29.jpg",
+      "sitelinks": 132,
+      "birthYear": "1904",
+      "deathYear": "1997",
+      "occupation": "journalist",
+      "description": "Chinese politician and paramount leader from 1978 to 1989",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16977",
+      "answerKey": "deng xiaoping"
+    },
+    {
+      "id": 8,
+      "name": "Hu Jintao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hu%20Jintao%20at%20White%20House%202011.jpg",
+      "sitelinks": 121,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "engineer",
+      "description": "former General Secretary of the Chinese Communist Party",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15029",
+      "answerKey": "hu jintao"
+    },
+    {
+      "id": 9,
+      "name": "Liu Xiaobo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Liu%20Xiaobo%20by%20Wang%20Liming%20%282017%2C%20cropped%29.jpg",
+      "sitelinks": 115,
+      "birthYear": "1955",
+      "deathYear": "2017",
+      "occupation": "literary critic",
+      "description": "Chinese literary critic, writer, professor, and human rights activist (1955–2017)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41617",
+      "answerKey": "liu xiaobo"
+    },
+    {
+      "id": 10,
+      "name": "Mo Yan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MoYan%20Hamburg%202008.jpg",
+      "sitelinks": 109,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "novelist",
+      "description": "Chinese novelist and screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8998",
+      "answerKey": "mo yan"
+    }
+  ]
+}

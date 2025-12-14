@@ -1,0 +1,50 @@
+{
+  "generated": "2025-12-14T01:33:46.730Z",
+  "countries": [
+    {
+      "name": "Norway",
+      "code": "Q20",
+      "file": "Norway.json"
+    },
+    {
+      "name": "Mexico",
+      "code": "Q96",
+      "file": "Mexico.json"
+    },
+    {
+      "name": "Brazil",
+      "code": "Q155",
+      "file": "Brazil.json"
+    },
+    {
+      "name": "China",
+      "code": "Q148",
+      "file": "China.json"
+    },
+    {
+      "name": "Slovenia",
+      "code": "Q215",
+      "file": "Slovenia.json"
+    },
+    {
+      "name": "Switzerland",
+      "code": "Q39",
+      "file": "Switzerland.json"
+    },
+    {
+      "name": "Netherlands",
+      "code": "Q55",
+      "file": "Netherlands.json"
+    },
+    {
+      "name": "Sweden",
+      "code": "Q34",
+      "file": "Sweden.json"
+    },
+    {
+      "name": "Denmark",
+      "code": "Q35",
+      "file": "Denmark.json"
+    }
+  ]
+}

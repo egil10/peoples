@@ -1,0 +1,128 @@
+{
+  "country": "Netherlands",
+  "countryCode": "Q55",
+  "generated": "2025-12-14T01:32:46.006Z",
+  "rankingMetric": "sitelinks",
+  "people": [
+    {
+      "id": 1,
+      "name": "Peter Gadiot",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Gadiot%20at%20Torino%20Comics%20%2813%20April%202024%29.jpg",
+      "sitelinks": 17,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "television actor",
+      "description": "British actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13375983",
+      "answerKey": "peter gadiot"
+    },
+    {
+      "id": 2,
+      "name": "Joseph de la Vega",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JoseDelaVega.jpg",
+      "sitelinks": 11,
+      "birthYear": "1650",
+      "deathYear": "1692",
+      "occupation": "economist",
+      "description": "Jewish Hispano-Dutch merchant, poet, and philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q533759",
+      "answerKey": "joseph de la vega"
+    },
+    {
+      "id": 3,
+      "name": "Archibald Pitcairne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PitcairnePortrait.jpg",
+      "sitelinks": 10,
+      "birthYear": "1652",
+      "deathYear": "1713",
+      "occupation": "anatomist",
+      "description": "Scottish physician and poet (1652–1713)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q633408",
+      "answerKey": "archibald pitcairne"
+    },
+    {
+      "id": 4,
+      "name": "Martin Martens",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martens%2C%20PA00123.jpg",
+      "sitelinks": 10,
+      "birthYear": "1797",
+      "deathYear": "1863",
+      "occupation": "scientific collector",
+      "description": "Belgian botanist and chemist (1797-1863)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2292953",
+      "answerKey": "martin martens"
+    },
+    {
+      "id": 5,
+      "name": "Cornelis Visscher",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zelfportret%20met%20een%20hoed%2C%20RP-T-1900-A-4482.jpg",
+      "sitelinks": 10,
+      "birthYear": "1629",
+      "deathYear": "1658",
+      "occupation": "printmaker",
+      "description": "Engraver from the Northern Netherlands (1629-1658)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q542383",
+      "answerKey": "cornelis visscher"
+    },
+    {
+      "id": 6,
+      "name": "Jan Pynas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portret%20van%20Jan%20Pynas%2C%20RP-T-1940-356.jpg",
+      "sitelinks": 10,
+      "birthYear": "1583",
+      "deathYear": "1631",
+      "occupation": "designer",
+      "description": "painter from the Northern Netherlands",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3161764",
+      "answerKey": "jan pynas"
+    },
+    {
+      "id": 7,
+      "name": "Lambert Bos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LambertusBosHendrickdeValk.jpg",
+      "sitelinks": 10,
+      "birthYear": "1670",
+      "deathYear": "1717",
+      "occupation": "linguist",
+      "description": "Dutch linguist (1670–1717)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3216628",
+      "answerKey": "lambert bos"
+    },
+    {
+      "id": 8,
+      "name": "Jan Kraeck",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kraek-felipe%20manuel-prado.jpg",
+      "sitelinks": 9,
+      "birthYear": "1540",
+      "deathYear": "1607",
+      "occupation": "painter",
+      "description": "Renaissance painter from the Northern Netherlands (1540-1607)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q611844",
+      "answerKey": "jan kraeck"
+    },
+    {
+      "id": 9,
+      "name": "Aelius Everardus Vorstius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aelius-Everhard-Vorstius%201.jpg",
+      "sitelinks": 9,
+      "birthYear": "1565",
+      "deathYear": "1624",
+      "occupation": "anatomist",
+      "description": "Dutch physician and botanist (1565-1624)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q380814",
+      "answerKey": "aelius everardus vorstius"
+    },
+    {
+      "id": 10,
+      "name": "Johannes Heurnius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Heurnius%2001.jpg",
+      "sitelinks": 9,
+      "birthYear": "1543",
+      "deathYear": "1601",
+      "occupation": "anatomist",
+      "description": "Dutch physician (1543-1601)",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1697683",
+      "answerKey": "johannes heurnius"
+    }
+  ]
+}
