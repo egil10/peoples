@@ -13,7 +13,8 @@
       "deathYear": "1938",
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5152",
-      "answerKey": "mustafa kemal ataturk"
+      "answerKey": "mustafa kemal ataturk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39259",
-      "answerKey": "recep tayyip erdogan"
+      "answerKey": "recep tayyip erdogan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q241248",
-      "answerKey": "orhan pamuk"
+      "answerKey": "orhan pamuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orhan_Pamuk"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42852",
-      "answerKey": "abdullah gul"
+      "answerKey": "abdullah gul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_G%C3%BCl"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559838",
-      "answerKey": "dani rodrik"
+      "answerKey": "dani rodrik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dani_Rodrik"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83488",
-      "answerKey": "mesut ozil"
+      "answerKey": "mesut ozil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mesut_%C3%96zil"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58198",
-      "answerKey": "ahmet davutoglu"
+      "answerKey": "ahmet davutoglu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Davuto%C4%9Flu"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1973",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183297",
-      "answerKey": "ismet inonu"
+      "answerKey": "ismet inonu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2024",
       "occupation": "opinion journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q488200",
-      "answerKey": "fethullah gulen"
+      "answerKey": "fethullah gulen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fethullah_G%C3%BClen"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1993",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180280",
-      "answerKey": "turgut ozal"
+      "answerKey": "turgut ozal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turgut_%C3%96zal"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1963",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
-      "answerKey": "nazm hikmet"
+      "answerKey": "nazm hikmet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1963",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
-      "answerKey": "nazm hikmet"
+      "answerKey": "nazm hikmet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82199",
-      "answerKey": "hande yener"
+      "answerKey": "hande yener",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hande_Yener"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82199",
-      "answerKey": "hande yener"
+      "answerKey": "hande yener",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hande_Yener"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208377",
-      "answerKey": "tansu ciller"
+      "answerKey": "tansu ciller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tansu_%C3%87iller"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1986",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151735",
-      "answerKey": "celal bayar"
+      "answerKey": "celal bayar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cel%C3%A2l_Bayar"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "molecular biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15118973",
-      "answerKey": "aziz sancar"
+      "answerKey": "aziz sancar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziz_Sancar"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1966",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159161",
-      "answerKey": "cemal gursel"
+      "answerKey": "cemal gursel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cemal_G%C3%BCrsel"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270739",
-      "answerKey": "elif safak"
+      "answerKey": "elif safak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elif_Shafak"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "marine engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q863496",
-      "answerKey": "binali yldrm"
+      "answerKey": "binali yldrm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Binali_Y%C4%B1ld%C4%B1r%C4%B1m"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165487",
-      "answerKey": "ahmet necdet sezer"
+      "answerKey": "ahmet necdet sezer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Necdet_Sezer"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2015",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216983",
-      "answerKey": "kenan evren"
+      "answerKey": "kenan evren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenan_Evren"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "bureaucrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44332",
-      "answerKey": "kemal klcdaroglu"
+      "answerKey": "kemal klcdaroglu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "Eastern Orthodox priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44501",
-      "answerKey": "patriarch bartholomew of constantinople"
+      "answerKey": "patriarch bartholomew of constantinople",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_I_of_Constantinople"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191530",
-      "answerKey": "abdullah ocalan"
+      "answerKey": "abdullah ocalan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_%C3%96calan"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q487459",
-      "answerKey": "arda turan"
+      "answerKey": "arda turan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_Turan"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q487459",
-      "answerKey": "arda turan"
+      "answerKey": "arda turan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_Turan"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2006",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192634",
-      "answerKey": "bulent ecevit"
+      "answerKey": "bulent ecevit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%BClent_Ecevit"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q485771",
-      "answerKey": "tarkan"
+      "answerKey": "tarkan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarkan_(singer)"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1987",
       "occupation": "naval officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313357",
-      "answerKey": "fahri koruturk"
+      "answerKey": "fahri koruturk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fahri_Korut%C3%BCrk"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1982",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158500",
-      "answerKey": "cevdet sunay"
+      "answerKey": "cevdet sunay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cevdet_Sunay"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "real estate developer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59313241",
-      "answerKey": "ekrem imamoglu"
+      "answerKey": "ekrem imamoglu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ekrem_%C4%B0mamo%C4%9Flu"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1961",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238745",
-      "answerKey": "adnan menderes"
+      "answerKey": "adnan menderes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adnan_Menderes"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2011",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q243550",
-      "answerKey": "necmettin erbakan"
+      "answerKey": "necmettin erbakan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necmettin_Erbakan"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27694",
-      "answerKey": "emre can"
+      "answerKey": "emre can",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emre_Can"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1944",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q203768",
-      "answerKey": "abdulmecid ii"
+      "answerKey": "abdulmecid ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abd%C3%BClmecid_II"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "nationalists",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181938",
-      "answerKey": "mehmet ali agca"
+      "answerKey": "mehmet ali agca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehmet_Ali_A%C4%9Fca"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192974",
-      "answerKey": "hakan sukur"
+      "answerKey": "hakan sukur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_%C5%9E%C3%BCk%C3%BCr"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193534",
-      "answerKey": "sertab erener"
+      "answerKey": "sertab erener",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sertab_Erener"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75857",
-      "answerKey": "nuri sahin"
+      "answerKey": "nuri sahin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuri_%C5%9Eahin"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q763465",
-      "answerKey": "hakan calhanoglu"
+      "answerKey": "hakan calhanoglu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakan_%C3%87alhano%C4%9Flu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108159340",
-      "answerKey": "arda guler"
+      "answerKey": "arda guler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270698",
-      "answerKey": "beren saat"
+      "answerKey": "beren saat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beren_Saat"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "figure skater",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315309",
-      "answerKey": "ilhan mansz"
+      "answerKey": "ilhan mansz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%B0lhan_Mans%C4%B1z"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2001",
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q459104",
-      "answerKey": "sabiha gokcen"
+      "answerKey": "sabiha gokcen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabiha_G%C3%B6k%C3%A7en"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44118",
-      "answerKey": "hamit altntop"
+      "answerKey": "hamit altntop",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamit_Alt%C4%B1ntop"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2015",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327142",
-      "answerKey": "yasar kemal"
+      "answerKey": "yasar kemal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ya%C5%9Far_Kemal"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201900",
-      "answerKey": "rustu recber"
+      "answerKey": "rustu recber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/R%C3%BC%C5%9Ft%C3%BC_Re%C3%A7ber"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298139",
-      "answerKey": "sezen aksu"
+      "answerKey": "sezen aksu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sezen_Aksu"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "author",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1395724",
-      "answerKey": "selahattin demirtas"
+      "answerKey": "selahattin demirtas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selahattin_Demirta%C5%9F"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+  "updated": "2025-12-14T22:23:40.801Z",
+  "wikipediaLinksAdded": true
 }

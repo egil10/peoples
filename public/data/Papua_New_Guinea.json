@@ -13,7 +13,8 @@
       "deathYear": "2021",
       "occupation": "radio journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316264",
-      "answerKey": "michael somare"
+      "answerKey": "michael somare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Somare"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6138903",
-      "answerKey": "james marape"
+      "answerKey": "james marape",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Marape"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57892",
-      "answerKey": "peter oneill"
+      "answerKey": "peter oneill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_O'Neill"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q950406",
-      "answerKey": "julius chan"
+      "answerKey": "julius chan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julius_Chan"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561338",
-      "answerKey": "michael ogio"
+      "answerKey": "michael ogio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Ogio"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2021",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471229",
-      "answerKey": "paulias matane"
+      "answerKey": "paulias matane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulias_Matane"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1701563",
-      "answerKey": "john ribat"
+      "answerKey": "john ribat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Ribat"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28647870",
-      "answerKey": "bob dadae"
+      "answerKey": "bob dadae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Dadae"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2020",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1381425",
-      "answerKey": "mekere morauta"
+      "answerKey": "mekere morauta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mekere_Morauta"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2006",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q719336",
-      "answerKey": "bill skate"
+      "answerKey": "bill skate",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Skate"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2003366",
-      "answerKey": "rabbie namaliu"
+      "answerKey": "rabbie namaliu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rabbie_Namaliu"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29645871",
-      "answerKey": "veronica simogun"
+      "answerKey": "veronica simogun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Veronica_Simogun"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3371201",
-      "answerKey": "toea wisil"
+      "answerKey": "toea wisil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toea_Wisil"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22278676",
-      "answerKey": "alwin komolong"
+      "answerKey": "alwin komolong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alwin_Komolong"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22278676",
-      "answerKey": "alwin komolong"
+      "answerKey": "alwin komolong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alwin_Komolong"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q935472",
-      "answerKey": "silas atopare"
+      "answerKey": "silas atopare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silas_Atopare"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16539067",
-      "answerKey": "david browne"
+      "answerKey": "david browne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Browne_(footballer)"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q641999",
-      "answerKey": "will genia"
+      "answerKey": "will genia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Genia"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58169",
-      "answerKey": "sam abal"
+      "answerKey": "sam abal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Abal"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2007264",
-      "answerKey": "paias wingti"
+      "answerKey": "paias wingti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paias_Wingti"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24197195",
-      "answerKey": "tommy semmy"
+      "answerKey": "tommy semmy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tommy_Semmy"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q438696",
-      "answerKey": "james tanis"
+      "answerKey": "james tanis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Tanis"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1312080",
-      "answerKey": "john momis"
+      "answerKey": "john momis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Momis"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35735872",
-      "answerKey": "rellie kaputin"
+      "answerKey": "rellie kaputin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rellie_Kaputin"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q50505887",
-      "answerKey": "ursula rakova"
+      "answerKey": "ursula rakova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ursula_Rakova"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99525723",
-      "answerKey": "ishmael toroama"
+      "answerKey": "ishmael toroama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ishmael_Toroama"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6808014",
-      "answerKey": "meg taylor"
+      "answerKey": "meg taylor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meg_Taylor"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7236875",
-      "answerKey": "powes parkop"
+      "answerKey": "powes parkop",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Powes_Parkop"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2018",
       "occupation": "rugby league player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24450565",
-      "answerKey": "kato ottio"
+      "answerKey": "kato ottio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kato_Ottio"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85991458",
-      "answerKey": "justin tkachenko"
+      "answerKey": "justin tkachenko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Tkatchenko"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25553147",
-      "answerKey": "sasindran muthuvel"
+      "answerKey": "sasindran muthuvel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sasindran_Muthuvel"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28966596",
-      "answerKey": "samuel basil"
+      "answerKey": "samuel basil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Basil"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107183445",
-      "answerKey": "justin wellington"
+      "answerKey": "justin wellington",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Wellington"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64747295",
-      "answerKey": "soroi eoe"
+      "answerKey": "soroi eoe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soroi_Eoe"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1239419",
-      "answerKey": "don polye"
+      "answerKey": "don polye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Polye"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2117670",
-      "answerKey": "puka temu"
+      "answerKey": "puka temu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Puka_Temu"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "rugby league player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3290247",
-      "answerKey": "marcus bai"
+      "answerKey": "marcus bai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Bai"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35498105",
-      "answerKey": "walter schnaubelt"
+      "answerKey": "walter schnaubelt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Schnaubelt"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2021",
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96130472",
-      "answerKey": "malcolm kela smith"
+      "answerKey": "malcolm kela smith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Kela_Smith"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6705658",
-      "answerKey": "luther wenge"
+      "answerKey": "luther wenge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luther_Wenge"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104832042",
-      "answerKey": "veronica somare"
+      "answerKey": "veronica somare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Veronica_Somare"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "school teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2379592",
-      "answerKey": "carol kidu"
+      "answerKey": "carol kidu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carol_Kidu"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5362021",
-      "answerKey": "theo zurenuoc"
+      "answerKey": "theo zurenuoc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo_Zurenuoc"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5959129",
-      "answerKey": "ian lingstuckey"
+      "answerKey": "ian lingstuckey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Ling-Stuckey"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7626521",
-      "answerKey": "stuart fancy"
+      "answerKey": "stuart fancy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stuart_Fancy"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16728478",
-      "answerKey": "delilah gore"
+      "answerKey": "delilah gore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delilah_Gore"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17318820",
-      "answerKey": "rimbink pato"
+      "answerKey": "rimbink pato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rimbink_Pato"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2024",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q89995729",
-      "answerKey": "jimmy uguro"
+      "answerKey": "jimmy uguro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Uguro"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64495984",
-      "answerKey": "pila kole niningi"
+      "answerKey": "pila kole niningi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pila_Niningi"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64746326",
-      "answerKey": "nick kopia kuman"
+      "answerKey": "nick kopia kuman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Kuman"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg",
+  "updated": "2025-12-14T22:20:22.532Z",
+  "wikipediaLinksAdded": true
 }

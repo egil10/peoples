@@ -13,7 +13,8 @@
       "deathYear": "1995",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q209828",
-      "answerKey": "siad barre"
+      "answerKey": "siad barre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siad_Barre"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78644",
-      "answerKey": "waris dirie"
+      "answerKey": "waris dirie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Waris_Dirie"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q256531",
-      "answerKey": "iman"
+      "answerKey": "iman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iman_(model)"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q256531",
-      "answerKey": "iman"
+      "answerKey": "iman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iman_(model)"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "academic administrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319153",
-      "answerKey": "hassan sheikh mohamud"
+      "answerKey": "hassan sheikh mohamud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Sheikh_Mohamud"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558575",
-      "answerKey": "mohamed abdullahi mohamed"
+      "answerKey": "mohamed abdullahi mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Abdullahi_Mohamed"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2007",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157197",
-      "answerKey": "aden abdullah osman daar"
+      "answerKey": "aden abdullah osman daar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aden_Adde"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270783",
-      "answerKey": "sharif sheikh ahmed"
+      "answerKey": "sharif sheikh ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharif_Sheikh_Ahmed"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215585",
-      "answerKey": "abdullahi yusuf ahmed"
+      "answerKey": "abdullahi yusuf ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullahi_Yusuf_Ahmed"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297693",
-      "answerKey": "knaan warsame"
+      "answerKey": "knaan warsame",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/K'naan"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15381644",
-      "answerKey": "barkhad abdi"
+      "answerKey": "barkhad abdi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barkhad_Abdi"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q323344",
-      "answerKey": "nuruddin farah"
+      "answerKey": "nuruddin farah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuruddin_Farah"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15733755",
-      "answerKey": "fartuun adan"
+      "answerKey": "fartuun adan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fartuun_Adan"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15733755",
-      "answerKey": "fartuun adan"
+      "answerKey": "fartuun adan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fartuun_Adan"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1996",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319160",
-      "answerKey": "mohamed farrah aidid"
+      "answerKey": "mohamed farrah aidid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Farrah_Aidid"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1543",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q335728",
-      "answerKey": "ahmad ibn ibrahim alghazi"
+      "answerKey": "ahmad ibn ibrahim alghazi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_ibn_Ibrahim_al-Ghazi"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1969",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308215",
-      "answerKey": "abdirashid ali shermarke"
+      "answerKey": "abdirashid ali shermarke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdirashid_Shermarke"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451302",
-      "answerKey": "nur hassan hussein"
+      "answerKey": "nur hassan hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nur_Hassan_Hussein"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2020",
       "occupation": "humanitarian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3595473",
-      "answerKey": "hawa abdi"
+      "answerKey": "hawa abdi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hawa_Abdi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28824125",
-      "answerKey": "hassan ali khayre"
+      "answerKey": "hassan ali khayre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Ali_Khaire"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2024",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380187",
-      "answerKey": "ahmed mohamed mohamoud"
+      "answerKey": "ahmed mohamed mohamoud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Mohamed_Mohamoud"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308151",
-      "answerKey": "abdi bile"
+      "answerKey": "abdi bile",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdi_Bile"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2839460",
-      "answerKey": "bashir abdi"
+      "answerKey": "bashir abdi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bashir_Abdi"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q732062",
-      "answerKey": "ali mahdi muhammad"
+      "answerKey": "ali mahdi muhammad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mahdi_Muhammad"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57899",
-      "answerKey": "omar abdirashid ali sharmarke"
+      "answerKey": "omar abdirashid ali sharmarke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Sharmarke"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57899",
-      "answerKey": "omar abdirashid ali sharmarke"
+      "answerKey": "omar abdirashid ali sharmarke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Sharmarke"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1920",
       "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557341",
-      "answerKey": "muhammad abdallah hasan"
+      "answerKey": "muhammad abdallah hasan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_'Abdall%C4%81h_Hassan"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1777401",
-      "answerKey": "abdiweli mohamed ali"
+      "answerKey": "abdiweli mohamed ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdiweli_Gaas"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2002",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470991",
-      "answerKey": "muhammad haji ibrahim egal"
+      "answerKey": "muhammad haji ibrahim egal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Haji_Ibrahim_Egal"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2002",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470991",
-      "answerKey": "muhammad haji ibrahim egal"
+      "answerKey": "muhammad haji ibrahim egal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Haji_Ibrahim_Egal"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99605101",
-      "answerKey": "mohamed hussein roble"
+      "answerKey": "mohamed hussein roble",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Hussein_Roble"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "psychologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17386070",
-      "answerKey": "leyla hussein"
+      "answerKey": "leyla hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leyla_Hussein"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "literary critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308454",
-      "answerKey": "abdourahman waberi"
+      "answerKey": "abdourahman waberi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdourahman_Waberi"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16728813",
-      "answerKey": "ilwad elman"
+      "answerKey": "ilwad elman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilwad_Elman"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q936054",
-      "answerKey": "liban abdi"
+      "answerKey": "liban abdi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liban_Abdi"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112598575",
-      "answerKey": "hamza abdi barre"
+      "answerKey": "hamza abdi barre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamza_Abdi_Barre"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112598575",
-      "answerKey": "hamza abdi barre"
+      "answerKey": "hamza abdi barre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamza_Abdi_Barre"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355458",
-      "answerKey": "dahir rayale kahin"
+      "answerKey": "dahir rayale kahin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dahir_Riyale_Kahin"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355468",
-      "answerKey": "ali mohammed ghedi"
+      "answerKey": "ali mohammed ghedi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mohammed_Ghedi"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308184",
-      "answerKey": "abdiqasim salad hassan"
+      "answerKey": "abdiqasim salad hassan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdiqasim_Salad_Hassan"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2024",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q646182",
-      "answerKey": "mohamed osman jawari"
+      "answerKey": "mohamed osman jawari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Osman_Jawari"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2014",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202437",
-      "answerKey": "abdirizak haji hussein"
+      "answerKey": "abdirizak haji hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdirizak_Haji_Hussein"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18204528",
-      "answerKey": "nimco ali"
+      "answerKey": "nimco ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nimco_Ali"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2744150",
-      "answerKey": "adan mohamed nuur madobe"
+      "answerKey": "adan mohamed nuur madobe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aden_Madobe"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1397035",
-      "answerKey": "ali khalif galaydh"
+      "answerKey": "ali khalif galaydh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Khalif_Galaydh"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6957739",
-      "answerKey": "nadifa mohamed"
+      "answerKey": "nadifa mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadifa_Mohamed"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q682738",
-      "answerKey": "abdi farah shirdon"
+      "answerKey": "abdi farah shirdon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdi_Farah_Shirdon"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2012",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2993432",
-      "answerKey": "mukhtar mohamed hussein"
+      "answerKey": "mukhtar mohamed hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheikh_Mukhtar_Mohamed_Hussein"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272126",
-      "answerKey": "asha haji elmi"
+      "answerKey": "asha haji elmi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asha_Haji_Elmi"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1988",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317806",
-      "answerKey": "abdullahi issa"
+      "answerKey": "abdullahi issa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullahi_Issa"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg",
+  "updated": "2025-12-14T22:22:12.611Z",
+  "wikipediaLinksAdded": true
 }

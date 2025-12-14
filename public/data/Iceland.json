@@ -13,7 +13,8 @@
       "deathYear": "2008",
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41314",
-      "answerKey": "bobby fischer"
+      "answerKey": "bobby fischer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobby_Fischer"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42455",
-      "answerKey": "bjork"
+      "answerKey": "bjork",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rk"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1998",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80321",
-      "answerKey": "halldor laxness"
+      "answerKey": "halldor laxness",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halld%C3%B3r_Laxness"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189797",
-      "answerKey": "vigdis finnbogadottir"
+      "answerKey": "vigdis finnbogadottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vigd%C3%ADs_Finnbogad%C3%B3ttir"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1241",
       "occupation": "skald",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102323",
-      "answerKey": "snorri sturluson"
+      "answerKey": "snorri sturluson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Snorri_Sturluson"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "flight attendant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57772",
-      "answerKey": "johanna sigurardottir"
+      "answerKey": "johanna sigurardottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B3hanna_Sigur%C3%B0ard%C3%B3ttir"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467464",
-      "answerKey": "katrin jakobsdottir"
+      "answerKey": "katrin jakobsdottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katr%C3%ADn_Jakobsd%C3%B3ttir"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57284",
-      "answerKey": "olafur ragnar grimsson"
+      "answerKey": "olafur ragnar grimsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%93lafur_Ragnar_Gr%C3%ADmsson"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "aerobic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529925",
-      "answerKey": "magnus scheving"
+      "answerKey": "magnus scheving",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magn%C3%BAs_Scheving"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24045706",
-      "answerKey": "guni johannesson"
+      "answerKey": "guni johannesson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gu%C3%B0ni_Th._J%C3%B3hannesson"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59105",
-      "answerKey": "gylfi sigursson"
+      "answerKey": "gylfi sigursson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gylfi_Sigur%C3%B0sson"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187396",
-      "answerKey": "eiur gujohnsen"
+      "answerKey": "eiur gujohnsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ei%C3%B0ur_Gu%C3%B0johnsen"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1952",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207206",
-      "answerKey": "sveinn bjornsson"
+      "answerKey": "sveinn bjornsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sveinn_Bj%C3%B6rnsson"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40771",
-      "answerKey": "alfre finnbogason"
+      "answerKey": "alfre finnbogason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfre%C3%B0_Finnbogason"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190957",
-      "answerKey": "johanna gurun jonsdottir"
+      "answerKey": "johanna gurun jonsdottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yohanna"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463588",
-      "answerKey": "sigmundur davi gunnlaugsson"
+      "answerKey": "sigmundur davi gunnlaugsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sigmundur_Dav%C3%AD%C3%B0_Gunnlaugsson"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "multi-instrumentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272069",
-      "answerKey": "damon albarn"
+      "answerKey": "damon albarn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Damon_Albarn"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q865680",
-      "answerKey": "birkir bjarnason"
+      "answerKey": "birkir bjarnason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Birkir_Bjarnason"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1972",
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217848",
-      "answerKey": "asgeir asgeirsson"
+      "answerKey": "asgeir asgeirsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81sgeir_%C3%81sgeirsson"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128936",
-      "answerKey": "kolbeinn sigorsson"
+      "answerKey": "kolbeinn sigorsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kolbeinn_Sig%C3%BE%C3%B3rsson"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2067320",
-      "answerKey": "hannes or halldorsson"
+      "answerKey": "hannes or halldorsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q760734",
-      "answerKey": "ragnar sigursson"
+      "answerKey": "ragnar sigursson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ragnar_Sigur%C3%B0sson"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q760734",
-      "answerKey": "ragnar sigursson"
+      "answerKey": "ragnar sigursson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ragnar_Sigur%C3%B0sson"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216979",
-      "answerKey": "hera bjork"
+      "answerKey": "hera bjork",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hera_Bj%C3%B6rk"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2015",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208879",
-      "answerKey": "halldor asgrimsson"
+      "answerKey": "halldor asgrimsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halld%C3%B3r_%C3%81sgr%C3%ADmsson"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3811755",
-      "answerKey": "jon dai bovarsson"
+      "answerKey": "jon dai bovarsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B3n_Da%C3%B0i_B%C3%B6%C3%B0varsson"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879376",
-      "answerKey": "bjarni benediktsson"
+      "answerKey": "bjarni benediktsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bjarni_Benediktsson_(born_1970)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202032",
-      "answerKey": "geir haarde"
+      "answerKey": "geir haarde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geir_Haarde"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2602888",
-      "answerKey": "birkir mar svarsson"
+      "answerKey": "birkir mar svarsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Birkir_M%C3%A1r_S%C3%A6varsson"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1982",
       "occupation": "anthropologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310396",
-      "answerKey": "kristjan eldjarn"
+      "answerKey": "kristjan eldjarn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristj%C3%A1n_Eldj%C3%A1rn"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24494577",
-      "answerKey": "halla tomasdottir"
+      "answerKey": "halla tomasdottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halla_T%C3%B3masd%C3%B3ttir"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "classical pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157785",
-      "answerKey": "vladimir ashkenazy"
+      "answerKey": "vladimir ashkenazy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Ashkenazy"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "film critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215665",
-      "answerKey": "arnaldur indriason"
+      "answerKey": "arnaldur indriason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnaldur_Indri%C3%B0ason"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q781755",
-      "answerKey": "aron gunnarsson"
+      "answerKey": "aron gunnarsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aron_Gunnarsson"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170038",
-      "answerKey": "johann berg gumundsson"
+      "answerKey": "johann berg gumundsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B3hann_Berg_Gu%C3%B0mundsson"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "cellist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433734",
-      "answerKey": "hildur gunadottir"
+      "answerKey": "hildur gunadottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hildur_Gu%C3%B0nad%C3%B3ttir"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3623650",
-      "answerKey": "arnor ingvi traustason"
+      "answerKey": "arnor ingvi traustason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arn%C3%B3r_Ingvi_Traustason"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "violinist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q291573",
-      "answerKey": "greta salome stefansdottir"
+      "answerKey": "greta salome stefansdottir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Greta_Sal%C3%B3me_Stef%C3%A1nsd%C3%B3ttir"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16235064",
-      "answerKey": "sverrir ingi ingason"
+      "answerKey": "sverrir ingi ingason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sverrir_Ingi_Ingason"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q167522",
-      "answerKey": "baltasar kormakur"
+      "answerKey": "baltasar kormakur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baltasar_Korm%C3%A1kur"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298030",
-      "answerKey": "davi oddsson"
+      "answerKey": "davi oddsson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dav%C3%AD%C3%B0_Oddsson"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232907",
-      "answerKey": "emiliana torrini"
+      "answerKey": "emiliana torrini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil%C3%ADana_Torrini"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "playwright",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362531",
-      "answerKey": "sjon"
+      "answerKey": "sjon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sj%C3%B3n"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "cellist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61973202",
-      "answerKey": "laufey"
+      "answerKey": "laufey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laufey_(singer)"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3788202",
-      "answerKey": "horur bjorgvin magnusson"
+      "answerKey": "horur bjorgvin magnusson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%B6r%C3%B0ur_Bj%C3%B6rgvin_Magn%C3%BAsson"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2718231",
-      "answerKey": "kari arnason"
+      "answerKey": "kari arnason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/K%C3%A1ri_%C3%81rnason"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "vocalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315650",
-      "answerKey": "jonsi"
+      "answerKey": "jonsi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B3nsi"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2861144",
-      "answerKey": "ari freyr skulason"
+      "answerKey": "ari freyr skulason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ari_Freyr_Sk%C3%BAlason"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1007",
       "occupation": "explorer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q137732",
-      "answerKey": "thorfinn karlsefni"
+      "answerKey": "thorfinn karlsefni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thorfinn_Karlsefni"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2715111",
-      "answerKey": "emil hallfresson"
+      "answerKey": "emil hallfresson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Hallfre%C3%B0sson"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg",
+  "updated": "2025-12-14T22:15:44.520Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1463",
-      "answerKey": "ferdinand marcos"
+      "answerKey": "ferdinand marcos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_Marcos"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457786",
-      "answerKey": "rodrigo duterte"
+      "answerKey": "rodrigo duterte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Duterte"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2009",
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1480",
-      "answerKey": "corazon aquino"
+      "answerKey": "corazon aquino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corazon_Aquino"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "fashion designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q285536",
-      "answerKey": "imelda marcos"
+      "answerKey": "imelda marcos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelda_Marcos"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123665",
-      "answerKey": "gloria macapagal arroyo"
+      "answerKey": "gloria macapagal arroyo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloria_Macapagal_Arroyo"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2021",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1464",
-      "answerKey": "benigno aquino iii"
+      "answerKey": "benigno aquino iii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benigno_Aquino_III"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6761526",
-      "answerKey": "maria ressa"
+      "answerKey": "maria ressa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Ressa"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q486359",
-      "answerKey": "manny pacquiao"
+      "answerKey": "manny pacquiao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manny_Pacquiao"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2022",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215351",
-      "answerKey": "fidel ramos"
+      "answerKey": "fidel ramos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fidel_V._Ramos"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1964",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188939",
-      "answerKey": "emilio aguinaldo"
+      "answerKey": "emilio aguinaldo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilio_Aguinaldo"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983324",
-      "answerKey": "bongbong marcos"
+      "answerKey": "bongbong marcos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bongbong_Marcos"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212733",
-      "answerKey": "joseph estrada"
+      "answerKey": "joseph estrada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Estrada"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1944",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1503",
-      "answerKey": "manuel l quezon"
+      "answerKey": "manuel l quezon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_L._Quezon"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26901",
-      "answerKey": "luis antonio tagle"
+      "answerKey": "luis antonio tagle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Antonio_Tagle"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1957",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117096",
-      "answerKey": "ramon magsaysay"
+      "answerKey": "ramon magsaysay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramon_Magsaysay"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1983",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q222805",
-      "answerKey": "ninoy aquino"
+      "answerKey": "ninoy aquino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1997",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312539",
-      "answerKey": "diosdado macapagal"
+      "answerKey": "diosdado macapagal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diosdado_Macapagal"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1948",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q223419",
-      "answerKey": "manuel roxas"
+      "answerKey": "manuel roxas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Roxas"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1964",
       "occupation": "requeté soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q277365",
-      "answerKey": "paulino alcantara"
+      "answerKey": "paulino alcantara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulino_Alc%C3%A1ntara"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464357",
-      "answerKey": "jake zyrus"
+      "answerKey": "jake zyrus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jake_Zyrus"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1961",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319950",
-      "answerKey": "sergio osmena"
+      "answerKey": "sergio osmena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_Osme%C3%B1a"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1897",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313604",
-      "answerKey": "andres bonifacio"
+      "answerKey": "andres bonifacio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Bonifacio"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294144",
-      "answerKey": "lea salonga"
+      "answerKey": "lea salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lea_Salonga"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1956",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319943",
-      "answerKey": "elpidio quirino"
+      "answerKey": "elpidio quirino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elpidio_Quirino"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1959",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360113",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jose_P._Laurel"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q293590",
-      "answerKey": "apldeap"
+      "answerKey": "apldeap",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apl.de.ap"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q293590",
-      "answerKey": "apldeap"
+      "answerKey": "apldeap",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apl.de.ap"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1896",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312542",
-      "answerKey": "marcelo h del pilar"
+      "answerKey": "marcelo h del pilar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_H._del_Pilar"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1844358",
-      "answerKey": "hidilyn diaz"
+      "answerKey": "hidilyn diaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hidilyn_Diaz"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1971",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319939",
-      "answerKey": "carlos p garcia"
+      "answerKey": "carlos p garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_P._Garcia"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q147495",
-      "answerKey": "wesley so"
+      "answerKey": "wesley so",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wesley_So"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1903",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318481",
-      "answerKey": "apolinario mabini"
+      "answerKey": "apolinario mabini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apolinario_Mabini"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319725",
-      "answerKey": "lou diamond phillips"
+      "answerKey": "lou diamond phillips",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lou_Diamond_Phillips"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19405355",
-      "answerKey": "pia wurtzbach"
+      "answerKey": "pia wurtzbach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pia_Wurtzbach"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19405355",
-      "answerKey": "pia wurtzbach"
+      "answerKey": "pia wurtzbach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pia_Wurtzbach"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27107016",
-      "answerKey": "catriona gray"
+      "answerKey": "catriona gray",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Catriona_Gray"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "television presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q446854",
-      "answerKey": "regine velasquez"
+      "answerKey": "regine velasquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Regine_Velasquez"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q700468",
-      "answerKey": "vincent bueno"
+      "answerKey": "vincent bueno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Bueno"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240008",
-      "answerKey": "phil younghusband"
+      "answerKey": "phil younghusband",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phil_Younghusband"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2005",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202108",
-      "answerKey": "jaime sin"
+      "answerKey": "jaime sin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Sin"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1491004",
-      "answerKey": "sara duterte"
+      "answerKey": "sara duterte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sara_Duterte"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1341761",
-      "answerKey": "reggie lee"
+      "answerKey": "reggie lee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reggie_Lee_(actor)"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q534584",
-      "answerKey": "orlando beltran quevedo"
+      "answerKey": "orlando beltran quevedo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orlando_Quevedo"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11034228",
-      "answerKey": "megan young"
+      "answerKey": "megan young",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Megan_Young"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2017",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q532830",
-      "answerKey": "ricardo vidal"
+      "answerKey": "ricardo vidal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Vidal"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467514",
-      "answerKey": "gaudencio rosales"
+      "answerKey": "gaudencio rosales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaudencio_Rosales"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "artistic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58008944",
-      "answerKey": "carlos yulo"
+      "answerKey": "carlos yulo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Yulo"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6761357",
-      "answerKey": "leni robredo"
+      "answerKey": "leni robredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leni_Robredo"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6761357",
-      "answerKey": "leni robredo"
+      "answerKey": "leni robredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leni_Robredo"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6761357",
-      "answerKey": "leni robredo"
+      "answerKey": "leni robredo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leni_Robredo"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+  "updated": "2025-12-14T22:20:37.188Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57464",
-      "answerKey": "abdullah ii of jordan"
+      "answerKey": "abdullah ii of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1999",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q146906",
-      "answerKey": "hussein i of jordan"
+      "answerKey": "hussein i of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussein_of_Jordan"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "queen consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200678",
-      "answerKey": "queen rania of jordan"
+      "answerKey": "queen rania of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Queen_Rania_of_Jordan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1951",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192780",
-      "answerKey": "abdullah i of jordan"
+      "answerKey": "abdullah i of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_I_of_Jordan"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181049",
-      "answerKey": "abu musab alzarqawi"
+      "answerKey": "abu musab alzarqawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abu_Musab_al-Zarqawi"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46930",
-      "answerKey": "khaled mashal"
+      "answerKey": "khaled mashal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khaled_Mashal"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1972",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294365",
-      "answerKey": "talal i of jordan"
+      "answerKey": "talal i of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Talal_of_Jordan"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240575",
-      "answerKey": "queen noor of jordan"
+      "answerKey": "queen noor of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Queen_Noor_of_Jordan"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q743252",
-      "answerKey": "omar m yaghi"
+      "answerKey": "omar m yaghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_M._Yaghi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "groom",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297112",
-      "answerKey": "sirhan sirhan"
+      "answerKey": "sirhan sirhan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirhan_Sirhan"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "crown prince",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981927",
-      "answerKey": "hussein bin abdullah crown prince of jordan"
+      "answerKey": "hussein bin abdullah crown prince of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussein%2C_Crown_Prince_of_Jordan"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63441935",
-      "answerKey": "bisher alkhasawneh"
+      "answerKey": "bisher alkhasawneh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bisher_Khasawneh"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "show jumper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272117",
-      "answerKey": "princess haya bint alhussein of jordan"
+      "answerKey": "princess haya bint alhussein of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Haya_bint_Hussein"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2024",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20049447",
-      "answerKey": "saleh alarouri"
+      "answerKey": "saleh alarouri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_al-Arouri"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2024",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20049447",
-      "answerKey": "saleh alarouri"
+      "answerKey": "saleh alarouri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_al-Arouri"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2023",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299743",
-      "answerKey": "marouf albakhit"
+      "answerKey": "marouf albakhit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marouf_al-Bakhit"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13415154",
-      "answerKey": "rami hamdallah"
+      "answerKey": "rami hamdallah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rami_Hamdallah"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1977",
       "occupation": "royal consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q269437",
-      "answerKey": "queen alia of jordan"
+      "answerKey": "queen alia of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alia_Toukan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "molecular biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20415099",
-      "answerKey": "rana dajani"
+      "answerKey": "rana dajani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rana_Dajani"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1999",
       "occupation": "muhaddith",
       "wikidataUrl": "http://www.wikidata.org/entity/Q560078",
-      "answerKey": "alalbani"
+      "answerKey": "alalbani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Albani"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q378833",
-      "answerKey": "ahmed qurei"
+      "answerKey": "ahmed qurei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Qurei"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2012",
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q268615",
-      "answerKey": "warda el djazairia"
+      "answerKey": "warda el djazairia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warda_Al-Jazairia"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2012",
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q268615",
-      "answerKey": "warda el djazairia"
+      "answerKey": "warda el djazairia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warda_Al-Jazairia"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2012",
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q268615",
-      "answerKey": "warda el djazairia"
+      "answerKey": "warda el djazairia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Warda_Al-Jazairia"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124679",
-      "answerKey": "fouad twal"
+      "answerKey": "fouad twal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fouad_Twal"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29512679",
-      "answerKey": "omar razzaz"
+      "answerKey": "omar razzaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Razzaz"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34426",
-      "answerKey": "abdullah ensour"
+      "answerKey": "abdullah ensour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Ensour"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26356815",
-      "answerKey": "ahmad abughaush"
+      "answerKey": "ahmad abughaush",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Abughaush"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "field hockey player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q269898",
-      "answerKey": "princess muna alhussein"
+      "answerKey": "princess muna alhussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Muna_Al_Hussein"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441349",
-      "answerKey": "awn shawkat alkhasawneh"
+      "answerKey": "awn shawkat alkhasawneh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Awn_Al-Khasawneh"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "functionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q524703",
-      "answerKey": "prince ali bin alhussein of jordan"
+      "answerKey": "prince ali bin alhussein of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Ali_bin_Hussein"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1994",
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4116074",
-      "answerKey": "zein alsharaf talal"
+      "answerKey": "zein alsharaf talal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zein_al-Sharaf_bint_Jamil"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1991",
       "occupation": "collagist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3064473",
-      "answerKey": "princess fahrelnissa zeid"
+      "answerKey": "princess fahrelnissa zeid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Fahrelnissa_Zeid"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1980",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q977935",
-      "answerKey": "ahmad shukeiri"
+      "answerKey": "ahmad shukeiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Shukeiri"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1087876",
-      "answerKey": "amer shafia"
+      "answerKey": "amer shafia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amer_Shafi"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2021",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q512535",
-      "answerKey": "fayez altarawneh"
+      "answerKey": "fayez altarawneh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fayez_Tarawneh"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2663816",
-      "answerKey": "abdelsalam almajali"
+      "answerKey": "abdelsalam almajali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdelsalam_Majali"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17306022",
-      "answerKey": "rondae hollisjefferson"
+      "answerKey": "rondae hollisjefferson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rondae_Hollis-Jefferson"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362289",
-      "answerKey": "nader aldahabi"
+      "answerKey": "nader aldahabi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nader_Al-Dahabi"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2019",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2914726",
-      "answerKey": "princess dina bint abdulhamid hashem"
+      "answerKey": "princess dina bint abdulhamid hashem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dina_bint_Abdul-Hamid"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q1532902",
-      "answerKey": "hamzah bin alhussein"
+      "answerKey": "hamzah bin alhussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamzah_bin_Hussein"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5648173",
-      "answerKey": "hani almulki"
+      "answerKey": "hani almulki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hani_Mulki"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "terrorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q335246",
-      "answerKey": "abu qatada"
+      "answerKey": "abu qatada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abu_Qatada_al-Filistini"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q13574439",
-      "answerKey": "princess iman bint abdullah of jordan"
+      "answerKey": "princess iman bint abdullah of jordan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Iman_bint_Abdullah"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2016",
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6880732",
-      "answerKey": "nahed hattar"
+      "answerKey": "nahed hattar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nahed_Hattar"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1971",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1033917",
-      "answerKey": "wasfi tal"
+      "answerKey": "wasfi tal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1971",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1033917",
-      "answerKey": "wasfi tal"
+      "answerKey": "wasfi tal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467852",
-      "answerKey": "samir rifai"
+      "answerKey": "samir rifai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samir_Rifai"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7244308",
-      "answerKey": "prince zeid bin raad"
+      "answerKey": "prince zeid bin raad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeid_bin_Ra'ad"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106173172",
-      "answerKey": "yazan alnaimat"
+      "answerKey": "yazan alnaimat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yazan_Al-Naimat"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg",
+  "updated": "2025-12-14T22:16:41.372Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41488",
-      "answerKey": "wole soyinka"
+      "answerKey": "wole soyinka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wole_Soyinka"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2013",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155845",
-      "answerKey": "chinua achebe"
+      "answerKey": "chinua achebe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinua_Achebe"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2025",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361567",
-      "answerKey": "muhammadu buhari"
+      "answerKey": "muhammadu buhari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammadu_Buhari"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230141",
-      "answerKey": "chimamanda ngozi adichie"
+      "answerKey": "chimamanda ngozi adichie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chimamanda_Ngozi_Adichie"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57380",
-      "answerKey": "goodluck jonathan"
+      "answerKey": "goodluck jonathan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goodluck_Jonathan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2010",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104705",
-      "answerKey": "umaru musa yaradua"
+      "answerKey": "umaru musa yaradua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umaru_Musa_Yar'Adua"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202006",
-      "answerKey": "olusegun obasanjo"
+      "answerKey": "olusegun obasanjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olusegun_Obasanjo"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166984",
-      "answerKey": "mikel john obi"
+      "answerKey": "mikel john obi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikel_John_Obi"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "bank manager",
       "wikidataUrl": "http://www.wikidata.org/entity/Q289350",
-      "answerKey": "ngozi okonjoiweala"
+      "answerKey": "ngozi okonjoiweala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ngozi_Okonjo-Iweala"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317343",
-      "answerKey": "chiwetel ejiofor"
+      "answerKey": "chiwetel ejiofor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chiwetel_Ejiofor"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8991894",
-      "answerKey": "giannis antetokounmpo"
+      "answerKey": "giannis antetokounmpo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273256",
-      "answerKey": "hakeem olajuwon"
+      "answerKey": "hakeem olajuwon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakeem_Olajuwon"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25253293",
-      "answerKey": "victor osimhen"
+      "answerKey": "victor osimhen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Osimhen"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1998",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207942",
-      "answerKey": "sani abacha"
+      "answerKey": "sani abacha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sani_Abacha"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "President of Nigeria",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3510872",
-      "answerKey": "bola ahmed tinubu"
+      "answerKey": "bola ahmed tinubu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bola_Tinubu"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q401418",
-      "answerKey": "ahmed musa"
+      "answerKey": "ahmed musa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Musa"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q401418",
-      "answerKey": "ahmed musa"
+      "answerKey": "ahmed musa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Musa"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1699385",
-      "answerKey": "john boyega"
+      "answerKey": "john boyega",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Boyega"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295637",
-      "answerKey": "victor moses"
+      "answerKey": "victor moses",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Moses"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q599675",
-      "answerKey": "nwankwo kanu"
+      "answerKey": "nwankwo kanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nwankwo_Kanu"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181782",
-      "answerKey": "nnamdi azikiwe"
+      "answerKey": "nnamdi azikiwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nnamdi_Azikiwe"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181782",
-      "answerKey": "nnamdi azikiwe"
+      "answerKey": "nnamdi azikiwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nnamdi_Azikiwe"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207548",
-      "answerKey": "obafemi martins"
+      "answerKey": "obafemi martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Obafemi_Martins"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294586",
-      "answerKey": "adewale akinnuoyeagbaje"
+      "answerKey": "adewale akinnuoyeagbaje",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adewale_Akinnuoye-Agbaje"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202410",
-      "answerKey": "yakubu aiyegbeni"
+      "answerKey": "yakubu aiyegbeni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yakubu_(footballer)"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1997",
       "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313868",
-      "answerKey": "fela kuti"
+      "answerKey": "fela kuti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fela_Kuti"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21091691",
-      "answerKey": "alex iwobi"
+      "answerKey": "alex iwobi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Iwobi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21091691",
-      "answerKey": "alex iwobi"
+      "answerKey": "alex iwobi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Iwobi"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q605817",
-      "answerKey": "jayjay okocha"
+      "answerKey": "jayjay okocha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jay-Jay_Okocha"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311329",
-      "answerKey": "peter odemwingie"
+      "answerKey": "peter odemwingie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Odemwingie"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311329",
-      "answerKey": "peter odemwingie"
+      "answerKey": "peter odemwingie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Odemwingie"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21484766",
-      "answerKey": "ademola lookman"
+      "answerKey": "ademola lookman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ademola_Lookman"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q147896",
-      "answerKey": "joseph yobo"
+      "answerKey": "joseph yobo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Yobo"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15506789",
-      "answerKey": "kelechi iheanacho"
+      "answerKey": "kelechi iheanacho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelechi_Iheanacho"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19938984",
-      "answerKey": "manuel akanji"
+      "answerKey": "manuel akanji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Akanji"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1995",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316292",
-      "answerKey": "ken sarowiwa"
+      "answerKey": "ken sarowiwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ken_Saro-Wiwa"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315362",
-      "answerKey": "ben okri"
+      "answerKey": "ben okri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben_Okri"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208422",
-      "answerKey": "taye taiwo"
+      "answerKey": "taye taiwo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taye_Taiwo"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2017",
       "occupation": "children's writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q461675",
-      "answerKey": "buchi emecheta"
+      "answerKey": "buchi emecheta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Buchi_Emecheta"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463902",
-      "answerKey": "genevieve nnaji"
+      "answerKey": "genevieve nnaji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Genevieve_Nnaji"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q218800",
-      "answerKey": "david oyelowo"
+      "answerKey": "david oyelowo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Oyelowo"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q926378",
-      "answerKey": "peter utaka"
+      "answerKey": "peter utaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Utaka"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17305712",
-      "answerKey": "burna boy"
+      "answerKey": "burna boy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burna_Boy"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311990",
-      "answerKey": "victor anichebe"
+      "answerKey": "victor anichebe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Anichebe"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333415",
-      "answerKey": "ibrahim babangida"
+      "answerKey": "ibrahim babangida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Babangida"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15884045",
-      "answerKey": "william troostekong"
+      "answerKey": "william troostekong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Troost-Ekong"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16235544",
-      "answerKey": "ksi"
+      "answerKey": "ksi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/KSI"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q147172",
-      "answerKey": "vincent enyeama"
+      "answerKey": "vincent enyeama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Enyeama"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1394965",
-      "answerKey": "aliko dangote"
+      "answerKey": "aliko dangote",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aliko_Dangote"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313366",
-      "answerKey": "dr alban"
+      "answerKey": "dr alban",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dr._Alban"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg",
+  "updated": "2025-12-14T22:19:45.167Z",
+  "wikipediaLinksAdded": true
 }

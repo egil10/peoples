@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "archer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57723",
-      "answerKey": "tuilaepa sailele malielegaoi"
+      "answerKey": "tuilaepa sailele malielegaoi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuila%CA%BBepa_Sa%CA%BBilele_Malielegaoi"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5446290",
-      "answerKey": "fiame naomi mataafa"
+      "answerKey": "fiame naomi mataafa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiam%C4%93_Naomi_Mata%CA%BBafa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317378",
-      "answerKey": "malietoa tanumafili ii"
+      "answerKey": "malietoa tanumafili ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malietoa_Tanumafili_II"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57523",
-      "answerKey": "tufuga efi"
+      "answerKey": "tufuga efi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tui_%C4%80tua_Tupua_Tamasese_Efi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32014514",
-      "answerKey": "vaaletoa sualauvi ii"
+      "answerKey": "vaaletoa sualauvi ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuimaleali%CA%BBifano_Va%CA%BBaleto%CA%BBa_Sualauvi_II"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q708558",
-      "answerKey": "david tua"
+      "answerKey": "david tua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Tua"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23879973",
-      "answerKey": "frankie adams"
+      "answerKey": "frankie adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frankie_Adams"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20020775",
-      "answerKey": "alex rose"
+      "answerKey": "alex rose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Rose_(athlete)"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1963",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887243",
-      "answerKey": "tupua tamasese meaole"
+      "answerKey": "tupua tamasese meaole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tupua_Tamasese_Mea%CA%BBole"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1235864",
-      "answerKey": "albert wendt"
+      "answerKey": "albert wendt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Wendt"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q72185",
-      "answerKey": "manu tuilagi"
+      "answerKey": "manu tuilagi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manu_Tuilagi"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1281047",
-      "answerKey": "fiame mataafa faumuina mulinuu ii"
+      "answerKey": "fiame mataafa faumuina mulinuu ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiam%C4%93_Mata%CA%BBafa_Faumuina_Mulinu%CA%BBu_II"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2296866",
-      "answerKey": "alesana tuilagi"
+      "answerKey": "alesana tuilagi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alesana_Tuilagi"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11724253",
-      "answerKey": "jeremy dodson"
+      "answerKey": "jeremy dodson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeremy_Dodson"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1999",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1281027",
-      "answerKey": "tofilau eti alesana"
+      "answerKey": "tofilau eti alesana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tofilau_Eti_Alesana"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1125154",
-      "answerKey": "mils muliaina"
+      "answerKey": "mils muliaina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mils_Muliaina"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16734600",
-      "answerKey": "laauli leuatea schmidt"
+      "answerKey": "laauli leuatea schmidt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La%CA%BBauli_Leuatea_Schmidt"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1939",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3024732",
-      "answerKey": "malietoa tanumafili i"
+      "answerKey": "malietoa tanumafili i",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malietoa_Tanumafili_I"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1983",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1255575",
-      "answerKey": "tupua tamasese lealofi iv"
+      "answerKey": "tupua tamasese lealofi iv",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tupua_Tamasese_Lealofi_IV"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q723836",
-      "answerKey": "isaia toeava"
+      "answerKey": "isaia toeava",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaia_Toeava"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26704921",
-      "answerKey": "brandon schuster"
+      "answerKey": "brandon schuster",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandon_Schuster"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2022",
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3553044",
-      "answerKey": "vaaiga tuigamala"
+      "answerKey": "vaaiga tuigamala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Va'aiga_Tuigamala"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2371608",
-      "answerKey": "tusi pisi"
+      "answerKey": "tusi pisi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tusi_Pisi"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1913",
       "occupation": "plantation owner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1338025",
-      "answerKey": "emma forsayth"
+      "answerKey": "emma forsayth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Forsayth"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1912",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1340618",
-      "answerKey": "mataafa iosefo"
+      "answerKey": "mataafa iosefo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mata%CA%BBafa_Iosefo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q609538",
-      "answerKey": "chris masoe"
+      "answerKey": "chris masoe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Masoe"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q969868",
-      "answerKey": "misa telefoni retzlaff"
+      "answerKey": "misa telefoni retzlaff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Misa_Telefoni_Retzlaff"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1538566",
-      "answerKey": "tuiloma neroni slade"
+      "answerKey": "tuiloma neroni slade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tuiloma_Neroni_Slade"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11768652",
-      "answerKey": "margaret satupai"
+      "answerKey": "margaret satupai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Satupai"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4965746",
-      "answerKey": "brianna fruean"
+      "answerKey": "brianna fruean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brianna_Fruean"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1898",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2893054",
-      "answerKey": "malietoa laupepa"
+      "answerKey": "malietoa laupepa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malietoa_Laupepa"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2007",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16017839",
-      "answerKey": "laulu fetauimalemau mataafa"
+      "answerKey": "laulu fetauimalemau mataafa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La%CA%BBulu_Fetauimalemau_Mata%CA%BBafa"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1894",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16527037",
-      "answerKey": "albert steinberger"
+      "answerKey": "albert steinberger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Barnes_Steinberger"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1217640",
-      "answerKey": "sia figiel"
+      "answerKey": "sia figiel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sia_Figiel"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3154134",
-      "answerKey": "joe tekori"
+      "answerKey": "joe tekori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Tekori"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3018291",
-      "answerKey": "david lemi"
+      "answerKey": "david lemi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Lemi"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "ship captain",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58915099",
-      "answerKey": "fealofani bruun"
+      "answerKey": "fealofani bruun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fealofani_Bruun"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7079738",
-      "answerKey": "ofisa treviranus"
+      "answerKey": "ofisa treviranus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ofisa_Treviranus"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7319417",
-      "answerKey": "rey leelo"
+      "answerKey": "rey leelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rey_Lee-Lo"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3477909",
-      "answerKey": "seilala mapusua"
+      "answerKey": "seilala mapusua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seilala_Mapusua"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98076921",
-      "answerKey": "yanni wetzell"
+      "answerKey": "yanni wetzell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yanni_Wetzell"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5504964",
-      "answerKey": "fritz lee"
+      "answerKey": "fritz lee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Lee"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "choreographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6521147",
-      "answerKey": "lemi ponifasio"
+      "answerKey": "lemi ponifasio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lemi_Ponifasio"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80607",
-      "answerKey": "george pisi"
+      "answerKey": "george pisi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Pisi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3301636",
-      "answerKey": "maurie faasavalu"
+      "answerKey": "maurie faasavalu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurie_Fa'asavalu"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18637850",
-      "answerKey": "duncan paiaaua"
+      "answerKey": "duncan paiaaua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duncan_Paia'aua"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3313449",
-      "answerKey": "michael mika"
+      "answerKey": "michael mika",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Mika"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3478461",
-      "answerKey": "semo sititi"
+      "answerKey": "semo sititi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Semo_Sititi"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5239883",
-      "answerKey": "david smith"
+      "answerKey": "david smith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Smith_(rugby_union%2C_born_1986)"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1944",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6005106",
-      "answerKey": "olaf frederick nelson"
+      "answerKey": "olaf frederick nelson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olaf_Frederick_Nelson"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg",
+  "updated": "2025-12-14T22:21:26.773Z",
+  "wikipediaLinksAdded": true
 }

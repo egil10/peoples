@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57454",
-      "answerKey": "hansadam ii prince of liechtenstein"
+      "answerKey": "hansadam ii prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans-Adam_II%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30293",
-      "answerKey": "lara gutbehrami"
+      "answerKey": "lara gutbehrami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lara_Gut-Behrami"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "regent",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311308",
-      "answerKey": "alois hereditary prince of liechtenstein"
+      "answerKey": "alois hereditary prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alois%2C_Hereditary_Prince_of_Liechtenstein"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1989",
       "occupation": "forestry scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165674",
-      "answerKey": "franz joseph ii prince of liechtenstein"
+      "answerKey": "franz joseph ii prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Joseph_II%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57778",
-      "answerKey": "klaus tschutscher"
+      "answerKey": "klaus tschutscher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Klaus_Tsch%C3%BCtscher"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q373092",
-      "answerKey": "adrian hasler"
+      "answerKey": "adrian hasler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Hasler"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1938",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455890",
-      "answerKey": "franz i prince of liechtenstein"
+      "answerKey": "franz i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78622",
-      "answerKey": "tina weirather"
+      "answerKey": "tina weirather",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tina_Weirather"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315787",
-      "answerKey": "mario frick"
+      "answerKey": "mario frick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Frick_(footballer)"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1858",
       "occupation": "patron of the arts",
       "wikidataUrl": "http://www.wikidata.org/entity/Q506521",
-      "answerKey": "prince alois ii prince of liechtenstein"
+      "answerKey": "prince alois ii prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aloys_II%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30882650",
-      "answerKey": "daniel risch"
+      "answerKey": "daniel risch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Risch"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1805",
       "occupation": "patron of the arts",
       "wikidataUrl": "http://www.wikidata.org/entity/Q452200",
-      "answerKey": "aloys i prince of liechtenstein"
+      "answerKey": "aloys i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aloys_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1772",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q506600",
-      "answerKey": "joseph wenzel i prince of liechtenstein"
+      "answerKey": "joseph wenzel i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Wenzel_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129676165",
-      "answerKey": "brigitte haas"
+      "answerKey": "brigitte haas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Haas"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q673472",
-      "answerKey": "sophie hereditary princess of liechtenstein"
+      "answerKey": "sophie hereditary princess of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sophie%2C_Hereditary_Princess_of_Liechtenstein"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1781",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q452240",
-      "answerKey": "franz joseph i of liechtenstein"
+      "answerKey": "franz joseph i of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Joseph_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1712",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q581481",
-      "answerKey": "hansadam i prince of liechtenstein"
+      "answerKey": "hansadam i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans-Adam_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1712",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q581481",
-      "answerKey": "hansadam i prince of liechtenstein"
+      "answerKey": "hansadam i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hans-Adam_I%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238670",
-      "answerKey": "otmar hasler"
+      "answerKey": "otmar hasler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otmar_Hasler"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2720501",
-      "answerKey": "prince joseph wenzel of liechtenstein"
+      "answerKey": "prince joseph wenzel of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Joseph_Wenzel_of_Liechtenstein"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "track cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5158929",
-      "answerKey": "stefan kung"
+      "answerKey": "stefan kung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefan_K%C3%BCng"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1901",
       "occupation": "musicologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365555",
-      "answerKey": "josef rheinberger"
+      "answerKey": "josef rheinberger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Rheinberger"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q368452",
-      "answerKey": "wolfgang haas"
+      "answerKey": "wolfgang haas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wolfgang_Haas"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1748",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q702668",
-      "answerKey": "prince johann nepomuk karl i prince of liechtenstein"
+      "answerKey": "prince johann nepomuk karl i prince of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Nepomuk_Karl%2C_Prince_of_Liechtenstein"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1955",
       "occupation": "patron of the arts",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78567",
-      "answerKey": "prince aloys of liechtenstein"
+      "answerKey": "prince aloys of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Alois_of_Liechtenstein_(1869%E2%80%931955)"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1989",
       "occupation": "charity worker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q255679",
-      "answerKey": "countess georgina von wilczek"
+      "answerKey": "countess georgina von wilczek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gina%2C_Princess_of_Liechtenstein"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171562",
-      "answerKey": "rikky von opel"
+      "answerKey": "rikky von opel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rikky_von_Opel"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171562",
-      "answerKey": "rikky von opel"
+      "answerKey": "rikky von opel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rikky_von_Opel"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41708",
-      "answerKey": "andreas wenzel"
+      "answerKey": "andreas wenzel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Wenzel"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455911",
-      "answerKey": "peter jehle"
+      "answerKey": "peter jehle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Jehle"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q453463",
-      "answerKey": "princess nora marchioness of marino"
+      "answerKey": "princess nora marchioness of marino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Nora_of_Liechtenstein"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q687813",
-      "answerKey": "sandro wieser"
+      "answerKey": "sandro wieser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandro_Wieser"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q715517",
-      "answerKey": "michele polverino"
+      "answerKey": "michele polverino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michele_Polverino"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q676450",
-      "answerKey": "prince nikolaus of liechtenstein"
+      "answerKey": "prince nikolaus of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Nikolaus_of_Liechtenstein"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3544918",
-      "answerKey": "nicolas hasler"
+      "answerKey": "nicolas hasler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Hasler"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271158",
-      "answerKey": "stephanie vogt"
+      "answerKey": "stephanie vogt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephanie_Vogt"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q877624",
-      "answerKey": "prince maximilian of liechtenstein"
+      "answerKey": "prince maximilian of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Maximilian_of_Liechtenstein"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q949143",
-      "answerKey": "franz burgmeier"
+      "answerKey": "franz burgmeier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Burgmeier"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q543453",
-      "answerKey": "mario frick"
+      "answerKey": "mario frick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Frick_(politician)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113007",
-      "answerKey": "hubertus von hohenlohe"
+      "answerKey": "hubertus von hohenlohe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hubertus_von_Hohenlohe"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2023",
       "occupation": "chairperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5428603",
-      "answerKey": "prince constantin of liechtenstein"
+      "answerKey": "prince constantin of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Constantin_of_Liechtenstein"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1881",
       "occupation": "regent",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433689",
-      "answerKey": "countess franziska kinsky of wchinitz and tettau"
+      "answerKey": "countess franziska kinsky of wchinitz and tettau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Countess_Franziska_Kinsky_of_Wchinitz_and_Tettau"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1931",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q443523",
-      "answerKey": "princess henriette of liechtenstein"
+      "answerKey": "princess henriette of liechtenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Henriette_of_Liechtenstein"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q548381",
-      "answerKey": "marco buchel"
+      "answerKey": "marco buchel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_B%C3%BCchel"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1342667",
-      "answerKey": "martin stocklasa"
+      "answerKey": "martin stocklasa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Stocklasa"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1603525",
-      "answerKey": "martin buchel"
+      "answerKey": "martin buchel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_B%C3%BCchel"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58147",
-      "answerKey": "aurelia frick"
+      "answerKey": "aurelia frick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aurelia_Frick"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1892965",
-      "answerKey": "marcel buchel"
+      "answerKey": "marcel buchel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcel_B%C3%BCchel"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2008",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q268968",
-      "answerKey": "gerard batliner"
+      "answerKey": "gerard batliner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerard_Batliner"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2014",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q717704",
-      "answerKey": "walter kieber"
+      "answerKey": "walter kieber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Kieber"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg",
+  "updated": "2025-12-14T22:17:33.276Z",
+  "wikipediaLinksAdded": true
 }

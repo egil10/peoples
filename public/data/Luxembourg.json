@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57661",
-      "answerKey": "jeanclaude juncker"
+      "answerKey": "jeanclaude juncker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Juncker"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1921",
       "occupation": "inventor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133232",
-      "answerKey": "gabriel lippmann"
+      "answerKey": "gabriel lippmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Lippmann"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16004",
-      "answerKey": "henri grand duke of luxembourg"
+      "answerKey": "henri grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561213",
-      "answerKey": "xavier bettel"
+      "answerKey": "xavier bettel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xavier_Bettel"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q146907",
-      "answerKey": "miralem pjanic"
+      "answerKey": "miralem pjanic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miralem_Pjani%C4%87"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105605",
-      "answerKey": "jules hoffmann"
+      "answerKey": "jules hoffmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_A._Hoffmann"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q161319",
-      "answerKey": "guillaume v grand duke of luxembourg"
+      "answerKey": "guillaume v grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillaume_V%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39659",
-      "answerKey": "jacques santer"
+      "answerKey": "jacques santer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Santer"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15988",
-      "answerKey": "jean grand duke of luxembourg"
+      "answerKey": "jean grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15988",
-      "answerKey": "jean grand duke of luxembourg"
+      "answerKey": "jean grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1985",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155608",
-      "answerKey": "charlotte grand duchess of luxembourg"
+      "answerKey": "charlotte grand duchess of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlotte%2C_Grand_Duchess_of_Luxembourg"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1924",
       "occupation": "nun",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159075",
-      "answerKey": "marieadelaide grand duchess of luxembourg"
+      "answerKey": "marieadelaide grand duchess of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie-Ad%C3%A9la%C3%AFde%2C_Grand_Duchess_of_Luxembourg"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1967",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312242",
-      "answerKey": "hugo gernsback"
+      "answerKey": "hugo gernsback",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Gernsback"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1905",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57302",
-      "answerKey": "adolphe grand duke of luxembourg"
+      "answerKey": "adolphe grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolphe%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q241280",
-      "answerKey": "andy schleck"
+      "answerKey": "andy schleck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Schleck"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q241280",
-      "answerKey": "andy schleck"
+      "answerKey": "andy schleck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Schleck"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2007",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295128",
-      "answerKey": "gaston thorn"
+      "answerKey": "gaston thorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaston_Thorn"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q592101",
-      "answerKey": "luc frieden"
+      "answerKey": "luc frieden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luc_Frieden"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230644",
-      "answerKey": "maria teresa grand duchess of luxembourg"
+      "answerKey": "maria teresa grand duchess of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Teresa%2C_Grand_Duchess_of_Luxembourg"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1912",
       "occupation": "ruler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158235",
-      "answerKey": "william iv grand duke of luxembourg"
+      "answerKey": "william iv grand duke of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_IV%2C_Grand_Duke_of_Luxembourg"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1900",
       "occupation": "automotive engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12935",
-      "answerKey": "etienne lenoir"
+      "answerKey": "etienne lenoir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89tienne_Lenoir"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29043184",
-      "answerKey": "gerson rodrigues"
+      "answerKey": "gerson rodrigues",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerson_Rodrigues_(footballer%2C_born_1995)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1973",
       "occupation": "fashion photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313899",
-      "answerKey": "edward steichen"
+      "answerKey": "edward steichen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Steichen"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235866",
-      "answerKey": "viviane reding"
+      "answerKey": "viviane reding",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viviane_Reding"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q309917",
-      "answerKey": "frank schleck"
+      "answerKey": "frank schleck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A4nk_Schleck"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1031062",
-      "answerKey": "maria guleghina"
+      "answerKey": "maria guleghina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Guleghina"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "regular cleric",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1684759",
-      "answerKey": "jeanclaude hollerich"
+      "answerKey": "jeanclaude hollerich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Hollerich"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1942",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q234895",
-      "answerKey": "infanta marie anne of portugal"
+      "answerKey": "infanta marie anne of portugal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Infanta_Marie_Anne_of_Portugal"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2002",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315661",
-      "answerKey": "pierre werner"
+      "answerKey": "pierre werner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Werner"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93839274",
-      "answerKey": "prince charles of luxembourg"
+      "answerKey": "prince charles of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Charles_of_Luxembourg_(born_2020)"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235154",
-      "answerKey": "stephanie grand duchess consort of luxembourg"
+      "answerKey": "stephanie grand duchess consort of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C3%A9phanie%2C_Grand_Duchess_of_Luxembourg"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314304",
-      "answerKey": "gilles muller"
+      "answerKey": "gilles muller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilles_M%C3%BCller"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2522116",
-      "answerKey": "vicky krieps"
+      "answerKey": "vicky krieps",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicky_Krieps"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "music teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131697210",
-      "answerKey": "laura thorn"
+      "answerKey": "laura thorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laura_Thorn"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1975",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315685",
-      "answerKey": "joseph bech"
+      "answerKey": "joseph bech",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Bech"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1975",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315685",
-      "answerKey": "joseph bech"
+      "answerKey": "joseph bech",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Bech"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2031",
-      "answerKey": "marc girardelli"
+      "answerKey": "marc girardelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Girardelli"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1922",
       "occupation": "impostor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62071",
-      "answerKey": "wilhelm voigt"
+      "answerKey": "wilhelm voigt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_Voigt"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q619598",
-      "answerKey": "princess alexandra of luxembourg"
+      "answerKey": "princess alexandra of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Alexandra_of_Luxembourg"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q291205",
-      "answerKey": "anne fontaine"
+      "answerKey": "anne fontaine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_Fontaine"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1915",
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q267607",
-      "answerKey": "francois faber"
+      "answerKey": "francois faber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Faber"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1923",
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q388974",
-      "answerKey": "michel theato"
+      "answerKey": "michel theato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Th%C3%A9ato"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1970",
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q445045",
-      "answerKey": "prince felix prince consort of luxembourg"
+      "answerKey": "prince felix prince consort of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Felix_of_Bourbon-Parma"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2005",
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15983",
-      "answerKey": "charly gaul"
+      "answerKey": "charly gaul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charly_Gaul"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58200",
-      "answerKey": "jean asselborn"
+      "answerKey": "jean asselborn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Asselborn"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58200",
-      "answerKey": "jean asselborn"
+      "answerKey": "jean asselborn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Asselborn"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q121306325",
-      "answerKey": "tali golergant"
+      "answerKey": "tali golergant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tali_Golergant"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888024",
-      "answerKey": "bob jungels"
+      "answerKey": "bob jungels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Jungels"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "998",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469856",
-      "answerKey": "siegfried of luxembourg"
+      "answerKey": "siegfried of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siegfried%2C_Count_of_the_Ardennes"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": "1985",
       "occupation": "cyclo-cross cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456089",
-      "answerKey": "nicolas frantz"
+      "answerKey": "nicolas frantz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Frantz"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:17:43.621Z",
+  "wikipediaLinksAdded": true
 }

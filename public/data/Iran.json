@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34448",
-      "answerKey": "mahmoud ahmadinejad"
+      "answerKey": "mahmoud ahmadinejad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmoud_Ahmadinejad"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57336",
-      "answerKey": "ali khamenei"
+      "answerKey": "ali khamenei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Khamenei"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1989",
       "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38823",
-      "answerKey": "ruhollah khomeini"
+      "answerKey": "ruhollah khomeini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "cleric",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348144",
-      "answerKey": "hassan rouhani"
+      "answerKey": "hassan rouhani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Rouhani"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180795",
-      "answerKey": "mohammad khatami"
+      "answerKey": "mohammad khatami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Khatami"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131152",
-      "answerKey": "shirin ebadi"
+      "answerKey": "shirin ebadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shirin_Ebadi"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2024",
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5947347",
-      "answerKey": "ebrahim raisi"
+      "answerKey": "ebrahim raisi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ebrahim_Raisi"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2017",
       "occupation": "topologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1771279",
-      "answerKey": "maryam mirzakhani"
+      "answerKey": "maryam mirzakhani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maryam_Mirzakhani"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2020",
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q892014",
-      "answerKey": "qasem soleimani"
+      "answerKey": "qasem soleimani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Qasem_Soleimani"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4967771",
-      "answerKey": "narges mohammadi"
+      "answerKey": "narges mohammadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Narges_Mohammadi"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2017",
       "occupation": "akhoond",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186111",
-      "answerKey": "akbar hashemi rafsanjani"
+      "answerKey": "akbar hashemi rafsanjani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akbar_Hashemi_Rafsanjani"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1944",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182921",
-      "answerKey": "reza shah"
+      "answerKey": "reza shah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reza_Shah"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1944",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182921",
-      "answerKey": "reza shah"
+      "answerKey": "reza shah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reza_Shah"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "general surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5933752",
-      "answerKey": "masoud pezeshkian"
+      "answerKey": "masoud pezeshkian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Masoud_Pezeshkian"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2016",
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55210",
-      "answerKey": "abbas kiarostami"
+      "answerKey": "abbas kiarostami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbas_Kiarostami"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1221",
       "occupation": "mystic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q194091",
-      "answerKey": "attar of nishapur"
+      "answerKey": "attar of nishapur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Attar_of_Nishapur"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2021",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273866",
-      "answerKey": "abolhassan banisadr"
+      "answerKey": "abolhassan banisadr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "queen consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164111",
-      "answerKey": "farah pahlavi"
+      "answerKey": "farah pahlavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farah_Pahlavi"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1981",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310592",
-      "answerKey": "mohammadali rajai"
+      "answerKey": "mohammadali rajai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad-Ali_Rajai"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334242",
-      "answerKey": "asghar farhadi"
+      "answerKey": "asghar farhadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asghar_Farhadi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31637",
-      "answerKey": "jafar panahi"
+      "answerKey": "jafar panahi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jafar_Panahi"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "private astronaut",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17519",
-      "answerKey": "anousheh ansari"
+      "answerKey": "anousheh ansari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anousheh_Ansari"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126633",
-      "answerKey": "marjane satrapi"
+      "answerKey": "marjane satrapi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marjane_Satrapi"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236748",
-      "answerKey": "arash"
+      "answerKey": "arash",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arash_(singer)"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1951",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315017",
-      "answerKey": "sadegh hedayat"
+      "answerKey": "sadegh hedayat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sadegh_Hedayat"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1951",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315017",
-      "answerKey": "sadegh hedayat"
+      "answerKey": "sadegh hedayat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sadegh_Hedayat"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1977",
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317475",
-      "answerKey": "ali shariati"
+      "answerKey": "ali shariati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Shariati"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229766",
-      "answerKey": "shohreh aghdashloo"
+      "answerKey": "shohreh aghdashloo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shohreh_Aghdashloo"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229766",
-      "answerKey": "shohreh aghdashloo"
+      "answerKey": "shohreh aghdashloo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shohreh_Aghdashloo"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217154",
-      "answerKey": "mirhossein mousavi"
+      "answerKey": "mirhossein mousavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mir-Hossein_Mousavi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242124",
-      "answerKey": "nasrin sotoudeh"
+      "answerKey": "nasrin sotoudeh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nasrin_Sotoudeh"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5298679",
-      "answerKey": "sardar azmoun"
+      "answerKey": "sardar azmoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sardar_Azmoun"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1930",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317799",
-      "answerKey": "ahmad shah qajar"
+      "answerKey": "ahmad shah qajar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Shah_Qajar"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464712",
-      "answerKey": "golshifteh farahani"
+      "answerKey": "golshifteh farahani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Golshifteh_Farahani"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235364",
-      "answerKey": "cassandra clare"
+      "answerKey": "cassandra clare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cassandra_Clare"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235364",
-      "answerKey": "cassandra clare"
+      "answerKey": "cassandra clare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cassandra_Clare"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4406552",
-      "answerKey": "alireza jahanbakhsh"
+      "answerKey": "alireza jahanbakhsh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2001",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q225993",
-      "answerKey": "soraya esfandiaribakhtiari"
+      "answerKey": "soraya esfandiaribakhtiari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soraya_Esfandiary-Bakhtiary"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1367592",
-      "answerKey": "karim ansarifard"
+      "answerKey": "karim ansarifard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Ansarifard"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "religious writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q337489",
-      "answerKey": "ali sistani"
+      "answerKey": "ali sistani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_al-Sistani"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17070837",
-      "answerKey": "mehdi taremi"
+      "answerKey": "mehdi taremi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehdi_Taremi"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22338182",
-      "answerKey": "alireza firouzja"
+      "answerKey": "alireza firouzja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alireza_Firouzja"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2023",
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16052349",
-      "answerKey": "hossein shahabi"
+      "answerKey": "hossein shahabi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hossein_Shahabi"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315008",
-      "answerKey": "javad nekounam"
+      "answerKey": "javad nekounam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Javad_Nekounam"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "video installation artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q262413",
-      "answerKey": "shirin neshat"
+      "answerKey": "shirin neshat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shirin_Neshat"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q255233",
-      "answerKey": "googoosh"
+      "answerKey": "googoosh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Googoosh"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5703610",
-      "answerKey": "mohammad mokhber"
+      "answerKey": "mohammad mokhber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Mokhber"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "career diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10296812",
-      "answerKey": "mohammad javad zarif"
+      "answerKey": "mohammad javad zarif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Javad_Zarif"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1779",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q332583",
-      "answerKey": "karim khan"
+      "answerKey": "karim khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Khan_Zand"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1779",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q332583",
-      "answerKey": "karim khan"
+      "answerKey": "karim khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Khan_Zand"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg",
+  "updated": "2025-12-14T22:15:59.851Z",
+  "wikipediaLinksAdded": true
 }

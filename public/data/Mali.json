@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q66743376",
-      "answerKey": "ansu fati"
+      "answerKey": "ansu fati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ansu_Fati"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2009",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106164",
-      "answerKey": "joao bernardo vieira"
+      "answerKey": "joao bernardo vieira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Bernardo_Vieira"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16855164",
-      "answerKey": "umaro sissoco embalo"
+      "answerKey": "umaro sissoco embalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273776",
-      "answerKey": "eder"
+      "answerKey": "eder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eder_(footballer%2C_born_1987)"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2012",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232796",
-      "answerKey": "malam bacai sanha"
+      "answerKey": "malam bacai sanha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malam_Bacai_Sanh%C3%A1"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2009",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311443",
-      "answerKey": "luis cabral"
+      "answerKey": "luis cabral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Cabral"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336238",
-      "answerKey": "kumba iala"
+      "answerKey": "kumba iala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kumba_Yala"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16908893",
-      "answerKey": "jose mario vaz"
+      "answerKey": "jose mario vaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_M%C3%A1rio_Vaz"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1185419",
-      "answerKey": "bruma"
+      "answerKey": "bruma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruma_(footballer)"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2013",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q286130",
-      "answerKey": "henrique rosa"
+      "answerKey": "henrique rosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrique_Rosa"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2020",
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57424",
-      "answerKey": "manuel serifo nhamadjo"
+      "answerKey": "manuel serifo nhamadjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Serifo_Nhamadjo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314538",
-      "answerKey": "raimundo pereira"
+      "answerKey": "raimundo pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raimundo_Pereira"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57718",
-      "answerKey": "carlos gomes junior"
+      "answerKey": "carlos gomes junior",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Gomes_J%C3%BAnior"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q86715481",
-      "answerKey": "nuno nabiam"
+      "answerKey": "nuno nabiam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuno_Gomes_Nabiam"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1825983",
-      "answerKey": "nathan jawai"
+      "answerKey": "nathan jawai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathan_Jawai"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q551585",
-      "answerKey": "aristides gomes"
+      "answerKey": "aristides gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aristides_Gomes"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16914022",
-      "answerKey": "mama samba balde"
+      "answerKey": "mama samba balde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mama_Bald%C3%A9"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16914022",
-      "answerKey": "mama samba balde"
+      "answerKey": "mama samba balde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mama_Bald%C3%A9"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1978",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1389769",
-      "answerKey": "francisco mendes"
+      "answerKey": "francisco mendes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Mendes"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7821342",
-      "answerKey": "toni silva"
+      "answerKey": "toni silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toni_Silva"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6847384",
-      "answerKey": "mike james"
+      "answerKey": "mike james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_James_(basketball%2C_born_1990)"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6847384",
-      "answerKey": "mike james"
+      "answerKey": "mike james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_James_(basketball%2C_born_1990)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q526497",
-      "answerKey": "yannick djalo"
+      "answerKey": "yannick djalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannick_Djal%C3%B3"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16736700",
-      "answerKey": "domingos simoes pereira"
+      "answerKey": "domingos simoes pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Domingos_Sim%C3%B5es_Pereira"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4838987",
-      "answerKey": "baciro dja"
+      "answerKey": "baciro dja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baciro_Dj%C3%A1"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64747505",
-      "answerKey": "toti gomes"
+      "answerKey": "toti gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toti_Gomes"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35083837",
-      "answerKey": "alfa semedo"
+      "answerKey": "alfa semedo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfa_Semedo"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2442793",
-      "answerKey": "flora gomes"
+      "answerKey": "flora gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flora_Gomes"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116570",
-      "answerKey": "remi gomis"
+      "answerKey": "remi gomis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/R%C3%A9mi_Gomis"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26251732",
-      "answerKey": "domingos quina"
+      "answerKey": "domingos quina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Domingos_Quina"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1999",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2522591",
-      "answerKey": "victor saude maria"
+      "answerKey": "victor saude maria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Sa%C3%BAde_Maria"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13563911",
-      "answerKey": "colton iverson"
+      "answerKey": "colton iverson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colton_Iverson"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113688253",
-      "answerKey": "alvaro djalo"
+      "answerKey": "alvaro djalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Djal%C3%B3"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113688253",
-      "answerKey": "alvaro djalo"
+      "answerKey": "alvaro djalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Djal%C3%B3"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166241",
-      "answerKey": "k c rivers"
+      "answerKey": "k c rivers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/K._C._Rivers"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12309340",
-      "answerKey": "edigeison gomes"
+      "answerKey": "edigeison gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edigeison_Gomes"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1362676",
-      "answerKey": "francisco fadul"
+      "answerKey": "francisco fadul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Fadul"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19545355",
-      "answerKey": "marcelo djalo"
+      "answerKey": "marcelo djalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_Djal%C3%B3"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30320323",
-      "answerKey": "houboulang mendes"
+      "answerKey": "houboulang mendes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Houboulang_Mendes"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20988718",
-      "answerKey": "sana na nhada"
+      "answerKey": "sana na nhada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sana_Na_N'Hada"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1709135",
-      "answerKey": "jose camnate na bissign"
+      "answerKey": "jose camnate na bissign",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_C%C3%A2mnate_na_Bissign"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41138583",
-      "answerKey": "moreto cassama"
+      "answerKey": "moreto cassama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moreto_Cassam%C3%A1"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2536790",
-      "answerKey": "bocundji ca"
+      "answerKey": "bocundji ca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bocundji_C%C3%A1"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18238900",
-      "answerKey": "braima camara"
+      "answerKey": "braima camara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Braima_Camar%C3%A1"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18414388",
-      "answerKey": "jorge intima"
+      "answerKey": "jorge intima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorginho_(footballer%2C_born_1995)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26704553",
-      "answerKey": "ze turbo"
+      "answerKey": "ze turbo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Z%C3%A9_Turbo"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19576917",
-      "answerKey": "janio bikel"
+      "answerKey": "janio bikel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janio_Bikel"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19968858",
-      "answerKey": "alexandre mendy"
+      "answerKey": "alexandre mendy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Mendy_(footballer%2C_born_1994)"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47527935",
-      "answerKey": "artur silva"
+      "answerKey": "artur silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_Silva"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106088233",
-      "answerKey": "mauro rodrigues"
+      "answerKey": "mauro rodrigues",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mauro_Rodrigues"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg",
+  "updated": "2025-12-14T22:18:08.219Z",
+  "wikipediaLinksAdded": true
 }

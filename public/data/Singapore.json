@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159577",
-      "answerKey": "jet li"
+      "answerKey": "jet li",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jet_Li"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2015",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131248",
-      "answerKey": "lee kuan yew"
+      "answerKey": "lee kuan yew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57643",
-      "answerKey": "lee hsien loong"
+      "answerKey": "lee hsien loong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Hsien_Loong"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5642345",
-      "answerKey": "halimah yacob"
+      "answerKey": "halimah yacob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halimah_Yacob"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150903",
-      "answerKey": "gong li"
+      "answerKey": "gong li",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gong_Li"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215076",
-      "answerKey": "vanessamae"
+      "answerKey": "vanessamae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vanessa-Mae"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38987",
-      "answerKey": "tony tan keng yam"
+      "answerKey": "tony tan keng yam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Tan"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313300",
-      "answerKey": "goh chok tong"
+      "answerKey": "goh chok tong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goh_Chok_Tong"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2016",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212188",
-      "answerKey": "s r nathan"
+      "answerKey": "s r nathan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S._R._Nathan"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6504758",
-      "answerKey": "lawrence wong"
+      "answerKey": "lawrence wong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Wong"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983752",
-      "answerKey": "tharman shanmugaratnam"
+      "answerKey": "tharman shanmugaratnam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tharman_Shanmugaratnam"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312663",
-      "answerKey": "eduardo saverin"
+      "answerKey": "eduardo saverin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Saverin"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1970",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q259331",
-      "answerKey": "yusof bin ishak"
+      "answerKey": "yusof bin ishak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusof_Ishak"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2005",
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q399998",
-      "answerKey": "wee kim wee"
+      "answerKey": "wee kim wee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wee_Kim_Wee"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457929",
-      "answerKey": "devan nair"
+      "answerKey": "devan nair",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Devan_Nair"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6286898",
-      "answerKey": "joseph schooling"
+      "answerKey": "joseph schooling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Schooling"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233295",
-      "answerKey": "tila tequila"
+      "answerKey": "tila tequila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tila_Tequila"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51157",
-      "answerKey": "stefanie sun"
+      "answerKey": "stefanie sun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefanie_Sun"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2002",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q543664",
-      "answerKey": "ong teng cheong"
+      "answerKey": "ong teng cheong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ong_Teng_Cheong"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260770",
-      "answerKey": "annabel chong"
+      "answerKey": "annabel chong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Annabel_Chong"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q265124",
-      "answerKey": "fann wong"
+      "answerKey": "fann wong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fann_Wong"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455666",
-      "answerKey": "ho ching"
+      "answerKey": "ho ching",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ho_Ching"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q716022",
-      "answerKey": "jj lin"
+      "answerKey": "jj lin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/JJ_Lin"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "table tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242490",
-      "answerKey": "feng tianwei"
+      "answerKey": "feng tianwei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Feng_Tianwei"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260764",
-      "answerKey": "kaylani lei"
+      "answerKey": "kaylani lei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaylani_Lei"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "table tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q254727",
-      "answerKey": "li jiawei"
+      "answerKey": "li jiawei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Jiawei"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1995",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q687956",
-      "answerKey": "david marshall"
+      "answerKey": "david marshall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Marshall_(Singaporean_politician)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115591126",
-      "answerKey": "shou zi chew"
+      "answerKey": "shou zi chew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shou_Zi_Chew"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2556661",
-      "answerKey": "fandi ahmad"
+      "answerKey": "fandi ahmad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fandi_Ahmad"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q715706",
-      "answerKey": "aleksandar uric"
+      "answerKey": "aleksandar uric",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandar_%C4%90uri%C4%87"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18054534",
-      "answerKey": "kyoga nakamura"
+      "answerKey": "kyoga nakamura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyoga_Nakamura"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q938855",
-      "answerKey": "chin han"
+      "answerKey": "chin han",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chin_Han_(actor%2C_born_1969)"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "table tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257372",
-      "answerKey": "wang yuegu"
+      "answerKey": "wang yuegu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wang_Yuegu"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q933957",
-      "answerKey": "kishore mahbubani"
+      "answerKey": "kishore mahbubani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kishore_Mahbubani"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q197348",
-      "answerKey": "zhang zhong"
+      "answerKey": "zhang zhong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhang_Zhong"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2024",
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709924",
-      "answerKey": "tan howe liang"
+      "answerKey": "tan howe liang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tan_Howe_Liang"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28962335",
-      "answerKey": "ikhsan fandi"
+      "answerKey": "ikhsan fandi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ikhsan_Fandi"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6109288",
-      "answerKey": "jy pillay"
+      "answerKey": "jy pillay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._Y._Pillay"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "stockbroker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7175463",
-      "answerKey": "peter lim"
+      "answerKey": "peter lim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Lim"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15921775",
-      "answerKey": "muhammad taqi aljaafari bin jahari"
+      "answerKey": "muhammad taqi aljaafari bin jahari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Taqi_(referee)"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20687848",
-      "answerKey": "loh kean yew"
+      "answerKey": "loh kean yew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loh_Kean_Yew"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "sinologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q696748",
-      "answerKey": "wang gungwu"
+      "answerKey": "wang gungwu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wang_Gungwu"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q449072",
-      "answerKey": "gwendoline yeo"
+      "answerKey": "gwendoline yeo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gwendoline_Yeo"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
-      "answerKey": "vivian balakrishnan"
+      "answerKey": "vivian balakrishnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vivian_Balakrishnan"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
-      "answerKey": "vivian balakrishnan"
+      "answerKey": "vivian balakrishnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vivian_Balakrishnan"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
-      "answerKey": "vivian balakrishnan"
+      "answerKey": "vivian balakrishnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vivian_Balakrishnan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2006",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q337799",
-      "answerKey": "s rajaratnam"
+      "answerKey": "s rajaratnam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S._Rajaratnam"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7245929",
-      "answerKey": "pritam singh"
+      "answerKey": "pritam singh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pritam_Singh"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1961",
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709049",
-      "answerKey": "tan kah kee"
+      "answerKey": "tan kah kee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tan_Kah_Kee"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20948755",
-      "answerKey": "kevin kwan"
+      "answerKey": "kevin kwan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Kwan"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg",
+  "updated": "2025-12-14T22:21:53.522Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43179",
-      "answerKey": "ellen johnson sirleaf"
+      "answerKey": "ellen johnson sirleaf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43179",
-      "answerKey": "ellen johnson sirleaf"
+      "answerKey": "ellen johnson sirleaf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173139",
-      "answerKey": "george weah"
+      "answerKey": "george weah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Weah"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107037",
-      "answerKey": "leymah roberta gbowee"
+      "answerKey": "leymah roberta gbowee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leymah_Gbowee"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "warlord",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49090",
-      "answerKey": "charles taylor"
+      "answerKey": "charles taylor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Taylor_(Liberian_politician)"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23540953",
-      "answerKey": "alphonso davies"
+      "answerKey": "alphonso davies",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alphonso_Davies"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1990",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294618",
-      "answerKey": "samuel doe"
+      "answerKey": "samuel doe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Doe"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1876",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360164",
-      "answerKey": "joseph jenkins roberts"
+      "answerKey": "joseph jenkins roberts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Jenkins_Roberts"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1971",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q301707",
-      "answerKey": "william tubman"
+      "answerKey": "william tubman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Tubman"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1980",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336212",
-      "answerKey": "william richard tolbert"
+      "answerKey": "william richard tolbert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Tolbert"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2630483",
-      "answerKey": "joseph boakai"
+      "answerKey": "joseph boakai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Boakai"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1865",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718220",
-      "answerKey": "stephen allen benson"
+      "answerKey": "stephen allen benson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Allen_Benson"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q442511",
-      "answerKey": "gyude bryant"
+      "answerKey": "gyude bryant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gyude_Bryant"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1961",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q730622",
-      "answerKey": "charles d b king"
+      "answerKey": "charles d b king",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_D._B._King"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1912",
       "occupation": "classical scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q384338",
-      "answerKey": "edward wilmot blyden"
+      "answerKey": "edward wilmot blyden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Wilmot_Blyden"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1955",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q735400",
-      "answerKey": "edwin barclay"
+      "answerKey": "edwin barclay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwin_Barclay"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1880",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q878849",
-      "answerKey": "daniel bashiel warner"
+      "answerKey": "daniel bashiel warner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Bashiel_Warner"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q474312",
-      "answerKey": "amos sawyer"
+      "answerKey": "amos sawyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amos_Sawyer"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6308875",
-      "answerKey": "juliet ibrahim"
+      "answerKey": "juliet ibrahim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juliet_Ibrahim"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1884",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q727178",
-      "answerKey": "alfred francis russell"
+      "answerKey": "alfred francis russell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Francis_Russell"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1882",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q878874",
-      "answerKey": "james spriggs payne"
+      "answerKey": "james spriggs payne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Spriggs_Payne"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1872",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879069",
-      "answerKey": "edward james roye"
+      "answerKey": "edward james roye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_James_Roye"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1688608",
-      "answerKey": "jewel taylor"
+      "answerKey": "jewel taylor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jewel_Taylor"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1892",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q878907",
-      "answerKey": "james skivring smith"
+      "answerKey": "james skivring smith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Skivring_Smith"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1885",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q574100",
-      "answerKey": "anthony w gardiner"
+      "answerKey": "anthony w gardiner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_W._Gardiner"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q923432",
-      "answerKey": "alex nimely"
+      "answerKey": "alex nimely",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Nimely"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q508835",
-      "answerKey": "sekou oliseh"
+      "answerKey": "sekou oliseh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sekou_Oliseh"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3016402",
-      "answerKey": "darlington nagbe"
+      "answerKey": "darlington nagbe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Darlington_Nagbe"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1938",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q708561",
-      "answerKey": "arthur barclay"
+      "answerKey": "arthur barclay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Barclay"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1748212",
-      "answerKey": "othello hunter"
+      "answerKey": "othello hunter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Othello_Hunter"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2024",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1409441",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Johnson"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1901",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q880702",
-      "answerKey": "hilary r w johnson"
+      "answerKey": "hilary r w johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilary_R._W._Johnson"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1901",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q880702",
-      "answerKey": "hilary r w johnson"
+      "answerKey": "hilary r w johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilary_R._W._Johnson"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1908",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q880711",
-      "answerKey": "william d coleman"
+      "answerKey": "william d coleman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_D._Coleman_(politician)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1910",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888979",
-      "answerKey": "garretson w gibson"
+      "answerKey": "garretson w gibson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garretson_W._Gibson"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2007",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q290692",
-      "answerKey": "angie brooks"
+      "answerKey": "angie brooks",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angie_Brooks"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1935",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q683749",
-      "answerKey": "daniel edward howard"
+      "answerKey": "daniel edward howard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Edward_Howard"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1896",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q765733",
-      "answerKey": "joseph james cheeseman"
+      "answerKey": "joseph james cheeseman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_James_Cheeseman"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q972133",
-      "answerKey": "dulee johnson"
+      "answerKey": "dulee johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dulee_Johnson"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1338898",
-      "answerKey": "jimmy dixon"
+      "answerKey": "jimmy dixon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Dixon_(footballer)"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24951737",
-      "answerKey": "emmanuel matadi"
+      "answerKey": "emmanuel matadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Matadi"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3181195",
-      "answerKey": "oliver makor"
+      "answerKey": "oliver makor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Makor"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19594173",
-      "answerKey": "sylvanus nimely"
+      "answerKey": "sylvanus nimely",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvanus_Nimely"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202832",
-      "answerKey": "chris gbandi"
+      "answerKey": "chris gbandi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Gbandi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30122752",
-      "answerKey": "adina"
+      "answerKey": "adina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adina_(singer)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4160450",
-      "answerKey": "joel johnson"
+      "answerKey": "joel johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Johnson_(footballer)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5411653",
-      "answerKey": "joe ragland"
+      "answerKey": "joe ragland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Ragland"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q715664",
-      "answerKey": "dioh williams"
+      "answerKey": "dioh williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dioh_Williams"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3298400",
-      "answerKey": "matee ajavon"
+      "answerKey": "matee ajavon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matee_Ajavon"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1929",
       "occupation": "missionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1372658",
-      "answerKey": "william wade harris"
+      "answerKey": "william wade harris",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Wad%C3%A9_Harris"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liberia.svg",
+  "updated": "2025-12-14T22:14:37.859Z",
+  "wikipediaLinksAdded": true
 }

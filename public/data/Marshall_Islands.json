@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20090884",
-      "answerKey": "hilda heine"
+      "answerKey": "hilda heine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilda_Heine"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12911",
-      "answerKey": "christopher loeak"
+      "answerKey": "christopher loeak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Loeak"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12915",
-      "answerKey": "amata kabua"
+      "answerKey": "amata kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amata_Kabua"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20658229",
-      "answerKey": "david kabua"
+      "answerKey": "david kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Kabua"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12914",
-      "answerKey": "kessai note"
+      "answerKey": "kessai note",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kessai_Note"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12913",
-      "answerKey": "litokwa tomeing"
+      "answerKey": "litokwa tomeing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Litokwa_Tomeing"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12917",
-      "answerKey": "imata kabua"
+      "answerKey": "imata kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imata_Kabua"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12912",
-      "answerKey": "jurelang zedkaia"
+      "answerKey": "jurelang zedkaia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jurelang_Zedkaia"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "climate activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42883452",
-      "answerKey": "kathy jetnilkijiner"
+      "answerKey": "kathy jetnilkijiner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kathy_Jetn%CC%84il-Kijiner"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21968142",
-      "answerKey": "casten nemra"
+      "answerKey": "casten nemra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Casten_Nemra"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954205",
-      "answerKey": "kunio lemari"
+      "answerKey": "kunio lemari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kunio_Lemari"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1131432",
-      "answerKey": "ruben zackhras"
+      "answerKey": "ruben zackhras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruben_Zackhras"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3531936",
-      "answerKey": "tony debrum"
+      "answerKey": "tony debrum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_deBrum"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2023",
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5372654",
-      "answerKey": "emlain kabua"
+      "answerKey": "emlain kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emlain_Kabua"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8964118",
-      "answerKey": "giordan harris"
+      "answerKey": "giordan harris",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giordan_Harris"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2024",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7185695",
-      "answerKey": "phillip h muller"
+      "answerKey": "phillip h muller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phillip_H._Muller"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q635418",
-      "answerKey": "gerald zackios"
+      "answerKey": "gerald zackios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Zackios"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1637473",
-      "answerKey": "john silk"
+      "answerKey": "john silk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Silk"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109341396",
-      "answerKey": "tina stege"
+      "answerKey": "tina stege",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tina_Stege"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23416906",
-      "answerKey": "kenneth kedi"
+      "answerKey": "kenneth kedi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenneth_Kedi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113043892",
-      "answerKey": "selina leem"
+      "answerKey": "selina leem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selina_Leem"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42699985",
-      "answerKey": "daisy alikmomotaro"
+      "answerKey": "daisy alikmomotaro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daisy_Alik-Momotaro"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11851120",
-      "answerKey": "amatlain elizabeth kabua"
+      "answerKey": "amatlain elizabeth kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amatlain_Elizabeth_Kabua"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11851132",
-      "answerKey": "amenta matthew"
+      "answerKey": "amenta matthew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amenta_Matthew"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1945",
       "occupation": "missionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7509097",
-      "answerKey": "sidney gulick"
+      "answerKey": "sidney gulick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidney_Gulick"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "accountant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113954295",
-      "answerKey": "jack j ading"
+      "answerKey": "jack j ading",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Ading"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123555605",
-      "answerKey": "anjanette kattil"
+      "answerKey": "anjanette kattil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anjanette_Kattil"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q94977219",
-      "answerKey": "donald capelle"
+      "answerKey": "donald capelle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Capelle"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110030889",
-      "answerKey": "brenson wase"
+      "answerKey": "brenson wase",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brenson_Wase"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101054208",
-      "answerKey": "kitlang kabua"
+      "answerKey": "kitlang kabua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kitlang_Kabua"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6374991",
-      "answerKey": "kataejar jibas"
+      "answerKey": "kataejar jibas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kataejar_Jibas"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30323314",
-      "answerKey": "mattlan zackhras"
+      "answerKey": "mattlan zackhras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mattlan_Zackhras"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2021",
       "occupation": "educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108443120",
-      "answerKey": "tom kijiner"
+      "answerKey": "tom kijiner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Kijiner"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q114403075",
-      "answerKey": "alexander carter bing"
+      "answerKey": "alexander carter bing",
+      "wikipediaUrl": null
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109129936",
-      "answerKey": "abacca anjainmaddison"
+      "answerKey": "abacca anjainmaddison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abacca_Anjain-Maddison"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20090996",
-      "answerKey": "alvin jacklick"
+      "answerKey": "alvin jacklick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alvin_Jacklick"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q74449528",
-      "answerKey": "joshua ralpho"
+      "answerKey": "joshua ralpho",
+      "wikipediaUrl": null
     },
     {
       "id": 38,
@@ -420,7 +457,10 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109867463",
-      "answerKey": "bruce bilimon"
+      "answerKey": "bruce bilimon",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:18:17.082Z",
+  "wikipediaLinksAdded": true
 }

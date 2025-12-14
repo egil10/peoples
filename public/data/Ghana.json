@@ -13,7 +13,8 @@
       "deathYear": "2025",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154104",
-      "answerKey": "sam nujoma"
+      "answerKey": "sam nujoma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Nujoma"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2024",
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1568274",
-      "answerKey": "hage geingob"
+      "answerKey": "hage geingob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hage_Geingob"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7395683",
-      "answerKey": "saara kuugongelwa"
+      "answerKey": "saara kuugongelwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saara_Kuugongelwa"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57469",
-      "answerKey": "hifikepunye pohamba"
+      "answerKey": "hifikepunye pohamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hifikepunye_Pohamba"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q527020",
-      "answerKey": "netumbo nandindaitwah"
+      "answerKey": "netumbo nandindaitwah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Netumbo_Nandi-Ndaitwah"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260645",
-      "answerKey": "behati prinsloo"
+      "answerKey": "behati prinsloo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Behati_Prinsloo"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q287100",
-      "answerKey": "nangolo mbumba"
+      "answerKey": "nangolo mbumba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nangolo_Mbumba"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310272",
-      "answerKey": "frankie fredericks"
+      "answerKey": "frankie fredericks",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frankie_Fredericks"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57834",
-      "answerKey": "nahas angula"
+      "answerKey": "nahas angula",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nahas_Angula"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2018",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q654433",
-      "answerKey": "theoben gurirab"
+      "answerKey": "theoben gurirab",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo-Ben_Gurirab"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "fashion model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270022",
-      "answerKey": "michelle mclean"
+      "answerKey": "michelle mclean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_McLean"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106520141",
-      "answerKey": "christine mboma"
+      "answerKey": "christine mboma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christine_Mboma"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q503395",
-      "answerKey": "collin benjamin"
+      "answerKey": "collin benjamin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Collin_Benjamin"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6581941",
-      "answerKey": "pyry soiri"
+      "answerKey": "pyry soiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pyry_Soiri"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q94725818",
-      "answerKey": "emma theofelus"
+      "answerKey": "emma theofelus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Theofelus"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q526508",
-      "answerKey": "helalia johannes"
+      "answerKey": "helalia johannes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helalia_Johannes"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469706",
-      "answerKey": "percy montgomery"
+      "answerKey": "percy montgomery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Percy_Montgomery"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469706",
-      "answerKey": "percy montgomery"
+      "answerKey": "percy montgomery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Percy_Montgomery"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1923",
       "occupation": "paramount chief",
       "wikidataUrl": "http://www.wikidata.org/entity/Q520226",
-      "answerKey": "samuel maharero"
+      "answerKey": "samuel maharero",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Maharero"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q521436",
-      "answerKey": "libertine amathila"
+      "answerKey": "libertine amathila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Libertina_Amathila"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q689063",
-      "answerKey": "oliver risser"
+      "answerKey": "oliver risser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Risser"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3158435",
-      "answerKey": "jacques burger"
+      "answerKey": "jacques burger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Burger"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5360975",
-      "answerKey": "elijah ngurare"
+      "answerKey": "elijah ngurare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elijah_Ngurare"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q930472",
-      "answerKey": "dan craven"
+      "answerKey": "dan craven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Craven"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19559903",
-      "answerKey": "vera looser"
+      "answerKey": "vera looser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vera_Looser"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26702629",
-      "answerKey": "rosa namises"
+      "answerKey": "rosa namises",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosa_Namises"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q439301",
-      "answerKey": "beata naigambo"
+      "answerKey": "beata naigambo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beata_Naigambo"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1861",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464420",
-      "answerKey": "jonker afrikaner"
+      "answerKey": "jonker afrikaner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonker_Afrikaner"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16235104",
-      "answerKey": "sadney urikhob"
+      "answerKey": "sadney urikhob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sadney_Urikhob"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q394624",
-      "answerKey": "agnes samaria"
+      "answerKey": "agnes samaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnes_Samaria"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q67123686",
-      "answerKey": "beatrice masilingi"
+      "answerKey": "beatrice masilingi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beatrice_Masilingi"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1889",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q678356",
-      "answerKey": "jan jonker afrikaner"
+      "answerKey": "jan jonker afrikaner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Jonker_Afrikaner"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2021",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1893781",
-      "answerKey": "marco hausiku"
+      "answerKey": "marco hausiku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Hausiku"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q175722",
-      "answerKey": "erik hoffmann"
+      "answerKey": "erik hoffmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Hoffmann"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27554137",
-      "answerKey": "zenatha coleman"
+      "answerKey": "zenatha coleman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zenatha_Coleman"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6216350",
-      "answerKey": "johanna benson"
+      "answerKey": "johanna benson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johanna_Benson"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q100396318",
-      "answerKey": "girley jazama"
+      "answerKey": "girley jazama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girley_Jazama"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16733226",
-      "answerKey": "helena ndume"
+      "answerKey": "helena ndume",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helena_Ndume"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1907",
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315748",
-      "answerKey": "jacob morenga"
+      "answerKey": "jacob morenga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Morenga"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19513511",
-      "answerKey": "monica geingos"
+      "answerKey": "monica geingos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Geingos"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "beauty queen",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108189585",
-      "answerKey": "chanique rabe"
+      "answerKey": "chanique rabe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chanique_Rabe"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2186588",
-      "answerKey": "mishake muyongo"
+      "answerKey": "mishake muyongo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mishake_Muyongo"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3059565",
-      "answerKey": "eugene jantjies"
+      "answerKey": "eugene jantjies",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_Jantjies"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "nurse",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7162547",
-      "answerKey": "penehupifo pohamba"
+      "answerKey": "penehupifo pohamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Penehupifo_Pohamba"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4904540",
-      "answerKey": "bience gawanas"
+      "answerKey": "bience gawanas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bience_Gawanas"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2017",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327822",
-      "answerKey": "andimba toivo ya toivo"
+      "answerKey": "andimba toivo ya toivo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andimba_Toivo_ya_Toivo"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "Paralympic athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26132475",
-      "answerKey": "ananias shikongo"
+      "answerKey": "ananias shikongo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ananias_Shikongo"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107288937",
-      "answerKey": "mandela kapere"
+      "answerKey": "mandela kapere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mandela_Kapere"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1987",
       "occupation": "printmaker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18021272",
-      "answerKey": "john muafangejo"
+      "answerKey": "john muafangejo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Muafangejo"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1890",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1321588",
-      "answerKey": "maharero"
+      "answerKey": "maharero",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maharero"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Namibia.svg",
+  "updated": "2025-12-14T22:14:54.425Z",
+  "wikipediaLinksAdded": true
 }

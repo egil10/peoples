@@ -13,7 +13,8 @@
       "deathYear": "1984",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155402",
-      "answerKey": "ahmed sekou toure"
+      "answerKey": "ahmed sekou toure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1984",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155402",
-      "answerKey": "ahmed sekou toure"
+      "answerKey": "ahmed sekou toure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "author",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4413",
-      "answerKey": "alpha conde"
+      "answerKey": "alpha conde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2008",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202582",
-      "answerKey": "lansana conte"
+      "answerKey": "lansana conte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lansana_Cont%C3%A9"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17325280",
-      "answerKey": "naby keita"
+      "answerKey": "naby keita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naby_Ke%C3%AFta"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q550079",
-      "answerKey": "robert sarah"
+      "answerKey": "robert sarah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Sarah"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18637429",
-      "answerKey": "serhou guirassy"
+      "answerKey": "serhou guirassy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serhou_Guirassy"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108418519",
-      "answerKey": "mamady doumbouya"
+      "answerKey": "mamady doumbouya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamady_Doumbouya"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4949787",
-      "answerKey": "bouna sarr"
+      "answerKey": "bouna sarr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bouna_Sarr"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314271",
-      "answerKey": "moussa dadis camara"
+      "answerKey": "moussa dadis camara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moussa_Dadis_Camara"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1998",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q509860",
-      "answerKey": "stokely carmichael"
+      "answerKey": "stokely carmichael",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stokely_Carmichael"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1900",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469314",
-      "answerKey": "samori ture"
+      "answerKey": "samori ture",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samori_Ture"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q720879",
-      "answerKey": "ibrahima traore"
+      "answerKey": "ibrahima traore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahima_Traor%C3%A9"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2020",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q551576",
-      "answerKey": "mory kante"
+      "answerKey": "mory kante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mory_Kant%C3%A9"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65205090",
-      "answerKey": "ilaix moriba"
+      "answerKey": "ilaix moriba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilaix_Moriba"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26897360",
-      "answerKey": "mouctar diakhaby"
+      "answerKey": "mouctar diakhaby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mouctar_Diakhaby"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20859426",
-      "answerKey": "amadou diawara"
+      "answerKey": "amadou diawara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amadou_Diawara"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60147292",
-      "answerKey": "mohamed simakan"
+      "answerKey": "mohamed simakan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Simakan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q350502",
-      "answerKey": "pascal feindouno"
+      "answerKey": "pascal feindouno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Feindouno"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17386145",
-      "answerKey": "francois kamano"
+      "answerKey": "francois kamano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Kamano"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1987",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2996980",
-      "answerKey": "solomana kante"
+      "answerKey": "solomana kante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomana_Kante"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2637126",
-      "answerKey": "josuha guilavogui"
+      "answerKey": "josuha guilavogui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josuha_Guilavogui"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1984",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718245",
-      "answerKey": "louis lansana beavogui"
+      "answerKey": "louis lansana beavogui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Lansana_Beavogui"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14166912",
-      "answerKey": "issiaga sylla"
+      "answerKey": "issiaga sylla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Issiaga_Sylla"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55819463",
-      "answerKey": "mohamed bayo"
+      "answerKey": "mohamed bayo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Bayo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5984807",
-      "answerKey": "ibrahima kassory fofana"
+      "answerKey": "ibrahima kassory fofana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahima_Kassory_Fofana"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16236605",
-      "answerKey": "abdoulaye toure"
+      "answerKey": "abdoulaye toure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdoulaye_Tour%C3%A9_(footballer)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2408067",
-      "answerKey": "alhassane bangoura"
+      "answerKey": "alhassane bangoura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lass_Bangoura"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11355490",
-      "answerKey": "pa konate"
+      "answerKey": "pa konate",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pa_Konate"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22209348",
-      "answerKey": "bah oury"
+      "answerKey": "bah oury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bah_Oury"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q704880",
-      "answerKey": "pablo thiam"
+      "answerKey": "pablo thiam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Thiam"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529376",
-      "answerKey": "bobo balde"
+      "answerKey": "bobo balde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobo_Bald%C3%A9"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29922019",
-      "answerKey": "sory kaba"
+      "answerKey": "sory kaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sory_Kaba"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6787142",
-      "answerKey": "mathias pogba"
+      "answerKey": "mathias pogba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathias_Pogba"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q523740",
-      "answerKey": "mamadou bah"
+      "answerKey": "mamadou bah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamadou_Bah"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718183",
-      "answerKey": "kabine komara"
+      "answerKey": "kabine komara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kabin%C3%A9_Komara"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q732550",
-      "answerKey": "tierno monenembo"
+      "answerKey": "tierno monenembo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tierno_Mon%C3%A9nembo"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q518309",
-      "answerKey": "kamil zayatte"
+      "answerKey": "kamil zayatte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamil_Zayatte"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q739715",
-      "answerKey": "cellou dalein diallo"
+      "answerKey": "cellou dalein diallo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cellou_Dalein_Diallo"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q401526",
-      "answerKey": "ahmed tidiane souare"
+      "answerKey": "ahmed tidiane souare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Tidiane_Souar%C3%A9"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99539412",
-      "answerKey": "saidou sow"
+      "answerKey": "saidou sow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sa%C3%AFdou_Sow"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30122316",
-      "answerKey": "mohamed camara"
+      "answerKey": "mohamed camara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mady_Camara"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2481309",
-      "answerKey": "ibrahima conte"
+      "answerKey": "ibrahima conte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahima_Cont%C3%A9_(footballer%2C_born_1991)"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2481309",
-      "answerKey": "ibrahima conte"
+      "answerKey": "ibrahima conte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahima_Cont%C3%A9_(footballer%2C_born_1991)"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55819538",
-      "answerKey": "mohamed ali camara"
+      "answerKey": "mohamed ali camara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ali_Camara"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59528545",
-      "answerKey": "bafode diakite"
+      "answerKey": "bafode diakite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bafod%C3%A9_Diakit%C3%A9"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21855433",
-      "answerKey": "mamady youla"
+      "answerKey": "mamady youla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamady_Youla"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552486",
-      "answerKey": "oumar kalabane"
+      "answerKey": "oumar kalabane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oumar_Kalabane"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18057177",
-      "answerKey": "jose kante"
+      "answerKey": "jose kante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Kant%C3%A9"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1343963",
-      "answerKey": "lansana kouyate"
+      "answerKey": "lansana kouyate",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lansana_Kouyat%C3%A9"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg",
+  "updated": "2025-12-14T22:19:39.829Z",
+  "wikipediaLinksAdded": true
 }

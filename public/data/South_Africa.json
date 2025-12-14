@@ -13,7 +13,8 @@
       "deathYear": "2013",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8023",
-      "answerKey": "nelson mandela"
+      "answerKey": "nelson mandela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "technology entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317521",
-      "answerKey": "elon musk"
+      "answerKey": "elon musk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elon_Musk"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2014",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47619",
-      "answerKey": "nadine gordimer"
+      "answerKey": "nadine gordimer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadine_Gordimer"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80046",
-      "answerKey": "charlize theron"
+      "answerKey": "charlize theron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlize_Theron"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2021",
       "occupation": "anti-apartheid activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43033",
-      "answerKey": "desmond tutu"
+      "answerKey": "desmond tutu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Tutu"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43293",
-      "answerKey": "j m coetzee"
+      "answerKey": "j m coetzee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._M._Coetzee"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101547",
-      "answerKey": "thabo mbeki"
+      "answerKey": "thabo mbeki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thabo_Mbeki"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57282",
-      "answerKey": "jacob zuma"
+      "answerKey": "jacob zuma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Zuma"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1148669",
-      "answerKey": "cyril ramaphosa"
+      "answerKey": "cyril ramaphosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyril_Ramaphosa"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2008",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q146256",
-      "answerKey": "miriam makeba"
+      "answerKey": "miriam makeba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Makeba"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2008",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q146256",
-      "answerKey": "miriam makeba"
+      "answerKey": "miriam makeba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Makeba"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2021",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151813",
-      "answerKey": "f w de klerk"
+      "answerKey": "f w de klerk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/F._W._de_Klerk"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1977",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214473",
-      "answerKey": "steve biko"
+      "answerKey": "steve biko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Biko"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2019",
       "occupation": "geneticist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234463",
-      "answerKey": "sydney brenner"
+      "answerKey": "sydney brenner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sydney_Brenner"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201377",
-      "answerKey": "oscar pistorius"
+      "answerKey": "oscar pistorius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Pistorius"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "private astronaut",
       "wikidataUrl": "http://www.wikidata.org/entity/Q227030",
-      "answerKey": "mark shuttleworth"
+      "answerKey": "mark shuttleworth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Shuttleworth"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239062",
-      "answerKey": "winnie madikizelamandela"
+      "answerKey": "winnie madikizelamandela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winnie_Mandela"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2001",
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188803",
-      "answerKey": "christiaan barnard"
+      "answerKey": "christiaan barnard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christiaan_Barnard"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1967",
       "occupation": "anti-apartheid activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212955",
-      "answerKey": "albert john mvumbi luthuli"
+      "answerKey": "albert john mvumbi luthuli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Luthuli"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1998",
       "occupation": "biophysicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q223542",
-      "answerKey": "allan mcleod cormack"
+      "answerKey": "allan mcleod cormack",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_MacLeod_Cormack"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1972",
       "occupation": "virologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46928",
-      "answerKey": "max theiler"
+      "answerKey": "max theiler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Theiler"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152327",
-      "answerKey": "kgalema motlanthe"
+      "answerKey": "kgalema motlanthe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kgalema_Motlanthe"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "biophysicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6832227",
-      "answerKey": "michael levitt"
+      "answerKey": "michael levitt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Levitt_(biophysicist)"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2006",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212286",
-      "answerKey": "p w botha"
+      "answerKey": "p w botha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P._W._Botha"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208466",
-      "answerKey": "charlene princess of monaco"
+      "answerKey": "charlene princess of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlene%2C_Princess_of_Monaco"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233981",
-      "answerKey": "candice swanepoel"
+      "answerKey": "candice swanepoel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Candice_Swanepoel"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1362028",
-      "answerKey": "troye sivan"
+      "answerKey": "troye sivan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Troye_Sivan"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1362028",
-      "answerKey": "troye sivan"
+      "answerKey": "troye sivan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Troye_Sivan"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192955",
-      "answerKey": "steve nash"
+      "answerKey": "steve nash",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Nash"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1994",
       "occupation": "war photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q262660",
-      "answerKey": "kevin carter"
+      "answerKey": "kevin carter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Carter"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297739",
-      "answerKey": "arnold vosloo"
+      "answerKey": "arnold vosloo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_Vosloo"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172775",
-      "answerKey": "jody scheckter"
+      "answerKey": "jody scheckter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jody_Scheckter"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193488",
-      "answerKey": "steven pienaar"
+      "answerKey": "steven pienaar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Pienaar"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5834",
-      "answerKey": "caster semenya"
+      "answerKey": "caster semenya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caster_Semenya"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150276",
-      "answerKey": "nkosazana dlaminizuma"
+      "answerKey": "nkosazana dlaminizuma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nkosazana_Dlamini-Zuma"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "television maker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7839350",
-      "answerKey": "trevor noah"
+      "answerKey": "trevor noah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Trevor_Noah"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "television maker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7839350",
-      "answerKey": "trevor noah"
+      "answerKey": "trevor noah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Trevor_Noah"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2021",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q357970",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilbur_Smith"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1966",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297000",
-      "answerKey": "hendrik frensch verwoerd"
+      "answerKey": "hendrik frensch verwoerd",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hendrik_Verwoerd"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2017",
       "occupation": "opinion journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217069",
-      "answerKey": "peter abrahams"
+      "answerKey": "peter abrahams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Abrahams"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1988",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361623",
-      "answerKey": "alan paton"
+      "answerKey": "alan paton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Paton"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214233",
-      "answerKey": "benni mccarthy"
+      "answerKey": "benni mccarthy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benni_McCarthy"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239105",
-      "answerKey": "graca machel"
+      "answerKey": "graca machel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gra%C3%A7a_Machel"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1993",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359579",
-      "answerKey": "oliver tambo"
+      "answerKey": "oliver tambo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oliver_Tambo"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2018",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q246594",
-      "answerKey": "hugh masekela"
+      "answerKey": "hugh masekela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugh_Masekela"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q512353",
-      "answerKey": "sharlto copley"
+      "answerKey": "sharlto copley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharlto_Copley"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2015",
       "occupation": "literary scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380664",
-      "answerKey": "andre brink"
+      "answerKey": "andre brink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Brink"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238712",
-      "answerKey": "sasha pieterse"
+      "answerKey": "sasha pieterse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sasha_Pieterse"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299956",
-      "answerKey": "kevin anderson"
+      "answerKey": "kevin anderson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Anderson_(tennis)"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16855376",
-      "answerKey": "wayde van niekerk"
+      "answerKey": "wayde van niekerk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wayde_van_Niekerk"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+  "updated": "2025-12-14T22:22:17.666Z",
+  "wikipediaLinksAdded": true
 }

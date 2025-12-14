@@ -13,7 +13,8 @@
       "deathYear": "1973",
       "occupation": "drypoint engraver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5593",
-      "answerKey": "pablo picasso"
+      "answerKey": "pablo picasso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1973",
       "occupation": "drypoint engraver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5593",
-      "answerKey": "pablo picasso"
+      "answerKey": "pablo picasso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1989",
       "occupation": "holographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5577",
-      "answerKey": "salvador dali"
+      "answerKey": "salvador dali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q615",
-      "answerKey": "lionel messi"
+      "answerKey": "lionel messi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lionel_Messi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1828",
       "occupation": "lithographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5432",
-      "answerKey": "francisco goya"
+      "answerKey": "francisco goya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Goya"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1830",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
-      "answerKey": "simon bolivar"
+      "answerKey": "simon bolivar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1660",
       "occupation": "visual artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297",
-      "answerKey": "diego velazquez"
+      "answerKey": "diego velazquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1547",
       "occupation": "explorer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7326",
-      "answerKey": "hernan cortes"
+      "answerKey": "hernan cortes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34424",
-      "answerKey": "shakira"
+      "answerKey": "shakira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakira"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34424",
-      "answerKey": "shakira"
+      "answerKey": "shakira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakira"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10132",
-      "answerKey": "rafael nadal"
+      "answerKey": "rafael nadal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafael_Nadal"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1936",
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41408",
-      "answerKey": "federico garcia lorca"
+      "answerKey": "federico garcia lorca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1975",
       "occupation": "spanish legionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29179",
-      "answerKey": "francisco franco"
+      "answerKey": "francisco franco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Franco"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1926",
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25328",
-      "answerKey": "antoni gaudi"
+      "answerKey": "antoni gaudi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2025",
       "occupation": "broadcaster",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39803",
-      "answerKey": "mario vargas llosa"
+      "answerKey": "mario vargas llosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Vargas_Llosa"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "royalty",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19943",
-      "answerKey": "juan carlos i of spain"
+      "answerKey": "juan carlos i of spain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Carlos_I"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1635",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165257",
-      "answerKey": "lope de vega"
+      "answerKey": "lope de vega",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lope_de_Vega"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1992",
       "occupation": "social democrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
-      "answerKey": "willy brandt"
+      "answerKey": "willy brandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Brandt"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "vegetarian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10514",
-      "answerKey": "fernando alonso"
+      "answerKey": "fernando alonso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Alonso"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39666",
-      "answerKey": "penelope cruz"
+      "answerKey": "penelope cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39666",
-      "answerKey": "penelope cruz"
+      "answerKey": "penelope cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pen%C3%A9lope_Cruz"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191045",
-      "answerKey": "felipe vi of spain"
+      "answerKey": "felipe vi of spain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Felipe_VI"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "land registrar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10819",
-      "answerKey": "mariano rajoy"
+      "answerKey": "mariano rajoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariano_Rajoy"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39444",
-      "answerKey": "ronaldinho"
+      "answerKey": "ronaldinho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronaldinho"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1598",
       "occupation": "ruler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34417",
-      "answerKey": "philip ii of spain"
+      "answerKey": "philip ii of spain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1582",
       "occupation": "religious sister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174880",
-      "answerKey": "teresa of avila"
+      "answerKey": "teresa of avila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43729",
-      "answerKey": "andres iniesta"
+      "answerKey": "andres iniesta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1556",
       "occupation": "Catholic theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44281",
-      "answerKey": "ignatius of loyola"
+      "answerKey": "ignatius of loyola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1983",
       "occupation": "carpets designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152384",
-      "answerKey": "joan miro"
+      "answerKey": "joan miro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Mir%C3%B3"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1681",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170800",
-      "answerKey": "pedro calderon de la barca"
+      "answerKey": "pedro calderon de la barca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1958",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131318",
-      "answerKey": "juan ramon jimenez"
+      "answerKey": "juan ramon jimenez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1954",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83184",
-      "answerKey": "jacinto benavente"
+      "answerKey": "jacinto benavente",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacinto_Benavente"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11584",
-      "answerKey": "iker casillas"
+      "answerKey": "iker casillas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iker_Casillas"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232458",
-      "answerKey": "natalia oreiro"
+      "answerKey": "natalia oreiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Oreiro"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6070218",
-      "answerKey": "pedro sanchez"
+      "answerKey": "pedro sanchez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_S%C3%A1nchez"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41548",
-      "answerKey": "antonio banderas"
+      "answerKey": "antonio banderas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Banderas"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2002",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132589",
-      "answerKey": "camilo jose cela"
+      "answerKey": "camilo jose cela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Jos%C3%A9_Cela"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4740163",
-      "answerKey": "carles puigdemont"
+      "answerKey": "carles puigdemont",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carles_Puigdemont"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41395",
-      "answerKey": "jose luis rodriguez zapatero"
+      "answerKey": "jose luis rodriguez zapatero",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_Zapatero"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55171",
-      "answerKey": "pedro almodovar"
+      "answerKey": "pedro almodovar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2006",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q482931",
-      "answerKey": "ferenc puskas"
+      "answerKey": "ferenc puskas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1992",
       "occupation": "linguistic rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561147",
-      "answerKey": "joan fuster ortells"
+      "answerKey": "joan fuster ortells",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Fuster"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17500",
-      "answerKey": "xavi hernandez"
+      "answerKey": "xavi hernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xavi_(footballer%2C_born_1980)"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47122",
-      "answerKey": "enrique iglesias"
+      "answerKey": "enrique iglesias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Iglesias"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1895",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103285",
-      "answerKey": "jose marti"
+      "answerKey": "jose marti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1936",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185085",
-      "answerKey": "miguel de unamuno"
+      "answerKey": "miguel de unamuno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_de_Unamuno"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42731",
-      "answerKey": "fernando torres"
+      "answerKey": "fernando torres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Torres"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1983",
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51545",
-      "answerKey": "luis bunuel"
+      "answerKey": "luis bunuel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Bu%C3%B1uel"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1934",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150526",
-      "answerKey": "santiago ramon y cajal"
+      "answerKey": "santiago ramon y cajal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1934",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150526",
-      "answerKey": "santiago ramon y cajal"
+      "answerKey": "santiago ramon y cajal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+  "updated": "2025-12-14T22:22:29.252Z",
+  "wikipediaLinksAdded": true
 }

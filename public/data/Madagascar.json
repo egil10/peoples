@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "disc jockey",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57363",
-      "answerKey": "andry rajoelina"
+      "answerKey": "andry rajoelina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andry_Rajoelina"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155554",
-      "answerKey": "marc ravalomanana"
+      "answerKey": "marc ravalomanana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Ravalomanana"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15382355",
-      "answerKey": "hery rajaonarimampianina"
+      "answerKey": "hery rajaonarimampianina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hery_Rajaonarimampianina"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1978",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315944",
-      "answerKey": "philibert tsiranana"
+      "answerKey": "philibert tsiranana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philibert_Tsiranana"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2021",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315953",
-      "answerKey": "didier ratsiraka"
+      "answerKey": "didier ratsiraka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Didier_Ratsiraka"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54806925",
-      "answerKey": "christian ntsay"
+      "answerKey": "christian ntsay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Ntsay"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1810",
       "occupation": "king",
       "wikidataUrl": "http://www.wikidata.org/entity/Q218622",
-      "answerKey": "andrianampoinimerina"
+      "answerKey": "andrianampoinimerina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrianampoinimerina"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2017",
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559672",
-      "answerKey": "albert zafy"
+      "answerKey": "albert zafy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Zafy"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1979",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365387",
-      "answerKey": "gabriel ramanantsoa"
+      "answerKey": "gabriel ramanantsoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Ramanantsoa"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q436247",
-      "answerKey": "jeremy morel"
+      "answerKey": "jeremy morel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Morel"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1863",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q218628",
-      "answerKey": "radama ii"
+      "answerKey": "radama ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radama_II"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559681",
-      "answerKey": "richard ratsimandrava"
+      "answerKey": "richard ratsimandrava",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Ratsimandrava"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1270736",
-      "answerKey": "desire tsarahazana"
+      "answerKey": "desire tsarahazana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Tsarahazana"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q727140",
-      "answerKey": "norbert ratsirahonana"
+      "answerKey": "norbert ratsirahonana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norbert_Ratsirahonana"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2009",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468825",
-      "answerKey": "jacques sylla"
+      "answerKey": "jacques sylla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Sylla"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57859",
-      "answerKey": "omer beriziky"
+      "answerKey": "omer beriziky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omer_Beriziky"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2017930",
-      "answerKey": "anicet andrianantenaina"
+      "answerKey": "anicet andrianantenaina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anicet_Abel"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2080781",
-      "answerKey": "albert camille vital"
+      "answerKey": "albert camille vital",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Camille_Vital"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455641",
-      "answerKey": "charles rabemananjara"
+      "answerKey": "charles rabemananjara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Rabemananjara"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27589887",
-      "answerKey": "gisele rabesahala"
+      "answerKey": "gisele rabesahala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gis%C3%A8le_Rabesahala"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18785199",
-      "answerKey": "jean ravelonarivo"
+      "answerKey": "jean ravelonarivo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Ravelonarivo"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2067151",
-      "answerKey": "cecile manorohanta"
+      "answerKey": "cecile manorohanta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9cile_Manorohanta"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q930216",
-      "answerKey": "paulin voavy"
+      "answerKey": "paulin voavy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulin_Voavy"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "radiologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16326590",
-      "answerKey": "roger kolo"
+      "answerKey": "roger kolo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Kolo"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56635616",
-      "answerKey": "rivo rakotovao"
+      "answerKey": "rivo rakotovao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivo_Rakotovao"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1395522",
-      "answerKey": "faneva ima andriatsima"
+      "answerKey": "faneva ima andriatsima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faneva_Im%C3%A0_Andriatsima"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "climate activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q111342326",
-      "answerKey": "marie christina kolo"
+      "answerKey": "marie christina kolo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie_Christina_Kolo"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3440726",
-      "answerKey": "romain metanire"
+      "answerKey": "romain metanire",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Romain_M%C3%A9tanire"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q659940",
-      "answerKey": "carolus andriamatsinoro"
+      "answerKey": "carolus andriamatsinoro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolus_Andriamatsinoro"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983558",
-      "answerKey": "desire rakotoarijaona"
+      "answerKey": "desire rakotoarijaona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9_Rakotoarijaona"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1055926",
-      "answerKey": "lalaina nomenjanahary"
+      "answerKey": "lalaina nomenjanahary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lala%C3%AFna_Nomenjanahary"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2003",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1442346",
-      "answerKey": "francisque ravony"
+      "answerKey": "francisque ravony",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisque_Ravony"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1975",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1715006",
-      "answerKey": "jerome rakotomalala"
+      "answerKey": "jerome rakotomalala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Rakotomalala"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1993",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q533519",
-      "answerKey": "victor razafimahatratra"
+      "answerKey": "victor razafimahatratra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Razafimahatratra"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q955388",
-      "answerKey": "nicole ramalalanirina"
+      "answerKey": "nicole ramalalanirina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicole_Ramalalanirina"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2572328",
-      "answerKey": "jeanluc raharimanana"
+      "answerKey": "jeanluc raharimanana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Luc_Raharimanana"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q984519",
-      "answerKey": "tantely andrianarivo"
+      "answerKey": "tantely andrianarivo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tantely_Andrianarivo"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23782689",
-      "answerKey": "olivier mahafaly solonandrasana"
+      "answerKey": "olivier mahafaly solonandrasana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olivier_Mahafaly_Solonandrasana"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24005769",
-      "answerKey": "rayan raveloson"
+      "answerKey": "rayan raveloson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayan_Raveloson"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "Prime Minister of Madagascar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q136542212",
-      "answerKey": "herintsalama rajaonarivelo"
+      "answerKey": "herintsalama rajaonarivelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herintsalama_Rajaonarivelo"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9164152",
-      "answerKey": "jhon baggio rakotonomenjanahary"
+      "answerKey": "jhon baggio rakotonomenjanahary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baggio_Rakotonomenjanahary"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q722025",
-      "answerKey": "odon marie arsene razanakolona"
+      "answerKey": "odon marie arsene razanakolona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odon_Razanakolona"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1894",
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3557035",
-      "answerKey": "victoire rasoamanarivo"
+      "answerKey": "victoire rasoamanarivo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoire_Rasoamanarivo"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3421105",
-      "answerKey": "raymond rajaonarivelo"
+      "answerKey": "raymond rajaonarivelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Rajaonarivelo"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5360422",
-      "answerKey": "eliane saholinirina"
+      "answerKey": "eliane saholinirina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eliane_Saholinirina"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22338260",
-      "answerKey": "christine razanamahasoa"
+      "answerKey": "christine razanamahasoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christine_Razanamahasoa"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1272960",
-      "answerKey": "dgary"
+      "answerKey": "dgary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D'Gary"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112304073",
-      "answerKey": "sidonie fiadanantsoa"
+      "answerKey": "sidonie fiadanantsoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidonie_Fiadanantsoa"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10445810",
-      "answerKey": "pascal razakanantenaina"
+      "answerKey": "pascal razakanantenaina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Razakanantenaina"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14618311",
-      "answerKey": "lalao ravalomanana"
+      "answerKey": "lalao ravalomanana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lalao_Ravalomanana"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg",
+  "updated": "2025-12-14T22:17:48.574Z",
+  "wikipediaLinksAdded": true
 }

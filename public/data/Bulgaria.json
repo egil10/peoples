@@ -13,7 +13,8 @@
       "deathYear": "1994",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80064",
-      "answerKey": "elias canetti"
+      "answerKey": "elias canetti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_Canetti"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183439",
-      "answerKey": "nina dobrev"
+      "answerKey": "nina dobrev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nina_Dobrev"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26257557",
-      "answerKey": "rumen radev"
+      "answerKey": "rumen radev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rumen_Radev"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "karateka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57775",
-      "answerKey": "boyko borissov"
+      "answerKey": "boyko borissov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boyko_Borisov"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159876",
-      "answerKey": "julia kristeva"
+      "answerKey": "julia kristeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Kristeva"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187125",
-      "answerKey": "hristo stoichkov"
+      "answerKey": "hristo stoichkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hristo_Stoichkov"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1996",
       "occupation": "psychic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229625",
-      "answerKey": "baba vanga"
+      "answerKey": "baba vanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baba_Vanga"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1921",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310630",
-      "answerKey": "ivan vazov"
+      "answerKey": "ivan vazov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Vazov"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1998",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28517",
-      "answerKey": "todor zhivkov"
+      "answerKey": "todor zhivkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Todor_Zhivkov"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172798",
-      "answerKey": "veselin topalov"
+      "answerKey": "veselin topalov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Veselin_Topalov"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57261",
-      "answerKey": "georgi parvanov"
+      "answerKey": "georgi parvanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgi_Parvanov"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170235",
-      "answerKey": "dimitar berbatov"
+      "answerKey": "dimitar berbatov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimitar_Berbatov"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1060355",
-      "answerKey": "simeon ii of bulgaria"
+      "answerKey": "simeon ii of bulgaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simeon_Saxe-Coburg-Gotha"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1948",
       "occupation": "zoological collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151667",
-      "answerKey": "ferdinand i of bulgaria"
+      "answerKey": "ferdinand i of bulgaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_I_of_Bulgaria"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1943",
       "occupation": "train driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159585",
-      "answerKey": "boris iii of bulgaria"
+      "answerKey": "boris iii of bulgaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_III_of_Bulgaria"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230850",
-      "answerKey": "irina bokova"
+      "answerKey": "irina bokova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irina_Bokova"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295212",
-      "answerKey": "rosen plevneliev"
+      "answerKey": "rosen plevneliev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosen_Plevneliev"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107467",
-      "answerKey": "annamaria ravnopolskadean"
+      "answerKey": "annamaria ravnopolskadean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna-Maria_Ravnopolska-Dean"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "high jumper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232008",
-      "answerKey": "stefka kostadinova"
+      "answerKey": "stefka kostadinova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefka_Kostadinova"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2017",
       "occupation": "semiologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313852",
-      "answerKey": "tzvetan todorov"
+      "answerKey": "tzvetan todorov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tzvetan_Todorov"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1993",
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362106",
-      "answerKey": "boris christoff"
+      "answerKey": "boris christoff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Christoff"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1993",
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362106",
-      "answerKey": "boris christoff"
+      "answerKey": "boris christoff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Christoff"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q265277",
-      "answerKey": "kristalina georgieva"
+      "answerKey": "kristalina georgieva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristalina_Georgieva"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1190731",
-      "answerKey": "ilian stoyanov"
+      "answerKey": "ilian stoyanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilian_Stoyanov"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2015",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q276567",
-      "answerKey": "zhelyu zhelev"
+      "answerKey": "zhelyu zhelev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhelyu_Zhelev"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q100740782",
-      "answerKey": "maria bakalova"
+      "answerKey": "maria bakalova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Bakalova"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166263",
-      "answerKey": "stiliyan petrov"
+      "answerKey": "stiliyan petrov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stiliyan_Petrov"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238810",
-      "answerKey": "antoaneta stefanova"
+      "answerKey": "antoaneta stefanova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoaneta_Stefanova"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238810",
-      "answerKey": "antoaneta stefanova"
+      "answerKey": "antoaneta stefanova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoaneta_Stefanova"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47765",
-      "answerKey": "kiril metkov"
+      "answerKey": "kiril metkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiril_Metkov"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "907",
       "occupation": "monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311057",
-      "answerKey": "boris i of bulgaria"
+      "answerKey": "boris i of bulgaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_I_of_Bulgaria"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202117",
-      "answerKey": "sergei stanishev"
+      "answerKey": "sergei stanishev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergey_Stanishev"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202117",
-      "answerKey": "sergei stanishev"
+      "answerKey": "sergei stanishev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergey_Stanishev"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206644",
-      "answerKey": "martin petrov"
+      "answerKey": "martin petrov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Petrov"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81215",
-      "answerKey": "petar stoyanov"
+      "answerKey": "petar stoyanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petar_Stoyanov"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81215",
-      "answerKey": "petar stoyanov"
+      "answerKey": "petar stoyanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petar_Stoyanov"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "television presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236491",
-      "answerKey": "poli genova"
+      "answerKey": "poli genova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poli_Genova"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21932286",
-      "answerKey": "kristian kostov"
+      "answerKey": "kristian kostov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristian_Kostov"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106928258",
-      "answerKey": "kiril petkov"
+      "answerKey": "kiril petkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiril_Petkov"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q337681",
-      "answerKey": "grigor dimitrov"
+      "answerKey": "grigor dimitrov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grigor_Dimitrov"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "chansonnier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240885",
-      "answerKey": "sylvie vartan"
+      "answerKey": "sylvie vartan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvie_Vartan"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2017",
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311259",
-      "answerKey": "naim suleymanoglu"
+      "answerKey": "naim suleymanoglu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naim_S%C3%BCleymano%C4%9Flu"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "831",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q276527",
-      "answerKey": "omurtag of bulgaria"
+      "answerKey": "omurtag of bulgaria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omurtag_of_Bulgaria"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313380",
-      "answerKey": "krasimir balakov"
+      "answerKey": "krasimir balakov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Krasimir_Balakov"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1978",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q528781",
-      "answerKey": "pancho vladigerov"
+      "answerKey": "pancho vladigerov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pancho_Vladigerov"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229460",
-      "answerKey": "tsvetana pironkova"
+      "answerKey": "tsvetana pironkova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsvetana_Pironkova"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21621351",
-      "answerKey": "victoria georgieva"
+      "answerKey": "victoria georgieva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoria_Georgieva"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342411",
-      "answerKey": "emil kostadinov"
+      "answerKey": "emil kostadinov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Kostadinov"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2000",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81144",
-      "answerKey": "petar mladenov"
+      "answerKey": "petar mladenov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petar_Mladenov"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "physical chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28536878",
-      "answerKey": "nikolai denkov"
+      "answerKey": "nikolai denkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolai_Denkov"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
+  "updated": "2025-12-14T22:12:11.933Z",
+  "wikipediaLinksAdded": true
 }

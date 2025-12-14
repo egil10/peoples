@@ -13,7 +13,8 @@
       "deathYear": "2018",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1785",
-      "answerKey": "charles aznavour"
+      "answerKey": "charles aznavour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Aznavour"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q612803",
-      "answerKey": "serzh sargsyan"
+      "answerKey": "serzh sargsyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serzh_Sargsyan"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7035479",
-      "answerKey": "nikol pashinyan"
+      "answerKey": "nikol pashinyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikol_Pashinyan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93153",
-      "answerKey": "armen sarkissian"
+      "answerKey": "armen sarkissian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armen_Sarkissian"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q196219",
-      "answerKey": "henrikh mkhitaryan"
+      "answerKey": "henrikh mkhitaryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q613051",
-      "answerKey": "robert kocharyan"
+      "answerKey": "robert kocharyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Kocharyan"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1996",
       "occupation": "astrophysicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164396",
-      "answerKey": "victor ambartsumian"
+      "answerKey": "victor ambartsumian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Ambartsumian"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2020",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471740",
-      "answerKey": "armen dzhigarkhanyan"
+      "answerKey": "armen dzhigarkhanyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armen_Dzhigarkhanyan"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154586",
-      "answerKey": "levon aronian"
+      "answerKey": "levon aronian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Levon_Aronian"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q612949",
-      "answerKey": "levon terpetrosyan"
+      "answerKey": "levon terpetrosyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Levon_Ter-Petrosyan"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3553274",
-      "answerKey": "vahagn khachatryan"
+      "answerKey": "vahagn khachatryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vahagn_Khachaturyan"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "rally driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181501",
-      "answerKey": "david nalbandian"
+      "answerKey": "david nalbandian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Nalbandian"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229383",
-      "answerKey": "sirusho"
+      "answerKey": "sirusho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirusho"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229383",
-      "answerKey": "sirusho"
+      "answerKey": "sirusho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirusho"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110233",
-      "answerKey": "tigran sargsyan"
+      "answerKey": "tigran sargsyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tigran_Sargsyan"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "KVN actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15493504",
-      "answerKey": "aram mp3"
+      "answerKey": "aram mp3",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aram_Mp3"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3539876",
-      "answerKey": "iveta mukuchyan"
+      "answerKey": "iveta mukuchyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iveta_Mukuchyan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2006",
       "occupation": "opinion journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2417449",
-      "answerKey": "silva kaputikyan"
+      "answerKey": "silva kaputikyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silva_Kaputikyan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235880",
-      "answerKey": "eva rivas"
+      "answerKey": "eva rivas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eva_Rivas"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2002",
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312859",
-      "answerKey": "yousuf karsh"
+      "answerKey": "yousuf karsh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yousuf_Karsh"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2007",
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215782",
-      "answerKey": "andranik margaryan"
+      "answerKey": "andranik margaryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andranik_Margaryan"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270978",
-      "answerKey": "karekin ii"
+      "answerKey": "karekin ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karekin_II"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1979923",
-      "answerKey": "karen karapetyan"
+      "answerKey": "karen karapetyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karen_Karapetyan"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16370810",
-      "answerKey": "artur aleksanyan"
+      "answerKey": "artur aleksanyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Artur_Aleksanyan"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360462",
-      "answerKey": "bako sahakyan"
+      "answerKey": "bako sahakyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bako_Sahakyan"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q440802",
-      "answerKey": "yura movsisyan"
+      "answerKey": "yura movsisyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yura_Movsisyan"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2007",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1971489",
-      "answerKey": "gohar gasparyan"
+      "answerKey": "gohar gasparyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gohar_Gasparyan"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1992",
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q541175",
-      "answerKey": "lusine zakaryan"
+      "answerKey": "lusine zakaryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lusine_Zakaryan"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2633067",
-      "answerKey": "hovik abrahamyan"
+      "answerKey": "hovik abrahamyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hovik_Abrahamyan"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1999",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q279396",
-      "answerKey": "vazgen sargsyan"
+      "answerKey": "vazgen sargsyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vazgen_Sargsyan"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2021",
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471537",
-      "answerKey": "djivan gasparyan"
+      "answerKey": "djivan gasparyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Djivan_Gasparyan"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "poker player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16199296",
-      "answerKey": "dan bilzerian"
+      "answerKey": "dan bilzerian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Bilzerian"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28036716",
-      "answerKey": "artsvik"
+      "answerKey": "artsvik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Artsvik"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1993",
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718622",
-      "answerKey": "frunzik mkrtchyan"
+      "answerKey": "frunzik mkrtchyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frunzik_Mkrtchyan"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59314138",
-      "answerKey": "srbuk"
+      "answerKey": "srbuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Srbuk"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2023",
       "occupation": "artistic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q542057",
-      "answerKey": "albert azaryan"
+      "answerKey": "albert azaryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Azaryan"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q50141657",
-      "answerKey": "sevak khanagyan"
+      "answerKey": "sevak khanagyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sevak_Khanagyan"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433358",
-      "answerKey": "elina danielian"
+      "answerKey": "elina danielian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elina_Danielian"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116647724",
-      "answerKey": "brunette"
+      "answerKey": "brunette",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brunette_(singer)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2006",
       "occupation": "ceramicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6761777",
-      "answerKey": "mariam aslamazian"
+      "answerKey": "mariam aslamazian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariam_Aslamazyan"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123819429",
-      "answerKey": "parg"
+      "answerKey": "parg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parg_(musician)"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44625",
-      "answerKey": "armen nazaryan"
+      "answerKey": "armen nazaryan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armen_Nazaryan"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380839",
-      "answerKey": "vladimir akopian"
+      "answerKey": "vladimir akopian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Akopian"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465784",
-      "answerKey": "susianna kentikian"
+      "answerKey": "susianna kentikian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susi_Kentikian"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q363452",
-      "answerKey": "robert emmiyan"
+      "answerKey": "robert emmiyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Emmiyan"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1875808",
-      "answerKey": "arsen julfalakyan"
+      "answerKey": "arsen julfalakyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arsen_Julfalakyan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2012",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463194",
-      "answerKey": "alexander arutiunian"
+      "answerKey": "alexander arutiunian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Arutiunian"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2018",
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1398518",
-      "answerKey": "yurik vardanyan"
+      "answerKey": "yurik vardanyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yurik_Vardanyan"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469893",
-      "answerKey": "hasmik papian"
+      "answerKey": "hasmik papian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hasmik_Papian"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": "1993",
       "occupation": "archaeologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q545875",
-      "answerKey": "monte melkonian"
+      "answerKey": "monte melkonian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monte_Melkonian"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:10:46.103Z",
+  "wikipediaLinksAdded": true
 }

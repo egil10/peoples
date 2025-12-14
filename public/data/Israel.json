@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "political writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43723",
-      "answerKey": "benjamin netanyahu"
+      "answerKey": "benjamin netanyahu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37876",
-      "answerKey": "natalie portman"
+      "answerKey": "natalie portman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalie_Portman"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1973",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37610",
-      "answerKey": "david bengurion"
+      "answerKey": "david bengurion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Ben-Gurion"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1978",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42992",
-      "answerKey": "golda meir"
+      "answerKey": "golda meir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Golda_Meir"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2016",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57410",
-      "answerKey": "shimon peres"
+      "answerKey": "shimon peres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shimon_Peres"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2014",
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60206",
-      "answerKey": "ariel sharon"
+      "answerKey": "ariel sharon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Sharon"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1995",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34060",
-      "answerKey": "yizhak rabin"
+      "answerKey": "yizhak rabin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yitzhak_Rabin"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2016",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18391",
-      "answerKey": "elie wiesel"
+      "answerKey": "elie wiesel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elie_Wiesel"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1992",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130873",
-      "answerKey": "menachem begin"
+      "answerKey": "menachem begin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menachem_Begin"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1970",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133042",
-      "answerKey": "shmuel yosef agnon"
+      "answerKey": "shmuel yosef agnon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "beauty pageant winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185654",
-      "answerKey": "gal gadot"
+      "answerKey": "gal gadot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gal_Gadot"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "lexicographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469925",
-      "answerKey": "ghilad zuckermann"
+      "answerKey": "ghilad zuckermann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghil'ad_Zuckermann"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "molecular biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7426",
-      "answerKey": "ada yonath"
+      "answerKey": "ada yonath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ada_Yonath"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "advocate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93181",
-      "answerKey": "ehud olmert"
+      "answerKey": "ehud olmert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ehud_Olmert"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "popular science author",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2484404",
-      "answerKey": "yuval noah harari"
+      "answerKey": "yuval noah harari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yuval_Noah_Harari"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39318",
-      "answerKey": "naftali bennett"
+      "answerKey": "naftali bennett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naftali_Bennett"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1965",
       "occupation": "Bible translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q84423",
-      "answerKey": "martin buber"
+      "answerKey": "martin buber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Buber"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1981",
       "occupation": "archaeologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188783",
-      "answerKey": "moshe dayan"
+      "answerKey": "moshe dayan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moshe_Dayan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2024",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233950",
-      "answerKey": "daniel kahneman"
+      "answerKey": "daniel kahneman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Kahneman"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455854",
-      "answerKey": "reuven rivlin"
+      "answerKey": "reuven rivlin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reuven_Rivlin"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "newspaper editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1396120",
-      "answerKey": "yair lapid"
+      "answerKey": "yair lapid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yair_Lapid"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "advocate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983258",
-      "answerKey": "isaac herzog"
+      "answerKey": "isaac herzog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaac_Herzog"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "crystallographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44111",
-      "answerKey": "dan shechtman"
+      "answerKey": "dan shechtman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Shechtman"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "crystallographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44111",
-      "answerKey": "dan shechtman"
+      "answerKey": "dan shechtman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Shechtman"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1952",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172183",
-      "answerKey": "chaim weizmann"
+      "answerKey": "chaim weizmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chaim_Weizmann"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2012",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184351",
-      "answerKey": "yitzhak shamir"
+      "answerKey": "yitzhak shamir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yitzhak_Shamir"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q125731",
-      "answerKey": "ehud barak"
+      "answerKey": "ehud barak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ehud_Barak"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151796",
-      "answerKey": "tzipi livni"
+      "answerKey": "tzipi livni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tzipi_Livni"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2018",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151872",
-      "answerKey": "amos oz"
+      "answerKey": "amos oz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amos_Oz"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "biochemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233205",
-      "answerKey": "aaron ciechanover"
+      "answerKey": "aaron ciechanover",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Ciechanover"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171428",
-      "answerKey": "roman abramovich"
+      "answerKey": "roman abramovich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Abramovich"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181832",
-      "answerKey": "moshe katsav"
+      "answerKey": "moshe katsav",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moshe_Katsav"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191123",
-      "answerKey": "levi eshkol"
+      "answerKey": "levi eshkol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Levi_Eshkol"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48654131",
-      "answerKey": "netta barzilai"
+      "answerKey": "netta barzilai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Netta_Barzilai"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157235",
-      "answerKey": "robert aumann"
+      "answerKey": "robert aumann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Aumann"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157235",
-      "answerKey": "robert aumann"
+      "answerKey": "robert aumann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Aumann"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "biophysicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6832227",
-      "answerKey": "michael levitt"
+      "answerKey": "michael levitt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Levitt_(biophysicist)"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1968",
       "occupation": "theatre critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28480",
-      "answerKey": "max brod"
+      "answerKey": "max brod",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Brod"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171962",
-      "answerKey": "yochanan vollach"
+      "answerKey": "yochanan vollach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yochanan_Vollach"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201204",
-      "answerKey": "dana international"
+      "answerKey": "dana international",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana_International"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201204",
-      "answerKey": "dana international"
+      "answerKey": "dana international",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dana_International"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1965",
       "occupation": "zionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208477",
-      "answerKey": "moshe sharett"
+      "answerKey": "moshe sharett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moshe_Sharett"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "biochemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232302",
-      "answerKey": "avram hershko"
+      "answerKey": "avram hershko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avram_Hershko"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58311",
-      "answerKey": "avigdor lieberman"
+      "answerKey": "avigdor lieberman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avigdor_Lieberman"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1997",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295141",
-      "answerKey": "chaim herzog"
+      "answerKey": "chaim herzog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chaim_Herzog"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "biophysicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4790366",
-      "answerKey": "arieh warshel"
+      "answerKey": "arieh warshel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arieh_Warshel"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2000",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q111087",
-      "answerKey": "ofra haza"
+      "answerKey": "ofra haza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ofra_Haza"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "music director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152768",
-      "answerKey": "daniel barenboim"
+      "answerKey": "daniel barenboim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Barenboim"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2003",
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q219569",
-      "answerKey": "ilan ramon"
+      "answerKey": "ilan ramon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilan_Ramon"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160263",
-      "answerKey": "david grossman"
+      "answerKey": "david grossman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Grossman"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg",
+  "updated": "2025-12-14T22:16:15.425Z",
+  "wikipediaLinksAdded": true
 }

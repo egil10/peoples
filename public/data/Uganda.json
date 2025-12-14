@@ -13,7 +13,8 @@
       "deathYear": "2003",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48231",
-      "answerKey": "idi amin"
+      "answerKey": "idi amin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Idi_Amin"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57274",
-      "answerKey": "yoweri museveni"
+      "answerKey": "yoweri museveni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoweri_Museveni"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "housing counselor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28034971",
-      "answerKey": "zohran mamdani"
+      "answerKey": "zohran mamdani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zohran_Mamdani"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q210069",
-      "answerKey": "milton obote"
+      "answerKey": "milton obote",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milton_Obote"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17403005",
-      "answerKey": "joshua cheptegei"
+      "answerKey": "joshua cheptegei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Cheptegei"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "climate activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83614709",
-      "answerKey": "vanessa nakate"
+      "answerKey": "vanessa nakate",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vanessa_Nakate"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242051",
-      "answerKey": "irshad manji"
+      "answerKey": "irshad manji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irshad_Manji"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1702",
-      "answerKey": "stephen kiprotich"
+      "answerKey": "stephen kiprotich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Kiprotich"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26838082",
-      "answerKey": "peruth chemutai"
+      "answerKey": "peruth chemutai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peruth_Chemutai"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356026",
-      "answerKey": "muteesa ii of buganda"
+      "answerKey": "muteesa ii of buganda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mutesa_II_of_Buganda"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1997",
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372259",
-      "answerKey": "john akiibua"
+      "answerKey": "john akiibua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Akii-Bua"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372613",
-      "answerKey": "phill lewis"
+      "answerKey": "phill lewis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phill_Lewis"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2024",
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115110885",
-      "answerKey": "rebecca cheptegei"
+      "answerKey": "rebecca cheptegei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rebecca_Cheptegei"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2019",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320005",
-      "answerKey": "apolo nsibambi"
+      "answerKey": "apolo nsibambi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apolo_Nsibambi"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62481397",
-      "answerKey": "robinah nabbanja"
+      "answerKey": "robinah nabbanja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robinah_Nabbanja"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26705067",
-      "answerKey": "halimah nakaayi"
+      "answerKey": "halimah nakaayi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Halimah_Nakaayi"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26455795",
-      "answerKey": "jacob kiplimo"
+      "answerKey": "jacob kiplimo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Kiplimo"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "Catholic deacon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q918295",
-      "answerKey": "emmanuel wamala"
+      "answerKey": "emmanuel wamala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Wamala"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4935806",
-      "answerKey": "bobi wine"
+      "answerKey": "bobi wine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobi_Wine"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1026465",
-      "answerKey": "rebecca kadaga"
+      "answerKey": "rebecca kadaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rebecca_Kadaga"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1740843",
-      "answerKey": "ruhakana rugunda"
+      "answerKey": "ruhakana rugunda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruhakana_Rugunda"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21759",
-      "answerKey": "winnie byanyima"
+      "answerKey": "winnie byanyima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winnie_Byanyima"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4795033",
-      "answerKey": "gladys kalemazikusoka"
+      "answerKey": "gladys kalemazikusoka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gladys_Kalema-Zikusoka"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q263372",
-      "answerKey": "dorcus inzikuru"
+      "answerKey": "dorcus inzikuru",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorcus_Inzikuru"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42717997",
-      "answerKey": "victor kiplangat"
+      "answerKey": "victor kiplangat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Kiplangat"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3658171",
-      "answerKey": "phiona mutesi"
+      "answerKey": "phiona mutesi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phiona_Mutesi"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1886",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q560121",
-      "answerKey": "karoli lwanga"
+      "answerKey": "karoli lwanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Lwanga"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "anthropologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q723502",
-      "answerKey": "mahmood mamdani"
+      "answerKey": "mahmood mamdani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmood_Mamdani"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2018",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q913737",
-      "answerKey": "geoffrey oryema"
+      "answerKey": "geoffrey oryema",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geoffrey_Oryema"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57873",
-      "answerKey": "amama mbabazi"
+      "answerKey": "amama mbabazi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amama_Mbabazi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q544606",
-      "answerKey": "specioza kazibwe"
+      "answerKey": "specioza kazibwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Specioza_Kazibwe"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q556009",
-      "answerKey": "moses ndiema kipsiro"
+      "answerKey": "moses ndiema kipsiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moses_Ndiema_Kipsiro"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "LGBTQ rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q460865",
-      "answerKey": "kasha nabagesera"
+      "answerKey": "kasha nabagesera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasha_Nabagesera"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714662",
-      "answerKey": "martin mutumba"
+      "answerKey": "martin mutumba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Kayongo-Mutumba"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7661016",
-      "answerKey": "sylvia tamale"
+      "answerKey": "sylvia tamale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvia_Tamale"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5590968",
-      "answerKey": "grace akello"
+      "answerKey": "grace akello",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grace_Akello"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q740847",
-      "answerKey": "denis onyango"
+      "answerKey": "denis onyango",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Onyango"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "chemical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26702189",
-      "answerKey": "nana kagga"
+      "answerKey": "nana kagga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nana_Kagga"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1972",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q486016",
-      "answerKey": "benedicto kiwanuka"
+      "answerKey": "benedicto kiwanuka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benedicto_Kiwanuka"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "LGBTQ rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q519453",
-      "answerKey": "frank mugisha"
+      "answerKey": "frank mugisha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Mugisha"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q696437",
-      "answerKey": "ibrahim sekagya"
+      "answerKey": "ibrahim sekagya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Sekagya"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q630274",
-      "answerKey": "muwenda mutebi ii of buganda"
+      "answerKey": "muwenda mutebi ii of buganda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muwenda_Mutebi_II_of_Buganda"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6828319",
-      "answerKey": "micheal azira"
+      "answerKey": "micheal azira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micheal_Azira"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17466523",
-      "answerKey": "solomon mutai"
+      "answerKey": "solomon mutai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomon_Mutai"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6153522",
-      "answerKey": "janet museveni"
+      "answerKey": "janet museveni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janet_Museveni"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1331145",
-      "answerKey": "elizabeth nyabongo"
+      "answerKey": "elizabeth nyabongo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Elizabeth_of_Tooro"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "LGBTQ rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q71979350",
-      "answerKey": "cleopatra kambugu kentaro"
+      "answerKey": "cleopatra kambugu kentaro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cleopatra_Kambugu_Kentaro"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1903",
       "occupation": "Kabaka of Buganda",
       "wikidataUrl": "http://www.wikidata.org/entity/Q707775",
-      "answerKey": "mwanga ii of buganda"
+      "answerKey": "mwanga ii of buganda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mwanga_II_of_Buganda"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14324339",
-      "answerKey": "brandon davies"
+      "answerKey": "brandon davies",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brandon_Davies"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15056380",
-      "answerKey": "melvyn lorenzen"
+      "answerKey": "melvyn lorenzen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melvyn_Lorenzen"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
+  "updated": "2025-12-14T22:24:12.490Z",
+  "wikipediaLinksAdded": true
 }

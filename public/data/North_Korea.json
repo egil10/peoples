@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56226",
-      "answerKey": "kim jongun"
+      "answerKey": "kim jongun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Un"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1994",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41117",
-      "answerKey": "kim ilsung"
+      "answerKey": "kim ilsung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Il_Sung"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2011",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10665",
-      "answerKey": "kim jongil"
+      "answerKey": "kim jongil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Il"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4330912",
-      "answerKey": "kim yojong"
+      "answerKey": "kim yojong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Yo_Jong"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1955",
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
-      "answerKey": "park honyoung"
+      "answerKey": "park honyoung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Hon-yong"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1955",
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
-      "answerKey": "park honyoung"
+      "answerKey": "park honyoung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Hon-yong"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1956",
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
-      "answerKey": "park honyoung"
+      "answerKey": "park honyoung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Hon-yong"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1956",
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334297",
-      "answerKey": "park honyoung"
+      "answerKey": "park honyoung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Hon-yong"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2025",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110456",
-      "answerKey": "kim yongnam"
+      "answerKey": "kim yongnam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Yong-nam"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714658",
-      "answerKey": "ri solju"
+      "answerKey": "ri solju",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Sol-ju"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1949",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463949",
-      "answerKey": "kim jongsuk"
+      "answerKey": "kim jongsuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Jong-suk"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310673",
-      "answerKey": "jong taese"
+      "answerKey": "jong taese",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jong_Tae-se"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213110",
-      "answerKey": "ji yunnam"
+      "answerKey": "ji yunnam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ji_Yun-nam"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18437771",
-      "answerKey": "park yeonmi"
+      "answerKey": "park yeonmi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yeonmi_Park"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312943",
-      "answerKey": "an yonghak"
+      "answerKey": "an yonghak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/An_Yong-hak"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311934",
-      "answerKey": "hong yongjo"
+      "answerKey": "hong yongjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hong_Yong-jo"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318545",
-      "answerKey": "ri myongguk"
+      "answerKey": "ri myongguk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Myong-guk"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1991",
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466457",
-      "answerKey": "ho jongsuk"
+      "answerKey": "ho jongsuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ho_Jong-suk"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1991",
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466457",
-      "answerKey": "ho jongsuk"
+      "answerKey": "ho jongsuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ho_Jong-suk"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1976",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379667",
-      "answerKey": "choe yonggon"
+      "answerKey": "choe yonggon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Choe_Yong-gon_(official)"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714509",
-      "answerKey": "choe ryonghae"
+      "answerKey": "choe ryonghae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Choe_Ryong-hae"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25035961",
-      "answerKey": "kim tokhun"
+      "answerKey": "kim tokhun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Tok-hun"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1958",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334326",
-      "answerKey": "kim tubong"
+      "answerKey": "kim tubong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Tu-bong"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2002",
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356335",
-      "answerKey": "choi honghi"
+      "answerKey": "choi honghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Choi_Hong-hi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q437568",
-      "answerKey": "ryang yonggi"
+      "answerKey": "ryang yonggi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryang_Yong-gi"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1951",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q495480",
-      "answerKey": "kim chaek"
+      "answerKey": "kim chaek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Chaek"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14135",
-      "answerKey": "ri kwangchon"
+      "answerKey": "ri kwangchon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Kwang-chon"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2010",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471135",
-      "answerKey": "hwang jangyop"
+      "answerKey": "hwang jangyop",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hwang_Jang-yop"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361030",
-      "answerKey": "pak namchol"
+      "answerKey": "pak namchol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Nam-chol_(footballer%2C_born_1985)"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29100085",
-      "answerKey": "han kwangsong"
+      "answerKey": "han kwangsong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Han_Kwang-song"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271067",
-      "answerKey": "kim kyonghui"
+      "answerKey": "kim kyonghui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Kyong-hui"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q370475",
-      "answerKey": "ri junil"
+      "answerKey": "ri junil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Jun-il"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q488561",
-      "answerKey": "kim hyonhui"
+      "answerKey": "kim hyonhui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Hyon-hui"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2008",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q494597",
-      "answerKey": "pak songchol"
+      "answerKey": "pak songchol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Song-chol"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q710805",
-      "answerKey": "kim pyongil"
+      "answerKey": "kim pyongil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Pyong_Il"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1984",
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q482645",
-      "answerKey": "kim il"
+      "answerKey": "kim il",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Il_(politician)"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360793",
-      "answerKey": "mun inguk"
+      "answerKey": "mun inguk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mun_In-guk"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462515",
-      "answerKey": "pak choljin"
+      "answerKey": "pak choljin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Chol-jin"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16905281",
-      "answerKey": "pak thaesong"
+      "answerKey": "pak thaesong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Thae-song"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64075",
-      "answerKey": "shin donghyuk"
+      "answerKey": "shin donghyuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shin_Dong-hyuk"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2017",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q705958",
-      "answerKey": "charles robert jenkins"
+      "answerKey": "charles robert jenkins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Robert_Jenkins"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271566",
-      "answerKey": "jong songok"
+      "answerKey": "jong songok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jong_Song-ok"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12594422",
-      "answerKey": "ri yongho"
+      "answerKey": "ri yongho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Yong-ho_(diplomat)"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709945",
-      "answerKey": "pak kwangryong"
+      "answerKey": "pak kwangryong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Kwang-ryong"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "table tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26237729",
-      "answerKey": "kim songi"
+      "answerKey": "kim songi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Song-i"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q509373",
-      "answerKey": "pak namchol"
+      "answerKey": "pak namchol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pak_Nam-chol_(footballer%2C_born_1988)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546040",
-      "answerKey": "ri kwanghyok"
+      "answerKey": "ri kwanghyok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Kwang-hyok"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2000",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q495792",
-      "answerKey": "francis hong yongho"
+      "answerKey": "francis hong yongho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Hong_Yong-ho"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2016",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32258",
-      "answerKey": "james joseph dresnok"
+      "answerKey": "james joseph dresnok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Joseph_Dresnok"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "artistic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7322061",
-      "answerKey": "ri segwang"
+      "answerKey": "ri segwang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ri_Se-gwang"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg",
+  "updated": "2025-12-14T22:19:49.902Z",
+  "wikipediaLinksAdded": true
 }

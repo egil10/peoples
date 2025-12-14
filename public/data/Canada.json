@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "technology entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317521",
-      "answerKey": "elon musk"
+      "answerKey": "elon musk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elon_Musk"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34086",
-      "answerKey": "justin bieber"
+      "answerKey": "justin bieber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Bieber"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5105",
-      "answerKey": "celine dion"
+      "answerKey": "celine dion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celine_Dion"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5105",
-      "answerKey": "celine dion"
+      "answerKey": "celine dion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celine_Dion"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3099714",
-      "answerKey": "justin trudeau"
+      "answerKey": "justin trudeau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Trudeau"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
-      "answerKey": "avril lavigne"
+      "answerKey": "avril lavigne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
-      "answerKey": "avril lavigne"
+      "answerKey": "avril lavigne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2016",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1276",
-      "answerKey": "leonard cohen"
+      "answerKey": "leonard cohen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonard_Cohen"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2024",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234819",
-      "answerKey": "alice munro"
+      "answerKey": "alice munro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Munro"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "stand-up comedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40504",
-      "answerKey": "jim carrey"
+      "answerKey": "jim carrey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jim_Carrey"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43416",
-      "answerKey": "keanu reeves"
+      "answerKey": "keanu reeves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keanu_Reeves"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42574",
-      "answerKey": "james cameron"
+      "answerKey": "james cameron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Cameron"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188500",
-      "answerKey": "elisha cuthbert"
+      "answerKey": "elisha cuthbert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisha_Cuthbert"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206",
-      "answerKey": "stephen harper"
+      "answerKey": "stephen harper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Harper"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44077",
-      "answerKey": "jessica alba"
+      "answerKey": "jessica alba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessica_Alba"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "Canadian football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10738",
-      "answerKey": "dwayne johnson"
+      "answerKey": "dwayne johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwayne_Johnson"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83325",
-      "answerKey": "pamela anderson"
+      "answerKey": "pamela anderson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pamela_Anderson"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183492",
-      "answerKey": "margaret atwood"
+      "answerKey": "margaret atwood",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Atwood"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2021",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190523",
-      "answerKey": "christopher plummer"
+      "answerKey": "christopher plummer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Plummer"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1979",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104109",
-      "answerKey": "mary pickford"
+      "answerKey": "mary pickford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Pickford"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2024",
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103784",
-      "answerKey": "donald sutherland"
+      "answerKey": "donald sutherland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Sutherland"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190386",
-      "answerKey": "rachel mcadams"
+      "answerKey": "rachel mcadams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachel_McAdams"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "fashion photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q482907",
-      "answerKey": "bryan adams"
+      "answerKey": "bryan adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryan_Adams"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "fashion photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q482907",
-      "answerKey": "bryan adams"
+      "answerKey": "bryan adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryan_Adams"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "musicologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80424",
-      "answerKey": "nelly furtado"
+      "answerKey": "nelly furtado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelly_Furtado"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2023",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171758",
-      "answerKey": "matthew perry"
+      "answerKey": "matthew perry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Perry"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "video game actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192682",
-      "answerKey": "ryan reynolds"
+      "answerKey": "ryan reynolds",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Reynolds"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193815",
-      "answerKey": "ryan gosling"
+      "answerKey": "ryan gosling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Gosling"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2000",
       "occupation": "law professor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8619",
-      "answerKey": "pierre trudeau"
+      "answerKey": "pierre trudeau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Trudeau"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185724",
-      "answerKey": "mike myers"
+      "answerKey": "mike myers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Myers"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1980",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193871",
-      "answerKey": "marshall mcluhan"
+      "answerKey": "marshall mcluhan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marshall_McLuhan"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56855591",
-      "answerKey": "donna strickland"
+      "answerKey": "donna strickland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donna_Strickland"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "central bank governor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192533",
-      "answerKey": "mark carney"
+      "answerKey": "mark carney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Carney"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33240",
-      "answerKey": "drake"
+      "answerKey": "drake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Drake_(musician)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29328",
-      "answerKey": "brie larson"
+      "answerKey": "brie larson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brie_Larson"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29328",
-      "answerKey": "brie larson"
+      "answerKey": "brie larson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brie_Larson"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29328",
-      "answerKey": "brie larson"
+      "answerKey": "brie larson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brie_Larson"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q395274",
-      "answerKey": "michael j fox"
+      "answerKey": "michael j fox",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_J._Fox"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193555",
-      "answerKey": "brendan fraser"
+      "answerKey": "brendan fraser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brendan_Fraser"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2013",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2731624",
-      "answerKey": "conrad bain"
+      "answerKey": "conrad bain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Conrad_Bain"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2013",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2731624",
-      "answerKey": "conrad bain"
+      "answerKey": "conrad bain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Conrad_Bain"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2025",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180374",
-      "answerKey": "frank gehry"
+      "answerKey": "frank gehry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Gehry"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173399",
-      "answerKey": "elliot page"
+      "answerKey": "elliot page",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliot_Page"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130742",
-      "answerKey": "alanis morissette"
+      "answerKey": "alanis morissette",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alanis_Morissette"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "cultural critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6276882",
-      "answerKey": "jordan peterson"
+      "answerKey": "jordan peterson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordan_Peterson"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233748",
-      "answerKey": "akshay kumar"
+      "answerKey": "akshay kumar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akshay_Kumar"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160392",
-      "answerKey": "evangeline lilly"
+      "answerKey": "evangeline lilly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evangeline_Lilly"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183439",
-      "answerKey": "nina dobrev"
+      "answerKey": "nina dobrev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nina_Dobrev"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1972",
       "occupation": "high civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128604",
-      "answerKey": "lester b pearson"
+      "answerKey": "lester b pearson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lester_B._Pearson"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2010",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82786",
-      "answerKey": "leslie nielsen"
+      "answerKey": "leslie nielsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leslie_Nielsen"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg",
+  "updated": "2025-12-14T22:12:33.698Z",
+  "wikipediaLinksAdded": true
 }

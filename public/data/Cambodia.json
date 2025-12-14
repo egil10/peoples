@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13909",
-      "answerKey": "angelina jolie"
+      "answerKey": "angelina jolie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelina_Jolie"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1998",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39464",
-      "answerKey": "pol pot"
+      "answerKey": "pol pot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pol_Pot"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2012",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160318",
-      "answerKey": "norodom sihanouk"
+      "answerKey": "norodom sihanouk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Sihanouk"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57319",
-      "answerKey": "norodom sihamoni"
+      "answerKey": "norodom sihamoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Sihamoni"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57788",
-      "answerKey": "hun sen"
+      "answerKey": "hun sen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hun_Sen"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1985",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313400",
-      "answerKey": "lon nol"
+      "answerKey": "lon nol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lon_Nol"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1996",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312364",
-      "answerKey": "haing s ngor"
+      "answerKey": "haing s ngor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haing_S._Ngor"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13024351",
-      "answerKey": "hun manet"
+      "answerKey": "hun manet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hun_Manet"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10556037",
-      "answerKey": "chan vathanaka"
+      "answerKey": "chan vathanaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chan_Vathanaka"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2019",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379225",
-      "answerKey": "nuon chea"
+      "answerKey": "nuon chea",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nuon_Chea"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2013",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379232",
-      "answerKey": "ieng sary"
+      "answerKey": "ieng sary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ieng_Sary"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336412",
-      "answerKey": "kang kek iew"
+      "answerKey": "kang kek iew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kang_Kek_Iew"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379203",
-      "answerKey": "khieu samphan"
+      "answerKey": "khieu samphan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khieu_Samphan"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1960",
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1779614",
-      "answerKey": "norodom suramarit"
+      "answerKey": "norodom suramarit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Suramarit"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2008",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469846",
-      "answerKey": "dith pran"
+      "answerKey": "dith pran",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dith_Pran"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q381817",
-      "answerKey": "norodom ranariddh"
+      "answerKey": "norodom ranariddh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Ranariddh"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379197",
-      "answerKey": "heng samrin"
+      "answerKey": "heng samrin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heng_Samrin"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1904",
       "occupation": "king",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559803",
-      "answerKey": "norodom of cambodia"
+      "answerKey": "norodom of cambodia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_of_Cambodia"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q555559",
-      "answerKey": "francois chau"
+      "answerKey": "francois chau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Chau"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1927",
       "occupation": "king",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887995",
-      "answerKey": "sisowath of cambodia"
+      "answerKey": "sisowath of cambodia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisowath_of_Cambodia"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160027",
-      "answerKey": "son sann"
+      "answerKey": "son sann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Son_Sann"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160027",
-      "answerKey": "son sann"
+      "answerKey": "son sann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Son_Sann"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270152",
-      "answerKey": "ieng thirith"
+      "answerKey": "ieng thirith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ieng_Thirith"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2701376",
-      "answerKey": "sisowath sirik matak"
+      "answerKey": "sisowath sirik matak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisowath_Sirik_Matak"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1860",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q530150",
-      "answerKey": "ang duong"
+      "answerKey": "ang duong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang_Duong"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q266327",
-      "answerKey": "somaly mam"
+      "answerKey": "somaly mam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Somaly_Mam"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1985",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2232418",
-      "answerKey": "penn nouth"
+      "answerKey": "penn nouth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Penn_Nouth"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1874",
       "occupation": "queen regnant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q769218",
-      "answerKey": "ang mey"
+      "answerKey": "ang mey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang_Mey"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1875",
       "occupation": "queen regnant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q769218",
-      "answerKey": "ang mey"
+      "answerKey": "ang mey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ang_Mey"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4919438",
-      "answerKey": "norodom monineath"
+      "answerKey": "norodom monineath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Monineath"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4919438",
-      "answerKey": "norodom monineath"
+      "answerKey": "norodom monineath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Monineath"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "production designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1683688",
-      "answerKey": "rithy panh"
+      "answerKey": "rithy panh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rithy_Panh"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2009",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2506992",
-      "answerKey": "chau sen cocsal chhum"
+      "answerKey": "chau sen cocsal chhum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chau_Sen_Cocsal_Chhum"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2019",
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4925272",
-      "answerKey": "norodom buppha devi"
+      "answerKey": "norodom buppha devi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Buppha_Devi"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1975",
       "occupation": "queen consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4926056",
-      "answerKey": "sisowath kossamak"
+      "answerKey": "sisowath kossamak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisowath_Kossamak"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q656817",
-      "answerKey": "sam rainsy"
+      "answerKey": "sam rainsy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Rainsy"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1068666",
-      "answerKey": "chea sim"
+      "answerKey": "chea sim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chea_Sim"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1976",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3485020",
-      "answerKey": "sinn sisamouth"
+      "answerKey": "sinn sisamouth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sinn_Sisamouth"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23888152",
-      "answerKey": "leng ouch"
+      "answerKey": "leng ouch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leng_Ouch"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2025",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3085603",
-      "answerKey": "francois ponchaud"
+      "answerKey": "francois ponchaud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Ponchaud"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7427256",
-      "answerKey": "saukam khoy"
+      "answerKey": "saukam khoy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Khoy_Saukam"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2011",
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q611335",
-      "answerKey": "vann nath"
+      "answerKey": "vann nath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vann_Nath"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1539074",
-      "answerKey": "mu sochua"
+      "answerKey": "mu sochua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mu_Sochua"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1972",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9337266",
-      "answerKey": "sisowath watchayavong"
+      "answerKey": "sisowath watchayavong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisowath_Watchayavong"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18182646",
-      "answerKey": "sorn seavmey"
+      "answerKey": "sorn seavmey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sorn_Seavmey"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379178",
-      "answerKey": "vann molyvann"
+      "answerKey": "vann molyvann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vann_Molyvann"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1996",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3339377",
-      "answerKey": "nhiek tioulong"
+      "answerKey": "nhiek tioulong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nhiek_Tioulong"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4175345",
-      "answerKey": "yem sambaur"
+      "answerKey": "yem sambaur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yem_Sambaur"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6366022",
-      "answerKey": "kao kim hourn"
+      "answerKey": "kao kim hourn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kao_Kim_Hourn"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3488976",
-      "answerKey": "norodom arunrasmy"
+      "answerKey": "norodom arunrasmy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norodom_Arunrasmy"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
+  "updated": "2025-12-14T22:12:23.338Z",
+  "wikipediaLinksAdded": true
 }

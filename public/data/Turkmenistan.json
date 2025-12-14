@@ -13,7 +13,8 @@
       "deathYear": "2006",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82918",
-      "answerKey": "saparmurat niyazov"
+      "answerKey": "saparmurat niyazov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saparmurat_Niyazov"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57530",
-      "answerKey": "gurbanguly berdimuhamedow"
+      "answerKey": "gurbanguly berdimuhamedow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gurbanguly_Berdimuhamedow"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51874548",
-      "answerKey": "serdar berdimuhamedow"
+      "answerKey": "serdar berdimuhamedow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serdar_Berdimuhamedow"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "test cosmonaut",
       "wikidataUrl": "http://www.wikidata.org/entity/Q375659",
-      "answerKey": "oleg kononenko"
+      "answerKey": "oleg kononenko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Kononenko"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q368902",
-      "answerKey": "kurban berdyev"
+      "answerKey": "kurban berdyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kurban_Berdyev"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557336",
-      "answerKey": "ruslan mingazov"
+      "answerKey": "ruslan mingazov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruslan_Mingazow"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1435",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q600829",
-      "answerKey": "kara yuluk osman"
+      "answerKey": "kara yuluk osman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Qara_Yuluk_Uthman_Beg"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1435",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q600829",
-      "answerKey": "kara yuluk osman"
+      "answerKey": "kara yuluk osman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Qara_Yuluk_Uthman_Beg"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58141",
-      "answerKey": "rasit meredow"
+      "answerKey": "rasit meredow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ra%C5%9Fit_Meredow"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561553",
-      "answerKey": "rolan gusev"
+      "answerKey": "rolan gusev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolan_Gusev"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1392573",
-      "answerKey": "wladimir bayramow"
+      "answerKey": "wladimir bayramow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wladimir_Ba%C3%BDramow"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2641888",
-      "answerKey": "wahyt orazsahedow"
+      "answerKey": "wahyt orazsahedow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wahyt_Orazs%C3%A4hedow"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4063940",
-      "answerKey": "arslanmyrat amanow"
+      "answerKey": "arslanmyrat amanow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arslanmyrat_Amanow"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19364807",
-      "answerKey": "ahmet atayew"
+      "answerKey": "ahmet atayew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmet_Ata%C3%BDew"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1993620",
-      "answerKey": "wyaceslaw krendelew"
+      "answerKey": "wyaceslaw krendelew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/W%C3%BDa%C3%A7eslaw_Krendelew"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2023",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2029759",
-      "answerKey": "eduard bagirov"
+      "answerKey": "eduard bagirov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Bagirov"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2063483",
-      "answerKey": "han ahmedow"
+      "answerKey": "han ahmedow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Han_Ahmedow"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16678814",
-      "answerKey": "suleyman muhadov"
+      "answerKey": "suleyman muhadov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%BCle%C3%BDman_Muhadow"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1938",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1675923",
-      "answerKey": "ivan mezhlauk"
+      "answerKey": "ivan mezhlauk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Mezhlauk"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1860",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12554314",
-      "answerKey": "mollanepes"
+      "answerKey": "mollanepes",
+      "wikipediaUrl": null
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1862",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12554314",
-      "answerKey": "mollanepes"
+      "answerKey": "mollanepes",
+      "wikipediaUrl": null
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15855390",
-      "answerKey": "zafar babajanov"
+      "answerKey": "zafar babajanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zafar_Babajanow"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4328063",
-      "answerKey": "akja nurberdiyewa"
+      "answerKey": "akja nurberdiyewa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akja_Nurberdi%C3%BDewa"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4090810",
-      "answerKey": "aleksandr boliyan"
+      "answerKey": "aleksandr boliyan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Boli%C3%BDan"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117811704",
-      "answerKey": "dunyagozel gulmanowa"
+      "answerKey": "dunyagozel gulmanowa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C3%BCn%C3%BD%C3%A4g%C3%B6zel_Gulmanowa"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q553985",
-      "answerKey": "serdar hudayberdiyev"
+      "answerKey": "serdar hudayberdiyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serdar_Huda%C3%BDberdi%C3%BDew"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4025687",
-      "answerKey": "sohrat soyunow"
+      "answerKey": "sohrat soyunow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C5%9E%C3%B6hrat_S%C3%B6%C3%BD%C3%BCnow"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4498717",
-      "answerKey": "yazguly hojageldyyew"
+      "answerKey": "yazguly hojageldyyew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%9Dazguly_Hojageldy%C3%BDew"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7453027",
-      "answerKey": "serdar annaorazow"
+      "answerKey": "serdar annaorazow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serdar_Annaorazow"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48894112",
-      "answerKey": "mihail titow"
+      "answerKey": "mihail titow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mihail_Titow"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4217676",
-      "answerKey": "vitaliy kafanov"
+      "answerKey": "vitaliy kafanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitaly_Kafanov"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q540648",
-      "answerKey": "mesgen amanov"
+      "answerKey": "mesgen amanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mesgen_Amanov"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3377881",
-      "answerKey": "valentina meredova"
+      "answerKey": "valentina meredova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentina_Meredova"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3997121",
-      "answerKey": "tracey ann jacobson"
+      "answerKey": "tracey ann jacobson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tracey_Ann_Jacobson"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4207656",
-      "answerKey": "maksim kazankov"
+      "answerKey": "maksim kazankov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maksim_Kazankov"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16272895",
-      "answerKey": "arslanbek achilov"
+      "answerKey": "arslanbek achilov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arslanbek_A%C3%A7ilow"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60613068",
-      "answerKey": "wezirgeldi ylyasow"
+      "answerKey": "wezirgeldi ylyasow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wezirgeldi_Yl%C3%BDasow"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1985397",
-      "answerKey": "valeri masalitin"
+      "answerKey": "valeri masalitin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valeri_Masalitin"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4071901",
-      "answerKey": "aksoltan atayewa"
+      "answerKey": "aksoltan atayewa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aksoltan_Ata%C3%BDewa"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26789962",
-      "answerKey": "hojamuhammet toycyyew"
+      "answerKey": "hojamuhammet toycyyew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hojamuhammet_To%C3%BD%C3%A7y%C3%BDew"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31299669",
-      "answerKey": "yulduz jumabayewa"
+      "answerKey": "yulduz jumabayewa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yulduz_Jumabayeva"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48894110",
-      "answerKey": "resul hojayew"
+      "answerKey": "resul hojayew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Resul_Hoja%C3%BDew"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63761293",
-      "answerKey": "irina velihanova"
+      "answerKey": "irina velihanova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irina_Velihanova"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1960",
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7113240",
-      "answerKey": "ovanes ohanian"
+      "answerKey": "ovanes ohanian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ovanes_Ohanian"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2006",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4224286",
-      "answerKey": "izzat klychev"
+      "answerKey": "izzat klychev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Izzat_Klychev"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4525391",
-      "answerKey": "robert shlegel"
+      "answerKey": "robert shlegel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Schlegel"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380002",
-      "answerKey": "hydyr saparlyyew"
+      "answerKey": "hydyr saparlyyew",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hydyr_Saparlyev"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18200512",
-      "answerKey": "gulsat mammedowa"
+      "answerKey": "gulsat mammedowa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%BCl%C5%9Fat_M%C3%A4mmedowa"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24450605",
-      "answerKey": "danil poluboyarinov"
+      "answerKey": "danil poluboyarinov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danil_Poluboyarinov"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48870050",
-      "answerKey": "syhazberdi owelekow"
+      "answerKey": "syhazberdi owelekow",
+      "wikipediaUrl": null
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkmenistan.svg",
+  "updated": "2025-12-14T22:23:45.513Z",
+  "wikipediaLinksAdded": true
 }

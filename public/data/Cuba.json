@@ -13,7 +13,8 @@
       "deathYear": "1967",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5809",
-      "answerKey": "che guevara"
+      "answerKey": "che guevara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Che_Guevara"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2016",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11256",
-      "answerKey": "fidel castro"
+      "answerKey": "fidel castro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fidel_Castro"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46809",
-      "answerKey": "raul castro"
+      "answerKey": "raul castro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1942",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160702",
-      "answerKey": "jose raul capablanca"
+      "answerKey": "jose raul capablanca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1942",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160702",
-      "answerKey": "jose raul capablanca"
+      "answerKey": "jose raul capablanca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1973",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11270",
-      "answerKey": "fulgencio batista"
+      "answerKey": "fulgencio batista",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fulgencio_Batista"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1977",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220018",
-      "answerKey": "anais nin"
+      "answerKey": "anais nin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1932603",
-      "answerKey": "miguel diazcanel"
+      "answerKey": "miguel diazcanel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_D%C3%ADaz-Canel"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18810940",
-      "answerKey": "camila cabello"
+      "answerKey": "camila cabello",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camila_Cabello"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1976",
       "occupation": "exlibrist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154842",
-      "answerKey": "max ernst"
+      "answerKey": "max ernst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Ernst"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1980",
       "occupation": "ethnographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216466",
-      "answerKey": "alejo carpanter"
+      "answerKey": "alejo carpanter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejo_Carpentier"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184697",
-      "answerKey": "gloria estefan"
+      "answerKey": "gloria estefan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloria_Estefan"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q698173",
-      "answerKey": "ana de armas"
+      "answerKey": "ana de armas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_de_Armas"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189415",
-      "answerKey": "andy garcia"
+      "answerKey": "andy garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andy_Garcia"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2003",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q474045",
-      "answerKey": "celia cruz"
+      "answerKey": "celia cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celia_Cruz"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2003",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q474045",
-      "answerKey": "celia cruz"
+      "answerKey": "celia cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celia_Cruz"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1959",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26853",
-      "answerKey": "camilo cienfuegos"
+      "answerKey": "camilo cienfuegos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camilo_Cienfuegos"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "high jumper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208693",
-      "answerKey": "javier sotomayor"
+      "answerKey": "javier sotomayor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Javier_Sotomayor"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462790",
-      "answerKey": "mijain lopez"
+      "answerKey": "mijain lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mija%C3%ADn_L%C3%B3pez"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2001",
       "occupation": "fashion photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215938",
-      "answerKey": "alberto korda"
+      "answerKey": "alberto korda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Korda"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2012",
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q508514",
-      "answerKey": "teofilo stevenson"
+      "answerKey": "teofilo stevenson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Te%C3%B3filo_Stevenson"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559403",
-      "answerKey": "william levy"
+      "answerKey": "william levy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Levy_(actor)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559403",
-      "answerKey": "william levy"
+      "answerKey": "william levy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Levy_(actor)"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230644",
-      "answerKey": "maria teresa grand duchess of luxembourg"
+      "answerKey": "maria teresa grand duchess of luxembourg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Teresa%2C_Grand_Duchess_of_Luxembourg"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2003",
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316102",
-      "answerKey": "compay segundo"
+      "answerKey": "compay segundo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Compay_Segundo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "hurdler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9154",
-      "answerKey": "dayron robles"
+      "answerKey": "dayron robles",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dayron_Robles"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1983",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48690",
-      "answerKey": "osvaldo dorticos"
+      "answerKey": "osvaldo dorticos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osvaldo_Dortic%C3%B3s_Torrado"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2019",
       "occupation": "ballet teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236013",
-      "answerKey": "alicia alonso"
+      "answerKey": "alicia alonso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alicia_Alonso"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2005",
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q309913",
-      "answerKey": "ibrahim ferrer"
+      "answerKey": "ibrahim ferrer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Ferrer"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1989",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334118",
-      "answerKey": "nicolas guillen"
+      "answerKey": "nicolas guillen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Guill%C3%A9n"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "cosmonaut",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362902",
-      "answerKey": "arnaldo tamayo mendez"
+      "answerKey": "arnaldo tamayo mendez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnaldo_Tamayo_M%C3%A9ndez"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2005",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q302675",
-      "answerKey": "guillermo cabrera infante"
+      "answerKey": "guillermo cabrera infante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillermo_Cabrera_Infante"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1915",
       "occupation": "medical researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q742233",
-      "answerKey": "carlos juan finlay"
+      "answerKey": "carlos juan finlay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Finlay"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11172",
-      "answerKey": "addys mercedes"
+      "answerKey": "addys mercedes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Addys_Mercedes"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52667",
-      "answerKey": "alberto juantorena"
+      "answerKey": "alberto juantorena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Juantorena"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155449",
-      "answerKey": "faizon love"
+      "answerKey": "faizon love",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faizon_Love"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1986",
       "occupation": "jazz guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q472535",
-      "answerKey": "desi arnaz"
+      "answerKey": "desi arnaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desi_Arnaz"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1986",
       "occupation": "jazz guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q472535",
-      "answerKey": "desi arnaz"
+      "answerKey": "desi arnaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desi_Arnaz"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1908",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q322173",
-      "answerKey": "tomas estrada palma"
+      "answerKey": "tomas estrada palma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1s_Estrada_Palma"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85184404",
-      "answerKey": "chanel terrero"
+      "answerKey": "chanel terrero",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chanel_Terrero"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2007",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466662",
-      "answerKey": "vilma espin guillois"
+      "answerKey": "vilma espin guillois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilma_Esp%C3%ADn"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2009",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313729",
-      "answerKey": "juan almeida bosque"
+      "answerKey": "juan almeida bosque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Almeida_Bosque"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "session musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312336",
-      "answerKey": "dave lombardo"
+      "answerKey": "dave lombardo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Lombardo"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2017",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q432638",
-      "answerKey": "tomas milian"
+      "answerKey": "tomas milian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomas_Milian"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q79358625",
-      "answerKey": "manuel marrero cruz"
+      "answerKey": "manuel marrero cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Marrero_Cruz"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1989",
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154809",
-      "answerKey": "perez prado"
+      "answerKey": "perez prado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P%C3%A9rez_Prado"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271145",
-      "answerKey": "maria conchita alonso"
+      "answerKey": "maria conchita alonso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Conchita_Alonso"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q587319",
-      "answerKey": "yaime perez"
+      "answerKey": "yaime perez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaime_P%C3%A9rez"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q350746",
-      "answerKey": "adam rodriguez"
+      "answerKey": "adam rodriguez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Rodriguez"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q377956",
-      "answerKey": "silvio rodriguez"
+      "answerKey": "silvio rodriguez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvio_Rodr%C3%ADguez"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg",
+  "updated": "2025-12-14T22:13:12.263Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104622",
-      "answerKey": "tawakkol karman"
+      "answerKey": "tawakkol karman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tawakkol_Karman"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483672",
-      "answerKey": "ali abdullah saleh"
+      "answerKey": "ali abdullah saleh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Abdullah_Saleh"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57480",
-      "answerKey": "abdrabbuh mansour hadi"
+      "answerKey": "abdrabbuh mansour hadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdrabbuh_Mansour_Hadi"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2011",
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200964",
-      "answerKey": "anwar alawlaqi"
+      "answerKey": "anwar alawlaqi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_al-Awlaki"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12213376",
-      "answerKey": "rashad alalimi"
+      "answerKey": "rashad alalimi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashad_al-Alimi"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1967",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1951898",
-      "answerKey": "mohammed bin awad bin laden"
+      "answerKey": "mohammed bin awad bin laden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_bin_Ladin"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57373157",
-      "answerKey": "maeen abdulmalik saeed"
+      "answerKey": "maeen abdulmalik saeed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maeen_Abdulmalik_Saeed"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q542294",
-      "answerKey": "khadija alsalami"
+      "answerKey": "khadija alsalami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khadija_al-Salami"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19006319",
-      "answerKey": "mohammed ali alhouthi"
+      "answerKey": "mohammed ali alhouthi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_al-Houthi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20385886",
-      "answerKey": "ahmed obaid bin dagher"
+      "answerKey": "ahmed obaid bin dagher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Obaid_Bin_Dagher"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q924397",
-      "answerKey": "ali nasir muhammad"
+      "answerKey": "ali nasir muhammad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Nasir_Muhammad"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2015",
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16214585",
-      "answerKey": "ali raymi"
+      "answerKey": "ali raymi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Raymi"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52156087",
-      "answerKey": "mahdi almashat"
+      "answerKey": "mahdi almashat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahdi_al-Mashat"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6399485",
-      "answerKey": "khaled bahah"
+      "answerKey": "khaled bahah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khaled_Bahah"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19429078",
-      "answerKey": "saleh assammad"
+      "answerKey": "saleh assammad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_Ali_al-Sammad"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16119688",
-      "answerKey": "ahmad awad bin mubarak"
+      "answerKey": "ahmad awad bin mubarak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Awad_bin_Mubarak"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2086857",
-      "answerKey": "ali afif"
+      "answerKey": "ali afif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Afif"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "terrorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q659976",
-      "answerKey": "ramzi bin alshibh"
+      "answerKey": "ramzi bin alshibh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramzi_bin_al-Shibh"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123819200",
-      "answerKey": "yahya saree"
+      "answerKey": "yahya saree",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahya_Saree"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2555542",
-      "answerKey": "ali salim albeidh"
+      "answerKey": "ali salim albeidh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Salem_al-Beidh"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "preacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4120565",
-      "answerKey": "habib ali aljufri"
+      "answerKey": "habib ali aljufri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_al-Jifri"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20423647",
-      "answerKey": "nadia alsakkaf"
+      "answerKey": "nadia alsakkaf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadia_Al-Sakkaf"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7306912",
-      "answerKey": "reem al numery"
+      "answerKey": "reem al numery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reem_Al_Numery"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4678423",
-      "answerKey": "umar bin hafiz"
+      "answerKey": "umar bin hafiz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umar_bin_Hafiz"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12223068",
-      "answerKey": "abd alaziz ibn habtour"
+      "answerKey": "abd alaziz ibn habtour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdel-Aziz_bin_Habtour"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29430512",
-      "answerKey": "fadia najib thabet"
+      "answerKey": "fadia najib thabet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fadia_Najeeb_Thabet"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12199113",
-      "answerKey": "balqees ahmed fathi"
+      "answerKey": "balqees ahmed fathi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Balqees_(singer)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307252",
-      "answerKey": "abdul karim abdullah alarashi"
+      "answerKey": "abdul karim abdullah alarashi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Karim_Abdullah_al-Arashi"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2622743",
-      "answerKey": "abdul aziz abdul ghani"
+      "answerKey": "abdul aziz abdul ghani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Aziz_Abdul_Ghani"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26702680",
-      "answerKey": "nihal naj ali alawlaqi"
+      "answerKey": "nihal naj ali alawlaqi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nihal_Ali_Al-Awlaqi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2021",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4058917",
-      "answerKey": "mohsin ahmad alaini"
+      "answerKey": "mohsin ahmad alaini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohsin_Ahmad_al-Aini"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1969",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12227833",
-      "answerKey": "ali ahmad bakathir"
+      "answerKey": "ali ahmad bakathir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Ahmad_Bakathir"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2019",
       "occupation": "warrior",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1679844",
-      "answerKey": "jamal ahmad mohammad al badawi"
+      "answerKey": "jamal ahmad mohammad al badawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamal_Ahmad_Mohammad_Al_Badawi"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58297",
-      "answerKey": "abu bakr alqirbi"
+      "answerKey": "abu bakr alqirbi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Qirbi"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "911",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2745413",
-      "answerKey": "alhadi ilalhaqq yahya"
+      "answerKey": "alhadi ilalhaqq yahya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Hadi_ila'l-Haqq_Yahya"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2021",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104816462",
-      "answerKey": "ali saleh mohammed ali jaber"
+      "answerKey": "ali saleh mohammed ali jaber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheikh_Ali_Jaber"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q979788",
-      "answerKey": "ali mohsen alahmar"
+      "answerKey": "ali mohsen alahmar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mohsen_al-Ahmar"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22054939",
-      "answerKey": "aidarus alzoubaidi"
+      "answerKey": "aidarus alzoubaidi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aidarus_al-Zoubaidi"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1456",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7489675",
-      "answerKey": "sharifa fatima"
+      "answerKey": "sharifa fatima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharifa_Fatima"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12240557",
-      "answerKey": "muhammad said alattar"
+      "answerKey": "muhammad said alattar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Said_al-Attar"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2019",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665499",
-      "answerKey": "abd allatif dayfallah"
+      "answerKey": "abd allatif dayfallah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Latif_Dayfallah"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1999",
       "occupation": "lyricist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665920",
-      "answerKey": "abdullah albaradouni"
+      "answerKey": "abdullah albaradouni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_al-Baradouni"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33037293",
-      "answerKey": "razia almutawakil"
+      "answerKey": "razia almutawakil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radhya_Al-Mutawakel"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7489675",
-      "answerKey": "sharifa fatima"
+      "answerKey": "sharifa fatima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharifa_Fatima"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106206",
-      "answerKey": "tarek alwazir"
+      "answerKey": "tarek alwazir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarek_Al-Wazir"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26311375",
-      "answerKey": "talal aklan"
+      "answerKey": "talal aklan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Talal_Aklan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4539761",
-      "answerKey": "yahia badreddin alhouthi"
+      "answerKey": "yahia badreddin alhouthi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahia_al-Houthi"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4539761",
-      "answerKey": "yahia badreddin alhouthi"
+      "answerKey": "yahia badreddin alhouthi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahia_al-Houthi"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307637",
-      "answerKey": "abdullah ibn husayn alahmar"
+      "answerKey": "abdullah ibn husayn alahmar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_ibn_Husayn_al-Ahmar"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q400701",
-      "answerKey": "ahmad numan"
+      "answerKey": "ahmad numan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Muhammad_Numan"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg",
+  "updated": "2025-12-14T22:24:49.279Z",
+  "wikipediaLinksAdded": true
 }

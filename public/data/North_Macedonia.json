@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57436",
-      "answerKey": "gjorge ivanov"
+      "answerKey": "gjorge ivanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gjorge_Ivanov"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15967423",
-      "answerKey": "stevo pendarovski"
+      "answerKey": "stevo pendarovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stevo_Pendarovski"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463897",
-      "answerKey": "kaliopi"
+      "answerKey": "kaliopi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaliopi"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57766",
-      "answerKey": "nikola gruevski"
+      "answerKey": "nikola gruevski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Gruevski"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157111",
-      "answerKey": "branko crvenkovski"
+      "answerKey": "branko crvenkovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Branko_Crvenkovski"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2012",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153381",
-      "answerKey": "kiro gligorov"
+      "answerKey": "kiro gligorov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiro_Gligorov"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220579",
-      "answerKey": "zoran zaev"
+      "answerKey": "zoran zaev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zoran_Zaev"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238163",
-      "answerKey": "goran pandev"
+      "answerKey": "goran pandev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goran_Pandev"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q252304",
-      "answerKey": "stevica ristic"
+      "answerKey": "stevica ristic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stevica_Risti%C4%87"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2007",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220645",
-      "answerKey": "tose proeski"
+      "answerKey": "tose proeski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/To%C5%A1e_Proeski"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464412",
-      "answerKey": "goce sedloski"
+      "answerKey": "goce sedloski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goce_Sedloski"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12277168",
-      "answerKey": "gordana siljanovskadavkova"
+      "answerKey": "gordana siljanovskadavkova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordana_Siljanovska-Davkova"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2004",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q237782",
-      "answerKey": "boris trajkovski"
+      "answerKey": "boris trajkovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Trajkovski"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5231014",
-      "answerKey": "david babunski"
+      "answerKey": "david babunski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Babunski"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2016",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466531",
-      "answerKey": "esma redzepova"
+      "answerKey": "esma redzepova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esma_Red%C5%BEepova"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q253348",
-      "answerKey": "blerim dzemaili"
+      "answerKey": "blerim dzemaili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blerim_D%C5%BEemaili"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3512195",
-      "answerKey": "besart abdurahimi"
+      "answerKey": "besart abdurahimi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Besart_Abdurahimi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25409292",
-      "answerKey": "eljif elmas"
+      "answerKey": "eljif elmas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eljif_Elmas"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59914139",
-      "answerKey": "dejan kulusevski"
+      "answerKey": "dejan kulusevski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dejan_Kulusevski"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229453",
-      "answerKey": "karolina goceva"
+      "answerKey": "karolina goceva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karolina_Go%C4%8Deva"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q292310",
-      "answerKey": "tamara todevska"
+      "answerKey": "tamara todevska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamara_Todevska"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q434291",
-      "answerKey": "rade serbedzija"
+      "answerKey": "rade serbedzija",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rade_%C5%A0erbed%C5%BEija"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110288715",
-      "answerKey": "dimitar kovacevski"
+      "answerKey": "dimitar kovacevski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimitar_Kova%C4%8Devski"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311362",
-      "answerKey": "darko pancev"
+      "answerKey": "darko pancev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Darko_Pan%C4%8Dev"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2529738",
-      "answerKey": "vlado buckovski"
+      "answerKey": "vlado buckovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vlado_Bu%C4%8Dkovski"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15936571",
-      "answerKey": "ezgjan alioski"
+      "answerKey": "ezgjan alioski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezgjan_Alioski"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468647",
-      "answerKey": "tijana todevskadapcevic"
+      "answerKey": "tijana todevskadapcevic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tijana_Dap%C4%8Devi%C4%87"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456927",
-      "answerKey": "ivan trickovski"
+      "answerKey": "ivan trickovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Trichkovski"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q535908",
-      "answerKey": "aleksandar trajkovski"
+      "answerKey": "aleksandar trajkovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandar_Trajkovski"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q535908",
-      "answerKey": "aleksandar trajkovski"
+      "answerKey": "aleksandar trajkovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandar_Trajkovski"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46675558",
-      "answerKey": "hristijan mickoski"
+      "answerKey": "hristijan mickoski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hristijan_Mickoski"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46675558",
-      "answerKey": "hristijan mickoski"
+      "answerKey": "hristijan mickoski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hristijan_Mickoski"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16150184",
-      "answerKey": "naser aliji"
+      "answerKey": "naser aliji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naser_Aliji"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q162983",
-      "answerKey": "radmila sekerinska"
+      "answerKey": "radmila sekerinska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radmila_%C5%A0ekerinska"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7938953",
-      "answerKey": "vlado goreski"
+      "answerKey": "vlado goreski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vlado_Goreski"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27901756",
-      "answerKey": "jana burceska"
+      "answerKey": "jana burceska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jana_Bur%C4%8Deska"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232738",
-      "answerKey": "elena risteska"
+      "answerKey": "elena risteska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Risteska"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13860876",
-      "answerKey": "cedi osman"
+      "answerKey": "cedi osman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cedi_Osman"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5860953",
-      "answerKey": "talat xhaferi"
+      "answerKey": "talat xhaferi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Talat_Xhaferi"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q508713",
-      "answerKey": "pero antic"
+      "answerKey": "pero antic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pero_Anti%C4%87"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558481",
-      "answerKey": "milcho manchevski"
+      "answerKey": "milcho manchevski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milcho_Manchevski"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q563881",
-      "answerKey": "pajtim kasami"
+      "answerKey": "pajtim kasami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pajtim_Kasami"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65295873",
-      "answerKey": "vasil garvanliev"
+      "answerKey": "vasil garvanliev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vasil_Garvanliev"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3398852",
-      "answerKey": "lidija dimkovska"
+      "answerKey": "lidija dimkovska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lidija_Dimkovska"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2018541",
-      "answerKey": "stefan ristovski"
+      "answerKey": "stefan ristovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefan_Ristovski"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3973800",
-      "answerKey": "stole dimitrievski"
+      "answerKey": "stole dimitrievski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stole_Dimitrievski"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18534206",
-      "answerKey": "daniel kajmakoski"
+      "answerKey": "daniel kajmakoski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Kajmakoski"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "handball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462849",
-      "answerKey": "kiril lazarov"
+      "answerKey": "kiril lazarov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiril_Lazarov"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18391941",
-      "answerKey": "enis bardhi"
+      "answerKey": "enis bardhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enis_Bardhi"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106602773",
-      "answerKey": "andrea koevska"
+      "answerKey": "andrea koevska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_(Macedonian_singer)"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg",
+  "updated": "2025-12-14T22:19:54.764Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": "2022",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57313",
-      "answerKey": "jose eduardo dos santos"
+      "answerKey": "jose eduardo dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Eduardo_dos_Santos"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1979",
       "occupation": "physician writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181665",
-      "answerKey": "agostinho neto"
+      "answerKey": "agostinho neto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agostinho_Neto"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28650390",
-      "answerKey": "joao lourenco"
+      "answerKey": "joao lourenco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Louren%C3%A7o"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1921",
-      "answerKey": "blaise matuidi"
+      "answerKey": "blaise matuidi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blaise_Matuidi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62960177",
-      "answerKey": "eduardo camavinga"
+      "answerKey": "eduardo camavinga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Camavinga"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2002",
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273051",
-      "answerKey": "jonas malheiro savimbi"
+      "answerKey": "jonas malheiro savimbi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonas_Savimbi"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6298271",
-      "answerKey": "joao mario"
+      "answerKey": "joao mario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_M%C3%A1rio_(footballer%2C_born_January_1993)"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q304416",
-      "answerKey": "william carvalho"
+      "answerKey": "william carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Carvalho"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232501",
-      "answerKey": "leila lopes"
+      "answerKey": "leila lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leila_Lopes"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314541",
-      "answerKey": "rio mavuba"
+      "answerKey": "rio mavuba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rio_Mavuba"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q363927",
-      "answerKey": "jose eduardo agualusa"
+      "answerKey": "jose eduardo agualusa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Eduardo_Agualusa"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1709402",
-      "answerKey": "jose manuel imbamba"
+      "answerKey": "jose manuel imbamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Imbamba"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310815",
-      "answerKey": "nando dos santos"
+      "answerKey": "nando dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_da_Piedade_Dias_dos_Santos"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310815",
-      "answerKey": "nando dos santos"
+      "answerKey": "nando dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_da_Piedade_Dias_dos_Santos"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "socialite",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456034",
-      "answerKey": "isabel dos santos"
+      "answerKey": "isabel dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabel_dos_Santos"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q309890",
-      "answerKey": "manucho"
+      "answerKey": "manucho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manucho"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2024",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q302262",
-      "answerKey": "alexandre do nascimento"
+      "answerKey": "alexandre do nascimento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_do_Nascimento"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362312",
-      "answerKey": "flavio amado"
+      "answerKey": "flavio amado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Amado"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q424407",
-      "answerKey": "akwa"
+      "answerKey": "akwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akw%C3%A1"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4865527",
-      "answerKey": "bartolomeu jacinto quissanga"
+      "answerKey": "bartolomeu jacinto quissanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bastos_(footballer%2C_born_1991)"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2007",
       "occupation": "party leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1374575",
-      "answerKey": "alvaro holden roberto"
+      "answerKey": "alvaro holden roberto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Holden_Roberto"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q710252",
-      "answerKey": "jamba"
+      "answerKey": "jamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamba_(footballer)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q736858",
-      "answerKey": "pepetela"
+      "answerKey": "pepetela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepetela"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q508382",
-      "answerKey": "kali"
+      "answerKey": "kali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kali_(footballer)"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q521218",
-      "answerKey": "andre macanga"
+      "answerKey": "andre macanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Macanga"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26924424",
-      "answerKey": "florentino luis"
+      "answerKey": "florentino luis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Florentino_Lu%C3%ADs"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2024",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264090",
-      "answerKey": "franca vandunem"
+      "answerKey": "franca vandunem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Jos%C3%A9_de_Fran%C3%A7a_Dias_Van-D%C3%BAnem"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552823",
-      "answerKey": "djalma campos"
+      "answerKey": "djalma campos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Djalma_Campos"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q702870",
-      "answerKey": "nando rafael"
+      "answerKey": "nando rafael",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nando_Rafael"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954183",
-      "answerKey": "loco"
+      "answerKey": "loco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loc%C3%B3_(footballer)"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q373591",
-      "answerKey": "paulo kassoma"
+      "answerKey": "paulo kassoma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Kassoma"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18637707",
-      "answerKey": "clinton mata"
+      "answerKey": "clinton mata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clinton_Mata"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30474499",
-      "answerKey": "mbala nzola"
+      "answerKey": "mbala nzola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M'Bala_Nzola"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1990",
       "occupation": "philologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q941427",
-      "answerKey": "mario pinto de andrade"
+      "answerKey": "mario pinto de andrade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%A1rio_Pinto_de_Andrade"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q139186",
-      "answerKey": "zacarias kamwenho"
+      "answerKey": "zacarias kamwenho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zacarias_Kamwenho"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1342923",
-      "answerKey": "luis manuel ferreira delgado"
+      "answerKey": "luis manuel ferreira delgado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Delgado"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q603173",
-      "answerKey": "antonio mendonca"
+      "answerKey": "antonio mendonca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Mendon%C3%A7a"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q704669",
-      "answerKey": "love"
+      "answerKey": "love",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Love_(footballer)"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20676721",
-      "answerKey": "gelson dala"
+      "answerKey": "gelson dala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gelson_Dala"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1343949",
-      "answerKey": "titi buengo"
+      "answerKey": "titi buengo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Titi_Buengo"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1962",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q535235",
-      "answerKey": "alda lara"
+      "answerKey": "alda lara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alda_Lara"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "chief executive officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q973742",
-      "answerKey": "manuel vicente"
+      "answerKey": "manuel vicente",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Vicente"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q614876",
-      "answerKey": "miloy"
+      "answerKey": "miloy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miloy"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q460121",
-      "answerKey": "ana paula ribeiro tavares"
+      "answerKey": "ana paula ribeiro tavares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Paula_Ribeiro_Tavares"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q721279",
-      "answerKey": "sebastiao gilberto"
+      "answerKey": "sebastiao gilberto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilberto_(footballer%2C_born_1982)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6709653",
-      "answerKey": "bonga"
+      "answerKey": "bonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bonga_(musician)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18534020",
-      "answerKey": "maria borges"
+      "answerKey": "maria borges",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Borges"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1041993",
-      "answerKey": "joao ntyamba"
+      "answerKey": "joao ntyamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_N'Tyamba"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1399054",
-      "answerKey": "lopo do nascimento"
+      "answerKey": "lopo do nascimento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lopo_do_Nascimento"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "research scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q113613581",
-      "answerKey": "esperanca maria eduardo francisco da costa"
+      "answerKey": "esperanca maria eduardo francisco da costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esperan%C3%A7a_da_Costa"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg",
+  "updated": "2025-12-14T22:10:31.091Z",
+  "wikipediaLinksAdded": true
 }

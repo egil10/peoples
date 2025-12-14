@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57327",
-      "answerKey": "hassanal bolkiah i of brunei"
+      "answerKey": "hassanal bolkiah i of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassanal_Bolkiah"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "crown prince",
       "wikidataUrl": "http://www.wikidata.org/entity/Q431442",
-      "answerKey": "almuhtadee billah crown prince of brunei"
+      "answerKey": "almuhtadee billah crown prince of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Muhtadee_Billah"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1986",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40512",
-      "answerKey": "omar ali saifuddien iii of brunei"
+      "answerKey": "omar ali saifuddien iii of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_III"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2021",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1133956",
-      "answerKey": "cornelius sim"
+      "answerKey": "cornelius sim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelius_Sim"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q701041",
-      "answerKey": "wu chun"
+      "answerKey": "wu chun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wu_Chun"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468528",
-      "answerKey": "queen saleha of brunei"
+      "answerKey": "queen saleha of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Queen_Saleha_of_Brunei"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1924",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40110",
-      "answerKey": "muhammad jamalul alam ii"
+      "answerKey": "muhammad jamalul alam ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Jamalul_Alam_II"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1950",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q40111",
-      "answerKey": "ahmad tajuddin of brunei"
+      "answerKey": "ahmad tajuddin of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Tajuddin"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2020",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7243829",
-      "answerKey": "prince abdul azim of brunei"
+      "answerKey": "prince abdul azim of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Abdul_Azim_of_Brunei"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4682615",
-      "answerKey": "adi said"
+      "answerKey": "adi said",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adi_Said"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1885",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40390",
-      "answerKey": "abdul momin of brunei"
+      "answerKey": "abdul momin of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Momin"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "royalty",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468617",
-      "answerKey": "crown princess sarah of brunei"
+      "answerKey": "crown princess sarah of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah%2C_Crown_Princess_of_Brunei"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16234007",
-      "answerKey": "prince abdul mateen of brunei"
+      "answerKey": "prince abdul mateen of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Abdul_Mateen_of_Brunei"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1852",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40107",
-      "answerKey": "omar ali saifuddin ii of brunei"
+      "answerKey": "omar ali saifuddin ii of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddin_II"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6894045",
-      "answerKey": "mohd shahrazen said"
+      "answerKey": "mohd shahrazen said",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shah_Razen_Said"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20894953",
-      "answerKey": "mohamed fakhri ismail"
+      "answerKey": "mohamed fakhri ismail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fakhri_Ismail"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47536756",
-      "answerKey": "lim jock hoi"
+      "answerKey": "lim jock hoi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lim_Jock_Hoi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "royalty",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4264827",
-      "answerKey": "princess majeedah nuurul bolkiah"
+      "answerKey": "princess majeedah nuurul bolkiah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Majeedah_Nuurul_Bolkiah"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "flight attendant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110375702",
-      "answerKey": "mariam abdul aziz"
+      "answerKey": "mariam abdul aziz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariam_Abdul_Aziz"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58233",
-      "answerKey": "prince mohamed bolkiah of brunei"
+      "answerKey": "prince mohamed bolkiah of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Mohamed_Bolkiah"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "royalty",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665575",
-      "answerKey": "prince abdul muntaqim of brunei"
+      "answerKey": "prince abdul muntaqim of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Muntaqim"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16240159",
-      "answerKey": "muhammad isa ahmad"
+      "answerKey": "muhammad isa ahmad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Isa_Ahmad"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2002",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q1026800",
-      "answerKey": "a m azahari"
+      "answerKey": "a m azahari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A._M._Azahari"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4833139",
-      "answerKey": "azwan salleh"
+      "answerKey": "azwan salleh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Azwan_Saleh"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q47544939",
-      "answerKey": "princess rashidah saadatul bolkiah"
+      "answerKey": "princess rashidah saadatul bolkiah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Rashidah_Sa'adatul_Bolkiah"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q47544946",
-      "answerKey": "princess fadzilah lubabul bolkiah"
+      "answerKey": "princess fadzilah lubabul bolkiah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Fadzilah_Lubabul_Bolkiah"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7969222",
-      "answerKey": "wardun yusof"
+      "answerKey": "wardun yusof",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wardun_Yussof"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9286685",
-      "answerKey": "haseri asli"
+      "answerKey": "haseri asli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haseri_Asli"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6176403",
-      "answerKey": "prince jefri bolkiah of brunei"
+      "answerKey": "prince jefri bolkiah of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Jefri_Bolkiah"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q47544944",
-      "answerKey": "princess azemah nimatul bolkiah"
+      "answerKey": "princess azemah nimatul bolkiah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Azemah_Ni'matul_Bolkiah"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9163223",
-      "answerKey": "azman noor"
+      "answerKey": "azman noor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Azman_Ilham_Noor"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "mufti",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15437545",
-      "answerKey": "abdul aziz juned"
+      "answerKey": "abdul aziz juned",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Aziz_Juned"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "sport shooter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15650789",
-      "answerKey": "prince abdul hakeem jefri bolkiah"
+      "answerKey": "prince abdul hakeem jefri bolkiah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pengiran_Muda_Abdul_Hakeem"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "royalty",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19840595",
-      "answerKey": "prince abdul malik of brunei"
+      "answerKey": "prince abdul malik of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Abdul_Malik_of_Brunei"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20063715",
-      "answerKey": "yura indera putera yunos"
+      "answerKey": "yura indera putera yunos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yura_Indera_Putera"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20063715",
-      "answerKey": "yura indera putera yunos"
+      "answerKey": "yura indera putera yunos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yura_Indera_Putera"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64605915",
-      "answerKey": "erywan yusof"
+      "answerKey": "erywan yusof",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erywan_Yusof"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1982",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21078069",
-      "answerKey": "pengiran anak mohammad alam"
+      "answerKey": "pengiran anak mohammad alam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pengiran_Anak_Mohamed_Alam"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "explorer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3033127",
-      "answerKey": "dk najibah era alsufri"
+      "answerKey": "dk najibah era alsufri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dayangku_Najibah_Eradah"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6783481",
-      "answerKey": "princess masna of brunei"
+      "answerKey": "princess masna of brunei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Masna_Bolkiah"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6893980",
-      "answerKey": "mohd najib tarif"
+      "answerKey": "mohd najib tarif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Najib_Tarif"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47789511",
-      "answerKey": "muhd noor firdaus ar rasyid"
+      "answerKey": "muhd noor firdaus ar rasyid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhd_Noor_Firdaus_Ar-Rasyid"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7369084",
-      "answerKey": "rosmin muhammad kamis"
+      "answerKey": "rosmin muhammad kamis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosmin_Kamis"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110861786",
-      "answerKey": "khairunnisa ashari"
+      "answerKey": "khairunnisa ashari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khairunnisa_Ash'ari"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11816160",
-      "answerKey": "shah azahar abdullah ahar"
+      "answerKey": "shah azahar abdullah ahar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shah_Azahar_Abdullah_Ahar"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4829800",
-      "answerKey": "awangku fakhrazzi"
+      "answerKey": "awangku fakhrazzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fakharrazi_Hassan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5645424",
-      "answerKey": "hamizan aziz sulaiman"
+      "answerKey": "hamizan aziz sulaiman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamizan_Aziz_Sulaiman"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6758647",
-      "answerKey": "mardi anak bujang"
+      "answerKey": "mardi anak bujang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mardi_Mirza_Abdullah"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61114013",
-      "answerKey": "badaruddin bin othman"
+      "answerKey": "badaruddin bin othman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Badaruddin_Othman"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61114019",
-      "answerKey": "aminuddin ihsan bin abidin"
+      "answerKey": "aminuddin ihsan bin abidin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminuddin_Ihsan"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg",
+  "updated": "2025-12-14T22:12:06.929Z",
+  "wikipediaLinksAdded": true
 }

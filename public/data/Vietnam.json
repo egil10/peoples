@@ -13,7 +13,8 @@
       "deathYear": "2013",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q179910",
-      "answerKey": "vo nguyen giap"
+      "answerKey": "vo nguyen giap",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57407",
-      "answerKey": "truong tan sang"
+      "answerKey": "truong tan sang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_T%E1%BA%A5n_Sang"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7833292",
-      "answerKey": "tran ai quang"
+      "answerKey": "tran ai quang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Quang"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2024",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318458",
-      "answerKey": "nguyen phu trong"
+      "answerKey": "nguyen phu trong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BA_Tr%E1%BB%8Dng"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2022",
       "occupation": "religious studies scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310913",
-      "answerKey": "thich nhat hanh"
+      "answerKey": "thich nhat hanh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1990",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233969",
-      "answerKey": "le duc tho"
+      "answerKey": "le duc tho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10800073",
-      "answerKey": "nguyen xuan phuc"
+      "answerKey": "nguyen xuan phuc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Xu%C3%A2n_Ph%C3%BAc"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57400",
-      "answerKey": "nguyen minh triet"
+      "answerKey": "nguyen minh triet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Minh_Tri%E1%BA%BFt"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57600",
-      "answerKey": "nguyen tan dung"
+      "answerKey": "nguyen tan dung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_T%E1%BA%A5n_D%C5%A9ng"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1963",
       "occupation": "Buddhist monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271847",
-      "answerKey": "thich quang uc"
+      "answerKey": "thich quang uc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q460346",
-      "answerKey": "le cong vinh"
+      "answerKey": "le cong vinh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%AA_C%C3%B4ng_Vinh"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2025",
       "occupation": "cartographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q139324",
-      "answerKey": "tran uc luong"
+      "answerKey": "tran uc luong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BB%A9c_L%C6%B0%C6%A1ng"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1986",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466001",
-      "answerKey": "le duan"
+      "answerKey": "le duan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%AA_Du%E1%BA%A9n"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216350",
-      "answerKey": "ngo bao chau"
+      "answerKey": "ngo bao chau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ng%C3%B4_B%E1%BA%A3o_Ch%C3%A2u"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18045362",
-      "answerKey": "nguyen cong phuong"
+      "answerKey": "nguyen cong phuong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_C%C3%B4ng_Ph%C6%B0%E1%BB%A3ng"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10831196",
-      "answerKey": "to lam"
+      "answerKey": "to lam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/T%C3%B4_L%C3%A2m"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "police officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10806940",
-      "answerKey": "pham minh chinh"
+      "answerKey": "pham minh chinh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Minh_Ch%C3%ADnh"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1820",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q210417",
-      "answerKey": "gia long"
+      "answerKey": "gia long",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gia_Long"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1792",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379775",
-      "answerKey": "nguyen hue"
+      "answerKey": "nguyen hue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Quang_Trung"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10833302",
-      "answerKey": "vo van thuong"
+      "answerKey": "vo van thuong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%B5_V%C4%83n_Th%C6%B0%E1%BB%9Fng"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1820",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313322",
-      "answerKey": "nguyen du"
+      "answerKey": "nguyen du",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Du"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q358051",
-      "answerKey": "pham van ong"
+      "answerKey": "pham van ong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2001",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334419",
-      "answerKey": "duong van minh"
+      "answerKey": "duong van minh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D%C6%B0%C6%A1ng_V%C4%83n_Minh"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1841",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q434419",
-      "answerKey": "minh mang"
+      "answerKey": "minh mang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1988",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q545539",
-      "answerKey": "truong chinh"
+      "answerKey": "truong chinh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Chinh"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16158166",
-      "answerKey": "nguyen tuan anh"
+      "answerKey": "nguyen tuan anh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Tu%E1%BA%A5n_Anh"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "airman",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353687",
-      "answerKey": "pham tuan"
+      "answerKey": "pham tuan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Tu%C3%A2n"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470920",
-      "answerKey": "le duc anh"
+      "answerKey": "le duc anh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Anh"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1980",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q724317",
-      "answerKey": "ton uc thang"
+      "answerKey": "ton uc thang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317814",
-      "answerKey": "tsui hark"
+      "answerKey": "tsui hark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsui_Hark"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1883",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466976",
-      "answerKey": "tu uc"
+      "answerKey": "tu uc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/T%E1%BB%B1_%C4%90%E1%BB%A9c"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96700223",
-      "answerKey": "amee"
+      "answerKey": "amee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amee_(singer)"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379489",
-      "answerKey": "phan van khai"
+      "answerKey": "phan van khai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phan_V%C4%83n_Kh%E1%BA%A3i"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10841571",
-      "answerKey": "ang thi ngoc thinh"
+      "answerKey": "ang thi ngoc thinh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_Th%E1%BB%8B_Ng%E1%BB%8Dc_Th%E1%BB%8Bnh"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18459548",
-      "answerKey": "luong cuong"
+      "answerKey": "luong cuong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C6%B0%C6%A1ng_C%C6%B0%E1%BB%9Dng"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "astronomer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q197941",
-      "answerKey": "jane luu"
+      "answerKey": "jane luu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Luu"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2018",
       "occupation": "communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342600",
-      "answerKey": "do muoi"
+      "answerKey": "do muoi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%90%E1%BB%97_M%C6%B0%E1%BB%9Di"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983839",
-      "answerKey": "nguyen huu tho"
+      "answerKey": "nguyen huu tho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_H%E1%BB%AFu_Th%E1%BB%8D"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38195662",
-      "answerKey": "hong chau"
+      "answerKey": "hong chau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hong_Chau"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "sport shooter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2019283",
-      "answerKey": "hoang xuan vinh"
+      "answerKey": "hoang xuan vinh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ho%C3%A0ng_Xu%C3%A2n_Vinh"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1847",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q540994",
-      "answerKey": "thieu tri"
+      "answerKey": "thieu tri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thi%E1%BB%87u_Tr%E1%BB%8B"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336319",
-      "answerKey": "vo van kiet"
+      "answerKey": "vo van kiet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%B5_V%C4%83n_Ki%E1%BB%87t"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10799637",
-      "answerKey": "nguyen thi kim ngan"
+      "answerKey": "nguyen thi kim ngan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Kim_Ng%C3%A2n"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2013",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q504362",
-      "answerKey": "nguyen khanh"
+      "answerKey": "nguyen khanh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Kh%C3%A1nh"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24957799",
-      "answerKey": "vo thi anh xuan"
+      "answerKey": "vo thi anh xuan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%B5_Th%E1%BB%8B_%C3%81nh_Xu%C3%A2n"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24689101",
-      "answerKey": "nguyen quang hai"
+      "answerKey": "nguyen quang hai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i_(footballer%2C_born_1997)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "248",
       "occupation": "rebel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q269989",
-      "answerKey": "ba trieu"
+      "answerKey": "ba trieu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Tri%E1%BB%87u"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "war photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362337",
-      "answerKey": "nick ut"
+      "answerKey": "nick ut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Ut"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q369596",
-      "answerKey": "nong duc manh"
+      "answerKey": "nong duc manh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%B4ng_%C4%90%E1%BB%A9c_M%E1%BA%A1nh"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1883",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465598",
-      "answerKey": "hiep hoa"
+      "answerKey": "hiep hoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hi%E1%BB%87p_H%C3%B2a"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+  "updated": "2025-12-14T22:24:44.525Z",
+  "wikipediaLinksAdded": true
 }

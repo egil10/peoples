@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57456",
-      "answerKey": "anote tong"
+      "answerKey": "anote tong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anote_Tong"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23034482",
-      "answerKey": "taneti maamau"
+      "answerKey": "taneti maamau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taneti_Maamau"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q965155",
-      "answerKey": "teburoro tito"
+      "answerKey": "teburoro tito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teburoro_Tito"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1917",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q867025",
-      "answerKey": "eduardo pondal"
+      "answerKey": "eduardo pondal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Pondal"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1299331",
-      "answerKey": "ieremia tabai"
+      "answerKey": "ieremia tabai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ieremia_Tabai"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2064179",
-      "answerKey": "teatao teannaki"
+      "answerKey": "teatao teannaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teatao_Teannaki"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126443",
-      "answerKey": "bikenibeu paeniu"
+      "answerKey": "bikenibeu paeniu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bikenibeu_Paeniu"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1268309",
-      "answerKey": "teima onorio"
+      "answerKey": "teima onorio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teima_Onorio"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25768",
-      "answerKey": "nooa takooa"
+      "answerKey": "nooa takooa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nooa_Takooa"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23771906",
-      "answerKey": "kourabi nenem"
+      "answerKey": "kourabi nenem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kourabi_Nenem"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42772735",
-      "answerKey": "tessie lambourne"
+      "answerKey": "tessie lambourne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tessie_Eria_Lambourne"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3560981",
-      "answerKey": "taomati iuta"
+      "answerKey": "taomati iuta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taomati_Iuta"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16732467",
-      "answerKey": "meme tong"
+      "answerKey": "meme tong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meme_Tong"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35382382",
-      "answerKey": "teuea toatu"
+      "answerKey": "teuea toatu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teuea_Toatu"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47457376",
-      "answerKey": "teekoa iuta"
+      "answerKey": "teekoa iuta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teekoa_Iuta"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3432103",
-      "answerKey": "rimeta beniamina"
+      "answerKey": "rimeta beniamina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rimeta_Beniamina"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27056256",
-      "answerKey": "tebao awerika"
+      "answerKey": "tebao awerika",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tebao_Awerika"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q95143962",
-      "answerKey": "tebuai uaai"
+      "answerKey": "tebuai uaai",
+      "wikipediaUrl": null
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98118396",
-      "answerKey": "tekeeua tarati"
+      "answerKey": "tekeeua tarati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tekeeua_Tarati"
     },
     {
       "id": 20,
@@ -222,7 +241,10 @@
       "deathYear": null,
       "occupation": "rower",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131700252",
-      "answerKey": "martin tamoaieta"
+      "answerKey": "martin tamoaieta",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:16:53.475Z",
+  "wikipediaLinksAdded": true
 }

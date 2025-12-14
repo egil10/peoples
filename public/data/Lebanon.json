@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12237722",
-      "answerKey": "layal abboud"
+      "answerKey": "layal abboud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Layal_Abboud"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2024",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181182",
-      "answerKey": "hassan nasrallah"
+      "answerKey": "hassan nasrallah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Nasrallah"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18735049",
-      "answerKey": "mia khalifa"
+      "answerKey": "mia khalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mia_Khalifa"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170419",
-      "answerKey": "carlos slim"
+      "answerKey": "carlos slim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Slim"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q363392",
-      "answerKey": "michel aoun"
+      "answerKey": "michel aoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Aoun"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115243",
-      "answerKey": "amin maalouf"
+      "answerKey": "amin maalouf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amin_Maalouf"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2005",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192778",
-      "answerKey": "rafiq hariri"
+      "answerKey": "rafiq hariri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafic_Hariri"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296771",
-      "answerKey": "saad hariri"
+      "answerKey": "saad hariri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saad_Hariri"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186329",
-      "answerKey": "mika"
+      "answerKey": "mika",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mika_(singer)"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q774155",
-      "answerKey": "nancy ajram"
+      "answerKey": "nancy ajram",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nancy_Ajram"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q774155",
-      "answerKey": "nancy ajram"
+      "answerKey": "nancy ajram",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nancy_Ajram"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318493",
-      "answerKey": "najib mikati"
+      "answerKey": "najib mikati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Najib_Mikati"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "literary scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380787",
-      "answerKey": "adunis"
+      "answerKey": "adunis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adonis_(poet)"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3247658",
-      "answerKey": "fairuz"
+      "answerKey": "fairuz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fairuz"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333521",
-      "answerKey": "nassim nicholas taleb"
+      "answerKey": "nassim nicholas taleb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "public prosecutor general",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16769592",
-      "answerKey": "amal clooney"
+      "answerKey": "amal clooney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amal_Clooney"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "molecular biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60322501",
-      "answerKey": "ardem patapoutian"
+      "answerKey": "ardem patapoutian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardem_Patapoutian"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57427",
-      "answerKey": "michel suleiman"
+      "answerKey": "michel suleiman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Suleiman"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233928",
-      "answerKey": "leila khaled"
+      "answerKey": "leila khaled",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leila_Khaled"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2750368",
-      "answerKey": "maher zain"
+      "answerKey": "maher zain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maher_Zain"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56868118",
-      "answerKey": "william saliba"
+      "answerKey": "william saliba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Saliba"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29033962",
-      "answerKey": "joseph aoun"
+      "answerKey": "joseph aoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Aoun"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q651785",
-      "answerKey": "haifa wehbe"
+      "answerKey": "haifa wehbe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haifa_Wehbe"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206479",
-      "answerKey": "emile lahoud"
+      "answerKey": "emile lahoud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89mile_Lahoud"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5679624",
-      "answerKey": "hassan diab"
+      "answerKey": "hassan diab",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Diab"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1118831",
-      "answerKey": "elissa"
+      "answerKey": "elissa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elissa_(singer)"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314263",
-      "answerKey": "fouad siniora"
+      "answerKey": "fouad siniora",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fouad_Siniora"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q266539",
-      "answerKey": "nadine labaki"
+      "answerKey": "nadine labaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadine_Labaki"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3514836",
-      "answerKey": "tammam salam"
+      "answerKey": "tammam salam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tammam_Salam"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1982",
       "occupation": "condottiero",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315534",
-      "answerKey": "bachir gemayel"
+      "answerKey": "bachir gemayel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bachir_Gemayel"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1898",
       "occupation": "presbyter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q331876",
-      "answerKey": "charbel makhluf"
+      "answerKey": "charbel makhluf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "business executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356719",
-      "answerKey": "carlos ghosn"
+      "answerKey": "carlos ghosn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Ghosn"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328776",
-      "answerKey": "amine gemayel"
+      "answerKey": "amine gemayel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amine_Gemayel"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2024",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5679009",
-      "answerKey": "hashem safieddine"
+      "answerKey": "hashem safieddine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hashem_Safieddine"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "ealam din",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714435",
-      "answerKey": "naim qassem"
+      "answerKey": "naim qassem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naim_Qassem"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2014",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2600118",
-      "answerKey": "sabah"
+      "answerKey": "sabah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabah_(singer)"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1690771",
-      "answerKey": "joan oumari"
+      "answerKey": "joan oumari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Oumari"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q396606",
-      "answerKey": "omar karami"
+      "answerKey": "omar karami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Karami"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469828",
-      "answerKey": "bechara boutros alrahi"
+      "answerKey": "bechara boutros alrahi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bechara_Boutros_al-Rahi"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q118272",
-      "answerKey": "elias hrawi"
+      "answerKey": "elias hrawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_Hrawi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1197287",
-      "answerKey": "najwa karam"
+      "answerKey": "najwa karam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Najwa_Karam"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2008",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q381970",
-      "answerKey": "imad mughniyah"
+      "answerKey": "imad mughniyah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imad_Mughniyeh"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2021",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q440316",
-      "answerKey": "etel adnan"
+      "answerKey": "etel adnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Etel_Adnan"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1992",
       "occupation": "Islamist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q305952",
-      "answerKey": "abbas almusawi"
+      "answerKey": "abbas almusawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbas_al-Musawi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1987",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365971",
-      "answerKey": "camille chamoun"
+      "answerKey": "camille chamoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camille_Chamoun"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2019",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462331",
-      "answerKey": "nasrallah peter sfeir"
+      "answerKey": "nasrallah peter sfeir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nasrallah_Boutros_Sfeir"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1964",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q543316",
-      "answerKey": "bechara el khoury"
+      "answerKey": "bechara el khoury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bechara_El_Khoury"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q638463",
-      "answerKey": "nawaf salam"
+      "answerKey": "nawaf salam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawaf_Salam"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1395526",
-      "answerKey": "myriam fares"
+      "answerKey": "myriam fares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Myriam_Fares"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318505",
-      "answerKey": "pierre amine gemayel"
+      "answerKey": "pierre amine gemayel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Amine_Gemayel"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg",
+  "updated": "2025-12-14T22:17:17.799Z",
+  "wikipediaLinksAdded": true
 }

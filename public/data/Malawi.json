@@ -13,7 +13,8 @@
       "deathYear": "1997",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184945",
-      "answerKey": "hastings banda"
+      "answerKey": "hastings banda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hastings_Banda"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57388",
-      "answerKey": "joyce banda"
+      "answerKey": "joyce banda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joyce_Banda"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7176020",
-      "answerKey": "peter mutharika"
+      "answerKey": "peter mutharika",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Mutharika"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2012",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181586",
-      "answerKey": "bingu wa mutharika"
+      "answerKey": "bingu wa mutharika",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bingu_wa_Mutharika"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16202782",
-      "answerKey": "lazarus chakwera"
+      "answerKey": "lazarus chakwera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lazarus_Chakwera"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16202782",
-      "answerKey": "lazarus chakwera"
+      "answerKey": "lazarus chakwera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lazarus_Chakwera"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317107",
-      "answerKey": "bakili muluzi"
+      "answerKey": "bakili muluzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bakili_Muluzi"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "electrotechnician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448964",
-      "answerKey": "william kamkwamba"
+      "answerKey": "william kamkwamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Kamkwamba"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2024",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16214780",
-      "answerKey": "saulos chilima"
+      "answerKey": "saulos chilima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saulos_Chilima"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2025",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23793885",
-      "answerKey": "theresa kachindamoto"
+      "answerKey": "theresa kachindamoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theresa_Kachindamoto"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2025",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2414709",
-      "answerKey": "essau kanyenda"
+      "answerKey": "essau kanyenda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Essau_Kanyenda"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2502692",
-      "answerKey": "vera chirwa"
+      "answerKey": "vera chirwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vera_Chirwa"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23760334",
-      "answerKey": "memory banda"
+      "answerKey": "memory banda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Memory_Banda"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2016",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16090773",
-      "answerKey": "rose chibambo"
+      "answerKey": "rose chibambo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rose_Chibambo"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107243230",
-      "answerKey": "gloria majigakamoto"
+      "answerKey": "gloria majigakamoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloria_Majiga-Kamoto"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62831033",
-      "answerKey": "temwa chawinga"
+      "answerKey": "temwa chawinga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Temwa_Chawinga"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2013",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5409759",
-      "answerKey": "eunice kazembe"
+      "answerKey": "eunice kazembe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eunice_Kazembe"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3369919",
-      "answerKey": "mike tebulo"
+      "answerKey": "mike tebulo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Tebulo"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5022768",
-      "answerKey": "callista chimombo"
+      "answerKey": "callista chimombo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Callista_Chimombo"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107708356",
-      "answerKey": "asimenye simwaka"
+      "answerKey": "asimenye simwaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asimenye_Simwaka"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "textile artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29524332",
-      "answerKey": "billie zangewa"
+      "answerKey": "billie zangewa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Billie_Zangewa"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2023",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1396322",
-      "answerKey": "john tembo"
+      "answerKey": "john tembo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Tembo"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "nursing",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17285561",
-      "answerKey": "gertrude maseko"
+      "answerKey": "gertrude maseko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gertrude_Maseko"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2021",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7508832",
-      "answerKey": "sidik mia"
+      "answerKey": "sidik mia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidik_Mia"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123512776",
-      "answerKey": "ulanda mtamba"
+      "answerKey": "ulanda mtamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ulanda_Mtamba"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "sportsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27448089",
-      "answerKey": "taonere banda"
+      "answerKey": "taonere banda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taonere_Banda"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "computer scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27980115",
-      "answerKey": "rachel sibande"
+      "answerKey": "rachel sibande",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachel_Sibande"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2021",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6317849",
-      "answerKey": "justin malewezi"
+      "answerKey": "justin malewezi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Malewezi"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467774",
-      "answerKey": "malia"
+      "answerKey": "malia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malia_(singer)"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "accountant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108543894",
-      "answerKey": "monica chakwera"
+      "answerKey": "monica chakwera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Chakwera"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "accountant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108543894",
-      "answerKey": "monica chakwera"
+      "answerKey": "monica chakwera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Chakwera"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4025959",
-      "answerKey": "cassim chilumpha"
+      "answerKey": "cassim chilumpha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cassim_Chilumpha"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5056435",
-      "answerKey": "cecilia kadzamira"
+      "answerKey": "cecilia kadzamira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cecilia_Kadzamira"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6835031",
-      "answerKey": "michael usi"
+      "answerKey": "michael usi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Usi"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65474098",
-      "answerKey": "jane ansah"
+      "answerKey": "jane ansah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Ansah"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3514819",
-      "answerKey": "tamika mkandawire"
+      "answerKey": "tamika mkandawire",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamika_Mkandawire"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4477067",
-      "answerKey": "khumbo kachali"
+      "answerKey": "khumbo kachali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khumbo_Kachali"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "speaker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5052701",
-      "answerKey": "catherine gotani hara"
+      "answerKey": "catherine gotani hara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Catherine_Gotani_Hara"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6963035",
-      "answerKey": "nancy tembo"
+      "answerKey": "nancy tembo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nancy_Tembo"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "environmental scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115193467",
-      "answerKey": "chikondi chabvuta"
+      "answerKey": "chikondi chabvuta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chikondi_Chabvuta"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15130951",
-      "answerKey": "seodi white"
+      "answerKey": "seodi white",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seodi_White"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45780744",
-      "answerKey": "everton chimulirenji"
+      "answerKey": "everton chimulirenji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Everton_Chimulirenji"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2007",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10909793",
-      "answerKey": "kanyama chiume"
+      "answerKey": "kanyama chiume",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kanyama_Chiume"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20020347",
-      "answerKey": "shadreck chikoti"
+      "answerKey": "shadreck chikoti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shadreck_Chikoti"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4769256",
-      "answerKey": "annie chidzira muluzi"
+      "answerKey": "annie chidzira muluzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Annie_Chidzira_Muluzi"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2023",
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5583176",
-      "answerKey": "goodall edward gondwe"
+      "answerKey": "goodall edward gondwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goodall_Gondwe"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "comedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124316314",
-      "answerKey": "jetu"
+      "answerKey": "jetu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jetu"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6170933",
-      "answerKey": "jean kalilani"
+      "answerKey": "jean kalilani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Kalilani"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "netballer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6780935",
-      "answerKey": "mary waya"
+      "answerKey": "mary waya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mary_Waya"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "principal secretary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7145664",
-      "answerKey": "patricia kaliati"
+      "answerKey": "patricia kaliati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patricia_Kaliati"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malawi.svg",
+  "updated": "2025-12-14T22:17:53.334Z",
+  "wikipediaLinksAdded": true
 }

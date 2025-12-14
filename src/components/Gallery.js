@@ -152,23 +152,35 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                     </div>
                 )}
                 <div className="gallery-grid">
-                    {displayedPeople.map((person) => (
-                        <div key={person.wikidataUrl} className="gallery-item">
-                            <div className="gallery-image">
-                                <img
-                                    src={person.image}
-                                    alt={person.name}
-                                    loading="lazy"
-                                    decoding="async"
-                                />
-                            </div>
-                            <div className="gallery-info">
-                                <h3 className="gallery-name">{person.name}</h3>
-                                <p className="gallery-bio">{getShortBio(person)}</p>
-                                <span className="gallery-country">{person.country}</span>
-                            </div>
-                        </div>
-                    ))}
+                    {displayedPeople.map((person) => {
+                        const ItemWrapper = person.wikipediaUrl ? 'a' : 'div';
+                        const wrapperProps = person.wikipediaUrl ? {
+                            href: person.wikipediaUrl,
+                            target: '_blank',
+                            rel: 'noopener noreferrer',
+                            className: 'gallery-item-link'
+                        } : {};
+
+                        return (
+                            <ItemWrapper key={person.wikidataUrl} {...wrapperProps}>
+                                <div className="gallery-item">
+                                    <div className="gallery-image">
+                                        <img
+                                            src={person.image}
+                                            alt={person.name}
+                                            loading="lazy"
+                                            decoding="async"
+                                        />
+                                    </div>
+                                    <div className="gallery-info">
+                                        <h3 className="gallery-name">{person.name}</h3>
+                                        <p className="gallery-bio">{getShortBio(person)}</p>
+                                        <span className="gallery-country">{person.country}</span>
+                                    </div>
+                                </div>
+                            </ItemWrapper>
+                        );
+                    })}
                 </div>
 
                 {hasMore && (

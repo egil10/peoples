@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7747",
-      "answerKey": "vladimir putin"
+      "answerKey": "vladimir putin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2022",
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30487",
-      "answerKey": "mikhail gorbachev"
+      "answerKey": "mikhail gorbachev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23530",
-      "answerKey": "dmitry medvedev"
+      "answerKey": "dmitry medvedev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitry_Medvedev"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78516",
-      "answerKey": "anna netrebko"
+      "answerKey": "anna netrebko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Netrebko"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2007",
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34453",
-      "answerKey": "boris yeltsin"
+      "answerKey": "boris yeltsin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Yeltsin"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2008",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34474",
-      "answerKey": "aleksandr solzhenitsyn"
+      "answerKey": "aleksandr solzhenitsyn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2024",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155979",
-      "answerKey": "alexei navalny"
+      "answerKey": "alexei navalny",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Navalny"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32927",
-      "answerKey": "valery leontiev"
+      "answerKey": "valery leontiev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valery_Leontiev"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "karateka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82110",
-      "answerKey": "steven seagal"
+      "answerKey": "steven seagal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Seagal"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44371",
-      "answerKey": "valentina tereshkova"
+      "answerKey": "valentina tereshkova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentina_Tereshkova"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "intelligence analyst",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13424289",
-      "answerKey": "edward snowden"
+      "answerKey": "edward snowden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Snowden"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28614",
-      "answerKey": "garry kasparov"
+      "answerKey": "garry kasparov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garry_Kasparov"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1459658",
-      "answerKey": "viktor yanukovych"
+      "answerKey": "viktor yanukovych",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Yanukovych"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11666",
-      "answerKey": "maria sharapova"
+      "answerKey": "maria sharapova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Sharapova"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "principal director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80510",
-      "answerKey": "alla pugacheva"
+      "answerKey": "alla pugacheva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alla_Pugacheva"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58217",
-      "answerKey": "sergey lavrov"
+      "answerKey": "sergey lavrov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergey_Lavrov"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106508",
-      "answerKey": "gerard depardieu"
+      "answerKey": "gerard depardieu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Depardieu"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2013",
       "occupation": "design engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q167573",
-      "answerKey": "mikhail kalashnikov"
+      "answerKey": "mikhail kalashnikov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Kalashnikov"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170576",
-      "answerKey": "milla jovovich"
+      "answerKey": "milla jovovich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milla_Jovovich"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232458",
-      "answerKey": "natalia oreiro"
+      "answerKey": "natalia oreiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Oreiro"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2006",
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131240",
-      "answerKey": "anna politkovskaya"
+      "answerKey": "anna politkovskaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Politkovskaya"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131674",
-      "answerKey": "anatoly karpov"
+      "answerKey": "anatoly karpov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatoly_Karpov"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2009",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104668",
-      "answerKey": "vitaly ginzburg"
+      "answerKey": "vitaly ginzburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vitaly_Ginzburg"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2015",
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q363846",
-      "answerKey": "boris nemtsov"
+      "answerKey": "boris nemtsov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Nemtsov"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4298520",
-      "answerKey": "mikhail mishustin"
+      "answerKey": "mikhail mishustin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Mishustin"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2023",
       "occupation": "innkeeper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20850503",
-      "answerKey": "yevgeny prigozhin"
+      "answerKey": "yevgeny prigozhin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yevgeny_Prigozhin"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217115",
-      "answerKey": "ramzan kadyrov"
+      "answerKey": "ramzan kadyrov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramzan_Kadyrov"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2019",
       "occupation": "military aviator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154269",
-      "answerKey": "alexey leonov"
+      "answerKey": "alexey leonov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Leonov"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131120",
-      "answerKey": "anna kournikova"
+      "answerKey": "anna kournikova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Kournikova"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1995",
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q178865",
-      "answerKey": "mikhail botvinnik"
+      "answerKey": "mikhail botvinnik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Botvinnik"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2019",
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183279",
-      "answerKey": "zhores alferov"
+      "answerKey": "zhores alferov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhores_Alferov"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2025",
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q177310",
-      "answerKey": "boris spassky"
+      "answerKey": "boris spassky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Spassky"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2017",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188128",
-      "answerKey": "alexei abrikosov"
+      "answerKey": "alexei abrikosov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexei_Abrikosov_(physicist)"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q149067",
-      "answerKey": "pavel durov"
+      "answerKey": "pavel durov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Durov"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32024",
-      "answerKey": "sergei shoigu"
+      "answerKey": "sergei shoigu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergei_Shoigu"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42904",
-      "answerKey": "dima bilan"
+      "answerKey": "dima bilan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dima_Bilan"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117346",
-      "answerKey": "grigori perelman"
+      "answerKey": "grigori perelman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grigori_Perelman"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "sports official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6319",
-      "answerKey": "yelena isinbayeva"
+      "answerKey": "yelena isinbayeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yelena_Isinbayeva"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2001",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83557",
-      "answerKey": "nikolay basov"
+      "answerKey": "nikolay basov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolay_Basov"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2002",
       "occupation": "editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83552",
-      "answerKey": "alexander prokhorov"
+      "answerKey": "alexander prokhorov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Prokhorov"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "trumpeter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1978163",
-      "answerKey": "nikolai noskov"
+      "answerKey": "nikolai noskov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolai_Noskov"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "Eastern Orthodox priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44187",
-      "answerKey": "kirill i of moscow"
+      "answerKey": "kirill i of moscow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patriarch_Kirill_of_Moscow"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "Eastern Orthodox priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44187",
-      "answerKey": "kirill i of moscow"
+      "answerKey": "kirill i of moscow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patriarch_Kirill_of_Moscow"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2022",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200015",
-      "answerKey": "vladimir zhirinovsky"
+      "answerKey": "vladimir zhirinovsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Zhirinovsky"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q161092",
-      "answerKey": "vladimir kramnik"
+      "answerKey": "vladimir kramnik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Kramnik"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2010",
       "occupation": "member of the State Duma",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190884",
-      "answerKey": "victor chernomyrdin"
+      "answerKey": "victor chernomyrdin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Chernomyrdin"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2017",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297736",
-      "answerKey": "yevgeny yevtushenko"
+      "answerKey": "yevgeny yevtushenko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yevgeny_Yevtushenko"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55207",
-      "answerKey": "nikita mikhalkov"
+      "answerKey": "nikita mikhalkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikita_Mikhalkov"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152503",
-      "answerKey": "mikhail khodorkovsky"
+      "answerKey": "mikhail khodorkovsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Khodorkovsky"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47230",
-      "answerKey": "andrey arshavin"
+      "answerKey": "andrey arshavin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrey_Arshavin"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+  "updated": "2025-12-14T22:21:03.898Z",
+  "wikipediaLinksAdded": true
 }

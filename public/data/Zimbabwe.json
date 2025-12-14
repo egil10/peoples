@@ -13,7 +13,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709734",
-      "answerKey": "evaristo carvalho"
+      "answerKey": "evaristo carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evaristo_Carvalho"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271012",
-      "answerKey": "fradique de menezes"
+      "answerKey": "fradique de menezes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fradique_de_Menezes"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295049",
-      "answerKey": "manuel pinto da costa"
+      "answerKey": "manuel pinto da costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Pinto_da_Costa"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27982047",
-      "answerKey": "carlos vila nova"
+      "answerKey": "carlos vila nova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Vila_Nova"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q459822",
-      "answerKey": "patrice trovoada"
+      "answerKey": "patrice trovoada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrice_Trovoada"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441483",
-      "answerKey": "maria do carmo silveira"
+      "answerKey": "maria do carmo silveira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_do_Carmo_Silveira"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q454046",
-      "answerKey": "maria das neves"
+      "answerKey": "maria das neves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_das_Neves"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q504522",
-      "answerKey": "miguel trovoada"
+      "answerKey": "miguel trovoada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Trovoada"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236416",
-      "answerKey": "naide gomes"
+      "answerKey": "naide gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naide_Gomes"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57085436",
-      "answerKey": "jorge bom jesus"
+      "answerKey": "jorge bom jesus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Bom_Jesus"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2010",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457401",
-      "answerKey": "alda da graca"
+      "answerKey": "alda da graca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alda_Neves_do_Esp%C3%ADrito_Santo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1287504",
-      "answerKey": "leonel mario dalva"
+      "answerKey": "leonel mario dalva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonel_M%C3%A1rio_d'Alva"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q867590",
-      "answerKey": "gabriel costa"
+      "answerKey": "gabriel costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Costa_(politician)"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718450",
-      "answerKey": "joaquim rafael branco"
+      "answerKey": "joaquim rafael branco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaquim_Rafael_Branco"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2013",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709745",
-      "answerKey": "carlos graca"
+      "answerKey": "carlos graca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Gra%C3%A7a"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1123692",
-      "answerKey": "conceicao lima"
+      "answerKey": "conceicao lima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Lima"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q956967",
-      "answerKey": "guilherme posser da costa"
+      "answerKey": "guilherme posser da costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guilherme_Posser_da_Costa"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1286743",
-      "answerKey": "tome vera cruz"
+      "answerKey": "tome vera cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A9_Vera_Cruz"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21290381",
-      "answerKey": "olinda beja"
+      "answerKey": "olinda beja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olinda_Beja"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131749390",
-      "answerKey": "americo ramos"
+      "answerKey": "americo ramos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Am%C3%A9rico_Ramos"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105027957",
-      "answerKey": "elsa garrido"
+      "answerKey": "elsa garrido",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elsa_Garrido"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2572801",
-      "answerKey": "christopher lima da costa"
+      "answerKey": "christopher lima da costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Lima_da_Costa"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4822692",
-      "answerKey": "aurelio martins"
+      "answerKey": "aurelio martins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aur%C3%A9lio_Martins"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28497470",
-      "answerKey": "natalia pedro da costa umbelina neto"
+      "answerKey": "natalia pedro da costa umbelina neto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nat%C3%A1lia_Pedro_da_Costa_Umbelina_Neto"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "literary scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96180359",
-      "answerKey": "inocencia mata"
+      "answerKey": "inocencia mata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Inoc%C3%AAncia_Mata"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1896459",
-      "answerKey": "maria do nascimento da graca amorim"
+      "answerKey": "maria do nascimento da graca amorim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_do_Nascimento_da_Gra%C3%A7a_Amorim"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2253728",
-      "answerKey": "jose cassandra"
+      "answerKey": "jose cassandra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Cassandra"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42626636",
-      "answerKey": "elsa teixeira pinto"
+      "answerKey": "elsa teixeira pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elsa_Teixeira_Pinto"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115136366",
-      "answerKey": "celmira sacramento"
+      "answerKey": "celmira sacramento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celmira_Sacramento"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27999645",
-      "answerKey": "alcino pinto"
+      "answerKey": "alcino pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alcino_Pinto"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55185575",
-      "answerKey": "olimpia barbosa"
+      "answerKey": "olimpia barbosa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ol%C3%ADmpia_Barbosa"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27062864",
-      "answerKey": "delfim neves"
+      "answerKey": "delfim neves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delfim_Neves"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43078643",
-      "answerKey": "celia posser"
+      "answerKey": "celia posser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9lia_Posser"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99489506",
-      "answerKey": "filipe nascimento"
+      "answerKey": "filipe nascimento",
+      "wikipediaUrl": null
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2010",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5484080",
-      "answerKey": "francisco da silva"
+      "answerKey": "francisco da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_da_Silva_(politician)"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6279622",
-      "answerKey": "jose da graca diogo"
+      "answerKey": "jose da graca diogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_da_Gra%C3%A7a_Diogo"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2024",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28105147",
-      "answerKey": "arlindo vicente de assuncao carvalho"
+      "answerKey": "arlindo vicente de assuncao carvalho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arlindo_Vicente_de_Assun%C3%A7%C3%A3o_Carvalho"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16940020",
-      "answerKey": "filipe santo"
+      "answerKey": "filipe santo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filipe_Santo"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q111801759",
-      "answerKey": "aurelio do espirito santo"
+      "answerKey": "aurelio do espirito santo",
+      "wikipediaUrl": null
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115277369",
-      "answerKey": "gareth santo guadalupe"
+      "answerKey": "gareth santo guadalupe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gareth_Guadalupe"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28497942",
-      "answerKey": "antonio quintas do espirito santo"
+      "answerKey": "antonio quintas do espirito santo",
+      "wikipediaUrl": null
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "chef",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62882935",
-      "answerKey": "joao carlos silva"
+      "answerKey": "joao carlos silva",
+      "wikipediaUrl": null
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106904935",
-      "answerKey": "jorge amado"
+      "answerKey": "jorge amado",
+      "wikipediaUrl": null
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28497468",
-      "answerKey": "manuel salvador dos ramos"
+      "answerKey": "manuel salvador dos ramos",
+      "wikipediaUrl": null
     },
     {
       "id": 45,
@@ -497,7 +541,10 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59572738",
-      "answerKey": "carlos olimpio stock"
+      "answerKey": "carlos olimpio stock",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:24:58.519Z",
+  "wikipediaLinksAdded": true
 }

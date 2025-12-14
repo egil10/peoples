@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27489535",
-      "answerKey": "letitia wright"
+      "answerKey": "letitia wright",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Letitia_Wright"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64840184",
-      "answerKey": "irfaan ali"
+      "answerKey": "irfaan ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irfaan_Ali"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212760",
-      "answerKey": "bharrat jagdeo"
+      "answerKey": "bharrat jagdeo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bharrat_Jagdeo"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2009",
       "occupation": "children's writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239709",
-      "answerKey": "janet jagan"
+      "answerKey": "janet jagan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janet_Jagan"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5230470",
-      "answerKey": "david a granger"
+      "answerKey": "david a granger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_A._Granger"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57697",
-      "answerKey": "sam hinds"
+      "answerKey": "sam hinds",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Hinds"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1997",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q724156",
-      "answerKey": "cheddi jagan"
+      "answerKey": "cheddi jagan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cheddi_Jagan"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q534727",
-      "answerKey": "david lammy"
+      "answerKey": "david lammy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Lammy"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q381201",
-      "answerKey": "arthur chung"
+      "answerKey": "arthur chung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Chung"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236434",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/CCH_Pounder"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q399890",
-      "answerKey": "eddy grant"
+      "answerKey": "eddy grant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddy_Grant"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57422",
-      "answerKey": "donald ramotar"
+      "answerKey": "donald ramotar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Ramotar"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1985",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718256",
-      "answerKey": "forbes burnham"
+      "answerKey": "forbes burnham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Forbes_Burnham"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "bodybuilder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317721",
-      "answerKey": "ezekiel jackson"
+      "answerKey": "ezekiel jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezekiel_Jackson"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "bodybuilder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317721",
-      "answerKey": "ezekiel jackson"
+      "answerKey": "ezekiel jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezekiel_Jackson"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2002",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887418",
-      "answerKey": "desmond hoyte"
+      "answerKey": "desmond hoyte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Hoyte"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2002",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887418",
-      "answerKey": "desmond hoyte"
+      "answerKey": "desmond hoyte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Hoyte"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6915896",
-      "answerKey": "moses nagamootoo"
+      "answerKey": "moses nagamootoo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moses_Nagamootoo"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2300762",
-      "answerKey": "matthew briggs"
+      "answerKey": "matthew briggs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Briggs"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98053664",
-      "answerKey": "mark phillips"
+      "answerKey": "mark phillips",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Phillips_(Guyanese_politician)"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1400508",
-      "answerKey": "alex bunbury"
+      "answerKey": "alex bunbury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Bunbury"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q615817",
-      "answerKey": "hamilton green"
+      "answerKey": "hamilton green",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamilton_Green"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q967484",
-      "answerKey": "shivnarine chanderpaul"
+      "answerKey": "shivnarine chanderpaul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shivnarine_Chanderpaul"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2016",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1273562",
-      "answerKey": "e r braithwaite"
+      "answerKey": "e r braithwaite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/E._R._Braithwaite"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6337248",
-      "answerKey": "shakira caine"
+      "answerKey": "shakira caine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakira_Caine"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1934",
       "occupation": "circus performer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1226368",
-      "answerKey": "prince randian"
+      "answerKey": "prince randian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Randian"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2024",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q958984",
-      "answerKey": "shridath ramphal"
+      "answerKey": "shridath ramphal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shridath_Ramphal"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1958",
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3433056",
-      "answerKey": "walter spence"
+      "answerKey": "walter spence",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Spence"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3565828",
-      "answerKey": "walter moore"
+      "answerKey": "walter moore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Moore_(footballer%2C_born_1984)"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2870624",
-      "answerKey": "aubrey david"
+      "answerKey": "aubrey david",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aubrey_David"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7271990",
-      "answerKey": "quillan roberts"
+      "answerKey": "quillan roberts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Quillan_Roberts"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58238",
-      "answerKey": "carolyn rodrigues"
+      "answerKey": "carolyn rodrigues",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carolyn_Rodrigues"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1101987",
-      "answerKey": "clive lloyd"
+      "answerKey": "clive lloyd",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clive_Lloyd"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1255117",
-      "answerKey": "winston george"
+      "answerKey": "winston george",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winston_George"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3874292",
-      "answerKey": "neil danns"
+      "answerKey": "neil danns",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neil_Danns"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2021467",
-      "answerKey": "shawn james"
+      "answerKey": "shawn james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shawn_James_(basketball)"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1363974",
-      "answerKey": "rawle marshall"
+      "answerKey": "rawle marshall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rawle_Marshall"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2437145",
-      "answerKey": "chris nurse"
+      "answerKey": "chris nurse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Nurse"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2023",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327918",
-      "answerKey": "rudy insanally"
+      "answerKey": "rudy insanally",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudy_Insanally"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10553991",
-      "answerKey": "emery welshman"
+      "answerKey": "emery welshman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emery_Welshman"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10554954",
-      "answerKey": "anthony jeffrey"
+      "answerKey": "anthony jeffrey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Jeffrey"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16466565",
-      "answerKey": "shemaine campbelle"
+      "answerKey": "shemaine campbelle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shemaine_Campbelle"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14856076",
-      "answerKey": "terell ondaan"
+      "answerKey": "terell ondaan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Terell_Ondaan"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1380489",
-      "answerKey": "frank elegar"
+      "answerKey": "frank elegar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Elegar"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5266855",
-      "answerKey": "devendra bishoo"
+      "answerKey": "devendra bishoo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Devendra_Bishoo"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26790028",
-      "answerKey": "aliyah abrams"
+      "answerKey": "aliyah abrams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aliyah_Abrams"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6578051",
-      "answerKey": "delroy james"
+      "answerKey": "delroy james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delroy_James"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6578051",
-      "answerKey": "delroy james"
+      "answerKey": "delroy james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delroy_James"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1763",
       "occupation": "Slave rebellion leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441205",
-      "answerKey": "kofi"
+      "answerKey": "kofi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuffy"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109179940",
-      "answerKey": "osaze de rosario"
+      "answerKey": "osaze de rosario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osaze_De_Rosario"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg",
+  "updated": "2025-12-14T22:15:24.473Z",
+  "wikipediaLinksAdded": true
 }

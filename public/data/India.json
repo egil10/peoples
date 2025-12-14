@@ -13,7 +13,8 @@
       "deathYear": "1948",
       "occupation": "newspaper editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1001",
-      "answerKey": "mahatma gandhi"
+      "answerKey": "mahatma gandhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1997",
       "occupation": "religious sister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30547",
-      "answerKey": "mother teresa"
+      "answerKey": "mother teresa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mother_Teresa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1964",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1047",
-      "answerKey": "jawaharlal nehru"
+      "answerKey": "jawaharlal nehru",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "social worker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1058",
-      "answerKey": "narendra modi"
+      "answerKey": "narendra modi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Narendra_Modi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1984",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1149",
-      "answerKey": "indira gandhi"
+      "answerKey": "indira gandhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Indira_Gandhi"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1956",
       "occupation": "spiritual leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231690",
-      "answerKey": "b r ambedkar"
+      "answerKey": "b r ambedkar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1992",
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8873",
-      "answerKey": "satyajit ray"
+      "answerKey": "satyajit ray",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Satyajit_Ray"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9535",
-      "answerKey": "shah rukh khan"
+      "answerKey": "shah rukh khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44306",
-      "answerKey": "salman rushdie"
+      "answerKey": "salman rushdie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_Rushdie"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9570",
-      "answerKey": "amitabh bachchan"
+      "answerKey": "amitabh bachchan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amitabh_Bachchan"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47059",
-      "answerKey": "aishwarya rai bachchan"
+      "answerKey": "aishwarya rai bachchan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aishwarya_Rai_Bachchan"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2024",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41914",
-      "answerKey": "manmohan singh"
+      "answerKey": "manmohan singh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1970",
       "occupation": "crystallographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60429",
-      "answerKey": "chandrasekhara venkata raman"
+      "answerKey": "chandrasekhara venkata raman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C._V._Raman"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1991",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4593",
-      "answerKey": "rajiv gandhi"
+      "answerKey": "rajiv gandhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajiv_Gandhi"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1986",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q179266",
-      "answerKey": "jiddu krishnamurti"
+      "answerKey": "jiddu krishnamurti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiddu_Krishnamurti"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158957",
-      "answerKey": "priyanka chopra"
+      "answerKey": "priyanka chopra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Priyanka_Chopra"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132489",
-      "answerKey": "amartya sen"
+      "answerKey": "amartya sen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amartya_Sen"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9557",
-      "answerKey": "aamir khan"
+      "answerKey": "aamir khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aamir_Khan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9543",
-      "answerKey": "salman khan"
+      "answerKey": "salman khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_Khan"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45747",
-      "answerKey": "viswanathan anand"
+      "answerKey": "viswanathan anand",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viswanathan_Anand"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9513",
-      "answerKey": "a p j abdul kalam"
+      "answerKey": "a p j abdul kalam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1950",
       "occupation": "Vice-principal",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192207",
-      "answerKey": "aurobindo ghosh"
+      "answerKey": "aurobindo ghosh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Aurobindo"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2020",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57446",
-      "answerKey": "pranab mukherjee"
+      "answerKey": "pranab mukherjee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pranab_Mukherjee"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2012",
       "occupation": "sitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103774",
-      "answerKey": "ravi shankar"
+      "answerKey": "ravi shankar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ravi_Shankar"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1990",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q148285",
-      "answerKey": "rajneesh"
+      "answerKey": "rajneesh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajneesh"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1990",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q148285",
-      "answerKey": "rajneesh"
+      "answerKey": "rajneesh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajneesh"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1986",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80732",
-      "answerKey": "tenzing norgay"
+      "answerKey": "tenzing norgay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tenzing_Norgay"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "television writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212801",
-      "answerKey": "arundhati roy"
+      "answerKey": "arundhati roy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arundhati_Roy"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184885",
-      "answerKey": "kareena kapoor khan"
+      "answerKey": "kareena kapoor khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kareena_Kapoor_Khan"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2018",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233289",
-      "answerKey": "atal bihari vajpayee"
+      "answerKey": "atal bihari vajpayee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Atal_Bihari_Vajpayee"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47854",
-      "answerKey": "pratibha patil"
+      "answerKey": "pratibha patil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pratibha_Patil"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1995",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q148109",
-      "answerKey": "subrahmanyan chandrasekhar"
+      "answerKey": "subrahmanyan chandrasekhar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2013",
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3111264",
-      "answerKey": "pran"
+      "answerKey": "pran",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pran_(actor)"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q163225",
-      "answerKey": "sonia gandhi"
+      "answerKey": "sonia gandhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3506475",
-      "answerKey": "rajnath singh"
+      "answerKey": "rajnath singh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajnath_Singh"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159178",
-      "answerKey": "deepika padukone"
+      "answerKey": "deepika padukone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deepika_Padukone"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16845347",
-      "answerKey": "ram nath kovind"
+      "answerKey": "ram nath kovind",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_Nath_Kovind"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "school teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19901232",
-      "answerKey": "droupadi murmu"
+      "answerKey": "droupadi murmu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Droupadi_Murmu"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1975",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156349",
-      "answerKey": "sarvepalli radhakrishnan"
+      "answerKey": "sarvepalli radhakrishnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1975",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156349",
-      "answerKey": "sarvepalli radhakrishnan"
+      "answerKey": "sarvepalli radhakrishnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarvepalli_Radhakrishnan"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2022",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156347",
-      "answerKey": "lata mangeshkar"
+      "answerKey": "lata mangeshkar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lata_Mangeshkar"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q485557",
-      "answerKey": "rani mukerji"
+      "answerKey": "rani mukerji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rani_Mukerji"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1950",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9455",
-      "answerKey": "sardar vallabhbhai patel"
+      "answerKey": "sardar vallabhbhai patel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1974",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45789",
-      "answerKey": "satyendra nath bose"
+      "answerKey": "satyendra nath bose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188671",
-      "answerKey": "preity zinta"
+      "answerKey": "preity zinta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Preity_Zinta"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9488",
-      "answerKey": "sachin tendulkar"
+      "answerKey": "sachin tendulkar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sachin_Tendulkar"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1963",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q197736",
-      "answerKey": "rajendra prasad"
+      "answerKey": "rajendra prasad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rajendra_Prasad"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2024",
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41074",
-      "answerKey": "ram narayan"
+      "answerKey": "ram narayan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ram_Narayan"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "graphic designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298547",
-      "answerKey": "mukesh ambani"
+      "answerKey": "mukesh ambani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mukesh_Ambani"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1952",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312549",
-      "answerKey": "paramahansa yogananda"
+      "answerKey": "paramahansa yogananda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paramahansa_Yogananda"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+  "updated": "2025-12-14T22:15:49.691Z",
+  "wikipediaLinksAdded": true
 }

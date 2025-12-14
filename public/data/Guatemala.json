@@ -13,7 +13,8 @@
       "deathYear": "1974",
       "occupation": "poet lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75603",
-      "answerKey": "miguel angel asturias"
+      "answerKey": "miguel angel asturias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Asturias"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188620",
-      "answerKey": "rigoberta menchu"
+      "answerKey": "rigoberta menchu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rigoberta_Mench%C3%BA"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336788",
-      "answerKey": "oscar isaac"
+      "answerKey": "oscar isaac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Isaac"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1971",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216943",
-      "answerKey": "jacobo arbenz"
+      "answerKey": "jacobo arbenz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacobo_%C3%81rbenz"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1971",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216943",
-      "answerKey": "jacobo arbenz"
+      "answerKey": "jacobo arbenz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacobo_%C3%81rbenz"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17995110",
-      "answerKey": "jimmy morales"
+      "answerKey": "jimmy morales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Morales"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57539",
-      "answerKey": "otto perez molina"
+      "answerKey": "otto perez molina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_P%C3%A9rez_Molina"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2023",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q250924",
-      "answerKey": "alvaro colom"
+      "answerKey": "alvaro colom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Colom"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2134696",
-      "answerKey": "alejandro giammattei"
+      "answerKey": "alejandro giammattei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Giammattei"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2018",
       "occupation": "Christian minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467077",
-      "answerKey": "efrain rios montt"
+      "answerKey": "efrain rios montt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "sociologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107254030",
-      "answerKey": "bernardo arevalo de leon"
+      "answerKey": "bernardo arevalo de leon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_Ar%C3%A9valo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q293194",
-      "answerKey": "oscar berger"
+      "answerKey": "oscar berger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%93scar_Berger"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2018",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q250834",
-      "answerKey": "alvaro enrique arzu irigoyen"
+      "answerKey": "alvaro enrique arzu irigoyen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Arz%C3%BA"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92984",
-      "answerKey": "luis von ahn"
+      "answerKey": "luis von ahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92984",
-      "answerKey": "luis von ahn"
+      "answerKey": "luis von ahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92984",
-      "answerKey": "luis von ahn"
+      "answerKey": "luis von ahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92984",
-      "answerKey": "luis von ahn"
+      "answerKey": "luis von ahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92984",
-      "answerKey": "luis von ahn"
+      "answerKey": "luis von ahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_von_Ahn"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q475730",
-      "answerKey": "carlos ruiz"
+      "answerKey": "carlos ruiz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Ruiz_(Guatemalan_footballer)"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1957",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468224",
-      "answerKey": "carlos castillo armas"
+      "answerKey": "carlos castillo armas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Castillo_Armas"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182441",
-      "answerKey": "alfonso portillo"
+      "answerKey": "alfonso portillo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfonso_Portillo"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1946",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q549431",
-      "answerKey": "jorge ubico"
+      "answerKey": "jorge ubico",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Ubico"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19914009",
-      "answerKey": "alejandro maldonado aguirre"
+      "answerKey": "alejandro maldonado aguirre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Maldonado"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1990",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q881158",
-      "answerKey": "juan jose arevalo"
+      "answerKey": "juan jose arevalo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Ar%C3%A9valo"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887617",
-      "answerKey": "vinicio cerezo"
+      "answerKey": "vinicio cerezo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vinicio_Cerezo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2002",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q539891",
-      "answerKey": "ramiro de leon carpio"
+      "answerKey": "ramiro de leon carpio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramiro_de_Le%C3%B3n_Carpio"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "racewalker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1712",
-      "answerKey": "erick barrondo"
+      "answerKey": "erick barrondo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erick_Barrondo"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q782501",
-      "answerKey": "norma cruz"
+      "answerKey": "norma cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norma_Cruz"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q880037",
-      "answerKey": "jorge serrano elias"
+      "answerKey": "jorge serrano elias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Serrano_El%C3%ADas"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q251223",
-      "answerKey": "alvaro leonel ramazzini imeri"
+      "answerKey": "alvaro leonel ramazzini imeri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Leonel_Ramazzini_Imeri"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2003",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887685",
-      "answerKey": "carlos manuel arana osorio"
+      "answerKey": "carlos manuel arana osorio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Manuel_Arana_Osorio"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1982",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879275",
-      "answerKey": "miguel ydigoras fuentes"
+      "answerKey": "miguel ydigoras fuentes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Yd%C3%ADgoras_Fuentes"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "sport shooter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60995231",
-      "answerKey": "adriana ruano"
+      "answerKey": "adriana ruano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriana_Ruano"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2009",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887011",
-      "answerKey": "kjell eugenio laugerud garcia"
+      "answerKey": "kjell eugenio laugerud garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kjell_Eugenio_Laugerud_Garc%C3%ADa"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1924",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879169",
-      "answerKey": "manuel estrada cabrera"
+      "answerKey": "manuel estrada cabrera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Estrada_Cabrera"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2012",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546962",
-      "answerKey": "rodolfo quezada toruno"
+      "answerKey": "rodolfo quezada toruno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodolfo_Quezada_Toru%C3%B1o"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327494",
-      "answerKey": "marco pappa"
+      "answerKey": "marco pappa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Pappa"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q511537",
-      "answerKey": "gaby moreno"
+      "answerKey": "gaby moreno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaby_Moreno"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q705460",
-      "answerKey": "fernando romeo lucas garcia"
+      "answerKey": "fernando romeo lucas garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Romeo_Lucas_Garc%C3%ADa"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879311",
-      "answerKey": "julio cesar mendez montenegro"
+      "answerKey": "julio cesar mendez montenegro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_M%C3%A9ndez_Montenegro"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20667170",
-      "answerKey": "thelma aldana"
+      "answerKey": "thelma aldana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thelma_Aldana"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7416788",
-      "answerKey": "sandra torres"
+      "answerKey": "sandra torres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Torres"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1997",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879116",
-      "answerKey": "enrique peralta azurdia"
+      "answerKey": "enrique peralta azurdia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Peralta_Azurdia"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q87769624",
-      "answerKey": "jose francisco cali tzay"
+      "answerKey": "jose francisco cali tzay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Francisco_Cal%C3%AD_Tzay"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1885",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q679362",
-      "answerKey": "justo rufino barrios"
+      "answerKey": "justo rufino barrios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justo_Rufino_Barrios"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18001347",
-      "answerKey": "iris yassmin barrios aguilar"
+      "answerKey": "iris yassmin barrios aguilar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iris_Yassmin_Barrios_Aguilar"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1926",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q885550",
-      "answerKey": "jose maria orellana"
+      "answerKey": "jose maria orellana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Orellana"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1975",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1151979",
-      "answerKey": "rafael arevalo martinez"
+      "answerKey": "rafael arevalo martinez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafael_Ar%C3%A9valo_Mart%C3%ADnez"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1878",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327382",
-      "answerKey": "miguel garcia granados"
+      "answerKey": "miguel garcia granados",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Garc%C3%ADa_Granados"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1930",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q436815",
-      "answerKey": "carlos herrera y luna"
+      "answerKey": "carlos herrera y luna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Herrera"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg",
+  "updated": "2025-12-14T22:15:09.651Z",
+  "wikipediaLinksAdded": true
 }

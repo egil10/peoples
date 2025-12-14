@@ -13,7 +13,8 @@
       "deathYear": "2022",
       "occupation": "Catholic theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2494",
-      "answerKey": "benedict xvi"
+      "answerKey": "benedict xvi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "Catholic missionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6109517",
-      "answerKey": "leo xiv"
+      "answerKey": "leo xiv",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Leo_XIV"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1978",
       "occupation": "Latin Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16975",
-      "answerKey": "paul vi"
+      "answerKey": "paul vi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Paul_VI"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1978",
       "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37278",
-      "answerKey": "john paul i"
+      "answerKey": "john paul i",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_John_Paul_I"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1559",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101430",
-      "answerKey": "paul iv"
+      "answerKey": "paul iv",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2022",
       "occupation": "Latin Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44752",
-      "answerKey": "angelo sodano"
+      "answerKey": "angelo sodano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelo_Sodano"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2024",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q304056",
-      "answerKey": "renato martino"
+      "answerKey": "renato martino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Renato_Martino"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28007559",
-      "answerKey": "michael czerny"
+      "answerKey": "michael czerny",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Czerny"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2023",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76375",
-      "answerKey": "karljosef rauber"
+      "answerKey": "karljosef rauber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl-Josef_Rauber"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1978",
       "occupation": "Esperantist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q700613",
-      "answerKey": "paul yu pin"
+      "answerKey": "paul yu pin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Yu_Pin"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "Latin Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q822941",
-      "answerKey": "bernardito auza"
+      "answerKey": "bernardito auza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardito_Auza"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q325434",
-      "answerKey": "gabriele giordano caccia"
+      "answerKey": "gabriele giordano caccia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriele_Giordano_Caccia"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q592639",
-      "answerKey": "francis chullikatt"
+      "answerKey": "francis chullikatt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Chullikatt"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q962293",
-      "answerKey": "celestino migliore"
+      "answerKey": "celestino migliore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celestino_Migliore"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1973",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q371783",
-      "answerKey": "giuseppe beltrami"
+      "answerKey": "giuseppe beltrami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Beltrami"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14232339",
-      "answerKey": "leo cushley"
+      "answerKey": "leo cushley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Cushley"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28961836",
-      "answerKey": "andrzej jozwowicz"
+      "answerKey": "andrzej jozwowicz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_J%C3%B3zwowicz"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9288231",
-      "answerKey": "henryk jagodzinski"
+      "answerKey": "henryk jagodzinski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henryk_Jagodzi%C5%84ski_(nuncio)"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42666697",
-      "answerKey": "magdalena wolinskariedi"
+      "answerKey": "magdalena wolinskariedi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magdalena_Woli%C5%84ska-Riedi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1990",
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6153762",
-      "answerKey": "janez janez"
+      "answerKey": "janez janez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janez_Jane%C5%BE"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5384648",
-      "answerKey": "melchor sanchez de toca alameda"
+      "answerKey": "melchor sanchez de toca alameda",
+      "wikipediaUrl": null
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29246375",
-      "answerKey": "slaan cosic"
+      "answerKey": "slaan cosic",
+      "wikipediaUrl": null
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2020",
       "occupation": "Kammerdiener",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4130964",
-      "answerKey": "paolo gabriele"
+      "answerKey": "paolo gabriele",
+      "wikipediaUrl": null
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1755",
       "occupation": "bookseller",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56006866",
-      "answerKey": "giovanni maria salvioni"
+      "answerKey": "giovanni maria salvioni",
+      "wikipediaUrl": null
     },
     {
       "id": 25,
@@ -277,7 +301,10 @@
       "deathYear": "1780",
       "occupation": "Catholic deacon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62819156",
-      "answerKey": "girolamo luigi crivelli"
+      "answerKey": "girolamo luigi crivelli",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:24:34.719Z",
+  "wikipediaLinksAdded": true
 }

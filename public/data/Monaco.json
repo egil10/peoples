@@ -13,7 +13,8 @@
       "deathYear": "1982",
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3925",
-      "answerKey": "grace kelly"
+      "answerKey": "grace kelly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grace_Kelly"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "bobsledder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3910",
-      "answerKey": "albert ii prince of monaco"
+      "answerKey": "albert ii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_II%2C_Prince_of_Monaco"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "bobsledder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3910",
-      "answerKey": "albert ii prince of monaco"
+      "answerKey": "albert ii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_II%2C_Prince_of_Monaco"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "bobsledder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3910",
-      "answerKey": "albert ii prince of monaco"
+      "answerKey": "albert ii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_II%2C_Prince_of_Monaco"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76343",
-      "answerKey": "otto von habsburg"
+      "answerKey": "otto von habsburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_von_Habsburg"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17541912",
-      "answerKey": "charles leclerc"
+      "answerKey": "charles leclerc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Leclerc"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2005",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185025",
-      "answerKey": "rainier iii prince of monaco"
+      "answerKey": "rainier iii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainier_III%2C_Prince_of_Monaco"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208466",
-      "answerKey": "charlene princess of monaco"
+      "answerKey": "charlene princess of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlene%2C_Princess_of_Monaco"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "goodwill ambassador",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233966",
-      "answerKey": "princess caroline of monaco"
+      "answerKey": "princess caroline of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Caroline_of_Monaco"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "amateur photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334871",
-      "answerKey": "reza pahlavi"
+      "answerKey": "reza pahlavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reza_Pahlavi%2C_Crown_Prince_of_Iran"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215012",
-      "answerKey": "princess stephanie of monaco"
+      "answerKey": "princess stephanie of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_St%C3%A9phanie_of_Monaco"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1993",
       "occupation": "radio personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320146",
-      "answerKey": "leo ferre"
+      "answerKey": "leo ferre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A9o_Ferr%C3%A9"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1949",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316543",
-      "answerKey": "louis ii prince of monaco"
+      "answerKey": "louis ii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_II%2C_Prince_of_Monaco"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1979",
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173226",
-      "answerKey": "louis chiron"
+      "answerKey": "louis chiron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Chiron"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172761",
-      "answerKey": "thierry boutsen"
+      "answerKey": "thierry boutsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thierry_Boutsen"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "equestrian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q853781",
-      "answerKey": "charlotte casiraghi"
+      "answerKey": "charlotte casiraghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlotte_Casiraghi"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "equestrian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q853781",
-      "answerKey": "charlotte casiraghi"
+      "answerKey": "charlotte casiraghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlotte_Casiraghi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1889",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q382433",
-      "answerKey": "charles iii prince of monaco"
+      "answerKey": "charles iii prince of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_III%2C_Prince_of_Monaco"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q697131",
-      "answerKey": "arnon milchan"
+      "answerKey": "arnon milchan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnon_Milchan"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1977",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q254060",
-      "answerKey": "princess charlotte duchess of valentinois"
+      "answerKey": "princess charlotte duchess of valentinois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Charlotte%2C_Duchess_of_Valentinois"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q163175",
-      "answerKey": "olivier beretta"
+      "answerKey": "olivier beretta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olivier_Beretta"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "chef",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187901",
-      "answerKey": "alain ducasse"
+      "answerKey": "alain ducasse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Ducasse"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1731",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260448",
-      "answerKey": "louise hippolyte i princess of monaco"
+      "answerKey": "louise hippolyte i princess of monaco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louise_Hippolyte%2C_Princess_of_Monaco"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1964",
       "occupation": "sports official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q958562",
-      "answerKey": "prince pierre de polignac"
+      "answerKey": "prince pierre de polignac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prince_Pierre%2C_Duke_of_Valentinois"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366670",
-      "answerKey": "andrea casiraghi"
+      "answerKey": "andrea casiraghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Casiraghi"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366670",
-      "answerKey": "andrea casiraghi"
+      "answerKey": "andrea casiraghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Casiraghi"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1922",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234868",
-      "answerKey": "mary victoria douglashamilton"
+      "answerKey": "mary victoria douglashamilton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Mary_Douglas-Hamilton"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "figure skater",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1208034",
-      "answerKey": "princess alexandra of hanover"
+      "answerKey": "princess alexandra of hanover",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Princess_Alexandra_of_Hanover_(born_1999)"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18752",
-      "answerKey": "daniel elena"
+      "answerKey": "daniel elena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Elena"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18752",
-      "answerKey": "daniel elena"
+      "answerKey": "daniel elena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Elena"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2204805",
-      "answerKey": "pierre casiraghi"
+      "answerKey": "pierre casiraghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Casiraghi"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "magistrate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1673628",
-      "answerKey": "isabelle berroamadei"
+      "answerKey": "isabelle berroamadei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabelle_Berro-Amade%C3%AF"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "competitive diver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1049830",
-      "answerKey": "pauline ducruet"
+      "answerKey": "pauline ducruet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pauline_Ducruet"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q524369",
-      "answerKey": "steve wynn"
+      "answerKey": "steve wynn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wynn"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q684579",
-      "answerKey": "yasmine pahlavi"
+      "answerKey": "yasmine pahlavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasmine_Pahlavi"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63111192",
-      "answerKey": "arthur leclerc"
+      "answerKey": "arthur leclerc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Leclerc"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q530043",
-      "answerKey": "stefano coletti"
+      "answerKey": "stefano coletti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefano_Coletti"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q629521",
-      "answerKey": "jeanrene lisnard"
+      "answerKey": "jeanrene lisnard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Ren%C3%A9_Lisnard"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15240823",
-      "answerKey": "hugo nys"
+      "answerKey": "hugo nys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Nys"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1845",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q659429",
-      "answerKey": "francois joseph bosio"
+      "answerKey": "francois joseph bosio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Joseph_Bosio"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257569",
-      "answerKey": "clivio piccione"
+      "answerKey": "clivio piccione",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clivio_Piccione"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q3223408",
-      "answerKey": "louis ducruet"
+      "answerKey": "louis ducruet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Ducruet"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107314093",
-      "answerKey": "valentin vacherot"
+      "answerKey": "valentin vacherot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentin_Vacherot"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982749",
-      "answerKey": "valeriy khoroshkovskyi"
+      "answerKey": "valeriy khoroshkovskyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valeriy_Khoroshkovskyi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41479234",
-      "answerKey": "brigitte bocconepages"
+      "answerKey": "brigitte bocconepages",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Boccone-Pag%C3%A8s"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2021",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q766919",
-      "answerKey": "gianluigi gelmetti"
+      "answerKey": "gianluigi gelmetti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianluigi_Gelmetti"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q616303",
-      "answerKey": "stephane richelmi"
+      "answerKey": "stephane richelmi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C3%A9phane_Richelmi"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30729071",
-      "answerKey": "victor langellotti"
+      "answerKey": "victor langellotti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Langellotti"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433280",
-      "answerKey": "alexandra coletti"
+      "answerKey": "alexandra coletti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Coletti"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2019",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3130686",
-      "answerKey": "henri biancheri"
+      "answerKey": "henri biancheri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Biancheri"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg",
+  "updated": "2025-12-14T22:18:41.490Z",
+  "wikipediaLinksAdded": true
 }

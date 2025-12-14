@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342604",
-      "answerKey": "idris elba"
+      "answerKey": "idris elba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Idris_Elba"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57460",
-      "answerKey": "ernest bai koroma"
+      "answerKey": "ernest bai koroma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Bai_Koroma"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q283829",
-      "answerKey": "julius maada bio"
+      "answerKey": "julius maada bio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julius_Maada_Bio"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2014",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336297",
-      "answerKey": "ahmed tejan kabbah"
+      "answerKey": "ahmed tejan kabbah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Tejan_Kabbah"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40048",
-      "answerKey": "isaiah washington"
+      "answerKey": "isaiah washington",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaiah_Washington"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1988",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q515657",
-      "answerKey": "siaka stevens"
+      "answerKey": "siaka stevens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siaka_Stevens"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10788",
-      "answerKey": "nathaniel chalobah"
+      "answerKey": "nathaniel chalobah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathaniel_Chalobah"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2024",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6835591",
-      "answerKey": "michaela deprince"
+      "answerKey": "michaela deprince",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michaela_DePrince"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "triple jumper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1750",
-      "answerKey": "will claye"
+      "answerKey": "will claye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Will_Claye"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58244",
-      "answerKey": "zainab hawa bangura"
+      "answerKey": "zainab hawa bangura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zainab_Bangura"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238191",
-      "answerKey": "eunice barber"
+      "answerKey": "eunice barber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eunice_Barber"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2003",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887812",
-      "answerKey": "joseph saidu momoh"
+      "answerKey": "joseph saidu momoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Saidu_Momoh"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887565",
-      "answerKey": "valentine strasser"
+      "answerKey": "valentine strasser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentine_Strasser"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1074614",
-      "answerKey": "ishmael beah"
+      "answerKey": "ishmael beah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ishmael_Beah"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2630975",
-      "answerKey": "umaru bangura"
+      "answerKey": "umaru bangura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umaru_Bangura"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1737891",
-      "answerKey": "kei kamara"
+      "answerKey": "kei kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kei_Kamara"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3672746",
-      "answerKey": "ola kamara"
+      "answerKey": "ola kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ola_Kamara"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954413",
-      "answerKey": "jeneba tarmoh"
+      "answerKey": "jeneba tarmoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeneba_Tarmoh"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2003",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888792",
-      "answerKey": "johnny paul koroma"
+      "answerKey": "johnny paul koroma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johnny_Paul_Koroma"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27671274",
-      "answerKey": "mustapha bundu"
+      "answerKey": "mustapha bundu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustapha_Bundu"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1964",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879302",
-      "answerKey": "milton augustus strieby margai"
+      "answerKey": "milton augustus strieby margai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milton_Margai"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55238200",
-      "answerKey": "yvonne akisawyerr"
+      "answerKey": "yvonne akisawyerr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yvonne_Aki-Sawyerr"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1879",
       "occupation": "Slave rebellion leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1397714",
-      "answerKey": "joseph cinque"
+      "answerKey": "joseph cinque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Cinqu%C3%A9"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q716103",
-      "answerKey": "mohamed bangura"
+      "answerKey": "mohamed bangura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Bangura"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4682386",
-      "answerKey": "adetokumboh mcormack"
+      "answerKey": "adetokumboh mcormack",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adetokumboh_M'Cormack"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1118417",
-      "answerKey": "mohamed kamara"
+      "answerKey": "mohamed kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Medo_Kamara"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q924106",
-      "answerKey": "gibril sankoh"
+      "answerKey": "gibril sankoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gibril_Sankoh"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2023",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5105827",
-      "answerKey": "chris bartwilliams"
+      "answerKey": "chris bartwilliams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Bart-Williams"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2023",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5105827",
-      "answerKey": "chris bartwilliams"
+      "answerKey": "chris bartwilliams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Bart-Williams"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1993",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q642452",
-      "answerKey": "maurice henry dorman"
+      "answerKey": "maurice henry dorman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Henry_Dorman"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172159",
-      "answerKey": "alhassan kamara"
+      "answerKey": "alhassan kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alhassan_Kamara"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q970814",
-      "answerKey": "teteh bangura"
+      "answerKey": "teteh bangura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teteh_Bangura"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1655998",
-      "answerKey": "ibrahim kargbo"
+      "answerKey": "ibrahim kargbo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Kargbo"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23728768",
-      "answerKey": "david sengeh"
+      "answerKey": "david sengeh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Moinina_Sengeh"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2706483",
-      "answerKey": "sheriff suma"
+      "answerKey": "sheriff suma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheriff_Suma"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29312515",
-      "answerKey": "mohamed buya turay"
+      "answerKey": "mohamed buya turay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Buya_Turay"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29312515",
-      "answerKey": "mohamed buya turay"
+      "answerKey": "mohamed buya turay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Buya_Turay"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q50242006",
-      "answerKey": "mohamed juldeh jalloh"
+      "answerKey": "mohamed juldeh jalloh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Juldeh_Jalloh"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53863493",
-      "answerKey": "david j francis"
+      "answerKey": "david j francis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_J._Francis_(politician)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1994",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3275290",
-      "answerKey": "abioseh nicol"
+      "answerKey": "abioseh nicol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Davidson_Nicol"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1384568",
-      "answerKey": "kewullay conteh"
+      "answerKey": "kewullay conteh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kewullay_Conteh"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q924573",
-      "answerKey": "solomon bockarie"
+      "answerKey": "solomon bockarie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomon_Bockarie"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q924573",
-      "answerKey": "solomon bockarie"
+      "answerKey": "solomon bockarie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Solomon_Bockarie"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7413073",
-      "answerKey": "samura kamara"
+      "answerKey": "samura kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samura_Kamara"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130457678",
-      "answerKey": "abdulay juma bah"
+      "answerKey": "abdulay juma bah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juma_Bah"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107067181",
-      "answerKey": "jacob jusu saffa"
+      "answerKey": "jacob jusu saffa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Jusu_Saffa"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320751",
-      "answerKey": "sahr senesie"
+      "answerKey": "sahr senesie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sahr_Senesie"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q971440",
-      "answerKey": "samuel samsumana"
+      "answerKey": "samuel samsumana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Sam-Sumana"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15303566",
-      "answerKey": "john kamara"
+      "answerKey": "john kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kamara"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2023",
       "occupation": "social activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101423280",
-      "answerKey": "henrietta mbawah"
+      "answerKey": "henrietta mbawah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrietta_Mbawah"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg",
+  "updated": "2025-12-14T22:19:11.035Z",
+  "wikipediaLinksAdded": true
 }

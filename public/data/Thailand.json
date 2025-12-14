@@ -13,7 +13,8 @@
       "deathYear": "2016",
       "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q855252",
-      "answerKey": "bhumibol adulyadej"
+      "answerKey": "bhumibol adulyadej",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bhumibol_Adulyadej"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q548733",
-      "answerKey": "vajiralongkorn"
+      "answerKey": "vajiralongkorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vajiralongkorn"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1992",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6583188",
-      "answerKey": "pumpuang duangjan"
+      "answerKey": "pumpuang duangjan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pumpuang_Duangjan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "refugee",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57670",
-      "answerKey": "yingluck shinawatra"
+      "answerKey": "yingluck shinawatra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yingluck_Shinawatra"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164373",
-      "answerKey": "thaksin shinawatra"
+      "answerKey": "thaksin shinawatra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thaksin_Shinawatra"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26707663",
-      "answerKey": "lisa"
+      "answerKey": "lisa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lisa_(rapper)"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q383197",
-      "answerKey": "jintara poonlarp"
+      "answerKey": "jintara poonlarp",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jintara_Poonlarp"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1983",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714934",
-      "answerKey": "pridi banomyong"
+      "answerKey": "pridi banomyong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pridi_Banomyong"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174267",
-      "answerKey": "abhisit vejjajiva"
+      "answerKey": "abhisit vejjajiva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abhisit_Vejjajiva"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "businessperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13026319",
-      "answerKey": "paetongtarn shinawatra"
+      "answerKey": "paetongtarn shinawatra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paetongtarn_Shinawatra"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2108126",
-      "answerKey": "prayut chanocha"
+      "answerKey": "prayut chanocha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prayut_Chan-o-cha"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1868",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312849",
-      "answerKey": "mongkut"
+      "answerKey": "mongkut",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mongkut"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215076",
-      "answerKey": "vanessamae"
+      "answerKey": "vanessamae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vanessa-Mae"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1941",
       "occupation": "social worker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313124",
-      "answerKey": "prajadhipok"
+      "answerKey": "prajadhipok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prajadhipok"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379827",
-      "answerKey": "prem tinsulanonda"
+      "answerKey": "prem tinsulanonda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prem_Tinsulanonda"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1809",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310992",
-      "answerKey": "buddha yodfa chulaloke"
+      "answerKey": "buddha yodfa chulaloke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rama_I"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2025",
       "occupation": "social worker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164518",
-      "answerKey": "sirikit"
+      "answerKey": "sirikit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirikit"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1964",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152777",
-      "answerKey": "plaek phibunsongkhram"
+      "answerKey": "plaek phibunsongkhram",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plaek_Phibunsongkhram"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298551",
-      "answerKey": "tony jaa"
+      "answerKey": "tony jaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Jaa"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16149172",
-      "answerKey": "alexander albon"
+      "answerKey": "alexander albon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Albon"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1782",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320097",
-      "answerKey": "taksin"
+      "answerKey": "taksin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taksin"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3196760",
-      "answerKey": "chanathip songkrasin"
+      "answerKey": "chanathip songkrasin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chanathip_Songkrasin"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1851",
       "occupation": "foreign minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319669",
-      "answerKey": "nangklao"
+      "answerKey": "nangklao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rama_III"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1824",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319675",
-      "answerKey": "buddha loetla nabhalai"
+      "answerKey": "buddha loetla nabhalai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rama_II"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q118213697",
-      "answerKey": "srettha thavisin"
+      "answerKey": "srettha thavisin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Srettha_Thavisin"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13027773",
-      "answerKey": "mike phiromphorn"
+      "answerKey": "mike phiromphorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Phiromphon"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q304901",
-      "answerKey": "teerasil dangda"
+      "answerKey": "teerasil dangda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teerasil_Dangda"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q304901",
-      "answerKey": "teerasil dangda"
+      "answerKey": "teerasil dangda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teerasil_Dangda"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1884754",
-      "answerKey": "sirindhorn princess royal"
+      "answerKey": "sirindhorn princess royal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirindhorn"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2009",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q243623",
-      "answerKey": "samak sundaravej"
+      "answerKey": "samak sundaravej",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samak_Sundaravej"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1365889",
-      "answerKey": "thongchai mcintyre"
+      "answerKey": "thongchai mcintyre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thongchai_McIntyre"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298088",
-      "answerKey": "somchai wongsawat"
+      "answerKey": "somchai wongsawat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Somchai_Wongsawat"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1963",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q975621",
-      "answerKey": "sarit thanarat"
+      "answerKey": "sarit thanarat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarit_Thanarat"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1968",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4922443",
-      "answerKey": "suraphol sombatcharoen"
+      "answerKey": "suraphol sombatcharoen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suraphol_Sombatcharoen"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4274269",
-      "answerKey": "theerathon bunmathan"
+      "answerKey": "theerathon bunmathan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theerathon_Bunmathan"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "volunteer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16139757",
-      "answerKey": "anutin charnvirakul"
+      "answerKey": "anutin charnvirakul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anutin_Charnvirakul"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298079",
-      "answerKey": "surayud chulanont"
+      "answerKey": "surayud chulanont",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Surayud_Chulanont"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2004",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q439990",
-      "answerKey": "thanom kittikachorn"
+      "answerKey": "thanom kittikachorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thanom_Kittikachorn"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85998709",
-      "answerKey": "pita limjaroenrat"
+      "answerKey": "pita limjaroenrat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pita_Limjaroenrat"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "installation artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q445198",
-      "answerKey": "apichatpong weerasethakul"
+      "answerKey": "apichatpong weerasethakul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apichatpong_Weerasethakul"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2018",
       "occupation": "polo player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6631231",
-      "answerKey": "vichai srivaddhanaprabha"
+      "answerKey": "vichai srivaddhanaprabha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vichai_Srivaddhanaprabha"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18744506",
-      "answerKey": "queen suthida"
+      "answerKey": "queen suthida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suthida"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464301",
-      "answerKey": "chuan leekpai"
+      "answerKey": "chuan leekpai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chuan_Leekpai"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q140253",
-      "answerKey": "paradorn srichaphan"
+      "answerKey": "paradorn srichaphan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paradorn_Srichaphan"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q144555",
-      "answerKey": "tamarine tanasugarn"
+      "answerKey": "tamarine tanasugarn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamarine_Tanasugarn"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6577868",
-      "answerKey": "thitipan puangchan"
+      "answerKey": "thitipan puangchan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thitiphan_Puangchan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q506672",
-      "answerKey": "michael michai kitbunchu"
+      "answerKey": "michael michai kitbunchu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Michai_Kitbunchu"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q959614",
-      "answerKey": "suchinda kraprayoon"
+      "answerKey": "suchinda kraprayoon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suchinda_Kraprayoon"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467624",
-      "answerKey": "orathai dabkham"
+      "answerKey": "orathai dabkham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tai_Orathai"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2025",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q74861",
-      "answerKey": "thanin kraiwichian"
+      "answerKey": "thanin kraiwichian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thanin_Kraivichien"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+  "updated": "2025-12-14T22:23:20.399Z",
+  "wikipediaLinksAdded": true
 }

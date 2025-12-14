@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181383",
-      "answerKey": "mahathir mohamad"
+      "answerKey": "mahathir mohamad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahathir_Mohamad"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2725555",
-      "answerKey": "siti nurhaliza"
+      "answerKey": "siti nurhaliza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siti_Nurhaliza"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57675",
-      "answerKey": "najib razak"
+      "answerKey": "najib razak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Najib_Razak"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214289",
-      "answerKey": "michelle yeoh"
+      "answerKey": "michelle yeoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Yeoh"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299574",
-      "answerKey": "anwar ibrahim"
+      "answerKey": "anwar ibrahim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_Ibrahim"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1990",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296317",
-      "answerKey": "tunku abdul rahman"
+      "answerKey": "tunku abdul rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tunku_Abdul_Rahman"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1973",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3058202",
-      "answerKey": "p ramlee"
+      "answerKey": "p ramlee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P._Ramlee"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2025",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272588",
-      "answerKey": "abdullah ahmad badawi"
+      "answerKey": "abdullah ahmad badawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Ahmad_Badawi"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108047434",
-      "answerKey": "james wan"
+      "answerKey": "james wan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Wan"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15467111",
-      "answerKey": "abdullah of pahang"
+      "answerKey": "abdullah of pahang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_of_Pahang"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2017",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57550",
-      "answerKey": "abdul halim of kedah"
+      "answerKey": "abdul halim of kedah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Halim_of_Kedah"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1060949",
-      "answerKey": "muhyiddin yassin"
+      "answerKey": "muhyiddin yassin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhyiddin_Yassin"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2657043",
-      "answerKey": "ibrahim iskandar of johor"
+      "answerKey": "ibrahim iskandar of johor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Iskandar_of_Johor"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319346",
-      "answerKey": "lee chong wei"
+      "answerKey": "lee chong wei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_Chong_Wei"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5244614",
-      "answerKey": "muhammad v of kelantan"
+      "answerKey": "muhammad v of kelantan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_V_of_Kelantan"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1976",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264516",
-      "answerKey": "abdul razak hussein"
+      "answerKey": "abdul razak hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Razak_Hussein"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983452",
-      "answerKey": "guy sebastian"
+      "answerKey": "guy sebastian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Sebastian"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299530",
-      "answerKey": "mizan zainal abidin of terengganu"
+      "answerKey": "mizan zainal abidin of terengganu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mizan_Zainal_Abidin_of_Terengganu"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6084858",
-      "answerKey": "ismail sabri yaakob"
+      "answerKey": "ismail sabri yaakob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismail_Sabri_Yaakob"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313957",
-      "answerKey": "sheikh muszaphar shukor"
+      "answerKey": "sheikh muszaphar shukor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheikh_Muszaphar_Shukor"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236114",
-      "answerKey": "tanita tikaram"
+      "answerKey": "tanita tikaram",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tanita_Tikaram"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457929",
-      "answerKey": "devan nair"
+      "answerKey": "devan nair",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Devan_Nair"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7967027",
-      "answerKey": "wan zack haikal"
+      "answerKey": "wan zack haikal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wan_Zack_Haikal"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "shoe designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362249",
-      "answerKey": "jimmy choo"
+      "answerKey": "jimmy choo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Choo"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1868",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441276",
-      "answerKey": "james brooke"
+      "answerKey": "james brooke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Brooke"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q265133",
-      "answerKey": "amina wadud"
+      "answerKey": "amina wadud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amina_Wadud"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q460568",
-      "answerKey": "sirajuddin i of perlis"
+      "answerKey": "sirajuddin i of perlis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirajuddin_of_Perlis"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q793910",
-      "answerKey": "azizulhasni awang"
+      "answerKey": "azizulhasni awang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Azizulhasni_Awang"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172006",
-      "answerKey": "alex yoong"
+      "answerKey": "alex yoong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Yoong"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q698710",
-      "answerKey": "tsai mingliang"
+      "answerKey": "tsai mingliang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsai_Ming-liang"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468579",
-      "answerKey": "wan azizah wan ismail"
+      "answerKey": "wan azizah wan ismail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wan_Azizah_Wan_Ismail"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "competitive diver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455843",
-      "answerKey": "pandelela rinong"
+      "answerKey": "pandelela rinong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandelela_Rinong"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173381",
-      "answerKey": "tony fernandes"
+      "answerKey": "tony fernandes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Fernandes"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "music historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q971782",
-      "answerKey": "simon russell beale"
+      "answerKey": "simon russell beale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Russell_Beale"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2010",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q375278",
-      "answerKey": "iskandar i of johor"
+      "answerKey": "iskandar i of johor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iskandar_of_Johor"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235677",
-      "answerKey": "natassia malthe"
+      "answerKey": "natassia malthe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natassia_Malthe"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2020",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q574007",
-      "answerKey": "anthony soter fernandez"
+      "answerKey": "anthony soter fernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Soter_Fernandez"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2019",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4200571",
-      "answerKey": "ahmad shah iii of pahang"
+      "answerKey": "ahmad shah iii of pahang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmad_Shah_of_Pahang"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1991",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1943172",
-      "answerKey": "mokhtar dahari"
+      "answerKey": "mokhtar dahari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mokhtar_Dahari"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7531880",
-      "answerKey": "siti hasmah mohamad ali"
+      "answerKey": "siti hasmah mohamad ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siti_Hasmah_Mohamad_Ali"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7531880",
-      "answerKey": "siti hasmah mohamad ali"
+      "answerKey": "siti hasmah mohamad ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siti_Hasmah_Mohamad_Ali"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1966",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19175",
-      "answerKey": "arthur percival"
+      "answerKey": "arthur percival",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Percival"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51125",
-      "answerKey": "claudia wells"
+      "answerKey": "claudia wells",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Wells"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1960",
       "occupation": "health officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1036871",
-      "answerKey": "wu lienteh"
+      "answerKey": "wu lienteh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wu_Lien-teh"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1496981",
-      "answerKey": "sebastian francis"
+      "answerKey": "sebastian francis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Francis"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561319",
-      "answerKey": "azlan shah i of perak"
+      "answerKey": "azlan shah i of perak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Azlan_Shah_of_Perak"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q524129",
-      "answerKey": "goh liu ying"
+      "answerKey": "goh liu ying",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goh_Liu_Ying"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2001",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q654886",
-      "answerKey": "salahuddin of selangor"
+      "answerKey": "salahuddin of selangor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salahuddin_of_Selangor"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18426129",
-      "answerKey": "dion cools"
+      "answerKey": "dion cools",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dion_Cools"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18426129",
-      "answerKey": "dion cools"
+      "answerKey": "dion cools",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dion_Cools"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
+  "updated": "2025-12-14T22:17:58.754Z",
+  "wikipediaLinksAdded": true
 }

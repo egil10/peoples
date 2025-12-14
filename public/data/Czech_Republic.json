@@ -13,7 +13,8 @@
       "deathYear": "2011",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36233",
-      "answerKey": "vaclav havel"
+      "answerKey": "vaclav havel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Havel"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2023",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93166",
-      "answerKey": "milan kundera"
+      "answerKey": "milan kundera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milan_Kundera"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54545",
-      "answerKey": "martina navratilova"
+      "answerKey": "martina navratilova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martina_Navratilova"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29032",
-      "answerKey": "milos zeman"
+      "answerKey": "milos zeman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milo%C5%A1_Zeman"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2018",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51525",
-      "answerKey": "milos forman"
+      "answerKey": "milos forman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milo%C5%A1_Forman"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57434",
-      "answerKey": "vaclav klaus"
+      "answerKey": "vaclav klaus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Klaus"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "ice hockey player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483137",
-      "answerKey": "petr cech"
+      "answerKey": "petr cech",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petr_%C4%8Cech"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "President of the Czech Republic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2080040",
-      "answerKey": "petr pavel"
+      "answerKey": "petr pavel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petr_Pavel"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10819807",
-      "answerKey": "andrej babis"
+      "answerKey": "andrej babis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrej_Babi%C5%A1"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2022",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242351",
-      "answerKey": "ivana trump"
+      "answerKey": "ivana trump",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivana_Trump"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2000",
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52589",
-      "answerKey": "emil zatopek"
+      "answerKey": "emil zatopek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171295",
-      "answerKey": "pavel nedved"
+      "answerKey": "pavel nedved",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Nedv%C4%9Bd"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30812",
-      "answerKey": "petra kvitova"
+      "answerKey": "petra kvitova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petra_Kvitov%C3%A1"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1977",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57240",
-      "answerKey": "ernst bloch"
+      "answerKey": "ernst bloch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernst_Bloch"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29162",
-      "answerKey": "tomas rosicky"
+      "answerKey": "tomas rosicky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Rosick%C3%BD"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180581",
-      "answerKey": "milan baros"
+      "answerKey": "milan baros",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milan_Baro%C5%A1"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "pedagogue",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3377548",
-      "answerKey": "petr fiala"
+      "answerKey": "petr fiala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petr_Fiala"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1997",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242130",
-      "answerKey": "bohumil hrabal"
+      "answerKey": "bohumil hrabal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bohumil_Hrabal"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "television personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242302",
-      "answerKey": "ewa farna"
+      "answerKey": "ewa farna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ewa_Farna"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2017",
       "occupation": "tennis coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229121",
-      "answerKey": "jana novotna"
+      "answerKey": "jana novotna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jana_Novotn%C3%A1"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "pedagogue",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155880",
-      "answerKey": "mirek topolanek"
+      "answerKey": "mirek topolanek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirek_Topol%C3%A1nek"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35786",
-      "answerKey": "petr necas"
+      "answerKey": "petr necas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petr_Ne%C4%8Das"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "javelin thrower",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193187",
-      "answerKey": "jan zelezny"
+      "answerKey": "jan zelezny",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_%C5%BDelezn%C3%BD"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q487141",
-      "answerKey": "silvia saint"
+      "answerKey": "silvia saint",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvia_Saint"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q289365",
-      "answerKey": "karolina pliskova"
+      "answerKey": "karolina pliskova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Pl%C3%AD%C5%A1kov%C3%A1"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "beach soccer player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152340",
-      "answerKey": "jan koller"
+      "answerKey": "jan koller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Koller"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31376",
-      "answerKey": "ivan hasek"
+      "answerKey": "ivan hasek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Ha%C5%A1ek"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193717",
-      "answerKey": "jaroslav plasil"
+      "answerKey": "jaroslav plasil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaroslav_Pla%C5%A1il"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2016",
       "occupation": "artistic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229503",
-      "answerKey": "vera caslavska"
+      "answerKey": "vera caslavska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C4%9Bra_%C4%8C%C3%A1slavsk%C3%A1"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2015",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q223158",
-      "answerKey": "josef masopust"
+      "answerKey": "josef masopust",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josef_Masopust"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16910257",
-      "answerKey": "patrik schick"
+      "answerKey": "patrik schick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrik_Schick"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193665",
-      "answerKey": "tomas berdych"
+      "answerKey": "tomas berdych",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Berdych"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "statistician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193675",
-      "answerKey": "jan fischer"
+      "answerKey": "jan fischer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Fischer_(politician)"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "color commentator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q224033",
-      "answerKey": "karel poborsky"
+      "answerKey": "karel poborsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karel_Poborsk%C3%BD"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2019",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333187",
-      "answerKey": "karel gott"
+      "answerKey": "karel gott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karel_Gott"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200868",
-      "answerKey": "marek jankulovski"
+      "answerKey": "marek jankulovski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marek_Jankulovski"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q890971",
-      "answerKey": "bohuslav sobotka"
+      "answerKey": "bohuslav sobotka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bohuslav_Sobotka"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204978",
-      "answerKey": "antonin panenka"
+      "answerKey": "antonin panenka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anton%C3%ADn_Panenka"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229509",
-      "answerKey": "eva herzigova"
+      "answerKey": "eva herzigova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eva_Herzigov%C3%A1"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31377",
-      "answerKey": "pavel horvath"
+      "answerKey": "pavel horvath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Horv%C3%A1th"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2020",
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q352030",
-      "answerKey": "jiri menzel"
+      "answerKey": "jiri menzel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ji%C5%99%C3%AD_Menzel"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31287",
-      "answerKey": "ivo ulich"
+      "answerKey": "ivo ulich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivo_Ulich"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216147",
-      "answerKey": "petr jiracek"
+      "answerKey": "petr jiracek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petr_Jir%C3%A1%C4%8Dek"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11052500",
-      "answerKey": "barbora krejcikova"
+      "answerKey": "barbora krejcikova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbora_Krej%C4%8D%C3%ADkov%C3%A1"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215800",
-      "answerKey": "vaclav pilar"
+      "answerKey": "vaclav pilar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%A1clav_Pila%C5%99"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152461",
-      "answerKey": "karolina kurkova"
+      "answerKey": "karolina kurkova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karol%C3%ADna_Kurkov%C3%A1"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294990",
-      "answerKey": "michal kadlec"
+      "answerKey": "michal kadlec",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michal_Kadlec"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q278239",
-      "answerKey": "vladimir darida"
+      "answerKey": "vladimir darida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Darida"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "ice hockey player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295345",
-      "answerKey": "jaromir jagr"
+      "answerKey": "jaromir jagr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jarom%C3%ADr_J%C3%A1gr"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299736",
-      "answerKey": "tomas necid"
+      "answerKey": "tomas necid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Necid"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
+  "updated": "2025-12-14T22:13:22.523Z",
+  "wikipediaLinksAdded": true
 }

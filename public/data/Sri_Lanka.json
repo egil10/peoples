@@ -13,7 +13,8 @@
       "deathYear": "2000",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q194291",
-      "answerKey": "sirimavo bandaranaike"
+      "answerKey": "sirimavo bandaranaike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sirimavo_Bandaranaike"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57338",
-      "answerKey": "mahinda rajapaksa"
+      "answerKey": "mahinda rajapaksa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahinda_Rajapaksa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207432",
-      "answerKey": "chandrika kumaratunga"
+      "answerKey": "chandrika kumaratunga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chandrika_Kumaratunga"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6737124",
-      "answerKey": "maithripala sirisena"
+      "answerKey": "maithripala sirisena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maithripala_Sirisena"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983402",
-      "answerKey": "ranil wickremesinghe"
+      "answerKey": "ranil wickremesinghe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ranil_Wickremesinghe"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204019",
-      "answerKey": "mia"
+      "answerKey": "mia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M.I.A._(rapper)"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2312801",
-      "answerKey": "jacqueline fernandez"
+      "answerKey": "jacqueline fernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacqueline_Fernandez"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1538702",
-      "answerKey": "gotabaya rajapaksa"
+      "answerKey": "gotabaya rajapaksa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gotabaya_Rajapaksa"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2009",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204016",
-      "answerKey": "velupillai prabhakaran"
+      "answerKey": "velupillai prabhakaran",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Velupillai_Prabhakaran"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4777855",
-      "answerKey": "anura kumara dissanayake"
+      "answerKey": "anura kumara dissanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anura_Kumara_Dissanayake"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4777855",
-      "answerKey": "anura kumara dissanayake"
+      "answerKey": "anura kumara dissanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anura_Kumara_Dissanayake"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1959",
       "occupation": "barrister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313997",
-      "answerKey": "s w r d bandaranaike"
+      "answerKey": "s w r d bandaranaike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1996",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469661",
-      "answerKey": "junius richard jayewardene"
+      "answerKey": "junius richard jayewardene",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._R._Jayewardene"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314009",
-      "answerKey": "ratnasiri wickremanayake"
+      "answerKey": "ratnasiri wickremanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ratnasiri_Wickremanayake"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559896",
-      "answerKey": "albert malcolm ranjith patabendige don"
+      "answerKey": "albert malcolm ranjith patabendige don",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Ranjith"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559896",
-      "answerKey": "albert malcolm ranjith patabendige don"
+      "answerKey": "albert malcolm ranjith patabendige don",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Ranjith"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379709",
-      "answerKey": "muttiah muralitharan"
+      "answerKey": "muttiah muralitharan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muttiah_Muralitharan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q737645",
-      "answerKey": "kumar sangakkara"
+      "answerKey": "kumar sangakkara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kumar_Sangakkara"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1993",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q472323",
-      "answerKey": "ranasinghe premadasa"
+      "answerKey": "ranasinghe premadasa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ranasinghe_Premadasa"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98298397",
-      "answerKey": "harini amarasuriya"
+      "answerKey": "harini amarasuriya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harini_Amarasuriya"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1981",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q205993",
-      "answerKey": "william gopallawa"
+      "answerKey": "william gopallawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Gopallawa"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "250",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558275",
-      "answerKey": "aryadeva"
+      "answerKey": "aryadeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aryadeva"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559898",
-      "answerKey": "d m jayaratne"
+      "answerKey": "d m jayaratne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D._M._Jayaratne"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5278077",
-      "answerKey": "dinesh gunawardena"
+      "answerKey": "dinesh gunawardena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Gunawardena"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1952",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q663001",
-      "answerKey": "don stephen senanayake"
+      "answerKey": "don stephen senanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D._S._Senanayake"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242027",
-      "answerKey": "susanthika jayasinghe"
+      "answerKey": "susanthika jayasinghe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susanthika_Jayasinghe"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7492831",
-      "answerKey": "shehan karunatilaka"
+      "answerKey": "shehan karunatilaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shehan_Karunatilaka"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1973",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1150570",
-      "answerKey": "dudley senanayake"
+      "answerKey": "dudley senanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dudley_Senanayake"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2312779",
-      "answerKey": "lasith malinga"
+      "answerKey": "lasith malinga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasith_Malinga"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2739165",
-      "answerKey": "mahela jayawardene"
+      "answerKey": "mahela jayawardene",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahela_Jayawardene"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2724503",
-      "answerKey": "tillakaratne dilshan"
+      "answerKey": "tillakaratne dilshan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tillakaratne_Dilshan"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q378810",
-      "answerKey": "sanath jayasuriya"
+      "answerKey": "sanath jayasuriya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sanath_Jayasuriya"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23768737",
-      "answerKey": "asha de vos"
+      "answerKey": "asha de vos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asha_de_Vos"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1980",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4271789",
-      "answerKey": "john kotelawala"
+      "answerKey": "john kotelawala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Kotelawala"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1998",
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q256183",
-      "answerKey": "duncan white"
+      "answerKey": "duncan white",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duncan_White"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2005",
       "occupation": "barrister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206638",
-      "answerKey": "lakshman kadirgamar"
+      "answerKey": "lakshman kadirgamar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lakshman_Kadirgamar"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29466121",
-      "answerKey": "sandya eknaligoda"
+      "answerKey": "sandya eknaligoda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandya_Eknelygoda"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "-266",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3025383",
-      "answerKey": "devanampiya tissa of anuradhapura"
+      "answerKey": "devanampiya tissa of anuradhapura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Devanampiya_Tissa"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2737023",
-      "answerKey": "chaminda vaas"
+      "answerKey": "chaminda vaas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chaminda_Vaas"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3531300",
-      "answerKey": "angelo mathews"
+      "answerKey": "angelo mathews",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angelo_Mathews"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1997",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982207",
-      "answerKey": "wijeyananda dahanayake"
+      "answerKey": "wijeyananda dahanayake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wijeyananda_Dahanayake"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24572415",
-      "answerKey": "jayanthi kuruutumpala"
+      "answerKey": "jayanthi kuruutumpala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jayanthi_Kuru-Utumpala"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2480608",
-      "answerKey": "ajantha mendis"
+      "answerKey": "ajantha mendis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajantha_Mendis"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2008",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q612582",
-      "answerKey": "anura bandaranaike"
+      "answerKey": "anura bandaranaike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anura_Bandaranaike"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q765741",
-      "answerKey": "chandra wickramasinghe"
+      "answerKey": "chandra wickramasinghe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chandra_Wickramasinghe"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2017",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q741091",
-      "answerKey": "christopher g weeramantry"
+      "answerKey": "christopher g weeramantry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Weeramantry"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22004824",
-      "answerKey": "wanindu hasaranga"
+      "answerKey": "wanindu hasaranga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wanindu_Hasaranga"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5278068",
-      "answerKey": "dinesh chandimal"
+      "answerKey": "dinesh chandimal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dinesh_Chandimal"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16236961",
-      "answerKey": "hasini perera"
+      "answerKey": "hasini perera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hasini_Perera"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1976",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379591",
-      "answerKey": "martin wickramasinghe"
+      "answerKey": "martin wickramasinghe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Wickramasinghe"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg",
+  "updated": "2025-12-14T22:22:34.070Z",
+  "wikipediaLinksAdded": true
 }

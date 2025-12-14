@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2112764",
-      "answerKey": "nikos anastasiades"
+      "answerKey": "nikos anastasiades",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicos_Anastasiades"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57334",
-      "answerKey": "dimitris christofias"
+      "answerKey": "dimitris christofias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Demetris_Christofias"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1977",
       "occupation": "cleric",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153509",
-      "answerKey": "makarios iii"
+      "answerKey": "makarios iii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Makarios_III"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200436",
-      "answerKey": "rauf denktas"
+      "answerKey": "rauf denktas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rauf_Denkta%C5%9F"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200776",
-      "answerKey": "tassos papadopoulos"
+      "answerKey": "tassos papadopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tassos_Papadopoulos"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109582",
-      "answerKey": "christophoros a pissarides"
+      "answerKey": "christophoros a pissarides",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_A._Pissarides"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109582",
-      "answerKey": "christophoros a pissarides"
+      "answerKey": "christophoros a pissarides",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_A._Pissarides"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48905549",
-      "answerKey": "nicos christodoulides"
+      "answerKey": "nicos christodoulides",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikos_Christodoulides"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207084",
-      "answerKey": "marcos baghdatis"
+      "answerKey": "marcos baghdatis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcos_Baghdatis"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "patron of the arts",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315514",
-      "answerKey": "oleg deripaska"
+      "answerKey": "oleg deripaska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Deripaska"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211337",
-      "answerKey": "ivi adamou"
+      "answerKey": "ivi adamou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivi_Adamou"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229606",
-      "answerKey": "anna vissi"
+      "answerKey": "anna vissi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Vissi"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58975",
-      "answerKey": "eleftheria eleftheriou"
+      "answerKey": "eleftheria eleftheriou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eleftheria_Eleftheriou"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q704450",
-      "answerKey": "viktor vekselberg"
+      "answerKey": "viktor vekselberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Vekselberg"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39180",
-      "answerKey": "giorgos vasiliou"
+      "answerKey": "giorgos vasiliou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Vassiliou"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2002",
       "occupation": "legal counselor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552389",
-      "answerKey": "spiros cyprianou"
+      "answerKey": "spiros cyprianou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spyros_Kyprianou"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q351862",
-      "answerKey": "sotiris kaiafas"
+      "answerKey": "sotiris kaiafas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sotiris_Kaiafas"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1626421",
-      "answerKey": "ihor kolomoyskyi"
+      "answerKey": "ihor kolomoyskyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ihor_Kolomoyskyi"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q262719",
-      "answerKey": "androula vassiliou"
+      "answerKey": "androula vassiliou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Androulla_Vassiliou"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q262719",
-      "answerKey": "androula vassiliou"
+      "answerKey": "androula vassiliou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Androulla_Vassiliou"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3557458",
-      "answerKey": "despina olympiou"
+      "answerKey": "despina olympiou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Despina_Olympiou"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27492272",
-      "answerKey": "hovig demirjian"
+      "answerKey": "hovig demirjian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hovig_Demirjian"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q343627",
-      "answerKey": "giorgos dalaras"
+      "answerKey": "giorgos dalaras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Dalaras"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16875990",
-      "answerKey": "maria elena kyriakou"
+      "answerKey": "maria elena kyriakou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Elena_Kyriakou"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q352737",
-      "answerKey": "loukas yorkas"
+      "answerKey": "loukas yorkas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loukas_Yorkas"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1976907",
-      "answerKey": "oleg tinkov"
+      "answerKey": "oleg tinkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oleg_Tinkov"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158124",
-      "answerKey": "evridiki"
+      "answerKey": "evridiki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evridiki"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q121770675",
-      "answerKey": "theo evan"
+      "answerKey": "theo evan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo_Evan"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59600",
-      "answerKey": "li ke"
+      "answerKey": "li ke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nico_Yennaris"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359084",
-      "answerKey": "kyriakos ioannou"
+      "answerKey": "kyriakos ioannou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyriakos_Ioannou"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1253",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q506087",
-      "answerKey": "henry i of cyprus"
+      "answerKey": "henry i of cyprus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_I_of_Cyprus"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1916",
       "occupation": "sport shooter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q562820",
-      "answerKey": "ioannis frangoudis"
+      "answerKey": "ioannis frangoudis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Frangoudis"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "clinical psychologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47545922",
-      "answerKey": "stella kyriakides"
+      "answerKey": "stella kyriakides",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stella_Kyriakides"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4714896",
-      "answerKey": "aleksandar vezenkov"
+      "answerKey": "aleksandar vezenkov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandar_Vezenkov"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462888",
-      "answerKey": "giannis okkas"
+      "answerKey": "giannis okkas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Okkas"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "sailor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1362967",
-      "answerKey": "pavlos kontides"
+      "answerKey": "pavlos kontides",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavlos_Kontides"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q287146",
-      "answerKey": "christina metaxa"
+      "answerKey": "christina metaxa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christina_Metaxa"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1398",
       "occupation": "king of Cyprus",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546626",
-      "answerKey": "iakovos i of cyprus"
+      "answerKey": "iakovos i of cyprus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_I_of_Cyprus"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q556963",
-      "answerKey": "konstantinos charalambidis"
+      "answerKey": "konstantinos charalambidis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantinos_Charalambidis"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19957957",
-      "answerKey": "grigoris kastanos"
+      "answerKey": "grigoris kastanos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grigoris_Kastanos"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7191933",
-      "answerKey": "pieros sotiriou"
+      "answerKey": "pieros sotiriou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pieros_Sotiriou"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q258409",
-      "answerKey": "christos mylordos"
+      "answerKey": "christos mylordos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christos_Mylordos"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983847",
-      "answerKey": "dmitry rybolovlev"
+      "answerKey": "dmitry rybolovlev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dmitry_Rybolovlev"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q719841",
-      "answerKey": "ricardo arjona"
+      "answerKey": "ricardo arjona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Arjona"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1974",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q712817",
-      "answerKey": "georgios grivasdigenis"
+      "answerKey": "georgios grivasdigenis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgios_Grivas"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2075776",
-      "answerKey": "erato kozakou marcoullis"
+      "answerKey": "erato kozakou marcoullis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erato_Kozakou-Marcoullis"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462044",
-      "answerKey": "evdokia kadi"
+      "answerKey": "evdokia kadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evdokia_Kadi"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18928667",
-      "answerKey": "yannis karagiannis"
+      "answerKey": "yannis karagiannis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giannis_Karagiannis"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q936049",
-      "answerKey": "urko rafael pardo"
+      "answerKey": "urko rafael pardo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Urko_Pardo"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q720993",
-      "answerKey": "michalis chatzigiannis"
+      "answerKey": "michalis chatzigiannis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michalis_Hatzigiannis"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cyprus.svg",
+  "updated": "2025-12-14T22:13:17.326Z",
+  "wikipediaLinksAdded": true
 }

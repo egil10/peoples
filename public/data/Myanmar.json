@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36740",
-      "answerKey": "aung san suu kyi"
+      "answerKey": "aung san suu kyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1974",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1264",
-      "answerKey": "u thant"
+      "answerKey": "u thant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/U_Thant"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1947",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q194161",
-      "answerKey": "aung san"
+      "answerKey": "aung san",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aung_San"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
-      "answerKey": "thein sein"
+      "answerKey": "thein sein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thein_Sein"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
-      "answerKey": "thein sein"
+      "answerKey": "thein sein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thein_Sein"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
-      "answerKey": "thein sein"
+      "answerKey": "thein sein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thein_Sein"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12149",
-      "answerKey": "thein sein"
+      "answerKey": "thein sein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thein_Sein"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202553",
-      "answerKey": "than shwe"
+      "answerKey": "than shwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Than_Shwe"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202553",
-      "answerKey": "than shwe"
+      "answerKey": "than shwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Than_Shwe"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2002",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315522",
-      "answerKey": "ne win"
+      "answerKey": "ne win",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ne_Win"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8023642",
-      "answerKey": "win myint"
+      "answerKey": "win myint",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Win_Myint"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3462649",
-      "answerKey": "min aung hlaing"
+      "answerKey": "min aung hlaing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1995",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316384",
-      "answerKey": "u nu"
+      "answerKey": "u nu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/U_Nu"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23020990",
-      "answerKey": "htin kyaw"
+      "answerKey": "htin kyaw",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Htin_Kyaw"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2025",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3331362",
-      "answerKey": "myint swe"
+      "answerKey": "myint swe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Myint_Swe"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1065489",
-      "answerKey": "charles maung bo"
+      "answerKey": "charles maung bo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Maung_Bo"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "Buddhist monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13076794",
-      "answerKey": "ashin wirathu"
+      "answerKey": "ashin wirathu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wirathu"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1916",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470986",
-      "answerKey": "thibaw min"
+      "answerKey": "thibaw min",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thibaw_Min"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1878",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q574358",
-      "answerKey": "mindon min"
+      "answerKey": "mindon min",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mindon_Min"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2007",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315983",
-      "answerKey": "soe win"
+      "answerKey": "soe win",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soe_Win_(prime_minister)"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2007",
       "occupation": "drug lord",
       "wikidataUrl": "http://www.wikidata.org/entity/Q713421",
-      "answerKey": "khun sa"
+      "answerKey": "khun sa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khun_Sa"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1819",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q796571",
-      "answerKey": "bodawpaya"
+      "answerKey": "bodawpaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bodawpaya"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557313",
-      "answerKey": "khin nyunt"
+      "answerKey": "khin nyunt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khin_Nyunt"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557313",
-      "answerKey": "khin nyunt"
+      "answerKey": "khin nyunt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khin_Nyunt"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63697",
-      "answerKey": "san yu"
+      "answerKey": "san yu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/San_Yu"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1982",
       "occupation": "Buddhist monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1395380",
-      "answerKey": "mahasi sayadaw"
+      "answerKey": "mahasi sayadaw",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahasi_Sayadaw"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2014",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2247245",
-      "answerKey": "win tin"
+      "answerKey": "win tin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Win_Tin"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1963",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2877623",
-      "answerKey": "ba u"
+      "answerKey": "ba u",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ba_U"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q732181",
-      "answerKey": "min ko naing"
+      "answerKey": "min ko naing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Min_Ko_Naing"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1825",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2578832",
-      "answerKey": "maha bandula"
+      "answerKey": "maha bandula",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maha_Bandula"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1925",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463404",
-      "answerKey": "supayalat"
+      "answerKey": "supayalat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Supayalat"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21621991",
-      "answerKey": "maung maung lwin"
+      "answerKey": "maung maung lwin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maung_Maung_Lwin"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60039670",
-      "answerKey": "thet htar thuzar"
+      "answerKey": "thet htar thuzar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thet_Htar_Thuzar"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q422413",
-      "answerKey": "win maung"
+      "answerKey": "win maung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Win_Maung"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19702386",
-      "answerKey": "soe win"
+      "answerKey": "soe win",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soe_Win_(general)"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2008",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4357487",
-      "answerKey": "ludu daw amar"
+      "answerKey": "ludu daw amar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludu_Daw_Amar"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17627767",
-      "answerKey": "aung thu"
+      "answerKey": "aung thu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aung_Thu_(footballer)"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1530",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1396459",
-      "answerKey": "mingyinyo"
+      "answerKey": "mingyinyo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mingyi_Nyo"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17985658",
-      "answerKey": "zin mar aung"
+      "answerKey": "zin mar aung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zin_Mar_Aung"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102292294",
-      "answerKey": "nandar"
+      "answerKey": "nandar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nandar_(activist)"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1964",
       "occupation": "playwright",
       "wikidataUrl": "http://www.wikidata.org/entity/Q673390",
-      "answerKey": "thakin kodaw hmaing"
+      "answerKey": "thakin kodaw hmaing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thakin_Kodaw_Hmaing"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463394",
-      "answerKey": "cynthia maung"
+      "answerKey": "cynthia maung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cynthia_Maung"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28972830",
-      "answerKey": "wai wai nu"
+      "answerKey": "wai wai nu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wai_Wai_Nu"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105525835",
-      "answerKey": "zaw min tun"
+      "answerKey": "zaw min tun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zaw_Min_Tun_(general)"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105525835",
-      "answerKey": "zaw min tun"
+      "answerKey": "zaw min tun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zaw_Min_Tun_(general)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1167",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887114",
-      "answerKey": "alaungsithu"
+      "answerKey": "alaungsithu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alaungsithu"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1066920",
-      "answerKey": "kyaw ko ko"
+      "answerKey": "kyaw ko ko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyaw_Ko_Ko"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8067288",
-      "answerKey": "zaw min tun"
+      "answerKey": "zaw min tun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zaw_Min_Tun_(footballer)"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q147944",
-      "answerKey": "zarganar"
+      "answerKey": "zarganar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zarganar"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1962",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q73896659",
-      "answerKey": "ma saw sa"
+      "answerKey": "ma saw sa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saw_Sa"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Myanmar.svg",
+  "updated": "2025-12-14T22:19:06.147Z",
+  "wikipediaLinksAdded": true
 }

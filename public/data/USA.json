@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76",
-      "answerKey": "barack obama"
+      "answerKey": "barack obama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barack_Obama"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22686",
-      "answerKey": "donald trump"
+      "answerKey": "donald trump",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Trump"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2831",
-      "answerKey": "michael jackson"
+      "answerKey": "michael jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Jackson"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937",
-      "answerKey": "albert einstein"
+      "answerKey": "albert einstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Einstein"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9960",
-      "answerKey": "ronald reagan"
+      "answerKey": "ronald reagan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q91",
-      "answerKey": "abraham lincoln"
+      "answerKey": "abraham lincoln",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "businessperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207",
-      "answerKey": "george w bush"
+      "answerKey": "george w bush",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_W._Bush"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6279",
-      "answerKey": "joe biden"
+      "answerKey": "joe biden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Biden"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23",
-      "answerKey": "george washington"
+      "answerKey": "george washington",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Washington"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8743",
-      "answerKey": "thomas edison"
+      "answerKey": "thomas edison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Edison"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9696",
-      "answerKey": "john f kennedy"
+      "answerKey": "john f kennedy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7245",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Twain"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8027",
-      "answerKey": "martin luther king jr"
+      "answerKey": "martin luther king jr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "computer scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5284",
-      "answerKey": "bill gates"
+      "answerKey": "bill gates",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Gates"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "businessperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181",
-      "answerKey": "jimmy wales"
+      "answerKey": "jimmy wales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Wales"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8007",
-      "answerKey": "franklin delano roosevelt"
+      "answerKey": "franklin delano roosevelt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4616",
-      "answerKey": "marilyn monroe"
+      "answerKey": "marilyn monroe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marilyn_Monroe"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "computer scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19837",
-      "answerKey": "steve jobs"
+      "answerKey": "steve jobs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Jobs"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4617",
-      "answerKey": "corbin bleu"
+      "answerKey": "corbin bleu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corbin_Bleu"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16867",
-      "answerKey": "edgar allan poe"
+      "answerKey": "edgar allan poe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11812",
-      "answerKey": "thomas jefferson"
+      "answerKey": "thomas jefferson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1124",
-      "answerKey": "bill clinton"
+      "answerKey": "bill clinton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_Clinton"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "astronaut",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1615",
-      "answerKey": "neil armstrong"
+      "answerKey": "neil armstrong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34969",
-      "answerKey": "benjamin franklin"
+      "answerKey": "benjamin franklin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q303",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvis_Presley"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9036",
-      "answerKey": "nikola tesla"
+      "answerKey": "nikola tesla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8704",
-      "answerKey": "walt disney"
+      "answerKey": "walt disney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walt_Disney"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23434",
-      "answerKey": "ernest hemingway"
+      "answerKey": "ernest hemingway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23685",
-      "answerKey": "jimmy carter"
+      "answerKey": "jimmy carter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4612",
-      "answerKey": "marlene dietrich"
+      "answerKey": "marlene dietrich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlene_Dietrich"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19848",
-      "answerKey": "lady gaga"
+      "answerKey": "lady gaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lady_Gaga"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317521",
-      "answerKey": "elon musk"
+      "answerKey": "elon musk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elon_Musk"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8768",
-      "answerKey": "henry ford"
+      "answerKey": "henry ford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Ford"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11613",
-      "answerKey": "harry s truman"
+      "answerKey": "harry s truman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_S._Truman"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23505",
-      "answerKey": "george h w bush"
+      "answerKey": "george h w bush",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6294",
-      "answerKey": "hillary clinton"
+      "answerKey": "hillary clinton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hillary_Clinton"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "naturalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33866",
-      "answerKey": "theodore roosevelt"
+      "answerKey": "theodore roosevelt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1744",
-      "answerKey": "madonna"
+      "answerKey": "madonna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madonna"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34296",
-      "answerKey": "woodrow wilson"
+      "answerKey": "woodrow wilson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10853588",
-      "answerKey": "kamala harris"
+      "answerKey": "kamala harris",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamala_Harris"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9916",
-      "answerKey": "dwight d eisenhower"
+      "answerKey": "dwight d eisenhower",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9588",
-      "answerKey": "richard nixon"
+      "answerKey": "richard nixon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Nixon"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9049",
-      "answerKey": "noam chomsky"
+      "answerKey": "noam chomsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Noam_Chomsky"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11806",
-      "answerKey": "john adams"
+      "answerKey": "john adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Adams"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q392",
-      "answerKey": "bob dylan"
+      "answerKey": "bob dylan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Dylan"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36107",
-      "answerKey": "muhammad ali"
+      "answerKey": "muhammad ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7374",
-      "answerKey": "alfred hitchcock"
+      "answerKey": "alfred hitchcock",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Hitchcock"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5608",
-      "answerKey": "eminem"
+      "answerKey": "eminem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eminem"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9582",
-      "answerKey": "gerald ford"
+      "answerKey": "gerald ford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Ford"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9640",
-      "answerKey": "lyndon b johnson"
+      "answerKey": "lyndon b johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States%20%28DDD-F-416E%20specifications%29.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States%20%28DDD-F-416E%20specifications%29.svg",
+  "updated": "2025-12-14T22:24:07.676Z",
+  "wikipediaLinksAdded": true
 }

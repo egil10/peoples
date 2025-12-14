@@ -13,7 +13,8 @@
       "deathYear": "1955",
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937",
-      "answerKey": "albert einstein"
+      "answerKey": "albert einstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Einstein"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1965",
       "occupation": "carpets designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4724",
-      "answerKey": "le corbusier"
+      "answerKey": "le corbusier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Corbusier"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1962",
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25973",
-      "answerKey": "hermann hesse"
+      "answerKey": "hermann hesse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_Hesse"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1426",
-      "answerKey": "roger federer"
+      "answerKey": "roger federer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Federer"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1971",
       "occupation": "librettist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7314",
-      "answerKey": "igor stravinsky"
+      "answerKey": "igor stravinsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1961",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41532",
-      "answerKey": "carl jung"
+      "answerKey": "carl jung",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Jung"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1822",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93343",
-      "answerKey": "percy bysshe shelley"
+      "answerKey": "percy bysshe shelley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Percy_Bysshe_Shelley"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2024",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106529",
-      "answerKey": "alain delon"
+      "answerKey": "alain delon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Delon"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2023",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131814",
-      "answerKey": "tina turner"
+      "answerKey": "tina turner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tina_Turner"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1910",
       "occupation": "founder",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12091",
-      "answerKey": "henry dunant"
+      "answerKey": "henry dunant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Dunant"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1541",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83428",
-      "answerKey": "paracelsus"
+      "answerKey": "paracelsus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paracelsus"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1913",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13230",
-      "answerKey": "ferdinand de saussure"
+      "answerKey": "ferdinand de saussure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_de_Saussure"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1958",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65989",
-      "answerKey": "wolfgang pauli"
+      "answerKey": "wolfgang pauli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wolfgang_Pauli"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1980",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57085",
-      "answerKey": "erich fromm"
+      "answerKey": "erich fromm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_Fromm"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1980",
       "occupation": "malacologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123190",
-      "answerKey": "jean piaget"
+      "answerKey": "jean piaget",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Piaget"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1969",
       "occupation": "aesthetician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152388",
-      "answerKey": "theodor w adorno"
+      "answerKey": "theodor w adorno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodor_W._Adorno"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1969",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76509",
-      "answerKey": "karl jaspers"
+      "answerKey": "karl jaspers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Jaspers"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1940",
       "occupation": "lithographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44007",
-      "answerKey": "paul klee"
+      "answerKey": "paul klee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Klee"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2022",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53001",
-      "answerKey": "jeanluc godard"
+      "answerKey": "jeanluc godard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Luc_Godard"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1924",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q226525",
-      "answerKey": "carl spitteler"
+      "answerKey": "carl spitteler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Spitteler"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1805",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123386",
-      "answerKey": "isabelle de charriere"
+      "answerKey": "isabelle de charriere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabelle_de_Charri%C3%A8re"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "sports official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483437",
-      "answerKey": "sepp blatter"
+      "answerKey": "sepp blatter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sepp_Blatter"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1854",
       "occupation": "librettist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60070",
-      "answerKey": "friedrich wilhelm joseph schelling"
+      "answerKey": "friedrich wilhelm joseph schelling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1827",
       "occupation": "pedagogue",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105428",
-      "answerKey": "johann heinrich pestalozzi"
+      "answerKey": "johann heinrich pestalozzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Heinrich_Pestalozzi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1782",
       "occupation": "statistician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122366",
-      "answerKey": "daniel bernoulli"
+      "answerKey": "daniel bernoulli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1938",
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123026",
-      "answerKey": "charles edouard guillaume"
+      "answerKey": "charles edouard guillaume",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles-%C3%89douard_Guillaume"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1979",
       "occupation": "political theorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60030",
-      "answerKey": "herbert marcuse"
+      "answerKey": "herbert marcuse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herbert_Marcuse"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1925",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78484",
-      "answerKey": "rudolf steiner"
+      "answerKey": "rudolf steiner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudolf_Steiner"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "tennis coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134720",
-      "answerKey": "martina hingis"
+      "answerKey": "martina hingis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martina_Hingis"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1990",
       "occupation": "television writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23481",
-      "answerKey": "friedrich durrenmatt"
+      "answerKey": "friedrich durrenmatt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1990",
       "occupation": "television writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23481",
-      "answerKey": "friedrich durrenmatt"
+      "answerKey": "friedrich durrenmatt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_D%C3%BCrrenmatt"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1870",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201221",
-      "answerKey": "alexander herzen"
+      "answerKey": "alexander herzen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Herzen"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115453",
-      "answerKey": "ivan rakitic"
+      "answerKey": "ivan rakitic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivan_Rakiti%C4%87"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1983",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123022",
-      "answerKey": "felix bloch"
+      "answerKey": "felix bloch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Bloch"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1983",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123022",
-      "answerKey": "felix bloch"
+      "answerKey": "felix bloch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Felix_Bloch"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1705",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122392",
-      "answerKey": "jacob bernoulli"
+      "answerKey": "jacob bernoulli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1705",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122392",
-      "answerKey": "jacob bernoulli"
+      "answerKey": "jacob bernoulli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Bernoulli"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1955",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q71029",
-      "answerKey": "hermann weyl"
+      "answerKey": "hermann weyl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_Weyl"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "sports official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124138",
-      "answerKey": "gianni infantino"
+      "answerKey": "gianni infantino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianni_Infantino"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2008",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122338",
-      "answerKey": "albert hofmann"
+      "answerKey": "albert hofmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Hofmann"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1968",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107473",
-      "answerKey": "karl barth"
+      "answerKey": "karl barth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Barth"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2014",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153018",
-      "answerKey": "maximilian schell"
+      "answerKey": "maximilian schell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maximilian_Schell"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1919",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123014",
-      "answerKey": "alfred werner"
+      "answerKey": "alfred werner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Werner"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1991",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115483",
-      "answerKey": "max frisch"
+      "answerKey": "max frisch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Frisch"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1985",
       "occupation": "acrobat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102813",
-      "answerKey": "yul brynner"
+      "answerKey": "yul brynner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yul_Brynner"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1817",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191479",
-      "answerKey": "tadeusz kosciuszko"
+      "answerKey": "tadeusz kosciuszko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1748",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q227897",
-      "answerKey": "johann bernoulli"
+      "answerKey": "johann bernoulli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Bernoulli"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1981",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51495",
-      "answerKey": "william wyler"
+      "answerKey": "william wyler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Wyler"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1901",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123053",
-      "answerKey": "johanna spyri"
+      "answerKey": "johanna spyri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johanna_Spyri"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2013",
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123029",
-      "answerKey": "heinrich rohrer"
+      "answerKey": "heinrich rohrer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_Rohrer"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+  "updated": "2025-12-14T22:22:54.996Z",
+  "wikipediaLinksAdded": true
 }

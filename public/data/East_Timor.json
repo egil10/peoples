@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311440",
-      "answerKey": "antonio guterres"
+      "answerKey": "antonio guterres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311440",
-      "answerKey": "antonio guterres"
+      "answerKey": "antonio guterres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Guterres"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "legal counselor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11665",
-      "answerKey": "jose ramoshorta"
+      "answerKey": "jose ramoshorta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ramos-Horta"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234001",
-      "answerKey": "carlos filipe ximenes belo"
+      "answerKey": "carlos filipe ximenes belo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Filipe_Ximenes_Belo"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11509",
-      "answerKey": "xanana gusmao"
+      "answerKey": "xanana gusmao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xanana_Gusm%C3%A3o"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57519",
-      "answerKey": "taur matan ruak"
+      "answerKey": "taur matan ruak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taur_Matan_Ruak"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q897790",
-      "answerKey": "francisco guterres"
+      "answerKey": "francisco guterres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Guterres"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11664",
-      "answerKey": "mari alkatiri"
+      "answerKey": "mari alkatiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mari_Alkatiri"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q1262756",
-      "answerKey": "duarte pio of braganza"
+      "answerKey": "duarte pio of braganza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duarte_Pio%2C_Duke_of_Braganza"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q1262756",
-      "answerKey": "duarte pio of braganza"
+      "answerKey": "duarte pio of braganza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duarte_Pio%2C_Duke_of_Braganza"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22670371",
-      "answerKey": "virgilio do carmo da silva"
+      "answerKey": "virgilio do carmo da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virg%C3%ADlio_do_Carmo_da_Silva"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q731840",
-      "answerKey": "francisco xavier do amaral"
+      "answerKey": "francisco xavier do amaral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Xavier_do_Amaral"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1978",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q737475",
-      "answerKey": "nicolau dos reis lobato"
+      "answerKey": "nicolau dos reis lobato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolau_Lobato"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1647887",
-      "answerKey": "rui maria de araujo"
+      "answerKey": "rui maria de araujo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rui_Maria_de_Ara%C3%BAjo"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2021",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182777",
-      "answerKey": "basilio do nascimento"
+      "answerKey": "basilio do nascimento",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bas%C3%ADlio_do_Nascimento"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1373943",
-      "answerKey": "fernando de araujo"
+      "answerKey": "fernando de araujo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_de_Ara%C3%BAjo_(East_Timorese_politician)"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q727119",
-      "answerKey": "estanislau da silva"
+      "answerKey": "estanislau da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Estanislau_da_Silva"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "LGBTQ rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54911733",
-      "answerKey": "bella galhos"
+      "answerKey": "bella galhos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bella_Galhos"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15648135",
-      "answerKey": "yohan goutt goncalves"
+      "answerKey": "yohan goutt goncalves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yohan_Goutt_Gon%C3%A7alves"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1997361",
-      "answerKey": "norberto do amaral"
+      "answerKey": "norberto do amaral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norberto_do_Amaral"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q769607",
-      "answerKey": "augusto ramos soares"
+      "answerKey": "augusto ramos soares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Ramos_Soares"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2015",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q329964",
-      "answerKey": "alberto ricardo da silva"
+      "answerKey": "alberto ricardo da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Ricardo_da_Silva"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362813",
-      "answerKey": "vicente guterres"
+      "answerKey": "vicente guterres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicente_Guterres"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117853439",
-      "answerKey": "leandro maria alves"
+      "answerKey": "leandro maria alves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leandro_Maria_Alves"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18021082",
-      "answerKey": "isabel da costa ferreira"
+      "answerKey": "isabel da costa ferreira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabel_da_Costa_Ferreira"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q100742045",
-      "answerKey": "paulo gali"
+      "answerKey": "paulo gali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gali_Freitas"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1714693",
-      "answerKey": "juventina napoleao"
+      "answerKey": "juventina napoleao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juventina_Napole%C3%A3o"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2021",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5113407",
-      "answerKey": "christopher wenner"
+      "answerKey": "christopher wenner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Wenner"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2021",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5113407",
-      "answerKey": "christopher wenner"
+      "answerKey": "christopher wenner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Wenner"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q87347433",
-      "answerKey": "bety reis"
+      "answerKey": "bety reis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bety_Reis"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41866107",
-      "answerKey": "angela carrascalao"
+      "answerKey": "angela carrascalao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_%C3%82ngela_Carrascal%C3%A3o"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "First Lady",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44443794",
-      "answerKey": "cidalia guterres"
+      "answerKey": "cidalia guterres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cid%C3%A1lia_Lopes_Nobre_Mouzinho_Guterres"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107696977",
-      "answerKey": "imelda ximenes belo"
+      "answerKey": "imelda ximenes belo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelda_Ximenes_Belo"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58185",
-      "answerKey": "zacarias da costa"
+      "answerKey": "zacarias da costa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zacarias_da_Costa"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106772269",
-      "answerKey": "jose da silva viegas"
+      "answerKey": "jose da silva viegas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_da_Silva_Viegas"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1993",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937355",
-      "answerKey": "fernando sylvan"
+      "answerKey": "fernando sylvan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Sylvan"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15833895",
-      "answerKey": "maria terezinha viegas"
+      "answerKey": "maria terezinha viegas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Terezinha_Viegas"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33638236",
-      "answerKey": "armanda berta dos santos"
+      "answerKey": "armanda berta dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armanda_Berta_dos_Santos"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q710759",
-      "answerKey": "jose abilio osorio soares"
+      "answerKey": "jose abilio osorio soares",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ab%C3%ADlio_Os%C3%B3rio_Soares"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2012",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q562782",
-      "answerKey": "joao viegas carrascalao"
+      "answerKey": "joao viegas carrascalao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Viegas_Carrascal%C3%A3o"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483054",
-      "answerKey": "ana pessoa pinto"
+      "answerKey": "ana pessoa pinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ana_Pessoa_Pinto"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546352",
-      "answerKey": "aniceto guterres lopes"
+      "answerKey": "aniceto guterres lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aniceto_Guterres_Lopes"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3840963",
-      "answerKey": "luis cardoso"
+      "answerKey": "luis cardoso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu%C3%ADs_Cardoso"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q292831",
-      "answerKey": "lucia lobato"
+      "answerKey": "lucia lobato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%BAcia_Lobato"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18060946",
-      "answerKey": "filomeno paixao"
+      "answerKey": "filomeno paixao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filomeno_Paix%C3%A3o"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18060946",
-      "answerKey": "filomeno paixao"
+      "answerKey": "filomeno paixao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filomeno_Paix%C3%A3o"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1957089",
-      "answerKey": "mario viegas carrascalao"
+      "answerKey": "mario viegas carrascalao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%A1rio_Carrascal%C3%A3o"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q532610",
-      "answerKey": "angela freitas"
+      "answerKey": "angela freitas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81ngela_Freitas"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1913",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q887606",
-      "answerKey": "dom boaventura"
+      "answerKey": "dom boaventura",
+      "wikipediaUrl": null
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q786377",
-      "answerKey": "rogerio lobato"
+      "answerKey": "rogerio lobato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rog%C3%A9rio_Lobato"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg",
+  "updated": "2025-12-14T22:13:44.676Z",
+  "wikipediaLinksAdded": true
 }

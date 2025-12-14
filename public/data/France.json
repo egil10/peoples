@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q517",
-      "answerKey": "napoleon"
+      "answerKey": "napoleon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Napoleon"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q535",
-      "answerKey": "victor hugo"
+      "answerKey": "victor hugo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Hugo"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9068",
-      "answerKey": "voltaire"
+      "answerKey": "voltaire",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Voltaire"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "astronomer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9191",
-      "answerKey": "rene descartes"
+      "answerKey": "rene descartes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7186",
-      "answerKey": "marie curie"
+      "answerKey": "marie curie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie_Curie"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157",
-      "answerKey": "francois hollande"
+      "answerKey": "francois hollande",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hollande"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30875",
-      "answerKey": "oscar wilde"
+      "answerKey": "oscar wilde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2042",
-      "answerKey": "charles de gaulle"
+      "answerKey": "charles de gaulle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_de_Gaulle"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3335",
-      "answerKey": "george orwell"
+      "answerKey": "george orwell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Orwell"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "naturalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529",
-      "answerKey": "louis pasteur"
+      "answerKey": "louis pasteur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Pasteur"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34670",
-      "answerKey": "albert camus"
+      "answerKey": "albert camus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Camus"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6882",
-      "answerKey": "james joyce"
+      "answerKey": "james joyce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Joyce"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9364",
-      "answerKey": "jeanpaul sartre"
+      "answerKey": "jeanpaul sartre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4724",
-      "answerKey": "le corbusier"
+      "answerKey": "le corbusier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Le_Corbusier"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3052772",
-      "answerKey": "emmanuel macron"
+      "answerKey": "emmanuel macron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Macron"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q329",
-      "answerKey": "nicolas sarkozy"
+      "answerKey": "nicolas sarkozy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Sarkozy"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1268",
-      "answerKey": "frederic chopin"
+      "answerKey": "frederic chopin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4605",
-      "answerKey": "sarah bernhardt"
+      "answerKey": "sarah bernhardt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah_Bernhardt"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33977",
-      "answerKey": "jules verne"
+      "answerKey": "jules verne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_Verne"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7199",
-      "answerKey": "marcel proust"
+      "answerKey": "marcel proust",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcel_Proust"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7197",
-      "answerKey": "simone de beauvoir"
+      "answerKey": "simone de beauvoir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q501",
-      "answerKey": "charles baudelaire"
+      "answerKey": "charles baudelaire",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Baudelaire"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5589",
-      "answerKey": "henri matisse"
+      "answerKey": "henri matisse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Matisse"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9711",
-      "answerKey": "honore de balzac"
+      "answerKey": "honore de balzac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38337",
-      "answerKey": "alexandre dumas"
+      "answerKey": "alexandre dumas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2908",
-      "answerKey": "antoine de saintexupery"
+      "answerKey": "antoine de saintexupery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2908",
-      "answerKey": "antoine de saintexupery"
+      "answerKey": "antoine de saintexupery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44403",
-      "answerKey": "heinrich heine"
+      "answerKey": "heinrich heine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_Heine"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q504",
-      "answerKey": "emile zola"
+      "answerKey": "emile zola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89mile_Zola"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23441",
-      "answerKey": "octave mirbeau"
+      "answerKey": "octave mirbeau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Octave_Mirbeau"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42443",
-      "answerKey": "anatole france"
+      "answerKey": "anatole france",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatole_France"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2105",
-      "answerKey": "jacques chirac"
+      "answerKey": "jacques chirac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Chirac"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43444",
-      "answerKey": "gustave flaubert"
+      "answerKey": "gustave flaubert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustave_Flaubert"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7314",
-      "answerKey": "igor stravinsky"
+      "answerKey": "igor stravinsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Stravinsky"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296",
-      "answerKey": "claude monet"
+      "answerKey": "claude monet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Monet"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9327",
-      "answerKey": "guy de maupassant"
+      "answerKey": "guy de maupassant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_de_Maupassant"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1631",
-      "answerKey": "edith piaf"
+      "answerKey": "edith piaf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89dith_Piaf"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49496",
-      "answerKey": "jean de la fontaine"
+      "answerKey": "jean de la fontaine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_de_La_Fontaine"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2185",
-      "answerKey": "georges pompidou"
+      "answerKey": "georges pompidou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Pompidou"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36268",
-      "answerKey": "brigitte bardot"
+      "answerKey": "brigitte bardot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigitte_Bardot"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1835",
-      "answerKey": "zinedine zidane"
+      "answerKey": "zinedine zidane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zinedine_Zidane"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q493",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Rimbaud"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47484",
-      "answerKey": "andre gide"
+      "answerKey": "andre gide",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Gide"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47162",
-      "answerKey": "romain rolland"
+      "answerKey": "romain rolland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Romain_Rolland"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37327",
-      "answerKey": "samuel beckett"
+      "answerKey": "samuel beckett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Beckett"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106529",
-      "answerKey": "alain delon"
+      "answerKey": "alain delon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_Delon"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
-      "answerKey": "avril lavigne"
+      "answerKey": "avril lavigne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30449",
-      "answerKey": "avril lavigne"
+      "answerKey": "avril lavigne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avril_Lavigne"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27645",
-      "answerKey": "mia califa"
+      "answerKey": "mia califa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Bakunin"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35548",
-      "answerKey": "paul cezanne"
+      "answerKey": "paul cezanne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg",
+  "updated": "2025-12-14T22:14:31.639Z",
+  "wikipediaLinksAdded": true
 }

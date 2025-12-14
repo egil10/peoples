@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470024",
-      "answerKey": "bounnhang vorachith"
+      "answerKey": "bounnhang vorachith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bounnhang_Vorachit"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57444",
-      "answerKey": "choummaly sayasone"
+      "answerKey": "choummaly sayasone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Choummaly_Sayasone"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58323",
-      "answerKey": "thongloun sisoulith"
+      "answerKey": "thongloun sisoulith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thongloun_Sisoulith"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1995",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320103",
-      "answerKey": "souphanouvong"
+      "answerKey": "souphanouvong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Souphanouvong"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360138",
-      "answerKey": "khamtai siphandone"
+      "answerKey": "khamtai siphandone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khamtai_Siphandone"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1984",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469498",
-      "answerKey": "souvanna phouma"
+      "answerKey": "souvanna phouma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Souvanna_Phouma"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1992",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320100",
-      "answerKey": "kaysone phomvihane"
+      "answerKey": "kaysone phomvihane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaysone_Phomvihane"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1978",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379797",
-      "answerKey": "sisavang vatthana"
+      "answerKey": "sisavang vatthana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisavang_Vatthana"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57826",
-      "answerKey": "thongsing thammavong"
+      "answerKey": "thongsing thammavong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thongsing_Thammavong"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104914585",
-      "answerKey": "sonexay siphandone"
+      "answerKey": "sonexay siphandone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonexay_Siphandone"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1959",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379794",
-      "answerKey": "sisavang vong"
+      "answerKey": "sisavang vong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisavang_Vong"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q354684",
-      "answerKey": "bouasone bouphavanh"
+      "answerKey": "bouasone bouphavanh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bouasone_Bouphavanh"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1721124",
-      "answerKey": "louismarie ling mangkhanekhoun"
+      "answerKey": "louismarie ling mangkhanekhoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis-Marie_Ling_Mangkhanekhoun"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7180477",
-      "answerKey": "phankham viphavan"
+      "answerKey": "phankham viphavan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phankham_Viphavanh"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380421",
-      "answerKey": "nouhak phoumsavanh"
+      "answerKey": "nouhak phoumsavanh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nouhak_Phoumsavanh"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1980",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2196351",
-      "answerKey": "boun oum"
+      "answerKey": "boun oum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boun_Oum"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1980",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2196351",
-      "answerKey": "boun oum"
+      "answerKey": "boun oum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boun_Oum"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1959",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3055926",
-      "answerKey": "phetsarath rattanavongsa"
+      "answerKey": "phetsarath rattanavongsa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phetsarath_Ratanavongsa"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q863156",
-      "answerKey": "billy ketkeophomphone"
+      "answerKey": "billy ketkeophomphone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Ketkeophomphone"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1994",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q878933",
-      "answerKey": "phoumi vongvichit"
+      "answerKey": "phoumi vongvichit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoumi_Vongvichit"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q986768",
-      "answerKey": "sisavath keobounphanh"
+      "answerKey": "sisavath keobounphanh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisavath_Keobounphanh"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16139501",
-      "answerKey": "pany yathotou"
+      "answerKey": "pany yathotou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pany_Yathotou"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1571",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q732557",
-      "answerKey": "setthathirath"
+      "answerKey": "setthathirath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Setthathirath"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3965325",
-      "answerKey": "soukaphone vongchiengkham"
+      "answerKey": "soukaphone vongchiengkham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soukaphone_Vongchiengkham"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19697234",
-      "answerKey": "moukdavanyh santiphone"
+      "answerKey": "moukdavanyh santiphone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moukdavanh_Santiphone"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1983",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4493297",
-      "answerKey": "phoui sananikone"
+      "answerKey": "phoui sananikone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phoui_Sananikone"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "poker player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q743524",
-      "answerKey": "jerry yang"
+      "answerKey": "jerry yang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerry_Yang_(poker_player)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6399999",
-      "answerKey": "khampheng sayavutthi"
+      "answerKey": "khampheng sayavutthi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khampheng_Sayavutthi"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1550",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888327",
-      "answerKey": "photisarath"
+      "answerKey": "photisarath",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Photisarath"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2014",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3917260",
-      "answerKey": "kong le"
+      "answerKey": "kong le",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kong_Le"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1904",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q772678",
-      "answerKey": "zakarine"
+      "answerKey": "zakarine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zakarine"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1520",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q881137",
-      "answerKey": "visunarat"
+      "answerKey": "visunarat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Visoun"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "violinist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6653685",
-      "answerKey": "alexandra bounxouei"
+      "answerKey": "alexandra bounxouei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Bounxouei"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25999464",
-      "answerKey": "saleumxay kommasith"
+      "answerKey": "saleumxay kommasith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleumxay_Kommasith"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1895",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q962950",
-      "answerKey": "oun kham"
+      "answerKey": "oun kham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oun_Kham"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5299547",
-      "answerKey": "douangchay phichit"
+      "answerKey": "douangchay phichit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Douangchay_Phichit"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1951",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19517771",
-      "answerKey": "kindavong"
+      "answerKey": "kindavong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kindavong"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3313454",
-      "answerKey": "sombath somphone"
+      "answerKey": "sombath somphone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sombath_Somphone"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3372789",
-      "answerKey": "kilakone siphonexay"
+      "answerKey": "kilakone siphonexay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kilakone_Siphonexay"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1964",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16003645",
-      "answerKey": "kou abhay"
+      "answerKey": "kou abhay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kou_Abhay"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1926",
       "occupation": "circus performer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23688798",
-      "answerKey": "krao farini"
+      "answerKey": "krao farini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Krao_Farini"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16138674",
-      "answerKey": "thanwa suriyajak"
+      "answerKey": "thanwa suriyajak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thanwa_Suriyajak"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17047885",
-      "answerKey": "mattie do"
+      "answerKey": "mattie do",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mattie_Do"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1883776",
-      "answerKey": "phathana inthavong"
+      "answerKey": "phathana inthavong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phathana_Inthavong"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5938374",
-      "answerKey": "somsavat lengsavad"
+      "answerKey": "somsavat lengsavad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Somsavat_Lengsavad"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1945",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q1004893",
-      "answerKey": "ratsadanay"
+      "answerKey": "ratsadanay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ratsadanay"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6393061",
-      "answerKey": "keosaychay sayasone"
+      "answerKey": "keosaychay sayasone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keosaychay_Sayasone"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1999",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7110270",
-      "answerKey": "oudom khattigna"
+      "answerKey": "oudom khattigna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oudom_Khattigna"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1581",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q8061177",
-      "answerKey": "mekuti"
+      "answerKey": "mekuti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mae_Ku"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65447415",
-      "answerKey": "tonkham phonchanhueang"
+      "answerKey": "tonkham phonchanhueang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tonkham_Phonchanheuang"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg",
+  "updated": "2025-12-14T22:17:07.602Z",
+  "wikipediaLinksAdded": true
 }

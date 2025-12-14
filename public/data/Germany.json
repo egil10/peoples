@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937",
-      "answerKey": "albert einstein"
+      "answerKey": "albert einstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Einstein"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q567",
-      "answerKey": "angela merkel"
+      "answerKey": "angela merkel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angela_Merkel"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "archbishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2494",
-      "answerKey": "benedict xvi"
+      "answerKey": "benedict xvi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7231",
-      "answerKey": "rosa luxemburg"
+      "answerKey": "rosa luxemburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosa_Luxemburg"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "motorcycle racer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9671",
-      "answerKey": "michael schumacher"
+      "answerKey": "michael schumacher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Schumacher"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9387",
-      "answerKey": "max weber"
+      "answerKey": "max weber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Weber"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "professor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9130",
-      "answerKey": "erwin schrodinger"
+      "answerKey": "erwin schrodinger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25973",
-      "answerKey": "hermann hesse"
+      "answerKey": "hermann hesse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_Hesse"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2492",
-      "answerKey": "konrad adenauer"
+      "answerKey": "konrad adenauer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Konrad_Adenauer"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48301",
-      "answerKey": "martin heidegger"
+      "answerKey": "martin heidegger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Heidegger"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6538",
-      "answerKey": "gunter grass"
+      "answerKey": "gunter grass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%BCnter_Grass"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41749",
-      "answerKey": "joseph goebbels"
+      "answerKey": "joseph goebbels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Goebbels"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76483",
-      "answerKey": "rainer maria rilke"
+      "answerKey": "rainer maria rilke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2677",
-      "answerKey": "wilhelm ii"
+      "answerKey": "wilhelm ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_II"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "Chancellor of Germany",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2518",
-      "answerKey": "helmut kohl"
+      "answerKey": "helmut kohl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Kohl"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40791",
-      "answerKey": "sandra bullock san juan"
+      "answerKey": "sandra bullock san juan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Bullock"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40791",
-      "answerKey": "sandra bullock san juan"
+      "answerKey": "sandra bullock san juan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Bullock"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61053",
-      "answerKey": "olaf scholz"
+      "answerKey": "olaf scholz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olaf_Scholz"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38049",
-      "answerKey": "herta muller"
+      "answerKey": "herta muller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herta_M%C3%BCller"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2530",
-      "answerKey": "gerhard schroder"
+      "answerKey": "gerhard schroder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerhard_Schr%C3%B6der"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47293",
-      "answerKey": "erich maria remarque"
+      "answerKey": "erich maria remarque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_Maria_Remarque"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "mayor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
-      "answerKey": "willy brandt"
+      "answerKey": "willy brandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Brandt"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42747",
-      "answerKey": "heinrich boll"
+      "answerKey": "heinrich boll",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heinrich_B%C3%B6ll"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "physician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60772",
-      "answerKey": "ursula von der leyen"
+      "answerKey": "ursula von der leyen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ursula_von_der_Leyen"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4457",
-      "answerKey": "franz beckenbauer"
+      "answerKey": "franz beckenbauer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Beckenbauer"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76658",
-      "answerKey": "frankwalter steinmeier"
+      "answerKey": "frankwalter steinmeier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank-Walter_Steinmeier"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47906",
-      "answerKey": "hermann gorin"
+      "answerKey": "hermann gorin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102585",
-      "answerKey": "johann gottlieb fichte"
+      "answerKey": "johann gottlieb fichte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2516",
-      "answerKey": "helmut schmidt"
+      "answerKey": "helmut schmidt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helmut_Schmidt"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57074",
-      "answerKey": "nelly sachs"
+      "answerKey": "nelly sachs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelly_Sachs"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2667",
-      "answerKey": "paul von hindenburg"
+      "answerKey": "paul von hindenburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_von_Hindenburg"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75823",
-      "answerKey": "clara zetkin"
+      "answerKey": "clara zetkin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clara_Zetkin"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57085",
-      "answerKey": "erich fromm"
+      "answerKey": "erich fromm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_Fromm"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76409",
-      "answerKey": "charles bukowski"
+      "answerKey": "charles bukowski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Bukowski"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83488",
-      "answerKey": "mesut ozil"
+      "answerKey": "mesut ozil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mesut_%C3%96zil"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47755",
-      "answerKey": "imre kertesz"
+      "answerKey": "imre kertesz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imre_Kert%C3%A9sz"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61064",
-      "answerKey": "wassily kandinsky"
+      "answerKey": "wassily kandinsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wassily_Kandinsky"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152388",
-      "answerKey": "theodor w adorno"
+      "answerKey": "theodor w adorno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodor_W._Adorno"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42311",
-      "answerKey": "sebastian vettel"
+      "answerKey": "sebastian vettel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Vettel"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57100",
-      "answerKey": "maria goeppert mayer"
+      "answerKey": "maria goeppert mayer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76478",
-      "answerKey": "kirsten dunst"
+      "answerKey": "kirsten dunst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kirsten_Dunst"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76478",
-      "answerKey": "kirsten dunst"
+      "answerKey": "kirsten dunst",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kirsten_Dunst"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57063",
-      "answerKey": "philipp lenard"
+      "answerKey": "philipp lenard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philipp_Lenard"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "carpenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80471",
-      "answerKey": "miroslav klose"
+      "answerKey": "miroslav klose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miroslav_Klose"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76509",
-      "answerKey": "karl jaspers"
+      "answerKey": "karl jaspers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Jaspers"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2607",
-      "answerKey": "erich honecker"
+      "answerKey": "erich honecker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erich_Honecker"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107365",
-      "answerKey": "manuel neuer"
+      "answerKey": "manuel neuer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Neuer"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2538",
-      "answerKey": "joachim gauck"
+      "answerKey": "joachim gauck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joachim_Gauck"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57068",
-      "answerKey": "wilhelm wien"
+      "answerKey": "wilhelm wien",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_Wien"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76357",
-      "answerKey": "jurgen habermas"
+      "answerKey": "jurgen habermas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Habermas"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+  "updated": "2025-12-14T22:14:49.656Z",
+  "wikipediaLinksAdded": true
 }

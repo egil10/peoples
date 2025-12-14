@@ -13,7 +13,8 @@
       "deathYear": "2006",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7176",
-      "answerKey": "naguib mahfouz"
+      "answerKey": "naguib mahfouz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naguib_Mahfouz"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2020",
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34105",
-      "answerKey": "hosni mubarak"
+      "answerKey": "hosni mubarak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hosni_Mubarak"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1981",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42013",
-      "answerKey": "anwar sadat"
+      "answerKey": "anwar sadat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2019",
       "occupation": "materials scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4631",
-      "answerKey": "mohamed morsi"
+      "answerKey": "mohamed morsi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Morsi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1204",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q127398",
-      "answerKey": "moshe ben maimon"
+      "answerKey": "moshe ben maimon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maimonides"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1204",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q127398",
-      "answerKey": "moshe ben maimon"
+      "answerKey": "moshe ben maimon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maimonides"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307871",
-      "answerKey": "abdel fattah elsisi"
+      "answerKey": "abdel fattah elsisi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdel_Fattah_el-Sisi"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1354960",
-      "answerKey": "mohamed salah"
+      "answerKey": "mohamed salah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Salah"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2022",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186316",
-      "answerKey": "ayman alzawahiri"
+      "answerKey": "ayman alzawahiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayman_al-Zawahiri"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2016",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1257",
-      "answerKey": "boutros boutrosghali"
+      "answerKey": "boutros boutrosghali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boutros_Boutros-Ghali"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2015",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170515",
-      "answerKey": "omar sharif"
+      "answerKey": "omar sharif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Sharif"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133308",
-      "answerKey": "mohamed elbaradei"
+      "answerKey": "mohamed elbaradei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_ElBaradei"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q375590",
-      "answerKey": "rami malek"
+      "answerKey": "rami malek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rami_Malek"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1987",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q539171",
-      "answerKey": "dalida"
+      "answerKey": "dalida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dalida"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2016",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106624",
-      "answerKey": "ahmed zewail"
+      "answerKey": "ahmed zewail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Zewail"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1933",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216980",
-      "answerKey": "konstantinos p cavafy"
+      "answerKey": "konstantinos p cavafy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantine_P._Cavafy"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2021",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238514",
-      "answerKey": "nawal el saadawi"
+      "answerKey": "nawal el saadawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawal_El_Saadawi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1984",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104392",
-      "answerKey": "mohamed naguib"
+      "answerKey": "mohamed naguib",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Naguib"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1966",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211379",
-      "answerKey": "sayyid qutb"
+      "answerKey": "sayyid qutb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sayyid_Qutb"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12984",
-      "answerKey": "stephan el shaarawy"
+      "answerKey": "stephan el shaarawy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephan_El_Shaarawy"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2022",
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64129",
-      "answerKey": "yusuf alqaradawi"
+      "answerKey": "yusuf alqaradawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_al-Qaradawi"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "social entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q86589685",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maryana_Iskander"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q477461",
-      "answerKey": "amr diab"
+      "answerKey": "amr diab",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amr_Diab"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1951",
       "occupation": "metaphysician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q496850",
-      "answerKey": "rene guenon"
+      "answerKey": "rene guenon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Gu%C3%A9non"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2012",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q87455",
-      "answerKey": "pope shenouda iii of alexandria"
+      "answerKey": "pope shenouda iii of alexandria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Shenouda_III_of_Alexandria"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45917",
-      "answerKey": "mohamed hussein tantawi"
+      "answerKey": "mohamed hussein tantawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Hussein_Tantawy"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2013",
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238539",
-      "answerKey": "princess fawzia fuad of egypt"
+      "answerKey": "princess fawzia fuad of egypt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fawzia_of_Egypt"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1973",
       "occupation": "literary historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328765",
-      "answerKey": "taha hussein"
+      "answerKey": "taha hussein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taha_Hussein"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "magistrate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13593432",
-      "answerKey": "adly mansour"
+      "answerKey": "adly mansour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adly_Mansour"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1848",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311789",
-      "answerKey": "ibrahim pasha of egypt"
+      "answerKey": "ibrahim pasha of egypt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Pasha_of_Egypt"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3318533",
-      "answerKey": "mohamed elneny"
+      "answerKey": "mohamed elneny",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Elneny"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54901515",
-      "answerKey": "mostafa madbouly"
+      "answerKey": "mostafa madbouly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mostafa_Madbouly"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "Pope of the Coptic Orthodox Church",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11823",
-      "answerKey": "pope theodoros ii of alexandria"
+      "answerKey": "pope theodoros ii of alexandria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Tawadros_II_of_Alexandria"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "necropolis scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q140575",
-      "answerKey": "zahi hawass"
+      "answerKey": "zahi hawass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zahi_Hawass"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1965",
       "occupation": "spy",
       "wikidataUrl": "http://www.wikidata.org/entity/Q223311",
-      "answerKey": "eli cohen"
+      "answerKey": "eli cohen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eli_Cohen"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q523640",
-      "answerKey": "essam elhadary"
+      "answerKey": "essam elhadary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Essam_El_Hadary"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2023",
       "occupation": "mechanical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16250142",
-      "answerKey": "sherif ismail"
+      "answerKey": "sherif ismail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherif_Ismail"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2001",
       "occupation": "building engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110067",
-      "answerKey": "mohamed atta"
+      "answerKey": "mohamed atta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Atta"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297258",
-      "answerKey": "weneg"
+      "answerKey": "weneg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Weneg_(pharaoh)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q311796",
-      "answerKey": "fuad ii of egypt"
+      "answerKey": "fuad ii of egypt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fuad_II_of_Egypt"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28065104",
-      "answerKey": "omar marmoush"
+      "answerKey": "omar marmoush",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Marmoush"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456647",
-      "answerKey": "ahmed elmohamady"
+      "answerKey": "ahmed elmohamady",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Elmohamady"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456647",
-      "answerKey": "ahmed elmohamady"
+      "answerKey": "ahmed elmohamady",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Elmohamady"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "342",
       "occupation": "monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313798",
-      "answerKey": "paul of thebes"
+      "answerKey": "paul of thebes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1932",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q401491",
-      "answerKey": "ahmed shawqi"
+      "answerKey": "ahmed shawqi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Shawqi"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q929300",
-      "answerKey": "saif aladel"
+      "answerKey": "saif aladel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saif_al-Adel"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q929300",
-      "answerKey": "saif aladel"
+      "answerKey": "saif aladel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saif_al-Adel"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q929300",
-      "answerKey": "saif aladel"
+      "answerKey": "saif aladel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saif_al-Adel"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "partisan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q929300",
-      "answerKey": "saif aladel"
+      "answerKey": "saif aladel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saif_al-Adel"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2015",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2424957",
-      "answerKey": "faten hamama"
+      "answerKey": "faten hamama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faten_Hamama"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Egypt.svg",
+  "updated": "2025-12-14T22:13:54.656Z",
+  "wikipediaLinksAdded": true
 }

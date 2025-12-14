@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1255625",
-      "answerKey": "samuel etoo"
+      "answerKey": "samuel etoo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Eto'o"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57272",
-      "answerKey": "paul biya"
+      "answerKey": "paul biya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Biya"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13308",
-      "answerKey": "samuel umtiti"
+      "answerKey": "samuel umtiti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Umtiti"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q168540",
-      "answerKey": "roger milla"
+      "answerKey": "roger milla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Milla"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q309532",
-      "answerKey": "eric maxim choupomoting"
+      "answerKey": "eric maxim choupomoting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Maxim_Choupo-Moting"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298718",
-      "answerKey": "ahmadou ahidjo"
+      "answerKey": "ahmadou ahidjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmadou_Ahidjo"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116743",
-      "answerKey": "vincent aboubakar"
+      "answerKey": "vincent aboubakar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Aboubakar"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981355",
-      "answerKey": "patrick mboma"
+      "answerKey": "patrick mboma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Mboma"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19116103",
-      "answerKey": "andre onana"
+      "answerKey": "andre onana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9_Onana"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189012",
-      "answerKey": "alex song"
+      "answerKey": "alex song",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_Song"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "tennis coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q221908",
-      "answerKey": "yannick noah"
+      "answerKey": "yannick noah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannick_Noah"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57567",
-      "answerKey": "joel matip"
+      "answerKey": "joel matip",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%ABl_Matip"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15956282",
-      "answerKey": "breel embolo"
+      "answerKey": "breel embolo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Breel_Embolo"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56868118",
-      "answerKey": "william saliba"
+      "answerKey": "william saliba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Saliba"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2020",
       "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q445829",
-      "answerKey": "manu dibango"
+      "answerKey": "manu dibango",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manu_Dibango"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213106",
-      "answerKey": "idriss carlos kameni"
+      "answerKey": "idriss carlos kameni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Kameni"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21039587",
-      "answerKey": "andrefrank zambo anguissa"
+      "answerKey": "andrefrank zambo anguissa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Anguissa"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204230",
-      "answerKey": "geremi"
+      "answerKey": "geremi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geremi"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311657",
-      "answerKey": "achille emana"
+      "answerKey": "achille emana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Achille_Eman%C3%A1"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18002292",
-      "answerKey": "karl toko ekambi"
+      "answerKey": "karl toko ekambi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Toko_Ekambi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313155",
-      "answerKey": "nicolas nkoulou"
+      "answerKey": "nicolas nkoulou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_Nkoulou"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312928",
-      "answerKey": "stephane mbia"
+      "answerKey": "stephane mbia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C3%A9phane_Mbia"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213119",
-      "answerKey": "jean makoun"
+      "answerKey": "jean makoun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Makoun"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41896054",
-      "answerKey": "youssoufa moukoko"
+      "answerKey": "youssoufa moukoko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssoufa_Moukoko"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215533",
-      "answerKey": "rigobert song"
+      "answerKey": "rigobert song",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rigobert_Song"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49561427",
-      "answerKey": "bryan mbeumo"
+      "answerKey": "bryan mbeumo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bryan_Mbeumo"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166844",
-      "answerKey": "thomas nkono"
+      "answerKey": "thomas nkono",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_N'Kono"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15920046",
-      "answerKey": "joel embiid"
+      "answerKey": "joel embiid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Embiid"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "mixed martial arts fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23883298",
-      "answerKey": "francis ngannou"
+      "answerKey": "francis ngannou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Ngannou"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299403",
-      "answerKey": "charles itandje"
+      "answerKey": "charles itandje",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Itandje"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314755",
-      "answerKey": "lauren"
+      "answerKey": "lauren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lauren_(Cameroonian_footballer)"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318539",
-      "answerKey": "sebastien bassong"
+      "answerKey": "sebastien bassong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%A9bastien_Bassong"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5134192",
-      "answerKey": "clinton njie"
+      "answerKey": "clinton njie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clinton_N'Jie"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23541220",
-      "answerKey": "pascal siakam"
+      "answerKey": "pascal siakam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal_Siakam"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17364451",
-      "answerKey": "fabrice ondoa"
+      "answerKey": "fabrice ondoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fabrice_Ondoa"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q326445",
-      "answerKey": "aurelien chedjou"
+      "answerKey": "aurelien chedjou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aur%C3%A9lien_Chedjou"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16236380",
-      "answerKey": "yvon mvogo"
+      "answerKey": "yvon mvogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yvon_Mvogo"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16236380",
-      "answerKey": "yvon mvogo"
+      "answerKey": "yvon mvogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yvon_Mvogo"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15820881",
-      "answerKey": "jeancharles castelletto"
+      "answerKey": "jeancharles castelletto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Charles_Castelletto"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314371",
-      "answerKey": "eric djembadjemba"
+      "answerKey": "eric djembadjemba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Djemba-Djemba"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2024",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31792",
-      "answerKey": "landry nguemo"
+      "answerKey": "landry nguemo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Landry_Ngu%C3%A9mo"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2001",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q248047",
-      "answerKey": "mongo beti"
+      "answerKey": "mongo beti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mongo_Beti"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q340234",
-      "answerKey": "achille mbembe"
+      "answerKey": "achille mbembe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Achille_Mbembe"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28971436",
-      "answerKey": "evan ndicka"
+      "answerKey": "evan ndicka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evan_Ndicka"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60441515",
-      "answerKey": "joseph ngute"
+      "answerKey": "joseph ngute",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Ngute"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60583",
-      "answerKey": "jeanchristophe bahebeck"
+      "answerKey": "jeanchristophe bahebeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Christophe_Bahebeck"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2842397",
-      "answerKey": "ambroise oyongo"
+      "answerKey": "ambroise oyongo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambroise_Oyongo"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2023",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q443684",
-      "answerKey": "modeste mbami"
+      "answerKey": "modeste mbami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Modeste_M'bami"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2699470",
-      "answerKey": "benjamin moukandjo"
+      "answerKey": "benjamin moukandjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Moukandjo"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q349181",
-      "answerKey": "eyong enoh"
+      "answerKey": "eyong enoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyong_Enoh"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:17:22.621Z",
+  "wikipediaLinksAdded": true
 }

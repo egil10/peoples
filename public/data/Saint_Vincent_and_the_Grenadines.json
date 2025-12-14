@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57800",
-      "answerKey": "ralph gonsalves"
+      "answerKey": "ralph gonsalves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ralph_Gonsalves"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q354705",
-      "answerKey": "frederick ballantyne"
+      "answerKey": "frederick ballantyne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Ballantyne"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q66088003",
-      "answerKey": "susan dougan"
+      "answerKey": "susan dougan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susan_Dougan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2567482",
-      "answerKey": "adonal foyle"
+      "answerKey": "adonal foyle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adonal_Foyle"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2021",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1281056",
-      "answerKey": "james fitzallen mitchell"
+      "answerKey": "james fitzallen mitchell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Fitz-Allen_Mitchell"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q459258",
-      "answerKey": "sancho lyttle"
+      "answerKey": "sancho lyttle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sancho_Lyttle"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q517220",
-      "answerKey": "cornelius stewart"
+      "answerKey": "cornelius stewart",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelius_Stewart"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1268324",
-      "answerKey": "arnhim eustace"
+      "answerKey": "arnhim eustace",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnhim_Eustace"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28319076",
-      "answerKey": "godwin friday"
+      "answerKey": "godwin friday",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Godwin_Friday"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6899931",
-      "answerKey": "monica dacon"
+      "answerKey": "monica dacon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Dacon"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1008088",
-      "answerKey": "ezra hendrickson"
+      "answerKey": "ezra hendrickson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezra_Hendrickson"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6771939",
-      "answerKey": "marlon james"
+      "answerKey": "marlon james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlon_James_(footballer)"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1795",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q504756",
-      "answerKey": "joseph chatoyer"
+      "answerKey": "joseph chatoyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Chatoyer"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3054179",
-      "answerKey": "natasha mayers"
+      "answerKey": "natasha mayers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natasha_Mayers"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5171305",
-      "answerKey": "cornelius huggins"
+      "answerKey": "cornelius huggins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelius_Huggins"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18355755",
-      "answerKey": "oalex anderson"
+      "answerKey": "oalex anderson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oalex_Anderson"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58248",
-      "answerKey": "louis straker"
+      "answerKey": "louis straker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Louis_Straker"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3481618",
-      "answerKey": "shawn king"
+      "answerKey": "shawn king",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shawn_King_(basketball)"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5026702",
-      "answerKey": "camillo gonsalves"
+      "answerKey": "camillo gonsalves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Camillo_Gonsalves"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "accountant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37996838",
-      "answerKey": "inga rhonda king"
+      "answerKey": "inga rhonda king",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Inga_Rhonda_King"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q70687898",
-      "answerKey": "andrea bowman"
+      "answerKey": "andrea bowman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Bowman"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5178597",
-      "answerKey": "courtney carl williams"
+      "answerKey": "courtney carl williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Courtney_Carl_Williams"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11324184",
-      "answerKey": "nyika williams"
+      "answerKey": "nyika williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nyika_Williams"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107643950",
-      "answerKey": "shafiqua maloney"
+      "answerKey": "shafiqua maloney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shafiqua_Maloney"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q121085186",
-      "answerKey": "handal roban"
+      "answerKey": "handal roban",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Handal_Roban"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99979993",
-      "answerKey": "peggy carr"
+      "answerKey": "peggy carr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peggy_Carr"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "head teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q86713407",
-      "answerKey": "girlyn miguel"
+      "answerKey": "girlyn miguel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girlyn_Miguel"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q91691869",
-      "answerKey": "la celia aritha prince"
+      "answerKey": "la celia aritha prince",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/La_Celia_Aritha_Prince"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q97751215",
-      "answerKey": "bianca baptiste"
+      "answerKey": "bianca baptiste",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bianca_Baptiste"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1986",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27335221",
-      "answerKey": "hudson k tannis"
+      "answerKey": "hudson k tannis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hudson_Tannis"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4685336",
-      "answerKey": "adrian saunders"
+      "answerKey": "adrian saunders",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Saunders"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19667459",
-      "answerKey": "caswain mason"
+      "answerKey": "caswain mason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caswain_Mason"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115263405",
-      "answerKey": "keisal peters"
+      "answerKey": "keisal peters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keisal_Peters"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101693621",
-      "answerKey": "montgomery daniel"
+      "answerKey": "montgomery daniel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Montgomery_Daniel"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q120993801",
-      "answerKey": "shackell bobb"
+      "answerKey": "shackell bobb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shackell_Bobb"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28319073",
-      "answerKey": "roland matthews"
+      "answerKey": "roland matthews",
+      "wikipediaUrl": null
     },
     {
       "id": 37,
@@ -409,7 +445,10 @@
       "deathYear": null,
       "occupation": "motivational speaker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134083044",
-      "answerKey": "cheryl sutherland"
+      "answerKey": "cheryl sutherland",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:21:21.875Z",
+  "wikipediaLinksAdded": true
 }

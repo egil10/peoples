@@ -13,7 +13,8 @@
       "deathYear": "1943",
       "occupation": "mechanical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9036",
-      "answerKey": "nikola tesla"
+      "answerKey": "nikola tesla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1980",
       "occupation": "locksmith",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9161",
-      "answerKey": "josip broz"
+      "answerKey": "josip broz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josip_Broz_Tito"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1957",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17455",
-      "answerKey": "john von neumann"
+      "answerKey": "john von neumann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_von_Neumann"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1957",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17455",
-      "answerKey": "john von neumann"
+      "answerKey": "john von neumann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_von_Neumann"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57641",
-      "answerKey": "viktor orban"
+      "answerKey": "viktor orban",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1904",
       "occupation": "literary critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44003",
-      "answerKey": "theodor herzl"
+      "answerKey": "theodor herzl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theodor_Herzl"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2016",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47755",
-      "answerKey": "imre kertesz"
+      "answerKey": "imre kertesz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imre_Kert%C3%A9sz"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12908",
-      "answerKey": "george soros"
+      "answerKey": "george soros",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Soros"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1849",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81219",
-      "answerKey": "sandor petofi"
+      "answerKey": "sandor petofi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%A1ndor_Pet%C5%91fi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1945",
       "occupation": "classical pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83326",
-      "answerKey": "bela bartok"
+      "answerKey": "bela bartok",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/B%C3%A9la_Bart%C3%B3k"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1947",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57063",
-      "answerKey": "philipp lenard"
+      "answerKey": "philipp lenard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philipp_Lenard"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1916",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51056",
-      "answerKey": "franz joseph i of austria"
+      "answerKey": "franz joseph i of austria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Franz_Joseph_I"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1995",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155790",
-      "answerKey": "eugene wigner"
+      "answerKey": "eugene wigner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugene_Wigner"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1970",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133042",
-      "answerKey": "shmuel yosef agnon"
+      "answerKey": "shmuel yosef agnon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shmuel_Yosef_Agnon"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2006",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q482931",
-      "answerKey": "ferenc puskas"
+      "answerKey": "ferenc puskas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferenc_Pusk%C3%A1s"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1979",
       "occupation": "holographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155786",
-      "answerKey": "dennis gabor"
+      "answerKey": "dennis gabor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Gabor"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1996",
       "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173746",
-      "answerKey": "paul erdos"
+      "answerKey": "paul erdos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Erd%C5%91s"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2003",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6733",
-      "answerKey": "edward teller"
+      "answerKey": "edward teller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Teller"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1986",
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180468",
-      "answerKey": "albert szentgyorgyi"
+      "answerKey": "albert szentgyorgyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1911",
       "occupation": "newspaper proprietor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173417",
-      "answerKey": "joseph pulitzer"
+      "answerKey": "joseph pulitzer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Pulitzer"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1911",
       "occupation": "newspaper proprietor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173417",
-      "answerKey": "joseph pulitzer"
+      "answerKey": "joseph pulitzer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Pulitzer"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1865",
       "occupation": "obstetrician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59736",
-      "answerKey": "ignaz semmelweis"
+      "answerKey": "ignaz semmelweis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignaz_Semmelweis"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1740",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150665",
-      "answerKey": "charles vi holy roman emperor"
+      "answerKey": "charles vi holy roman emperor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_VI%2C_Holy_Roman_Emperor"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1740",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150665",
-      "answerKey": "charles vi holy roman emperor"
+      "answerKey": "charles vi holy roman emperor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_VI%2C_Holy_Roman_Emperor"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57467",
-      "answerKey": "janos ader"
+      "answerKey": "janos ader",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A1nos_%C3%81der"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1958",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q177917",
-      "answerKey": "imre nagy"
+      "answerKey": "imre nagy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imre_Nagy"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1983",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78494",
-      "answerKey": "arthur koestler"
+      "answerKey": "arthur koestler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Koestler"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1437",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57124",
-      "answerKey": "sigismund"
+      "answerKey": "sigismund",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sigismund%2C_Holy_Roman_Emperor"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1038",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q177903",
-      "answerKey": "stephen i of hungary"
+      "answerKey": "stephen i of hungary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1038",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q177903",
-      "answerKey": "stephen i of hungary"
+      "answerKey": "stephen i of hungary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21995345",
-      "answerKey": "katalin novak"
+      "answerKey": "katalin novak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katalin_Nov%C3%A1k"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183250",
-      "answerKey": "judit polgar"
+      "answerKey": "judit polgar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183250",
-      "answerKey": "judit polgar"
+      "answerKey": "judit polgar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Judit_Polg%C3%A1r"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1490",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188634",
-      "answerKey": "matthias corvinus"
+      "answerKey": "matthias corvinus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthias_Corvinus"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1971",
       "occupation": "philosopher of culture",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151523",
-      "answerKey": "georg lukacs"
+      "answerKey": "georg lukacs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gy%C3%B6rgy_Luk%C3%A1cs"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76343",
-      "answerKey": "otto von habsburg"
+      "answerKey": "otto von habsburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otto_von_Habsburg"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1957",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117144",
-      "answerKey": "miklos horthy"
+      "answerKey": "miklos horthy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikl%C3%B3s_Horthy"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1989",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200850",
-      "answerKey": "janos kadar"
+      "answerKey": "janos kadar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%A1nos_K%C3%A1d%C3%A1r"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1964",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153238",
-      "answerKey": "leo szilard"
+      "answerKey": "leo szilard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Szilard"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173633",
-      "answerKey": "monica seles"
+      "answerKey": "monica seles",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Seles"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q512062",
-      "answerKey": "laszlo krasznahorkai"
+      "answerKey": "laszlo krasznahorkai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Krasznahorkai"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1956",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34529",
-      "answerKey": "bela lugosi"
+      "answerKey": "bela lugosi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bela_Lugosi"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2005",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49086",
-      "answerKey": "simon wiesenthal"
+      "answerKey": "simon wiesenthal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Wiesenthal"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "biochemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q88608397",
-      "answerKey": "katalin kariko"
+      "answerKey": "katalin kariko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1966",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76951",
-      "answerKey": "george de hevesy"
+      "answerKey": "george de hevesy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_de_Hevesy"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1657",
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150575",
-      "answerKey": "ferdinand iii holy roman emperor"
+      "answerKey": "ferdinand iii holy roman emperor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferdinand_III%2C_Holy_Roman_Emperor"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1954",
       "occupation": "professional photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152524",
-      "answerKey": "robert capa"
+      "answerKey": "robert capa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Capa"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1894",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157040",
-      "answerKey": "lajos kossuth"
+      "answerKey": "lajos kossuth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lajos_Kossuth"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2017",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192603",
-      "answerKey": "george andrew olah"
+      "answerKey": "george andrew olah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Andrew_Olah"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1231",
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159862",
-      "answerKey": "elizabeth of hungary"
+      "answerKey": "elizabeth of hungary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_Hungary"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
+  "updated": "2025-12-14T22:15:39.421Z",
+  "wikipediaLinksAdded": true
 }

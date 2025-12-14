@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38049",
-      "answerKey": "herta muller"
+      "answerKey": "herta muller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herta_M%C3%BCller"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1994",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46706",
-      "answerKey": "eugene ionesco"
+      "answerKey": "eugene ionesco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15071069",
-      "answerKey": "maia sandu"
+      "answerKey": "maia sandu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maia_Sandu"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "physics teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q701484",
-      "answerKey": "klaus iohannis"
+      "answerKey": "klaus iohannis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Klaus_Iohannis"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "artistic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33228",
-      "answerKey": "nadia comaneci"
+      "answerKey": "nadia comaneci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1995",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193405",
-      "answerKey": "emil cioran"
+      "answerKey": "emil cioran",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Cioran"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1963",
       "occupation": "French resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16409",
-      "answerKey": "tristan tzara"
+      "answerKey": "tristan tzara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tristan_Tzara"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "ship captain",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57279",
-      "answerKey": "traian basescu"
+      "answerKey": "traian basescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Traian_B%C4%83sescu"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2025",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189575",
-      "answerKey": "ion iliescu"
+      "answerKey": "ion iliescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ion_Iliescu"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230156",
-      "answerKey": "simona halep"
+      "answerKey": "simona halep",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simona_Halep"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1946",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152030",
-      "answerKey": "ion antonescu"
+      "answerKey": "ion antonescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ion_Antonescu"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "proprietor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189892",
-      "answerKey": "gheorghe hagi"
+      "answerKey": "gheorghe hagi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gheorghe_Hagi"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2017",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q930013",
-      "answerKey": "michael i of romania"
+      "answerKey": "michael i of romania",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_I_of_Romania"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1957",
       "occupation": "assemblage artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153048",
-      "answerKey": "constantin brancusi"
+      "answerKey": "constantin brancusi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191132",
-      "answerKey": "harvey keitel"
+      "answerKey": "harvey keitel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harvey_Keitel"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q91410",
-      "answerKey": "stefan hell"
+      "answerKey": "stefan hell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefan_Hell"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1970",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153905",
-      "answerKey": "paul celan"
+      "answerKey": "paul celan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Celan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2008",
       "occupation": "cell biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q219718",
-      "answerKey": "george emil palade"
+      "answerKey": "george emil palade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Emil_Palade"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57478",
-      "answerKey": "nicolae timofti"
+      "answerKey": "nicolae timofti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolae_Timofti"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455898",
-      "answerKey": "sebastian stan"
+      "answerKey": "sebastian stan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebastian_Stan"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12349",
-      "answerKey": "inna"
+      "answerKey": "inna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Inna"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1916",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57629",
-      "answerKey": "elisabeth of wied"
+      "answerKey": "elisabeth of wied",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elisabeth_of_Wied"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "prosecutor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57692",
-      "answerKey": "victor ponta"
+      "answerKey": "victor ponta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Ponta"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1989",
       "occupation": "conducător",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229162",
-      "answerKey": "elena ceausescu"
+      "answerKey": "elena ceausescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elena_Ceau%C8%99escu"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q267857",
-      "answerKey": "emil boc"
+      "answerKey": "emil boc",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Boc"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11163124",
-      "answerKey": "nicusor dan"
+      "answerKey": "nicusor dan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicu%C8%99or_Dan"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1989",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78503",
-      "answerKey": "hermann oberth"
+      "answerKey": "hermann oberth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_Oberth"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1989",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78503",
-      "answerKey": "hermann oberth"
+      "answerKey": "hermann oberth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_Oberth"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1955",
       "occupation": "musicologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q77177",
-      "answerKey": "george enesco"
+      "answerKey": "george enesco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Enescu"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202645",
-      "answerKey": "adrian mutu"
+      "answerKey": "adrian mutu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrian_Mutu"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106113",
-      "answerKey": "ilie nastase"
+      "answerKey": "ilie nastase",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilie_N%C4%83stase"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106113",
-      "answerKey": "ilie nastase"
+      "answerKey": "ilie nastase",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilie_N%C4%83stase"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "secondary school teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9368300",
-      "answerKey": "viorica dancila"
+      "answerKey": "viorica dancila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viorica_D%C4%83ncil%C4%83"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1938",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57666",
-      "answerKey": "marie of romania"
+      "answerKey": "marie of romania",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie_of_Romania"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1965",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294072",
-      "answerKey": "gheorghe gheorghiudej"
+      "answerKey": "gheorghe gheorghiudej",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gheorghe_Gheorghiu-Dej"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q210491",
-      "answerKey": "cristian chivu"
+      "answerKey": "cristian chivu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Chivu"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105193792",
-      "answerKey": "natalia gavrilita"
+      "answerKey": "natalia gavrilita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Gavrili%C8%9Ba"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q221614",
-      "answerKey": "bogdan lobont"
+      "answerKey": "bogdan lobont",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bogdan_Lobon%C8%9B"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22957410",
-      "answerKey": "bianca andreescu"
+      "answerKey": "bianca andreescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bianca_Andreescu"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299152",
-      "answerKey": "emil constantinescu"
+      "answerKey": "emil constantinescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Constantinescu"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294302",
-      "answerKey": "walter zenga"
+      "answerKey": "walter zenga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Zenga"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "adjunct professor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207473",
-      "answerKey": "calin popescutariceanu"
+      "answerKey": "calin popescutariceanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C4%83lin_Popescu-T%C4%83riceanu"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "adjunct professor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207473",
-      "answerKey": "calin popescutariceanu"
+      "answerKey": "calin popescutariceanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C4%83lin_Popescu-T%C4%83riceanu"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q431610",
-      "answerKey": "nicolae dica"
+      "answerKey": "nicolae dica",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolae_Dic%C4%83"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1453",
-      "answerKey": "alexandra stan"
+      "answerKey": "alexandra stan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandra_Stan"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314353",
-      "answerKey": "cristian mungiu"
+      "answerKey": "cristian mungiu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Mungiu"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342698",
-      "answerKey": "mircea lucescu"
+      "answerKey": "mircea lucescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mircea_Lucescu"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1938",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318105",
-      "answerKey": "corneliu zelea codreanu"
+      "answerKey": "corneliu zelea codreanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corneliu_Zelea_Codreanu"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "agronomist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q929248",
-      "answerKey": "dacian ciolos"
+      "answerKey": "dacian ciolos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dacian_Ciolo%C8%99"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21179176",
-      "answerKey": "marcel ciolacu"
+      "answerKey": "marcel ciolacu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcel_Ciolacu"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
+  "updated": "2025-12-14T22:20:58.551Z",
+  "wikipediaLinksAdded": true
 }

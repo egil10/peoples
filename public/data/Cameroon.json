@@ -13,7 +13,8 @@
       "deathYear": "1986",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q219918",
-      "answerKey": "samora moises machel"
+      "answerKey": "samora moises machel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samora_Machel"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208355",
-      "answerKey": "joaquim chissano"
+      "answerKey": "joaquim chissano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joaquim_Chissano"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5448556",
-      "answerKey": "filipe nyusi"
+      "answerKey": "filipe nyusi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filipe_Nyusi"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236020",
-      "answerKey": "luisa diogo"
+      "answerKey": "luisa diogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lu%C3%ADsa_Diogo"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57392",
-      "answerKey": "armando guebuza"
+      "answerKey": "armando guebuza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Guebuza"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57392",
-      "answerKey": "armando guebuza"
+      "answerKey": "armando guebuza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_Guebuza"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239105",
-      "answerKey": "graca machel"
+      "answerKey": "graca machel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gra%C3%A7a_Machel"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q228807",
-      "answerKey": "maria mutola"
+      "answerKey": "maria mutola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Mutola"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19057400",
-      "answerKey": "carlos agostinho do rosario"
+      "answerKey": "carlos agostinho do rosario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Agostinho_do_Ros%C3%A1rio"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q382101",
-      "answerKey": "mia couto"
+      "answerKey": "mia couto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mia_Couto"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24451748",
-      "answerKey": "reinildo mandava"
+      "answerKey": "reinildo mandava",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reinildo_Mandava"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q703613",
-      "answerKey": "simao mate junior"
+      "answerKey": "simao mate junior",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sim%C3%A3o_Mate_Junior"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q510568",
-      "answerKey": "afric simone"
+      "answerKey": "afric simone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afric_Simone"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1715702",
-      "answerKey": "julio duarte langa"
+      "answerKey": "julio duarte langa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BAlio_Duarte_Langa"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q357430",
-      "answerKey": "aires ali"
+      "answerKey": "aires ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aires_Ali"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2021",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546787",
-      "answerKey": "alexandre jose maria dos santos"
+      "answerKey": "alexandre jose maria dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_Jos%C3%A9_Maria_dos_Santos"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34282",
-      "answerKey": "alberto vaquina"
+      "answerKey": "alberto vaquina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Vaquina"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "radio personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q97058466",
-      "answerKey": "daniel chapo"
+      "answerKey": "daniel chapo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Chapo"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270580",
-      "answerKey": "paulina chiziane"
+      "answerKey": "paulina chiziane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulina_Chiziane"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1750375",
-      "answerKey": "mexer"
+      "answerKey": "mexer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mexer"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q383419",
-      "answerKey": "afonso dhlakama"
+      "answerKey": "afonso dhlakama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afonso_Dhlakama"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44275924",
-      "answerKey": "adriano maleiane"
+      "answerKey": "adriano maleiane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriano_Maleiane"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2020",
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1893287",
-      "answerKey": "marcelino dos santos"
+      "answerKey": "marcelino dos santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelino_dos_Santos"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2011",
       "occupation": "sculptor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q384560",
-      "answerKey": "malangatana ngwenya"
+      "answerKey": "malangatana ngwenya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malangatana_Ngwenya"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2498195",
-      "answerKey": "armando sa"
+      "answerKey": "armando sa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Armando_S%C3%A1"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6722501",
-      "answerKey": "veronica macamo"
+      "answerKey": "veronica macamo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ver%C3%B3nica_Macamo"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1441931",
-      "answerKey": "francisco chimoio"
+      "answerKey": "francisco chimoio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Chimoio"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2832185",
-      "answerKey": "alcinda abreu"
+      "answerKey": "alcinda abreu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alcinda_Abreu"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60870405",
-      "answerKey": "alfons amade"
+      "answerKey": "alfons amade",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfons_Amade"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23904976",
-      "answerKey": "lucrecia paco"
+      "answerKey": "lucrecia paco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucr%C3%A9cia_Paco"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q617503",
-      "answerKey": "eugenio fernando bila"
+      "answerKey": "eugenio fernando bila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Genito"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3959898",
-      "answerKey": "sheu"
+      "answerKey": "sheu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sh%C3%A9u"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2021",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58223",
-      "answerKey": "oldemiro baloi"
+      "answerKey": "oldemiro baloi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oldemiro_Bal%C3%B3i"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1962",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2142187",
-      "answerKey": "teodosio de gouveia"
+      "answerKey": "teodosio de gouveia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teod%C3%B3sio_de_Gouveia"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2000",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q968260",
-      "answerKey": "carlos cardoso"
+      "answerKey": "carlos cardoso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Cardoso_(journalist)"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85016758",
-      "answerKey": "bruno langa"
+      "answerKey": "bruno langa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Langa"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2012",
       "occupation": "sculptor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40628497",
-      "answerKey": "bertina lopes"
+      "answerKey": "bertina lopes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertina_Lopes"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2004",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2714779",
-      "answerKey": "gito baloi"
+      "answerKey": "gito baloi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gito_Baloi"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1356776",
-      "answerKey": "ernesto maguengue"
+      "answerKey": "ernesto maguengue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernesto_Maguengue"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q948295",
-      "answerKey": "daviz simango"
+      "answerKey": "daviz simango",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daviz_Simango"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1990",
       "occupation": "phytopathologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937371",
-      "answerKey": "orlando mendes"
+      "answerKey": "orlando mendes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orlando_Mendes"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14468472",
-      "answerKey": "leia dongue"
+      "answerKey": "leia dongue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leia_Dongue"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30935108",
-      "answerKey": "hirondina joshua"
+      "answerKey": "hirondina joshua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hirondina_Joshua"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1999",
       "occupation": "assassin",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3642716",
-      "answerKey": "dimitri tsafendas"
+      "answerKey": "dimitri tsafendas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dimitri_Tsafendas"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1710136",
-      "answerKey": "joao carlos hatoa nunes"
+      "answerKey": "joao carlos hatoa nunes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Carlos_Hatoa_Nunes"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "agricultural economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6291941",
-      "answerKey": "jose condungua pacheco"
+      "answerKey": "jose condungua pacheco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Condungua_Pacheco"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1279833",
-      "answerKey": "germano grachane"
+      "answerKey": "germano grachane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Germano_Grachane"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2014",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q952238",
-      "answerKey": "eduardo white"
+      "answerKey": "eduardo white",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_White"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1671868",
-      "answerKey": "inacio saure"
+      "answerKey": "inacio saure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/In%C3%A1cio_Saure"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2023",
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26761021",
-      "answerKey": "alice mabota"
+      "answerKey": "alice mabota",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Mabota"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mozambique.svg",
+  "updated": "2025-12-14T22:12:28.167Z",
+  "wikipediaLinksAdded": true
 }

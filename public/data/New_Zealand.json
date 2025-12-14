@@ -13,7 +13,8 @@
       "deathYear": "1937",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9123",
-      "answerKey": "ernest rutherford"
+      "answerKey": "ernest rutherford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2008",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33817",
-      "answerKey": "edmund hillary"
+      "answerKey": "edmund hillary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmund_Hillary"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2008",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33817",
-      "answerKey": "edmund hillary"
+      "answerKey": "edmund hillary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmund_Hillary"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129817",
-      "answerKey": "russell crowe"
+      "answerKey": "russell crowe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Russell_Crowe"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42574",
-      "answerKey": "james cameron"
+      "answerKey": "james cameron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Cameron"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3606816",
-      "answerKey": "jacinda ardern"
+      "answerKey": "jacinda ardern",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacinda_Ardern"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4465",
-      "answerKey": "peter jackson"
+      "answerKey": "peter jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Jackson"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27655344",
-      "answerKey": "rose"
+      "answerKey": "rose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180383",
-      "answerKey": "helen clark"
+      "answerKey": "helen clark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_Clark"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13476175",
-      "answerKey": "lorde"
+      "answerKey": "lorde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lorde"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57783",
-      "answerKey": "john key"
+      "answerKey": "john key",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Key"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2004",
       "occupation": "crystallographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184659",
-      "answerKey": "maurice wilkins"
+      "answerKey": "maurice wilkins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Wilkins"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1923",
       "occupation": "diarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270632",
-      "answerKey": "katherine mansfield"
+      "answerKey": "katherine mansfield",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katherine_Mansfield"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q199884",
-      "answerKey": "anna paquin"
+      "answerKey": "anna paquin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Paquin"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q199884",
-      "answerKey": "anna paquin"
+      "answerKey": "anna paquin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Paquin"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133112",
-      "answerKey": "lucy lawless"
+      "answerKey": "lucy lawless",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucy_Lawless"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2007",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110942",
-      "answerKey": "alan macdiarmid"
+      "answerKey": "alan macdiarmid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_MacDiarmid"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214309",
-      "answerKey": "sam neill"
+      "answerKey": "sam neill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Neill"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132430",
-      "answerKey": "karl urban"
+      "answerKey": "karl urban",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karl_Urban"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2000",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151836",
-      "answerKey": "friedensreich hundertwasser"
+      "answerKey": "friedensreich hundertwasser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedensreich_Hundertwasser"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "political candidate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5106890",
-      "answerKey": "chris hipkins"
+      "answerKey": "chris hipkins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hipkins"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "political candidate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5106890",
-      "answerKey": "chris hipkins"
+      "answerKey": "chris hipkins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hipkins"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230448",
-      "answerKey": "jane campion"
+      "answerKey": "jane campion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Campion"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "farmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4384608",
-      "answerKey": "bill english"
+      "answerKey": "bill english",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bill_English"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124043",
-      "answerKey": "wynton rufer"
+      "answerKey": "wynton rufer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wynton_Rufer"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "stand-up comedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q439315",
-      "answerKey": "jemaine clement"
+      "answerKey": "jemaine clement",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jemaine_Clement"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2388576",
-      "answerKey": "taika waititi"
+      "answerKey": "taika waititi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taika_Waititi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q371040",
-      "answerKey": "michael mcglinchey"
+      "answerKey": "michael mcglinchey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_McGlinchey"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "technology entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q705525",
-      "answerKey": "peter thiel"
+      "answerKey": "peter thiel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Thiel"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1992",
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3166",
-      "answerKey": "denny hulme"
+      "answerKey": "denny hulme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denny_Hulme"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150289",
-      "answerKey": "winston reid"
+      "answerKey": "winston reid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winston_Reid"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465201",
-      "answerKey": "scott dixon"
+      "answerKey": "scott dixon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Dixon"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1934",
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455072",
-      "answerKey": "kate sheppard"
+      "answerKey": "kate sheppard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kate_Sheppard"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380133",
-      "answerKey": "kiri te kanawa"
+      "answerKey": "kiri te kanawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kiri_Te_Kanawa"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "board member",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235996",
-      "answerKey": "jenny shipley"
+      "answerKey": "jenny shipley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jenny_Shipley"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1970",
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173081",
-      "answerKey": "bruce mclaren"
+      "answerKey": "bruce mclaren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_McLaren"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q74548",
-      "answerKey": "chris wood"
+      "answerKey": "chris wood",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Wood_(footballer%2C_born_1991)"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2011",
       "occupation": "SOE agent",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234134",
-      "answerKey": "nancy wake"
+      "answerKey": "nancy wake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nancy_Wake"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360737",
-      "answerKey": "andrew niccol"
+      "answerKey": "andrew niccol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Niccol"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "political candidate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q74370310",
-      "answerKey": "christopher luxon"
+      "answerKey": "christopher luxon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christopher_Luxon"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2015",
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q363717",
-      "answerKey": "jonah lomu"
+      "answerKey": "jonah lomu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonah_Lomu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59180330",
-      "answerKey": "liam lawson"
+      "answerKey": "liam lawson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liam_Lawson"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3050522",
-      "answerKey": "eleanor catton"
+      "answerKey": "eleanor catton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eleanor_Catton"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6380648",
-      "answerKey": "kayne vincent"
+      "answerKey": "kayne vincent",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kayne_Vincent"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "shot putter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6357",
-      "answerKey": "valerie adams"
+      "answerKey": "valerie adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valerie_Adams"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208557",
-      "answerKey": "ryan nelsen"
+      "answerKey": "ryan nelsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Nelsen"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355300",
-      "answerKey": "richard curtis"
+      "answerKey": "richard curtis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Curtis"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2019",
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52659",
-      "answerKey": "peter snell"
+      "answerKey": "peter snell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Snell"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466150",
-      "answerKey": "keisha castlehughes"
+      "answerKey": "keisha castlehughes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keisha_Castle-Hughes"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "street artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231985",
-      "answerKey": "hayley westenra"
+      "answerKey": "hayley westenra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hayley_Westenra"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+  "updated": "2025-12-14T22:19:30.052Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57348",
-      "answerKey": "isaias afwerki"
+      "answerKey": "isaias afwerki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaias_Afwerki"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240907",
-      "answerKey": "senhit"
+      "answerKey": "senhit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Senhit_(singer)"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192033",
-      "answerKey": "zersenay tadese"
+      "answerKey": "zersenay tadese",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zersenay_Tadese"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "stand-up comedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11835264",
-      "answerKey": "tiffany haddish"
+      "answerKey": "tiffany haddish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiffany_Haddish"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372336",
-      "answerKey": "henok goitom"
+      "answerKey": "henok goitom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henok_Goitom"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60807605",
-      "answerKey": "biniam girmay"
+      "answerKey": "biniam girmay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Biniam_Girmay"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16549354",
-      "answerKey": "ghirmay ghebreslassie"
+      "answerKey": "ghirmay ghebreslassie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghirmay_Ghebreslassie"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q609708",
-      "answerKey": "daniel teklehaymanot"
+      "answerKey": "daniel teklehaymanot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Teklehaimanot"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q196923",
-      "answerKey": "zeudi araya"
+      "answerKey": "zeudi araya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zeudi_Araya"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954275",
-      "answerKey": "meb keflezighi"
+      "answerKey": "meb keflezighi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meb_Keflezighi"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4937707",
-      "answerKey": "meraf bahta"
+      "answerKey": "meraf bahta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meraf_Bahta"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q715999",
-      "answerKey": "ines pellegrini"
+      "answerKey": "ines pellegrini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ines_Pellegrini"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15983790",
-      "answerKey": "amanuel ghebreigzabhier"
+      "answerKey": "amanuel ghebreigzabhier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanuel_Ghebreigzabhier"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q545055",
-      "answerKey": "natnael berhane"
+      "answerKey": "natnael berhane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natnael_Berhane"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14566942",
-      "answerKey": "merhawi kudus"
+      "answerKey": "merhawi kudus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Merhawi_Kudus"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1897",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2625892",
-      "answerKey": "alula engida"
+      "answerKey": "alula engida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ras_Alula"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1897",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2625892",
-      "answerKey": "alula engida"
+      "answerKey": "alula engida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ras_Alula"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47403643",
-      "answerKey": "henok mulubrhan"
+      "answerKey": "henok mulubrhan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henok_Mulubrhan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2006",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q993477",
-      "answerKey": "bruno lauzi"
+      "answerKey": "bruno lauzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruno_Lauzi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58163",
-      "answerKey": "osman saleh mohammed"
+      "answerKey": "osman saleh mohammed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osman_Saleh"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1178648",
-      "answerKey": "dawit isaak"
+      "answerKey": "dawit isaak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dawit_Isaak"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3375159",
-      "answerKey": "helen meles"
+      "answerKey": "helen meles",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helen_Meles"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47500963",
-      "answerKey": "natnael tesfatsion"
+      "answerKey": "natnael tesfatsion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natnael_Tesfatsion"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3370340",
-      "answerKey": "abrar osman"
+      "answerKey": "abrar osman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abrar_Osman"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11884298",
-      "answerKey": "nguse tesfaldet"
+      "answerKey": "nguse tesfaldet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nguse_Tesfaldet_Amlosom"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15987188",
-      "answerKey": "mekseb debesay"
+      "answerKey": "mekseb debesay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mekseb_Debesay"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1406134",
-      "answerKey": "ferekalsi debesay"
+      "answerKey": "ferekalsi debesay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferekalsi_Debesay"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1920486",
-      "answerKey": "menghesteab tesfamariam"
+      "answerKey": "menghesteab tesfamariam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menghesteab_Tesfamariam"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q574716",
-      "answerKey": "yonas kifle"
+      "answerKey": "yonas kifle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yonas_Kifle"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5364577",
-      "answerKey": "ella thomas"
+      "answerKey": "ella thomas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ella_Thomas"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q656580",
-      "answerKey": "thomas kelati"
+      "answerKey": "thomas kelati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Kelati"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q975282",
-      "answerKey": "yared asmerom"
+      "answerKey": "yared asmerom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yared_Asmerom"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q499755",
-      "answerKey": "teklemariam medhin"
+      "answerKey": "teklemariam medhin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teklemariam_Medhin"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20933623",
-      "answerKey": "aron kifle"
+      "answerKey": "aron kifle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aron_Kifle"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23905967",
-      "answerKey": "awet gebremedhin"
+      "answerKey": "awet gebremedhin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Awet_Gebremedhin"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16664122",
-      "answerKey": "meron teshome"
+      "answerKey": "meron teshome",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meron_Teshome"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2093528",
-      "answerKey": "samuel tsegay"
+      "answerKey": "samuel tsegay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Tsegay"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4739959",
-      "answerKey": "amanuel mesel"
+      "answerKey": "amanuel mesel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amanuel_Mesel"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2021",
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63761214",
-      "answerKey": "desiet kidane"
+      "answerKey": "desiet kidane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desiet_Kidane"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61674131",
-      "answerKey": "weini kelati"
+      "answerKey": "weini kelati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Weini_Kelati"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61674131",
-      "answerKey": "weini kelati"
+      "answerKey": "weini kelati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Weini_Kelati"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28872094",
-      "answerKey": "awet habtom"
+      "answerKey": "awet habtom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Awet_Habtom"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26384471",
-      "answerKey": "hiskel tewelde"
+      "answerKey": "hiskel tewelde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiskel_Tewelde"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "steeplechase runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26394402",
-      "answerKey": "yemane haileselassie"
+      "answerKey": "yemane haileselassie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yemane_Haileselassie"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51844805",
-      "answerKey": "nura"
+      "answerKey": "nura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nura_(German_rapper)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16549828",
-      "answerKey": "goitom kifle"
+      "answerKey": "goitom kifle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Goitom_Kifle"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99618974",
-      "answerKey": "ghirmai efrem"
+      "answerKey": "ghirmai efrem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghirmai_Efrem"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2018",
       "occupation": "impresario",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3827049",
-      "answerKey": "lara saint paul"
+      "answerKey": "lara saint paul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lara_Saint_Paul"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q73911",
-      "answerKey": "afrob"
+      "answerKey": "afrob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afrob"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q73911",
-      "answerKey": "afrob"
+      "answerKey": "afrob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afrob"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eritrea.svg",
+  "updated": "2025-12-14T22:14:08.140Z",
+  "wikipediaLinksAdded": true
 }

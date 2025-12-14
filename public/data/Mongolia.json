@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57421",
-      "answerKey": "tsakhiagiin elbegdorj"
+      "answerKey": "tsakhiagiin elbegdorj",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsakhiagiin_Elbegdorj"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27058418",
-      "answerKey": "khurelsukh ukhnaa"
+      "answerKey": "khurelsukh ukhnaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ukhnaagiin_Kh%C3%BCrels%C3%BCkh"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9122260",
-      "answerKey": "khaltmaagiin battulga"
+      "answerKey": "khaltmaagiin battulga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khaltmaagiin_Battulga"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54820",
-      "answerKey": "nambaryn enkhbayar"
+      "answerKey": "nambaryn enkhbayar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nambaryn_Enkhbayar"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1952",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311488",
-      "answerKey": "khorloogiin choibalsan"
+      "answerKey": "khorloogiin choibalsan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khorloogiin_Choibalsan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1291",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220099",
-      "answerKey": "arghun"
+      "answerKey": "arghun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arghun"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1923",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314105",
-      "answerKey": "damdin sukhbaatar"
+      "answerKey": "damdin sukhbaatar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Damdin_S%C3%BCkhbaatar"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81129",
-      "answerKey": "jugderdemidiin gurragchaa"
+      "answerKey": "jugderdemidiin gurragchaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCgderdemidiin_G%C3%BCrragchaa"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24248226",
-      "answerKey": "luvsannamsrain oyunerdene"
+      "answerKey": "luvsannamsrain oyunerdene",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luvsannamsrain_Oyun-Erdene"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334679",
-      "answerKey": "natsagiin bagabandi"
+      "answerKey": "natsagiin bagabandi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natsagiin_Bagabandi"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887753",
-      "answerKey": "punsalmaagiin ochirbat"
+      "answerKey": "punsalmaagiin ochirbat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Punsalmaagiin_Ochirbat"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1295",
       "occupation": "ruler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448033",
-      "answerKey": "baydu"
+      "answerKey": "baydu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baydu"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26300210",
-      "answerKey": "saeid mollaei"
+      "answerKey": "saeid mollaei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saeid_Mollaei"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1260",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561440",
-      "answerKey": "baiju"
+      "answerKey": "baiju",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baiju_Noyan"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1221",
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q378676",
-      "answerKey": "hoelun"
+      "answerKey": "hoelun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/H%C3%B6'el%C3%BCn"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1962",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464346",
-      "answerKey": "sukhbaataryn yanjmaa"
+      "answerKey": "sukhbaataryn yanjmaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%BCkhbaataryn_Yanjmaa"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372223",
-      "answerKey": "enkhbatyn badaruugan"
+      "answerKey": "enkhbatyn badaruugan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enkhbatyn_Badar-Uugan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "rikishi",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448054",
-      "answerKey": "hakuho sho"
+      "answerKey": "hakuho sho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hakuh%C5%8D_Sh%C5%8D"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2260632",
-      "answerKey": "urantsetseg munkhbat"
+      "answerKey": "urantsetseg munkhbat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%B6nkhbatyn_Urantsetseg"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1937",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558640",
-      "answerKey": "peljidiin genden"
+      "answerKey": "peljidiin genden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peljidiin_Genden"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1271",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1341161",
-      "answerKey": "baraq"
+      "answerKey": "baraq",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghiyas-ud-din_Baraq"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1997",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558706",
-      "answerKey": "jambyn batmonkh"
+      "answerKey": "jambyn batmonkh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jambyn_Batm%C3%B6nkh"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1997",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558706",
-      "answerKey": "jambyn batmonkh"
+      "answerKey": "jambyn batmonkh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jambyn_Batm%C3%B6nkh"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1147",
       "occupation": "khan",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982445",
-      "answerKey": "khabul khan"
+      "answerKey": "khabul khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khabul_Khan"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372202",
-      "answerKey": "sukhbaataryn batbold"
+      "answerKey": "sukhbaataryn batbold",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/S%C3%BCkhbaataryn_Batbold"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57888",
-      "answerKey": "norovyn altankhuyag"
+      "answerKey": "norovyn altankhuyag",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Norovyn_Altankhuyag"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "rikishi",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334601",
-      "answerKey": "asashoryu akinori"
+      "answerKey": "asashoryu akinori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asash%C5%8Dry%C5%AB_Akinori"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15934317",
-      "answerKey": "chimediin saikhanbileg"
+      "answerKey": "chimediin saikhanbileg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chimediin_Saikhanbileg"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1937",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1171809",
-      "answerKey": "dashdorjiin natsagdorj"
+      "answerKey": "dashdorjiin natsagdorj",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dashdorjiin_Natsagdorj"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1265",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q154196",
-      "answerKey": "doquz khatun"
+      "answerKey": "doquz khatun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Doquz_Khatun"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2025",
       "occupation": "paleontologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170380",
-      "answerKey": "rinchen barsbold"
+      "answerKey": "rinchen barsbold",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rinchen_Barsbold"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1345",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q454124",
-      "answerKey": "sati beg"
+      "answerKey": "sati beg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sati_Beg"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25848773",
-      "answerKey": "jargaltulga erdenebat"
+      "answerKey": "jargaltulga erdenebat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jargaltulgyn_Erdenebat"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q70350136",
-      "answerKey": "batochiryn bolortuyaa"
+      "answerKey": "batochiryn bolortuyaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bat-Ochiryn_Bolortuyaa"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4142905",
-      "answerKey": "gombojavyn zandanshatar"
+      "answerKey": "gombojavyn zandanshatar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gombojavyn_Zandanshatar"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q735754",
-      "answerKey": "purevdorjiin serdamba"
+      "answerKey": "purevdorjiin serdamba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P%C3%BCrevdorjiin_Serdamba"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1941",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45281",
-      "answerKey": "agdanbuugyn amar"
+      "answerKey": "agdanbuugyn amar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anandyn_Amar"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q138676",
-      "answerKey": "uranchimegiin monkherdene"
+      "answerKey": "uranchimegiin monkherdene",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Uranchimegiin_M%C3%B6nkh-Erdene"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26042352",
-      "answerKey": "tsogtbaatar tsendochir"
+      "answerKey": "tsogtbaatar tsendochir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsend-Ochiryn_Tsogtbaatar"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1723",
       "occupation": "sculptor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q735871",
-      "answerKey": "zanabazar"
+      "answerKey": "zanabazar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zanabazar"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558683",
-      "answerKey": "miyeegombyn enkhbold"
+      "answerKey": "miyeegombyn enkhbold",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miyeegombyn_Enkhbold"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q735910",
-      "answerKey": "khashbaataryn tsagaanbaatar"
+      "answerKey": "khashbaataryn tsagaanbaatar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khashbaataryn_Tsagaanbaatar"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372131",
-      "answerKey": "sanjaagiin bayar"
+      "answerKey": "sanjaagiin bayar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sanjiin_Bayar"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1986",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2068149",
-      "answerKey": "tsendiin damdinsuren"
+      "answerKey": "tsendiin damdinsuren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsendiin_Damdins%C3%BCren"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2022",
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3501239",
-      "answerKey": "nerguin enkhbat"
+      "answerKey": "nerguin enkhbat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nerg%C3%BCin_Enkhbat"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2018",
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3074542",
-      "answerKey": "tsendiin damdin"
+      "answerKey": "tsendiin damdin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tsendiin_Damdin"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467764",
-      "answerKey": "byambasuren davaa"
+      "answerKey": "byambasuren davaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Byambasuren_Davaa"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1339",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q5964503",
-      "answerKey": "muhammad khan"
+      "answerKey": "muhammad khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Khan_(Ilkhan)"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1345",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q4825084",
-      "answerKey": "suleiman khan"
+      "answerKey": "suleiman khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suleiman_Khan"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14920401",
-      "answerKey": "ganzorigiin mandakhnaran"
+      "answerKey": "ganzorigiin mandakhnaran",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ganzorigiin_Mandakhnaran"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg",
+  "updated": "2025-12-14T22:18:46.145Z",
+  "wikipediaLinksAdded": true
 }

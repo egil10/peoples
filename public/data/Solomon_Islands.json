@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q536063",
-      "answerKey": "manasseh sogavare"
+      "answerKey": "manasseh sogavare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manasseh_Sogavare"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6180897",
-      "answerKey": "jeremiah manele"
+      "answerKey": "jeremiah manele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeremiah_Manele"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2025",
       "occupation": "bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5240675",
-      "answerKey": "david vunagi"
+      "answerKey": "david vunagi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Vunagi"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379730",
-      "answerKey": "derek sikua"
+      "answerKey": "derek sikua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Sikua"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q718204",
-      "answerKey": "frank kabui"
+      "answerKey": "frank kabui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Kabui"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561575",
-      "answerKey": "danny philip"
+      "answerKey": "danny philip",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Philip"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1370998",
-      "answerKey": "snyder rini"
+      "answerKey": "snyder rini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Snyder_Rini"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q425785",
-      "answerKey": "peter kenilorea"
+      "answerKey": "peter kenilorea",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Kenilorea"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1290417",
-      "answerKey": "henry faarodo"
+      "answerKey": "henry faarodo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Fa'arodo"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q704017",
-      "answerKey": "nathaniel waena"
+      "answerKey": "nathaniel waena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nathaniel_Waena"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7331464",
-      "answerKey": "rick hou"
+      "answerKey": "rick hou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rick_Houenipwela"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q654672",
-      "answerKey": "allan kemakeza"
+      "answerKey": "allan kemakeza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allan_Kemakeza"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154696",
-      "answerKey": "benjamin totori"
+      "answerKey": "benjamin totori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Totori"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q809332",
-      "answerKey": "bartholomew ulufaalu"
+      "answerKey": "bartholomew ulufaalu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_Ulufa'alu"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q809332",
-      "answerKey": "bartholomew ulufaalu"
+      "answerKey": "bartholomew ulufaalu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_Ulufa'alu"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2025",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q969479",
-      "answerKey": "john lapli"
+      "answerKey": "john lapli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Lapli"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q939825",
-      "answerKey": "gordon darcy lilo"
+      "answerKey": "gordon darcy lilo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Darcy_Lilo"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q798849",
-      "answerKey": "baddeley devesi"
+      "answerKey": "baddeley devesi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baddeley_Devesi"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26704914",
-      "answerKey": "sharon firisua"
+      "answerKey": "sharon firisua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharon_Firisua"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124376",
-      "answerKey": "george lepping"
+      "answerKey": "george lepping",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Lepping"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1984",
       "occupation": "Coastwatchers",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6118463",
-      "answerKey": "jacob c vouza"
+      "answerKey": "jacob c vouza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_C._Vouza"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7148496",
-      "answerKey": "patteson oti"
+      "answerKey": "patteson oti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patteson_Oti"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3314404",
-      "answerKey": "milner tozaka"
+      "answerKey": "milner tozaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milner_Tozaka"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6117107",
-      "answerKey": "jackson fiulaua"
+      "answerKey": "jackson fiulaua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Fiulaua"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q68229731",
-      "answerKey": "peter kenilorea jr"
+      "answerKey": "peter kenilorea jr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Kenilorea_Jr."
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109773683",
-      "answerKey": "daniel suidani"
+      "answerKey": "daniel suidani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Suidani"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55819715",
-      "answerKey": "joy kere"
+      "answerKey": "joy kere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joy_Kere"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6747030",
-      "answerKey": "manasseh maelanga"
+      "answerKey": "manasseh maelanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manasseh_Maelanga"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6791373",
-      "answerKey": "matthew wale"
+      "answerKey": "matthew wale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Wale"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7176876",
-      "answerKey": "peter shannel agovaka"
+      "answerKey": "peter shannel agovaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Shannel_Agovaka"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7412100",
-      "answerKey": "samuel manetoali"
+      "answerKey": "samuel manetoali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Manetoali"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22005720",
-      "answerKey": "dr tautai agikimua kaituu"
+      "answerKey": "dr tautai agikimua kaituu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tautai_Agikimu'a_Kaitu'u"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42559064",
-      "answerKey": "freda soria comua"
+      "answerKey": "freda soria comua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freda_Soria_Comua"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7154057",
-      "answerKey": "paul tovua"
+      "answerKey": "paul tovua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Tovua"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42558467",
-      "answerKey": "ajilon jasper nasiu"
+      "answerKey": "ajilon jasper nasiu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ajilon_Jasper_Nasiu"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q50380462",
-      "answerKey": "ethel sigimanu"
+      "answerKey": "ethel sigimanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ethel_Sigimanu"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7172912",
-      "answerKey": "peter boyers"
+      "answerKey": "peter boyers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Boyers"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16195943",
-      "answerKey": "laurie chan"
+      "answerKey": "laurie chan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurie_Chan"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42547286",
-      "answerKey": "nestor ghiro"
+      "answerKey": "nestor ghiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nestor_Ghiro"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q127278357",
-      "answerKey": "barrett salato"
+      "answerKey": "barrett salato",
+      "wikipediaUrl": null
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "Paralympic athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42682922",
-      "answerKey": "hellen saohaga"
+      "answerKey": "hellen saohaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hellen_Saohaga"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42948062",
-      "answerKey": "alice pollard"
+      "answerKey": "alice pollard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Pollard"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q948060",
-      "answerKey": "charles sigoto"
+      "answerKey": "charles sigoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Sigoto"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6768346",
-      "answerKey": "mark kemakeza"
+      "answerKey": "mark kemakeza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Kemakeza"
     },
     {
       "id": 45,
@@ -497,7 +541,10 @@
       "deathYear": null,
       "occupation": "archivist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116776093",
-      "answerKey": "julian chonigolo"
+      "answerKey": "julian chonigolo",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:22:07.841Z",
+  "wikipediaLinksAdded": true
 }

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3 } from 'lucide-react';
+import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3, ExternalLink } from 'lucide-react';
 import './EndlessQuiz.css';
 
 // Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
@@ -550,6 +550,17 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                                 )}
                                                 <span className="country-name-large">{currentQuestion.correct.country}</span>
                                             </div>
+                                            {currentQuestion.correct.wikipediaUrl && (
+                                                <a
+                                                    href={currentQuestion.correct.wikipediaUrl}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="wikipedia-link"
+                                                >
+                                                    <ExternalLink size={16} />
+                                                    <span>Read on Wikipedia</span>
+                                                </a>
+                                            )}
                                         </div>
                                     </div>
                                 </div>
@@ -623,6 +634,17 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                                 )}
                                                 <span className="country-name-large">{currentQuestion.correct.country}</span>
                                             </div>
+                                            {currentQuestion.correct.wikipediaUrl && (
+                                                <a
+                                                    href={currentQuestion.correct.wikipediaUrl}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    className="wikipedia-link"
+                                                >
+                                                    <ExternalLink size={16} />
+                                                    <span>Read on Wikipedia</span>
+                                                </a>
+                                            )}
                                         </div>
                                     </div>
                                 </div>

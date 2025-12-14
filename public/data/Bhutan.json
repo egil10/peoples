@@ -13,7 +13,8 @@
       "deathYear": "2020",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57343",
-      "answerKey": "pierre nkurunziza"
+      "answerKey": "pierre nkurunziza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Nkurunziza"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27329764",
-      "answerKey": "evariste ndayishimiye"
+      "answerKey": "evariste ndayishimiye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89variste_Ndayishimiye"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27329764",
-      "answerKey": "evariste ndayishimiye"
+      "answerKey": "evariste ndayishimiye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89variste_Ndayishimiye"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q291550",
-      "answerKey": "sylvie kinigi"
+      "answerKey": "sylvie kinigi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvie_Kinigi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380916",
-      "answerKey": "pierre buyoya"
+      "answerKey": "pierre buyoya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Buyoya"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1993",
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457201",
-      "answerKey": "melchior ndadaye"
+      "answerKey": "melchior ndadaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melchior_Ndadaye"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1993",
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457201",
-      "answerKey": "melchior ndadaye"
+      "answerKey": "melchior ndadaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melchior_Ndadaye"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1983",
       "occupation": "dictator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q282359",
-      "answerKey": "michel micombero"
+      "answerKey": "michel micombero",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Micombero"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q377765",
-      "answerKey": "jeanbaptiste bagaza"
+      "answerKey": "jeanbaptiste bagaza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Baptiste_Bagaza"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1994",
       "occupation": "agricultural engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q357830",
-      "answerKey": "cyprien ntaryamira"
+      "answerKey": "cyprien ntaryamira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyprien_Ntaryamira"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q358332",
-      "answerKey": "domitien ndayizeye"
+      "answerKey": "domitien ndayizeye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Domitien_Ndayizeye"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7399978",
-      "answerKey": "saido berahino"
+      "answerKey": "saido berahino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saido_Berahino"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q452213",
-      "answerKey": "francine niyonsaba"
+      "answerKey": "francine niyonsaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francine_Niyonsaba"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q659640",
-      "answerKey": "sylvestre ntibantunganya"
+      "answerKey": "sylvestre ntibantunganya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvestre_Ntibantunganya"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27231038",
-      "answerKey": "alainguillaume bunyoni"
+      "answerKey": "alainguillaume bunyoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain-Guillaume_Bunyoni"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1977",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q627267",
-      "answerKey": "mwambutsa iv bangiricenge of burundi"
+      "answerKey": "mwambutsa iv bangiricenge of burundi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mwambutsa_IV_of_Burundi"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1972",
       "occupation": "king",
       "wikidataUrl": "http://www.wikidata.org/entity/Q627261",
-      "answerKey": "ntare v of burundi"
+      "answerKey": "ntare v of burundi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ntare_V_of_Burundi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q277801",
-      "answerKey": "mohammed tchite"
+      "answerKey": "mohammed tchite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Tchit%C3%A9"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q277801",
-      "answerKey": "mohammed tchite"
+      "answerKey": "mohammed tchite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Tchit%C3%A9"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455308",
-      "answerKey": "jeanine rema"
+      "answerKey": "jeanine rema",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khadja_Nin"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q459706",
-      "answerKey": "marguerite barankitse"
+      "answerKey": "marguerite barankitse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marguerite_Barankitse"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983865",
-      "answerKey": "saidi ntibazonkiza"
+      "answerKey": "saidi ntibazonkiza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saidi_Ntibazonkiza"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q512115",
-      "answerKey": "diane nukuri"
+      "answerKey": "diane nukuri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diane_Nukuri"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q712331",
-      "answerKey": "arthemon hatungimana"
+      "answerKey": "arthemon hatungimana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arth%C3%A9mon_Hatungimana"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16527292",
-      "answerKey": "antoine gakeme"
+      "answerKey": "antoine gakeme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoine_Gakeme"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39301940",
-      "answerKey": "youssouf ndayishimiye"
+      "answerKey": "youssouf ndayishimiye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssouf_Ndayishimiye"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q449023",
-      "answerKey": "esther kamatari"
+      "answerKey": "esther kamatari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esther_Kamatari"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2020853",
-      "answerKey": "olivier irabaruta"
+      "answerKey": "olivier irabaruta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olivier_Irabaruta"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1965",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q719834",
-      "answerKey": "pierre ngendandumwe"
+      "answerKey": "pierre ngendandumwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Ngendandumwe"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2959913",
-      "answerKey": "charles nkazamyampi"
+      "answerKey": "charles nkazamyampi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Nkazamyampi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63379083",
-      "answerKey": "ketty nivyabandi"
+      "answerKey": "ketty nivyabandi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ketty_Nivyabandi"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1690349",
-      "answerKey": "joachim ntahondereye"
+      "answerKey": "joachim ntahondereye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joachim_Ntahondereye"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60524052",
-      "answerKey": "elvis kamsoba"
+      "answerKey": "elvis kamsoba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvis_Kamsoba"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q719952",
-      "answerKey": "pascalfirmin ndimira"
+      "answerKey": "pascalfirmin ndimira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pascal-Firmin_Ndimira"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7192148",
-      "answerKey": "pierre claver mbonimpa"
+      "answerKey": "pierre claver mbonimpa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Claver_Mbonimpa"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q377179",
-      "answerKey": "adrien sibomana"
+      "answerKey": "adrien sibomana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adrien_Sibomana"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4691556",
-      "answerKey": "agathon rwasa"
+      "answerKey": "agathon rwasa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agathon_Rwasa"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "HIV/AIDS activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55449397",
-      "answerKey": "jeanne gapiyaniyonzima"
+      "answerKey": "jeanne gapiyaniyonzima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeanne_Gapiya-Niyonzima"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q97062211",
-      "answerKey": "parfait bizoza"
+      "answerKey": "parfait bizoza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parfait_Bizoza"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q548655",
-      "answerKey": "kassim bizimana"
+      "answerKey": "kassim bizimana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kassim_Bizimana"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "HIV/AIDS activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28007542",
-      "answerKey": "eliane becks nininahazwe"
+      "answerKey": "eliane becks nininahazwe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eliane_Becks_Nininahazwe"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52424784",
-      "answerKey": "sada nahimana"
+      "answerKey": "sada nahimana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sada_Nahimana"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107369210",
-      "answerKey": "imelde sabushimike"
+      "answerKey": "imelde sabushimike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelde_Sabushimike"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "midwife",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131422828",
-      "answerKey": "emmanuel niyoyabikoze"
+      "answerKey": "emmanuel niyoyabikoze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Niyoyabikoze"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1788392",
-      "answerKey": "lydia nsekera"
+      "answerKey": "lydia nsekera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lydia_Nsekera"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27736522",
-      "answerKey": "ange nanizayamo"
+      "answerKey": "ange nanizayamo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micka%C3%ABl_Nanizayamo"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "pastor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43378557",
-      "answerKey": "denise nkurunziza"
+      "answerKey": "denise nkurunziza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denise_Bucumi-Nkurunziza"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1803951",
-      "answerKey": "gabriel ntisezerana"
+      "answerKey": "gabriel ntisezerana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Ntisezerana"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93882594",
-      "answerKey": "colette samoya kirura"
+      "answerKey": "colette samoya kirura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Colette_Samoya_Kirura"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96692222",
-      "answerKey": "elvanie nimbona"
+      "answerKey": "elvanie nimbona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvanie_Nimbona"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg",
+  "updated": "2025-12-14T22:11:41.936Z",
+  "wikipediaLinksAdded": true
 }

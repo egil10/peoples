@@ -13,7 +13,8 @@
       "deathYear": "1694",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5676",
-      "answerKey": "matsuo basho"
+      "answerKey": "matsuo basho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matsuo_Bash%C5%8D"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217096",
-      "answerKey": "naruhito"
+      "answerKey": "naruhito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naruhito"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1998",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8006",
-      "answerKey": "akira kurosawa"
+      "answerKey": "akira kurosawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akira_Kurosawa"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1849",
       "occupation": "ukiyo-e artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5586",
-      "answerKey": "katsushika hokusai"
+      "answerKey": "katsushika hokusai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hokusai"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132345",
-      "answerKey": "shinzo abe"
+      "answerKey": "shinzo abe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shinzo_Abe"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1100",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81731",
-      "answerKey": "murasaki shikibu"
+      "answerKey": "murasaki shikibu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Murasaki_Shikibu"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1989",
       "occupation": "scientific collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34479",
-      "answerKey": "hirohito"
+      "answerKey": "hirohito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hirohito"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "ichthyologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37979",
-      "answerKey": "akihito"
+      "answerKey": "akihito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akihito"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134798",
-      "answerKey": "haruki murakami"
+      "answerKey": "haruki murakami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haruki_Murakami"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1972",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43736",
-      "answerKey": "yasunari kawabata"
+      "answerKey": "yasunari kawabata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasunari_Kawabata"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1997",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37001",
-      "answerKey": "toshiro mifune"
+      "answerKey": "toshiro mifune",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toshiro_Mifune"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272855",
-      "answerKey": "kazuo ishiguro"
+      "answerKey": "kazuo ishiguro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazuo_Ishiguro"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "mechanical designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55400",
-      "answerKey": "hayao miyazaki"
+      "answerKey": "hayao miyazaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hayao_Miyazaki"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122465",
-      "answerKey": "yoshihide suga"
+      "answerKey": "yoshihide suga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoshihide_Suga"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1970",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134456",
-      "answerKey": "yukio mishima"
+      "answerKey": "yukio mishima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yukio_Mishima"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2023",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80095",
-      "answerKey": "kenzaburo oe"
+      "answerKey": "kenzaburo oe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenzabur%C5%8D_%C5%8Ce"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2022",
       "occupation": "tarento",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34580",
-      "answerKey": "ichiro mizuki"
+      "answerKey": "ichiro mizuki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ichirou_Mizuki"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117012",
-      "answerKey": "yoko ono"
+      "answerKey": "yoko ono",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoko_Ono"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359480",
-      "answerKey": "fumio kishida"
+      "answerKey": "fumio kishida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fumio_Kishida"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1912",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174231",
-      "answerKey": "emperor meiji"
+      "answerKey": "emperor meiji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emperor_Meiji"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1927",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186326",
-      "answerKey": "ryunosuke akutagawa"
+      "answerKey": "ryunosuke akutagawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ry%C5%ABnosuke_Akutagawa"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47846",
-      "answerKey": "naoto kan"
+      "answerKey": "naoto kan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naoto_Kan"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1981",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155777",
-      "answerKey": "hideki yukawa"
+      "answerKey": "hideki yukawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hideki_Yukawa"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1645",
       "occupation": "swordfighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193344",
-      "answerKey": "miyamoto musashi"
+      "answerKey": "miyamoto musashi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miyamoto_Musashi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1948",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160847",
-      "answerKey": "hideki tojo"
+      "answerKey": "hideki tojo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hideki_Tojo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1616",
       "occupation": "samurai",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171977",
-      "answerKey": "tokugawa ieyasu"
+      "answerKey": "tokugawa ieyasu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tokugawa_Ieyasu"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130852",
-      "answerKey": "junichiro koizumi"
+      "answerKey": "junichiro koizumi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Junichiro_Koizumi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132596",
-      "answerKey": "taro aso"
+      "answerKey": "taro aso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tar%C5%8D_As%C5%8D"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2024",
       "occupation": "agricultural engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133040",
-      "answerKey": "alberto fujimori"
+      "answerKey": "alberto fujimori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Fujimori"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1705028",
-      "answerKey": "takaichi sanae"
+      "answerKey": "takaichi sanae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sanae_Takaichi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131077",
-      "answerKey": "yukio hatoyama"
+      "answerKey": "yukio hatoyama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yukio_Hatoyama"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q179871",
-      "answerKey": "eisaku sato"
+      "answerKey": "eisaku sato",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eisaku_Sat%C5%8D"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1582",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171411",
-      "answerKey": "oda nobunaga"
+      "answerKey": "oda nobunaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1582",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171411",
-      "answerKey": "oda nobunaga"
+      "answerKey": "oda nobunaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oda_Nobunaga"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1598",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187550",
-      "answerKey": "toyotomi hideyoshi"
+      "answerKey": "toyotomi hideyoshi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17466583",
-      "answerKey": "naomi osaka"
+      "answerKey": "naomi osaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naomi_Osaka"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57647",
-      "answerKey": "yoshihiko noda"
+      "answerKey": "yoshihiko noda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoshihiko_Noda"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101137",
-      "answerKey": "yasuo fukuda"
+      "answerKey": "yasuo fukuda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasuo_Fukuda"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1979",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184563",
-      "answerKey": "shinichiro tomonaga"
+      "answerKey": "shinichiro tomonaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shin'ichir%C5%8D_Tomonaga"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202054",
-      "answerKey": "keisuke honda"
+      "answerKey": "keisuke honda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keisuke_Honda"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1926",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157052",
-      "answerKey": "emperor taisho"
+      "answerKey": "emperor taisho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emperor_Taish%C5%8D"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1909",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174971",
-      "answerKey": "ito hirobumi"
+      "answerKey": "ito hirobumi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/It%C5%8D_Hirobumi"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q179852",
-      "answerKey": "leo esaki"
+      "answerKey": "leo esaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Esaki"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1943",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152325",
-      "answerKey": "isoroku yamamoto"
+      "answerKey": "isoroku yamamoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isoroku_Yamamoto"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26372",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Takeshi_Kitano"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26372",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Takeshi_Kitano"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2020",
       "occupation": "researcher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155773",
-      "answerKey": "masatoshi koshiba"
+      "answerKey": "masatoshi koshiba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Masatoshi_Koshiba"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1993",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186273",
-      "answerKey": "kobo abe"
+      "answerKey": "kobo abe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/K%C5%8Db%C5%8D_Abe"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128725",
-      "answerKey": "hidetoshi nakata"
+      "answerKey": "hidetoshi nakata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hidetoshi_Nakata"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8056214",
-      "answerKey": "yoshinori ohsumi"
+      "answerKey": "yoshinori ohsumi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoshinori_Ohsumi"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+  "updated": "2025-12-14T22:16:36.479Z",
+  "wikipediaLinksAdded": true
 }

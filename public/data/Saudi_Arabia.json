@@ -13,7 +13,8 @@
       "deathYear": "2011",
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1317",
-      "answerKey": "osama bin laden"
+      "answerKey": "osama bin laden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osama_bin_Laden"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2003",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48231",
-      "answerKey": "idi amin"
+      "answerKey": "idi amin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Idi_Amin"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2015",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57298",
-      "answerKey": "abdullah of saudi arabia"
+      "answerKey": "abdullah of saudi arabia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_of_Saudi_Arabia"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q367825",
-      "answerKey": "salman bin abdulaziz al saud"
+      "answerKey": "salman bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_of_Saudi_Arabia"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1953",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151509",
-      "answerKey": "ibn saud"
+      "answerKey": "ibn saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibn_Saud"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6892571",
-      "answerKey": "mohammed bin salman al saud"
+      "answerKey": "mohammed bin salman al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_bin_Salman"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2018",
       "occupation": "political writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1262052",
-      "answerKey": "jamal khashoggi"
+      "answerKey": "jamal khashoggi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamal_Khashoggi"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1975",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217167",
-      "answerKey": "king faisal bin abdulaziz al saud"
+      "answerKey": "king faisal bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faisal_of_Saudi_Arabia"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183187",
-      "answerKey": "fahd bin abdulaziz al saud"
+      "answerKey": "fahd bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183187",
-      "answerKey": "fahd bin abdulaziz al saud"
+      "answerKey": "fahd bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183187",
-      "answerKey": "fahd bin abdulaziz al saud"
+      "answerKey": "fahd bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fahd_of_Saudi_Arabia"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2005",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192778",
-      "answerKey": "rafiq hariri"
+      "answerKey": "rafiq hariri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafic_Hariri"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1969",
       "occupation": "heir apparent",
       "wikidataUrl": "http://www.wikidata.org/entity/Q244206",
-      "answerKey": "saud of saudi arabia"
+      "answerKey": "saud of saudi arabia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saud_of_Saudi_Arabia"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1982",
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208301",
-      "answerKey": "khalid of saudi arabia"
+      "answerKey": "khalid of saudi arabia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalid_of_Saudi_Arabia"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296771",
-      "answerKey": "saad hariri"
+      "answerKey": "saad hariri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saad_Hariri"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "podcaster",
       "wikidataUrl": "http://www.wikidata.org/entity/Q932829",
-      "answerKey": "zakir naik"
+      "answerKey": "zakir naik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zakir_Naik"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2016",
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1992645",
-      "answerKey": "nimr alnimr"
+      "answerKey": "nimr alnimr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nimr_al-Nimr"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19609535",
-      "answerKey": "loujain alhathloul"
+      "answerKey": "loujain alhathloul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loujain_al-Hathloul"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q445754",
-      "answerKey": "manal alsharif"
+      "answerKey": "manal alsharif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manal_al-Sharif"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3945419",
-      "answerKey": "salem aldawsari"
+      "answerKey": "salem aldawsari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salem_Al-Dawsari"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q743252",
-      "answerKey": "omar m yaghi"
+      "answerKey": "omar m yaghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_M._Yaghi"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2001",
       "occupation": "building engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110067",
-      "answerKey": "mohamed atta"
+      "answerKey": "mohamed atta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Atta"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7405407",
-      "answerKey": "salman alfaraj"
+      "answerKey": "salman alfaraj",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_Al-Faraj"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "blogger",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12212836",
-      "answerKey": "raif badawi"
+      "answerKey": "raif badawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raif_Badawi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q293679",
-      "answerKey": "alwaleed bin talal bin abdulaziz al saud"
+      "answerKey": "alwaleed bin talal bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_Waleed_bin_Talal_Al_Saud"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379946",
-      "answerKey": "sultan bin salman al saud"
+      "answerKey": "sultan bin salman al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sultan_bin_Salman_Al_Saud"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315587",
-      "answerKey": "sultan bin abdulaziz"
+      "answerKey": "sultan bin abdulaziz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sultan_bin_Abdulaziz"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455341",
-      "answerKey": "muhammad bin nayef"
+      "answerKey": "muhammad bin nayef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_bin_Nayef"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317832",
-      "answerKey": "nayef bin abdulaziz al saud"
+      "answerKey": "nayef bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nayef_bin_Abdulaziz"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317832",
-      "answerKey": "nayef bin abdulaziz al saud"
+      "answerKey": "nayef bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nayef_bin_Abdulaziz"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317948",
-      "answerKey": "abdul rahman alsudais"
+      "answerKey": "abdul rahman alsudais",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul-Rahman_Al-Sudais"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299555",
-      "answerKey": "sami aljaber"
+      "answerKey": "sami aljaber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sami_Al-Jaber"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q446181",
-      "answerKey": "majed abdullah"
+      "answerKey": "majed abdullah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Majed_Abdullah"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q446181",
-      "answerKey": "majed abdullah"
+      "answerKey": "majed abdullah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Majed_Abdullah"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4116187",
-      "answerKey": "fahad almuwallad"
+      "answerKey": "fahad almuwallad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fahad_Al-Muwallad"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1120791",
-      "answerKey": "osama hawsawi"
+      "answerKey": "osama hawsawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osama_Hawsawi"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328750",
-      "answerKey": "yasser alqahtani"
+      "answerKey": "yasser alqahtani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasser_Al-Qahtani"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312179",
-      "answerKey": "mohamed aldeayea"
+      "answerKey": "mohamed aldeayea",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Al-Deayea"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1999",
       "occupation": "Islamicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307193",
-      "answerKey": "abd alaziz ibn baz"
+      "answerKey": "abd alaziz ibn baz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibn_Baz"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22673980",
-      "answerKey": "ali al bulaihi"
+      "answerKey": "ali al bulaihi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Al-Bulaihi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q386131",
-      "answerKey": "haifaa almansour"
+      "answerKey": "haifaa almansour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haifaa_al-Mansour"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2015",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58156",
-      "answerKey": "saud bin faisal bin abdulaziz al saud"
+      "answerKey": "saud bin faisal bin abdulaziz al saud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saud_bin_Faisal_Al_Saud"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22677970",
-      "answerKey": "mohammed alowais"
+      "answerKey": "mohammed alowais",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Al-Owais"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q401574",
-      "answerKey": "ahmed zaki yamani"
+      "answerKey": "ahmed zaki yamani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Zaki_Yamani"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2017",
       "occupation": "arms trader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359381",
-      "answerKey": "adnan khashoggi"
+      "answerKey": "adnan khashoggi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adnan_Khashoggi"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3248924",
-      "answerKey": "omar hawsawi"
+      "answerKey": "omar hawsawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Omar_Hawsawi"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8046913",
-      "answerKey": "yahya alshehri"
+      "answerKey": "yahya alshehri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahya_Al-Shehri"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6891737",
-      "answerKey": "mohammad alsahlawi"
+      "answerKey": "mohammad alsahlawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Al-Sahlawi"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "mufti",
       "wikidataUrl": "http://www.wikidata.org/entity/Q605675",
-      "answerKey": "mustafa ceric"
+      "answerKey": "mustafa ceric",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafa_Ceri%C4%87"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2888773",
-      "answerKey": "yasser alshahaaan"
+      "answerKey": "yasser alshahaaan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yasser_Al-Shahrani"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg",
+  "updated": "2025-12-14T22:21:36.369Z",
+  "wikipediaLinksAdded": true
 }

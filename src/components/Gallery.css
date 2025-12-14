@@ -292,6 +292,12 @@
     cursor: pointer;
 }
 
+.gallery-item-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .gallery-item:hover {
     border-color: #BDBDBD;
     transform: translateY(-4px);

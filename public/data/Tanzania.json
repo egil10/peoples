@@ -13,7 +13,8 @@
       "deathYear": "1999",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186525",
-      "answerKey": "julius nyerere"
+      "answerKey": "julius nyerere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julius_Nyerere"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317877",
-      "answerKey": "abdulrazak gurnah"
+      "answerKey": "abdulrazak gurnah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulrazak_Gurnah"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16193885",
-      "answerKey": "samia suluhu hassan"
+      "answerKey": "samia suluhu hassan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samia_Suluhu_Hassan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2021",
       "occupation": "chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5018756",
-      "answerKey": "john magufuli"
+      "answerKey": "john magufuli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Magufuli"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57488",
-      "answerKey": "jakaya mrisho kikwete"
+      "answerKey": "jakaya mrisho kikwete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jakaya_Kikwete"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320156",
-      "answerKey": "benjamin mkapa"
+      "answerKey": "benjamin mkapa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Mkapa"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q759710",
-      "answerKey": "yussuf poulsen"
+      "answerKey": "yussuf poulsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yussuf_Poulsen"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2024",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361581",
-      "answerKey": "ali hassan mwinyi"
+      "answerKey": "ali hassan mwinyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Hassan_Mwinyi"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6737420",
-      "answerKey": "kassim majaliwa"
+      "answerKey": "kassim majaliwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kassim_Majaliwa"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2024",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451885",
-      "answerKey": "edward lowassa"
+      "answerKey": "edward lowassa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edward_Lowassa"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185988",
-      "answerKey": "polycarp pengo"
+      "answerKey": "polycarp pengo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Polycarp_Pengo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q358093",
-      "answerKey": "hasheem thabeet"
+      "answerKey": "hasheem thabeet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hasheem_Thabeet"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3303586",
-      "answerKey": "mbwana samatta"
+      "answerKey": "mbwana samatta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mbwana_Samatta"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57693",
-      "answerKey": "mizengo pinda"
+      "answerKey": "mizengo pinda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mizengo_Pinda"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q461710",
-      "answerKey": "asharose migiro"
+      "answerKey": "asharose migiro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asha-Rose_Migiro"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2025",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q500345",
-      "answerKey": "cleopa msuya"
+      "answerKey": "cleopa msuya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cleopa_Msuya"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552752",
-      "answerKey": "protase rugambwa"
+      "answerKey": "protase rugambwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Protase_Rugambwa"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1972",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318310",
-      "answerKey": "abeid karume"
+      "answerKey": "abeid karume",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abeid_Karume"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470595",
-      "answerKey": "filbert bayi"
+      "answerKey": "filbert bayi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filbert_Bayi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q456003",
-      "answerKey": "anna tibaijuka"
+      "answerKey": "anna tibaijuka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Tibaijuka"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1269997",
-      "answerKey": "salim ahmed salim"
+      "answerKey": "salim ahmed salim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salim_Ahmed_Salim"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q89678372",
-      "answerKey": "elizabeth maruma mrema"
+      "answerKey": "elizabeth maruma mrema",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Mrema"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2009",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1397927",
-      "answerKey": "rashidi kawawa"
+      "answerKey": "rashidi kawawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashidi_Kawawa"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20988443",
-      "answerKey": "alphonce simbu"
+      "answerKey": "alphonce simbu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alphonce_Simbu"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2025",
       "occupation": "Catholic deacon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464827",
-      "answerKey": "novatus rugambwa"
+      "answerKey": "novatus rugambwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Novatus_Rugambwa"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q454382",
-      "answerKey": "amani abeid karume"
+      "answerKey": "amani abeid karume",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amani_Abeid_Karume"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q288733",
-      "answerKey": "ida ljungqvist"
+      "answerKey": "ida ljungqvist",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ida_Ljungqvist"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62022949",
-      "answerKey": "anna aloys henga"
+      "answerKey": "anna aloys henga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Aloys_Henga"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q743333",
-      "answerKey": "ali mohamed shein"
+      "answerKey": "ali mohamed shein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mohamed_Shein"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2013",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1775226",
-      "answerKey": "bi kidude"
+      "answerKey": "bi kidude",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bi_Kidude"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2013",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1775226",
-      "answerKey": "bi kidude"
+      "answerKey": "bi kidude",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bi_Kidude"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1898",
       "occupation": "traditional leader or chief",
       "wikidataUrl": "http://www.wikidata.org/entity/Q705592",
-      "answerKey": "mkwavinyika munyigumba mwamuyinga"
+      "answerKey": "mkwavinyika munyigumba mwamuyinga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chief_Mkwawa"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q198575",
-      "answerKey": "suleiman nyambui"
+      "answerKey": "suleiman nyambui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suleiman_Nyambui"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q198575",
-      "answerKey": "suleiman nyambui"
+      "answerKey": "suleiman nyambui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suleiman_Nyambui"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19816346",
-      "answerKey": "vicky ntetema"
+      "answerKey": "vicky ntetema",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vicky_Ntetema"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1918",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q423630",
-      "answerKey": "ali bin hamud al busaidi"
+      "answerKey": "ali bin hamud al busaidi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_bin_Hamud_of_Zanzibar"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q455223",
-      "answerKey": "gertrude mongella"
+      "answerKey": "gertrude mongella",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gertrude_Mongella"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1994240",
-      "answerKey": "nizar khalfan"
+      "answerKey": "nizar khalfan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nizar_Khalfan"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17745626",
-      "answerKey": "amahl pellegrino"
+      "answerKey": "amahl pellegrino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amahl_Pellegrino"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108513776",
-      "answerKey": "novatus dismas"
+      "answerKey": "novatus dismas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Novatus_Miroshi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q302913",
-      "answerKey": "frederick sumaye"
+      "answerKey": "frederick sumaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frederick_Sumaye"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q744271",
-      "answerKey": "john malecela"
+      "answerKey": "john malecela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Malecela"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2000",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467426",
-      "answerKey": "bibi titi mohamed"
+      "answerKey": "bibi titi mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bibi_Titi_Mohammed"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15429574",
-      "answerKey": "diamond platnumz"
+      "answerKey": "diamond platnumz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diamond_Platnumz"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27744678",
-      "answerKey": "rebeca gyumi"
+      "answerKey": "rebeca gyumi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rebeca_Gyumi"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q175324",
-      "answerKey": "jude thadaeus ruwaichi"
+      "answerKey": "jude thadaeus ruwaichi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jude_Thaddaeus_Ruwa'ichi"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26268130",
-      "answerKey": "sara ramadhani"
+      "answerKey": "sara ramadhani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sara_Ramadhani"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2005",
       "occupation": "sculptor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1507782",
-      "answerKey": "george lilanga"
+      "answerKey": "george lilanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Lilanga"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "hematologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16211991",
-      "answerKey": "julie makani"
+      "answerKey": "julie makani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julie_Makani"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96742381",
-      "answerKey": "irene tarimo"
+      "answerKey": "irene tarimo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irene_Tarimo"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg",
+  "updated": "2025-12-14T22:23:15.512Z",
+  "wikipediaLinksAdded": true
 }

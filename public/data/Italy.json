@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q615",
-      "answerKey": "lionel messi"
+      "answerKey": "lionel messi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lionel_Messi"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2022",
       "occupation": "religious writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2494",
-      "answerKey": "benedict xvi"
+      "answerKey": "benedict xvi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1954",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8753",
-      "answerKey": "enrico fermi"
+      "answerKey": "enrico fermi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrico_Fermi"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2023",
       "occupation": "association football executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11860",
-      "answerKey": "silvio berlusconi"
+      "answerKey": "silvio berlusconi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvio_Berlusconi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1993",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7371",
-      "answerKey": "federico fellini"
+      "answerKey": "federico fellini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Fellini"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2016",
       "occupation": "literary scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12807",
-      "answerKey": "umberto eco"
+      "answerKey": "umberto eco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Umberto_Eco"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36949",
-      "answerKey": "robert de niro"
+      "answerKey": "robert de niro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_De_Niro"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1963",
       "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23873",
-      "answerKey": "john xxiii"
+      "answerKey": "john xxiii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_John_XXIII"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1998",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40912",
-      "answerKey": "frank sinatra"
+      "answerKey": "frank sinatra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Sinatra"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43252",
-      "answerKey": "sophia loren"
+      "answerKey": "sophia loren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sophia_Loren"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1978",
       "occupation": "Latin Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16975",
-      "answerKey": "paul vi"
+      "answerKey": "paul vi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Paul_VI"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20110",
-      "answerKey": "francesco totti"
+      "answerKey": "francesco totti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francesco_Totti"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1978",
       "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37278",
-      "answerKey": "john paul i"
+      "answerKey": "john paul i",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_John_Paul_I"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1958",
       "occupation": "Latin Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2604",
-      "answerKey": "pius xii"
+      "answerKey": "pius xii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Pius_XII"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451791",
-      "answerKey": "giorgia meloni"
+      "answerKey": "giorgia meloni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgia_Meloni"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3956186",
-      "answerKey": "sergio mattarella"
+      "answerKey": "sergio mattarella",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergio_Mattarella"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2007",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37615",
-      "answerKey": "luciano pavarotti"
+      "answerKey": "luciano pavarotti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luciano_Pavarotti"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41148",
-      "answerKey": "martin scorsese"
+      "answerKey": "martin scorsese",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Scorsese"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41148",
-      "answerKey": "martin scorsese"
+      "answerKey": "martin scorsese",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Scorsese"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2023",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1220",
-      "answerKey": "giorgio napolitano"
+      "answerKey": "giorgio napolitano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgio_Napolitano"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2448709",
-      "answerKey": "benedicta boccoli"
+      "answerKey": "benedicta boccoli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benedicta_Boccoli"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q68060",
-      "answerKey": "gianluigi buffon"
+      "answerKey": "gianluigi buffon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gianluigi_Buffon"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2016",
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q765",
-      "answerKey": "dario fo"
+      "answerKey": "dario fo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dario_Fo"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81819",
-      "answerKey": "monica bellucci"
+      "answerKey": "monica bellucci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Bellucci"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1952",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131117",
-      "answerKey": "maria montessori"
+      "answerKey": "maria montessori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Montessori"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35109",
-      "answerKey": "noemi"
+      "answerKey": "noemi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Noemi_(singer)"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47563",
-      "answerKey": "matteo renzi"
+      "answerKey": "matteo renzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matteo_Renzi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47563",
-      "answerKey": "matteo renzi"
+      "answerKey": "matteo renzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matteo_Renzi"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2012",
       "occupation": "neuroscientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185007",
-      "answerKey": "rita levimontalcini"
+      "answerKey": "rita levimontalcini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38484",
-      "answerKey": "romano prodi"
+      "answerKey": "romano prodi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Romano_Prodi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q531814",
-      "answerKey": "kaka"
+      "answerKey": "kaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kak%C3%A1"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53844829",
-      "answerKey": "giuseppe conte"
+      "answerKey": "giuseppe conte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Conte"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1986",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q853",
-      "answerKey": "andrei tarkovsky"
+      "answerKey": "andrei tarkovsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrei_Tarkovsky"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1996",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55469",
-      "answerKey": "marcello mastroianni"
+      "answerKey": "marcello mastroianni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcello_Mastroianni"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q481832",
-      "answerKey": "amy adams"
+      "answerKey": "amy adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amy_Adams"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42402",
-      "answerKey": "andrea bocelli"
+      "answerKey": "andrea bocelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Bocelli"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1968",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83038",
-      "answerKey": "salvatore quasimodo"
+      "answerKey": "salvatore quasimodo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvatore_Quasimodo"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1975",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25120",
-      "answerKey": "pier paolo pasolini"
+      "answerKey": "pier paolo pasolini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pier_Paolo_Pasolini"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1981",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83174",
-      "answerKey": "eugenio montale"
+      "answerKey": "eugenio montale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugenio_Montale"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2020",
       "occupation": "orchestra leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23848",
-      "answerKey": "ennio morricone"
+      "answerKey": "ennio morricone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ennio_Morricone"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2023",
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56009",
-      "answerKey": "gina lollobrigida"
+      "answerKey": "gina lollobrigida",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gina_Lollobrigida"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294460",
-      "answerKey": "mario draghi"
+      "answerKey": "mario draghi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Draghi"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q67964",
-      "answerKey": "roberto baggio"
+      "answerKey": "roberto baggio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Baggio"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1987",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153670",
-      "answerKey": "primo levi"
+      "answerKey": "primo levi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Primo_Levi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1990",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q161933",
-      "answerKey": "alberto moravia"
+      "answerKey": "alberto moravia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Moravia"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q163225",
-      "answerKey": "sonia gandhi"
+      "answerKey": "sonia gandhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2025",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107006",
-      "answerKey": "claudia cardinale"
+      "answerKey": "claudia cardinale",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Cardinale"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1985",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154756",
-      "answerKey": "italo calvino"
+      "answerKey": "italo calvino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Italo_Calvino"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129700",
-      "answerKey": "mario balotelli"
+      "answerKey": "mario balotelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Balotelli"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52395487",
-      "answerKey": "javier milei"
+      "answerKey": "javier milei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Javier_Milei"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+  "updated": "2025-12-14T22:16:20.885Z",
+  "wikipediaLinksAdded": true
 }

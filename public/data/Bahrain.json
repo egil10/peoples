@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57352",
-      "answerKey": "hamad ii of bahrain"
+      "answerKey": "hamad ii of bahrain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamad_bin_Isa_Al_Khalifa"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57726",
-      "answerKey": "khalifa bin salman al khalifa"
+      "answerKey": "khalifa bin salman al khalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalifa_bin_Salman_Al_Khalifa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58140",
-      "answerKey": "salman bin hamad crown prince of bahrain"
+      "answerKey": "salman bin hamad crown prince of bahrain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_bin_Hamad_Al_Khalifa"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1999",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q309650",
-      "answerKey": "isa ii of bahrain"
+      "answerKey": "isa ii of bahrain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isa_bin_Salman_Al_Khalifa"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "steeplechase runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36697245",
-      "answerKey": "winfred yavi"
+      "answerKey": "winfred yavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winfred_Yavi"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5865",
-      "answerKey": "maryam yusuf jamal"
+      "answerKey": "maryam yusuf jamal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maryam_Yusuf_Jamal"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q443605",
-      "answerKey": "kalkidan gezahegne"
+      "answerKey": "kalkidan gezahegne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalkidan_Gezahegne"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21089520",
-      "answerKey": "salwa eid naser"
+      "answerKey": "salwa eid naser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salwa_Eid_Naser"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315111",
-      "answerKey": "rashid ramzi"
+      "answerKey": "rashid ramzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashid_Ramzi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16209255",
-      "answerKey": "ruth jebet"
+      "answerKey": "ruth jebet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruth_Jebet"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q509763",
-      "answerKey": "nawaf shukralla"
+      "answerKey": "nawaf shukralla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawaf_Shukralla"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1772030",
-      "answerKey": "rose chelimo"
+      "answerKey": "rose chelimo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rose_Chelimo"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q438721",
-      "answerKey": "yusuf saad kamel"
+      "answerKey": "yusuf saad kamel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Saad_Kamel"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10278224",
-      "answerKey": "eunice kirwa"
+      "answerKey": "eunice kirwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eunice_Kirwa"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2353139",
-      "answerKey": "assala"
+      "answerKey": "assala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Assala"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "569",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1047131",
-      "answerKey": "tarafa"
+      "answerKey": "tarafa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tarafa"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2228531",
-      "answerKey": "sayed mohammed jaffer"
+      "answerKey": "sayed mohammed jaffer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sayed_Mohammed_Jaffer"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7405402",
-      "answerKey": "salman bin ibrahim alkhalifa"
+      "answerKey": "salman bin ibrahim alkhalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salman_bin_Ibrahim_Al_Khalifa"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "hurdler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16855061",
-      "answerKey": "oluwakemi adekoya"
+      "answerKey": "oluwakemi adekoya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kemi_Adekoya"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112990953",
-      "answerKey": "akhmed tazhudinov"
+      "answerKey": "akhmed tazhudinov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akhmed_Tazhudinov"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q277652",
-      "answerKey": "aala hubail"
+      "answerKey": "aala hubail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A'ala_Hubail"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q527718",
-      "answerKey": "ismail abdullatif"
+      "answerKey": "ismail abdullatif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismail_Abdullatif"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12208559",
-      "answerKey": "hala al turk"
+      "answerKey": "hala al turk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hala_Al_Turk"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35543122",
-      "answerKey": "aminat yusuf jamal"
+      "answerKey": "aminat yusuf jamal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminat_Yusuf_Jamal"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6535108",
-      "answerKey": "maryam alkhawaja"
+      "answerKey": "maryam alkhawaja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maryam_al-Khawaja"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16231540",
-      "answerKey": "esraa al shafei"
+      "answerKey": "esraa al shafei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esra'a_Al_Shafei"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q263314",
-      "answerKey": "princess haya bint rashed al khalifa"
+      "answerKey": "princess haya bint rashed al khalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haya_Rashed_Al-Khalifa"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17521065",
-      "answerKey": "abraham cheroben"
+      "answerKey": "abraham cheroben",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abraham_Cheroben"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17543386",
-      "answerKey": "abubakar abbas"
+      "answerKey": "abubakar abbas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbas_Abubakar_Abbas"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2914654",
-      "answerKey": "houda nonoo"
+      "answerKey": "houda nonoo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Houda_Nonoo"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7961681",
-      "answerKey": "waleed al hayam"
+      "answerKey": "waleed al hayam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Waleed_Al_Hayam"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q815255",
-      "answerKey": "belal mansoor ali"
+      "answerKey": "belal mansoor ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Belal_Mansoor_Ali"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q513880",
-      "answerKey": "shitaye eshete"
+      "answerKey": "shitaye eshete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shitaye_Eshete"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3314599",
-      "answerKey": "mimi belete"
+      "answerKey": "mimi belete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mimi_Belete"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3737725",
-      "answerKey": "sabika bint ibrahim al khalifa"
+      "answerKey": "sabika bint ibrahim al khalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabika_bint_Ibrahim_Al_Khalifa"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1141219",
-      "answerKey": "sayed mohamed adnan"
+      "answerKey": "sayed mohamed adnan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sayed_Mohamed_Adnan"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7429184",
-      "answerKey": "sayed saeed"
+      "answerKey": "sayed saeed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sayed_Dhiya_Saeed"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348608",
-      "answerKey": "adam batirov"
+      "answerKey": "adam batirov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Batirov"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58171",
-      "answerKey": "khalid bin ahmed al khalifa"
+      "answerKey": "khalid bin ahmed al khalifa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalid_bin_Ahmed_Al_Khalifa"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26324385",
-      "answerKey": "yaqoob salem yaqoob"
+      "answerKey": "yaqoob salem yaqoob",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaqoob_Salem_Yaqoob"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15091593",
-      "answerKey": "ali khamis"
+      "answerKey": "ali khamis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Khamis"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8064841",
-      "answerKey": "zainab alkhawaja"
+      "answerKey": "zainab alkhawaja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zainab_al-Khawaja"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3242826",
-      "answerKey": "abdulhadi alkhawaja"
+      "answerKey": "abdulhadi alkhawaja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulhadi_al-Khawaja"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q600443",
-      "answerKey": "mohamed salmeen"
+      "answerKey": "mohamed salmeen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Salmeen"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2756152",
-      "answerKey": "hussain ali baba"
+      "answerKey": "hussain ali baba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussain_Ali_Baba"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1932",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q343110",
-      "answerKey": "isa i of bahrain"
+      "answerKey": "isa i of bahrain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isa_bin_Ali_Al_Khalifa"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433878",
-      "answerKey": "nadia ejjafini"
+      "answerKey": "nadia ejjafini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadia_Ejjafini"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26256544",
-      "answerKey": "edidiong odiong"
+      "answerKey": "edidiong odiong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edidiong_Odiong"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466453",
-      "answerKey": "ruqaya alghasra"
+      "answerKey": "ruqaya alghasra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruqaya_Al-Ghasra"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26267512",
-      "answerKey": "hajar alkhaldi"
+      "answerKey": "hajar alkhaldi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hajar_Al-Khaldi"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bahrain.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bahrain.svg",
+  "updated": "2025-12-14T22:11:11.494Z",
+  "wikipediaLinksAdded": true
 }

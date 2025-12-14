@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294969",
-      "answerKey": "mohamed ould abdel aziz"
+      "answerKey": "mohamed ould abdel aziz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ould_Abdel_Aziz"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12241106",
-      "answerKey": "mohamed ould ghazouani"
+      "answerKey": "mohamed ould ghazouani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ould_Ghazouani"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2003",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q345385",
-      "answerKey": "moktar ould daddah"
+      "answerKey": "moktar ould daddah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moktar_Ould_Daddah"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313662",
-      "answerKey": "maaouya ould sidahmed taya"
+      "answerKey": "maaouya ould sidahmed taya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maaouya_Ould_Sid'Ahmed_Taya"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2020",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310203",
-      "answerKey": "sidi ould cheikh abdallahi"
+      "answerKey": "sidi ould cheikh abdallahi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidi_Ould_Cheikh_Abdallahi"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "video artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308097",
-      "answerKey": "abderrahmane sissako"
+      "answerKey": "abderrahmane sissako",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abderrahmane_Sissako"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2019",
       "occupation": "dub actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180886",
-      "answerKey": "med hondo"
+      "answerKey": "med hondo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Med_Hondo"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18206847",
-      "answerKey": "aboubakar kamara"
+      "answerKey": "aboubakar kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aboubakar_Kamara"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98137599",
-      "answerKey": "mohamed ould bilal"
+      "answerKey": "mohamed ould bilal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ould_Bilal"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1398156",
-      "answerKey": "fatimata mbaye"
+      "answerKey": "fatimata mbaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fatimata_M'Baye"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1398156",
-      "answerKey": "fatimata mbaye"
+      "answerKey": "fatimata mbaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fatimata_M'Baye"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451521",
-      "answerKey": "ely ould mohamed vall"
+      "answerKey": "ely ould mohamed vall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ely_Ould_Mohamed_Vall"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12244275",
-      "answerKey": "malouma"
+      "answerKey": "malouma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malouma"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2019",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q642826",
-      "answerKey": "mohamed mahmoud ould louly"
+      "answerKey": "mohamed mahmoud ould louly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Mahmoud_Ould_Louly"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q712775",
-      "answerKey": "sidi mohamed ould boubacar"
+      "answerKey": "sidi mohamed ould boubacar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sidi_Mohamed_Ould_Boubacar"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "dictator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q730612",
-      "answerKey": "mohamed khouna ould haidalla"
+      "answerKey": "mohamed khouna ould haidalla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Khouna_Ould_Haidalla"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q779723",
-      "answerKey": "mustafa ould salek"
+      "answerKey": "mustafa ould salek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafa_Ould_Salek"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "telecommunications engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2041688",
-      "answerKey": "mohamedou ould slahi"
+      "answerKey": "mohamedou ould slahi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamedou_Ould_Slahi"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q988596",
-      "answerKey": "el hadji ba"
+      "answerKey": "el hadji ba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/El_Hadji_Ba"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2633108",
-      "answerKey": "dominique da silva"
+      "answerKey": "dominique da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominique_Da_Sylva"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16119926",
-      "answerKey": "cheikh moulaye ahmed"
+      "answerKey": "cheikh moulaye ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bessam"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51200724",
-      "answerKey": "lmalouma said"
+      "answerKey": "lmalouma said",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L'Malouma_Sa%C3%AFd"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51200724",
-      "answerKey": "lmalouma said"
+      "answerKey": "lmalouma said",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L'Malouma_Sa%C3%AFd"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14448372",
-      "answerKey": "biram dah abeid"
+      "answerKey": "biram dah abeid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Biram_Dah_Abeid"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3155412",
-      "answerKey": "ismail ould bedde ould cheikh sidiya"
+      "answerKey": "ismail ould bedde ould cheikh sidiya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismail_Ould_Bedde_Ould_Cheikh_Sidiya"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17310109",
-      "answerKey": "abdoul ba"
+      "answerKey": "abdoul ba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdoul_Ba"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39336454",
-      "answerKey": "aboubakary koita"
+      "answerKey": "aboubakary koita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aboubakary_Ko%C3%AFta"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q66793577",
-      "answerKey": "moctar ould djay"
+      "answerKey": "moctar ould djay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mokhtar_Ould_Djay"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2153383",
-      "answerKey": "yoann langlet"
+      "answerKey": "yoann langlet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoann_Langlet"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2214712",
-      "answerKey": "sally sarr"
+      "answerKey": "sally sarr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sally_Sarr"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24049164",
-      "answerKey": "noura mint seymali"
+      "answerKey": "noura mint seymali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Noura_Mint_Seymali"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football referee",
       "wikidataUrl": "http://www.wikidata.org/entity/Q912027",
-      "answerKey": "jamal al sharif"
+      "answerKey": "jamal al sharif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamal_Al_Sharif"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26251608",
-      "answerKey": "mounir chouiar"
+      "answerKey": "mounir chouiar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mounir_Chouiar"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27671181",
-      "answerKey": "guessouma fofana"
+      "answerKey": "guessouma fofana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guessouma_Fofana"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328251",
-      "answerKey": "jidou el moctar"
+      "answerKey": "jidou el moctar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jidou_El_Moctar"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1371357",
-      "answerKey": "yahya ould ahmed el waghef"
+      "answerKey": "yahya ould ahmed el waghef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahya_Ould_Ahmed_El_Waghef"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12194248",
-      "answerKey": "naha mint mouknass"
+      "answerKey": "naha mint mouknass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naha_Mint_Mouknass"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28967004",
-      "answerKey": "fatimetou mint abdel malick"
+      "answerKey": "fatimetou mint abdel malick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fatimatou_Abdel_Malick"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4664662",
-      "answerKey": "abdallah bin bayyah"
+      "answerKey": "abdallah bin bayyah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdallah_bin_Bayyah"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53780275",
-      "answerKey": "aminetou mint elmoctar"
+      "answerKey": "aminetou mint elmoctar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminetou_Mint_El-Moctar"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12239678",
-      "answerKey": "mohammad alhasan bin aldido alshanqiti"
+      "answerKey": "mohammad alhasan bin aldido alshanqiti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_al-Hasan_al-Diddu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56043863",
-      "answerKey": "ibrehima coulibaly"
+      "answerKey": "ibrehima coulibaly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibr%C3%A9hima_Coulibaly"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98641253",
-      "answerKey": "pape ibnou ba"
+      "answerKey": "pape ibnou ba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pape_Ibnou_Ba"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "blogger",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20961911",
-      "answerKey": "cheick mohamed mkhaitir"
+      "answerKey": "cheick mohamed mkhaitir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Cheikh_Ould_Mkhaitir"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106860208",
-      "answerKey": "abdoullah ba"
+      "answerKey": "abdoullah ba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdoullah_Ba"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2024",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4118153",
-      "answerKey": "mohamed mahmoud ould mohamedou"
+      "answerKey": "mohamed mahmoud ould mohamedou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Mahmoud_Ould_Mohamedou"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2827638",
-      "answerKey": "ahmed ould daddah"
+      "answerKey": "ahmed ould daddah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Ould_Daddah"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24690849",
-      "answerKey": "mbarek ould beyrouk"
+      "answerKey": "mbarek ould beyrouk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mbarek_Ould_Beyrouk"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130523",
-      "answerKey": "ahmedou ouldabdallah"
+      "answerKey": "ahmedou ouldabdallah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmedou_Ould-Abdallah"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16733931",
-      "answerKey": "ismail ould cheikh ahmed"
+      "answerKey": "ismail ould cheikh ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ismail_Ould_Cheikh_Ahmed"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg",
+  "updated": "2025-12-14T22:18:22.803Z",
+  "wikipediaLinksAdded": true
 }

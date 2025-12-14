@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "Internet activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360",
-      "answerKey": "julian assange"
+      "answerKey": "julian assange",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julian_Assange"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37459",
-      "answerKey": "nicole kidman"
+      "answerKey": "nicole kidman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicole_Kidman"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80966",
-      "answerKey": "cate blanchett"
+      "answerKey": "cate blanchett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cate_Blanchett"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11998",
-      "answerKey": "kylie minogue"
+      "answerKey": "kylie minogue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kylie_Minogue"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43293",
-      "answerKey": "j m coetzee"
+      "answerKey": "j m coetzee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._M._Coetzee"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41563",
-      "answerKey": "julia gillard"
+      "answerKey": "julia gillard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julia_Gillard"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2008",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40572",
-      "answerKey": "heath ledger"
+      "answerKey": "heath ledger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heath_Ledger"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129591",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugh_Jackman"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7436908",
-      "answerKey": "scott morrison"
+      "answerKey": "scott morrison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Morrison"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43135",
-      "answerKey": "kevin rudd"
+      "answerKey": "kevin rudd",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Rudd"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1990",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129187",
-      "answerKey": "patrick white"
+      "answerKey": "patrick white",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_White"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1924847",
-      "answerKey": "margot robbie"
+      "answerKey": "margot robbie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margot_Robbie"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54314",
-      "answerKey": "chris hemsworth"
+      "answerKey": "chris hemsworth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Hemsworth"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1971",
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131729",
-      "answerKey": "william lawrence bragg"
+      "answerKey": "william lawrence bragg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lawrence_Bragg"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "publisher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53944",
-      "answerKey": "rupert murdoch"
+      "answerKey": "rupert murdoch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rupert_Murdoch"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2006",
       "occupation": "herpetologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126513",
-      "answerKey": "steve irwin"
+      "answerKey": "steve irwin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Irwin"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40580",
-      "answerKey": "lisa gerrard"
+      "answerKey": "lisa gerrard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lisa_Gerrard"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40580",
-      "answerKey": "lisa gerrard"
+      "answerKey": "lisa gerrard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lisa_Gerrard"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348577",
-      "answerKey": "tony abbott"
+      "answerKey": "tony abbott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Abbott"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51330",
-      "answerKey": "john howard"
+      "answerKey": "john howard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Howard"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q335697",
-      "answerKey": "anthony albanese"
+      "answerKey": "anthony albanese",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27655344",
-      "answerKey": "rose"
+      "answerKey": "rose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ros%C3%A9_(singer)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103591",
-      "answerKey": "germaine greer"
+      "answerKey": "germaine greer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Germaine_Greer"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181484",
-      "answerKey": "sia"
+      "answerKey": "sia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sia"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166272",
-      "answerKey": "geoffrey rush"
+      "answerKey": "geoffrey rush",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geoffrey_Rush"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "investment banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q927550",
-      "answerKey": "malcolm turnbull"
+      "answerKey": "malcolm turnbull",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malcolm_Turnbull"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "molecular biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26321",
-      "answerKey": "elizabeth blackburn"
+      "answerKey": "elizabeth blackburn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Blackburn"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1959",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93188",
-      "answerKey": "errol flynn"
+      "answerKey": "errol flynn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Errol_Flynn"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2022",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185165",
-      "answerKey": "olivia newtonjohn"
+      "answerKey": "olivia newtonjohn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olivia_Newton-John"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82085",
-      "answerKey": "sam worthington"
+      "answerKey": "sam worthington",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Worthington"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "Victoria's Secret Angels",
       "wikidataUrl": "http://www.wikidata.org/entity/Q127454",
-      "answerKey": "miranda kerr"
+      "answerKey": "miranda kerr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miranda_Kerr"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211539",
-      "answerKey": "peter singer"
+      "answerKey": "peter singer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Singer"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "rock musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43932",
-      "answerKey": "angus young"
+      "answerKey": "angus young",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_Young"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "rock musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43932",
-      "answerKey": "angus young"
+      "answerKey": "angus young",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angus_Young"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201452",
-      "answerKey": "brian schmidt"
+      "answerKey": "brian schmidt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Schmidt"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202136",
-      "answerKey": "barry marshall"
+      "answerKey": "barry marshall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barry_Marshall"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82667",
-      "answerKey": "mark webber"
+      "answerKey": "mark webber",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Webber_(racing_driver)"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1968",
       "occupation": "pathologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q137106",
-      "answerKey": "howard florey"
+      "answerKey": "howard florey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Howard_Florey"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187238",
-      "answerKey": "tim cahill"
+      "answerKey": "tim cahill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Cahill"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4440",
-      "answerKey": "eric bana"
+      "answerKey": "eric bana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Bana"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2748803",
-      "answerKey": "iggy azalea"
+      "answerKey": "iggy azalea",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iggy_Azalea"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1985",
       "occupation": "immunologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193550",
-      "answerKey": "frank macfarlane burnet"
+      "answerKey": "frank macfarlane burnet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Macfarlane_Burnet"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q488353",
-      "answerKey": "natalie imbruglia"
+      "answerKey": "natalie imbruglia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalie_Imbruglia"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q488353",
-      "answerKey": "natalie imbruglia"
+      "answerKey": "natalie imbruglia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalie_Imbruglia"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32045",
-      "answerKey": "liam hemsworth"
+      "answerKey": "liam hemsworth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liam_Hemsworth"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82816",
-      "answerKey": "daniel ricciardo"
+      "answerKey": "daniel ricciardo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Ricciardo"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202342",
-      "answerKey": "margaret court"
+      "answerKey": "margaret court",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Court"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202342",
-      "answerKey": "margaret court"
+      "answerKey": "margaret court",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Court"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q228638",
-      "answerKey": "isla fisher"
+      "answerKey": "isla fisher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isla_Fisher"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40688",
-      "answerKey": "yanis varoufakis"
+      "answerKey": "yanis varoufakis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yanis_Varoufakis"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+  "updated": "2025-12-14T22:10:51.318Z",
+  "wikipediaLinksAdded": true
 }

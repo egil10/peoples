@@ -13,7 +13,8 @@
       "deathYear": "1976",
       "occupation": "communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5816",
-      "answerKey": "mao zedong"
+      "answerKey": "mao zedong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mao_Zedong"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15031",
-      "answerKey": "xi jinping"
+      "answerKey": "xi jinping",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xi_Jinping"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1982",
       "occupation": "ethnologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
-      "answerKey": "huang xianfan"
+      "answerKey": "huang xianfan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Huang_Xianfan"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1982",
       "occupation": "ethnologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
-      "answerKey": "huang xianfan"
+      "answerKey": "huang xianfan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Huang_Xianfan"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "Buddhist monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17293",
-      "answerKey": "tenzin gyatso"
+      "answerKey": "tenzin gyatso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36970",
-      "answerKey": "jackie chan"
+      "answerKey": "jackie chan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackie_Chan"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1997",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16977",
-      "answerKey": "deng xiaoping"
+      "answerKey": "deng xiaoping",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deng_Xiaoping"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15029",
-      "answerKey": "hu jintao"
+      "answerKey": "hu jintao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hu_Jintao"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2017",
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41617",
-      "answerKey": "liu xiaobo"
+      "answerKey": "liu xiaobo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liu_Xiaobo"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8998",
-      "answerKey": "mo yan"
+      "answerKey": "mo yan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mo_Yan"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "literary critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18143",
-      "answerKey": "gao xingjian"
+      "answerKey": "gao xingjian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gao_Xingjian"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2022",
       "occupation": "electrical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16597",
-      "answerKey": "jiang zemin"
+      "answerKey": "jiang zemin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiang_Zemin"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2022",
       "occupation": "electrical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16597",
-      "answerKey": "jiang zemin"
+      "answerKey": "jiang zemin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiang_Zemin"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1976",
       "occupation": "foreign minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17410",
-      "answerKey": "zhou enlai"
+      "answerKey": "zhou enlai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhou_Enlai"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1976",
       "occupation": "foreign minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17410",
-      "answerKey": "zhou enlai"
+      "answerKey": "zhou enlai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhou_Enlai"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2023",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18111",
-      "answerKey": "li keqiang"
+      "answerKey": "li keqiang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Keqiang"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "malariologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462843",
-      "answerKey": "tu youyou"
+      "answerKey": "tu youyou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tu_Youyou"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1137062",
-      "answerKey": "jack ma"
+      "answerKey": "jack ma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Ma"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2025",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181369",
-      "answerKey": "chenning yang"
+      "answerKey": "chenning yang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yang_Chen-Ning"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16628",
-      "answerKey": "wen jiabao"
+      "answerKey": "wen jiabao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wen_Jiabao"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1967",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185152",
-      "answerKey": "puyi"
+      "answerKey": "puyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Puyi"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41570",
-      "answerKey": "hua guofeng"
+      "answerKey": "hua guofeng",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hua_Guofeng"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150903",
-      "answerKey": "gong li"
+      "answerKey": "gong li",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gong_Li"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180852",
-      "answerKey": "zhang ziyi"
+      "answerKey": "zhang ziyi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhang_Ziyi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242676",
-      "answerKey": "liu yifei"
+      "answerKey": "liu yifei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liu_Yifei"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180446",
-      "answerKey": "li na"
+      "answerKey": "li na",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Na"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q381074",
-      "answerKey": "fan bingbing"
+      "answerKey": "fan bingbing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fan_Bingbing"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99829",
-      "answerKey": "zhao ziyang"
+      "answerKey": "zhao ziyang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhao_Ziyang"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160115",
-      "answerKey": "ai weiwei"
+      "answerKey": "ai weiwei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ai_Weiwei"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311723",
-      "answerKey": "donnie yen"
+      "answerKey": "donnie yen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donnie_Yen"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1191198",
-      "answerKey": "ding liren"
+      "answerKey": "ding liren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ding_Liren"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2020",
       "occupation": "physician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q84497471",
-      "answerKey": "li wenliang"
+      "answerKey": "li wenliang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Wenliang"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21078321",
-      "answerKey": "chloe zhao"
+      "answerKey": "chloe zhao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chlo%C3%A9_Zhao"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58590",
-      "answerKey": "yao ming"
+      "answerKey": "yao ming",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yao_Ming"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58590",
-      "answerKey": "yao ming"
+      "answerKey": "yao ming",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yao_Ming"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1969",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16988",
-      "answerKey": "liu shaoqi"
+      "answerKey": "liu shaoqi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liu_Shaoqi"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181425",
-      "answerKey": "chow yunfat"
+      "answerKey": "chow yunfat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chow_Yun-fat"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181425",
-      "answerKey": "chow yunfat"
+      "answerKey": "chow yunfat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chow_Yun-fat"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1981",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17132",
-      "answerKey": "soong chingling"
+      "answerKey": "soong chingling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Soong_Ching-ling"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1991",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236017",
-      "answerKey": "jiang qing"
+      "answerKey": "jiang qing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiang_Qing"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "justice of the peace",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19217",
-      "answerKey": "carrie lam"
+      "answerKey": "carrie lam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carrie_Lam"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55430",
-      "answerKey": "zhang yimou"
+      "answerKey": "zhang yimou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhang_Yimou"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55430",
-      "answerKey": "zhang yimou"
+      "answerKey": "zhang yimou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhang_Yimou"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1971",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315475",
-      "answerKey": "lin biao"
+      "answerKey": "lin biao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lin_Biao"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4414390",
-      "answerKey": "li qiang"
+      "answerKey": "li qiang",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Qiang"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18301",
-      "answerKey": "li peng"
+      "answerKey": "li peng",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Li_Peng"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "fighter pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q147581",
-      "answerKey": "yang liwei"
+      "answerKey": "yang liwei",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yang_Liwei"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234011",
-      "answerKey": "hou yifan"
+      "answerKey": "hou yifan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hou_Yifan"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1390341",
-      "answerKey": "lin dan"
+      "answerKey": "lin dan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lin_Dan"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18285",
-      "answerKey": "zhu rongji"
+      "answerKey": "zhu rongji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zhu_Rongji"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg",
+  "updated": "2025-12-14T22:12:50.611Z",
+  "wikipediaLinksAdded": true
 }

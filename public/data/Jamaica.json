@@ -13,7 +13,8 @@
       "deathYear": "1981",
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q409",
-      "answerKey": "bob marley"
+      "answerKey": "bob marley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bob_Marley"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1189",
-      "answerKey": "usain bolt"
+      "answerKey": "usain bolt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Usain_Bolt"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2023",
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214959",
-      "answerKey": "harry belafonte"
+      "answerKey": "harry belafonte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Belafonte"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1940",
       "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272504",
-      "answerKey": "marcus garvey"
+      "answerKey": "marcus garvey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcus_Garvey"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5793",
-      "answerKey": "shellyann fraserpryce"
+      "answerKey": "shellyann fraserpryce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shelly-Ann_Fraser-Pryce"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200577",
-      "answerKey": "sean paul"
+      "answerKey": "sean paul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sean_Paul"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182747",
-      "answerKey": "asafa powell"
+      "answerKey": "asafa powell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asafa_Powell"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450429",
-      "answerKey": "grace jones"
+      "answerKey": "grace jones",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grace_Jones"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1651",
-      "answerKey": "yohan blake"
+      "answerKey": "yohan blake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yohan_Blake"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20035636",
-      "answerKey": "elaine thompsonherah"
+      "answerKey": "elaine thompsonherah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elaine_Thompson-Herah"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57597",
-      "answerKey": "portia simpsonmiller"
+      "answerKey": "portia simpsonmiller",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Portia_Simpson-Miller"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1987",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273049",
-      "answerKey": "peter tosh"
+      "answerKey": "peter tosh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Tosh"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1987",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q273049",
-      "answerKey": "peter tosh"
+      "answerKey": "peter tosh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Tosh"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2025",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109063",
-      "answerKey": "jimmy cliff"
+      "answerKey": "jimmy cliff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Cliff"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "basketball coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271933",
-      "answerKey": "patrick ewing"
+      "answerKey": "patrick ewing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Ewing"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310763",
-      "answerKey": "shaggy"
+      "answerKey": "shaggy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shaggy_(musician)"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5796",
-      "answerKey": "veronica campbellbrown"
+      "answerKey": "veronica campbellbrown",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Veronica_Campbell_Brown"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2002",
       "occupation": "prostitute",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264849",
-      "answerKey": "aileen wuornos"
+      "answerKey": "aileen wuornos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aileen_Wuornos"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2014",
       "occupation": "art theorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450741",
-      "answerKey": "stuart hall"
+      "answerKey": "stuart hall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stuart_Hall_(cultural_theorist)"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "sports commentator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10536",
-      "answerKey": "john barnes"
+      "answerKey": "john barnes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Barnes"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q505200",
-      "answerKey": "andrew holness"
+      "answerKey": "andrew holness",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Holness"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217358",
-      "answerKey": "merlene ottey"
+      "answerKey": "merlene ottey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Merlene_Ottey"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310796",
-      "answerKey": "damian marley"
+      "answerKey": "damian marley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Damian_Marley"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1699",
-      "answerKey": "nesta carter"
+      "answerKey": "nesta carter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nesta_Carter"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9336004",
-      "answerKey": "shericka jackson"
+      "answerKey": "shericka jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shericka_Jackson"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20890178",
-      "answerKey": "leon bailey"
+      "answerKey": "leon bailey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leon_Bailey"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231051",
-      "answerKey": "melaine walker"
+      "answerKey": "melaine walker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melaine_Walker"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2021",
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315417",
-      "answerKey": "lee scratch perry"
+      "answerKey": "lee scratch perry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1997",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365395",
-      "answerKey": "michael manley"
+      "answerKey": "michael manley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Manley"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2006",
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333598",
-      "answerKey": "desmond dekker"
+      "answerKey": "desmond dekker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Dekker"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2006",
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333598",
-      "answerKey": "desmond dekker"
+      "answerKey": "desmond dekker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Dekker"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "hurdler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1687",
-      "answerKey": "hansle parchment"
+      "answerKey": "hansle parchment",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hansle_Parchment"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "voice actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q199418",
-      "answerKey": "ziggy marley"
+      "answerKey": "ziggy marley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziggy_Marley"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109147",
-      "answerKey": "patrick allen"
+      "answerKey": "patrick allen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Allen_(governor-general)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239085",
-      "answerKey": "sherone simpson"
+      "answerKey": "sherone simpson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherone_Simpson"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2021",
       "occupation": "reggae singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441203",
-      "answerKey": "bunny wailer"
+      "answerKey": "bunny wailer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bunny_Wailer"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361646",
-      "answerKey": "burning spear"
+      "answerKey": "burning spear",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burning_Spear"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q361646",
-      "answerKey": "burning spear"
+      "answerKey": "burning spear",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burning_Spear"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q239139",
-      "answerKey": "kerron stewart"
+      "answerKey": "kerron stewart",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kerron_Stewart"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315740",
-      "answerKey": "michael frater"
+      "answerKey": "michael frater",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Frater"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317754",
-      "answerKey": "ricardo gardner"
+      "answerKey": "ricardo gardner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Gardner"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2025",
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q452162",
-      "answerKey": "max romeo"
+      "answerKey": "max romeo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Romeo"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450423",
-      "answerKey": "rita marley"
+      "answerKey": "rita marley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rita_Marley"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122188117",
-      "answerKey": "kishane thompson"
+      "answerKey": "kishane thompson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kishane_Thompson"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109130",
-      "answerKey": "p j patterson"
+      "answerKey": "p j patterson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P._J._Patterson"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q642785",
-      "answerKey": "ravel morrison"
+      "answerKey": "ravel morrison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ravel_Morrison"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q248120",
-      "answerKey": "don quarrie"
+      "answerKey": "don quarrie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Don_Quarrie"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16211564",
-      "answerKey": "marlon james"
+      "answerKey": "marlon james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlon_James_(novelist)"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315662",
-      "answerKey": "bruce golding"
+      "answerKey": "bruce golding",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruce_Golding"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1995",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q259737",
-      "answerKey": "madge sinclair"
+      "answerKey": "madge sinclair",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Madge_Sinclair"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg",
+  "updated": "2025-12-14T22:16:31.018Z",
+  "wikipediaLinksAdded": true
 }

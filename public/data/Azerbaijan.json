@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57371",
-      "answerKey": "ilham aliyev"
+      "answerKey": "ilham aliyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilham_Aliyev"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2003",
       "occupation": "intelligence officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157451",
-      "answerKey": "heydar aliev"
+      "answerKey": "heydar aliev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heydar_Aliyev"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q671930",
-      "answerKey": "mehriban alieva"
+      "answerKey": "mehriban alieva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mehriban_Aliyeva"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312267",
-      "answerKey": "shakhriyar mamedyarov"
+      "answerKey": "shakhriyar mamedyarov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakhriyar_Mamedyarov"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2008",
       "occupation": "memoirist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558799",
-      "answerKey": "muslim magomayev"
+      "answerKey": "muslim magomayev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muslim_Magomayev_(musician)"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12850075",
-      "answerKey": "ali asadov"
+      "answerKey": "ali asadov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Asadov"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2000",
       "occupation": "orientalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319912",
-      "answerKey": "abulfaz elchibey"
+      "answerKey": "abulfaz elchibey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abulfaz_Elchibey"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211634",
-      "answerKey": "teimour radjabov"
+      "answerKey": "teimour radjabov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teimour_Radjabov"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355850",
-      "answerKey": "ayaz mutallibov"
+      "answerKey": "ayaz mutallibov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayaz_Mutallibov"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "handball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2361757",
-      "answerKey": "aygun kazimova"
+      "answerKey": "aygun kazimova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aygun_Kazimova"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q228593",
-      "answerKey": "safura alizadeh"
+      "answerKey": "safura alizadeh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Safura_Alizadeh"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q375662",
-      "answerKey": "sabina babayeva"
+      "answerKey": "sabina babayeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabina_Babayeva"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "television presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12010",
-      "answerKey": "eldar qasmov"
+      "answerKey": "eldar qasmov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eldar_Gasimov"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236078",
-      "answerKey": "aysel teymurzadeh"
+      "answerKey": "aysel teymurzadeh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aysel_Teymurzadeh"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2022",
       "occupation": "opinion journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12850258",
-      "answerKey": "anvar chingizoghlu"
+      "answerKey": "anvar chingizoghlu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anvar_Chingizoglu"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12012",
-      "answerKey": "nigar jamal"
+      "answerKey": "nigar jamal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nigar_Jamal"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31294219",
-      "answerKey": "samira efendi"
+      "answerKey": "samira efendi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samira_Efendi"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451455",
-      "answerKey": "vagit alekperov"
+      "answerKey": "vagit alekperov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vagit_Alekperov"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7270304",
-      "answerKey": "farid mammadov"
+      "answerKey": "farid mammadov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farid_Mammadov"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311856",
-      "answerKey": "gurban gurbanov"
+      "answerKey": "gurban gurbanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gurban_Gurbanov"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2014",
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319380",
-      "answerKey": "vugar hashimov"
+      "answerKey": "vugar hashimov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vugar_Gashimov"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31310079",
-      "answerKey": "chingiz mustafayev"
+      "answerKey": "chingiz mustafayev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chingiz_Mustafayev_(singer)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q255084",
-      "answerKey": "mariya stadnik"
+      "answerKey": "mariya stadnik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariya_Stadnik"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23024178",
-      "answerKey": "samra rahimli"
+      "answerKey": "samra rahimli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samra_Rahimli"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234304",
-      "answerKey": "aziza mustafa zadeh"
+      "answerKey": "aziza mustafa zadeh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336062",
-      "answerKey": "elnur huseynov"
+      "answerKey": "elnur huseynov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elnur_H%C3%BCseynov"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12838571",
-      "answerKey": "dilara kazimova"
+      "answerKey": "dilara kazimova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dilara_Kazimova"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7065106",
-      "answerKey": "novruz mammadov"
+      "answerKey": "novruz mammadov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Novruz_Mammadov"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "investigative journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14561644",
-      "answerKey": "xdic ismaylova"
+      "answerKey": "xdic ismaylova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khadija_Ismayilova"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "investigative journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14561644",
-      "answerKey": "xdic ismaylova"
+      "answerKey": "xdic ismaylova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khadija_Ismayilova"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16366466",
-      "answerKey": "diana hacyeva"
+      "answerKey": "diana hacyeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana_Hajiyeva"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1997",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q487655",
-      "answerKey": "anatoliy banishevskiy"
+      "answerKey": "anatoliy banishevskiy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anatoliy_Banishevskiy"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466133",
-      "answerKey": "sharif sharifov"
+      "answerKey": "sharif sharifov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharif_Sharifov"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42848278",
-      "answerKey": "aisel"
+      "answerKey": "aisel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aisel_(singer)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16013139",
-      "answerKey": "haji aliyev"
+      "answerKey": "haji aliyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haji_Aliyev"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372124",
-      "answerKey": "elnur mammadli"
+      "answerKey": "elnur mammadli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elnur_Mammadli"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465886",
-      "answerKey": "khetag gazyumov"
+      "answerKey": "khetag gazyumov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khetag_Gazyumov"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q729634",
-      "answerKey": "rashad sadygov"
+      "answerKey": "rashad sadygov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rashad_Sadygov"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558630",
-      "answerKey": "toghrul asgarov"
+      "answerKey": "toghrul asgarov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toghrul_Asgarov"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2106944",
-      "answerKey": "rustam orujov"
+      "answerKey": "rustam orujov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rustam_Orujov"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2021",
       "occupation": "graphic artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2627373",
-      "answerKey": "tahir teimurovitsch salakhov"
+      "answerKey": "tahir teimurovitsch salakhov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tahir_Salahov"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1993",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448820",
-      "answerKey": "tofiq bahramov"
+      "answerKey": "tofiq bahramov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tofiq_Bahramov"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29523634",
-      "answerKey": "hidayat heydarov"
+      "answerKey": "hidayat heydarov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hidayat_Heydarov"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983419",
-      "answerKey": "emin"
+      "answerKey": "emin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emin_(singer)"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4688785",
-      "answerKey": "afag bashirgyzy"
+      "answerKey": "afag bashirgyzy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afag_Bashirgyzy"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16212646",
-      "answerKey": "rafig huseynov"
+      "answerKey": "rafig huseynov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafig_Huseynov"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "sport shooter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2583130",
-      "answerKey": "zemfira meftakhetdinova"
+      "answerKey": "zemfira meftakhetdinova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zemfira_Meftahatdinova"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2020",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315868",
-      "answerKey": "mirza khazar"
+      "answerKey": "mirza khazar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirza_Khazar"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2020",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315868",
-      "answerKey": "mirza khazar"
+      "answerKey": "mirza khazar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirza_Khazar"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372157",
-      "answerKey": "rovshan bayramov"
+      "answerKey": "rovshan bayramov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rovshan_Bayramov"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:11:02.018Z",
+  "wikipediaLinksAdded": true
 }

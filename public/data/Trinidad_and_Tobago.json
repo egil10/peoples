@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q162202",
-      "answerKey": "nicki minaj"
+      "answerKey": "nicki minaj",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicki_Minaj"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2018",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44593",
-      "answerKey": "v s naipaul"
+      "answerKey": "v s naipaul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V._S._Naipaul"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192175",
-      "answerKey": "dwight yorke"
+      "answerKey": "dwight yorke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dwight_Yorke"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q166658",
-      "answerKey": "silvio spann"
+      "answerKey": "silvio spann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvio_Spann"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57712",
-      "answerKey": "kamla persadbissessar"
+      "answerKey": "kamla persadbissessar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamla_Persad-Bissessar"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47461098",
-      "answerKey": "paulamae weekes"
+      "answerKey": "paulamae weekes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paula-Mae_Weekes"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2018",
       "occupation": "chemical engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57532",
-      "answerKey": "george maxwell richards"
+      "answerKey": "george maxwell richards",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Maxwell_Richards"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156783",
-      "answerKey": "haddaway"
+      "answerKey": "haddaway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haddaway"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1998",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q509860",
-      "answerKey": "stokely carmichael"
+      "answerKey": "stokely carmichael",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stokely_Carmichael"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q97400315",
-      "answerKey": "christine kangaloo"
+      "answerKey": "christine kangaloo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christine_Kangaloo"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311366",
-      "answerKey": "ato boldon"
+      "answerKey": "ato boldon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ato_Boldon"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6384971",
-      "answerKey": "keith rowley"
+      "answerKey": "keith rowley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keith_Rowley"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6384971",
-      "answerKey": "keith rowley"
+      "answerKey": "keith rowley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keith_Rowley"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6384971",
-      "answerKey": "keith rowley"
+      "answerKey": "keith rowley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keith_Rowley"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27045579",
-      "answerKey": "winston duke"
+      "answerKey": "winston duke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winston_Duke"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312983",
-      "answerKey": "kenwyne jones"
+      "answerKey": "kenwyne jones",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenwyne_Jones"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4772220",
-      "answerKey": "anthony carmona"
+      "answerKey": "anthony carmona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anthony_Carmona"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "javelin thrower",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1787",
-      "answerKey": "keshorn walcott"
+      "answerKey": "keshorn walcott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Keshorn_Walcott"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2014",
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q634551",
-      "answerKey": "a n r robinson"
+      "answerKey": "a n r robinson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A._N._R._Robinson"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202877",
-      "answerKey": "brian lara"
+      "answerKey": "brian lara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Lara"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356745",
-      "answerKey": "billy ocean"
+      "answerKey": "billy ocean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Ocean"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359373",
-      "answerKey": "richard thompson"
+      "answerKey": "richard thompson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Thompson_(sprinter)"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319164",
-      "answerKey": "justin hoyte"
+      "answerKey": "justin hoyte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justin_Hoyte"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q445801",
-      "answerKey": "stern john"
+      "answerKey": "stern john",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stern_John"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318850",
-      "answerKey": "hasely crawford"
+      "answerKey": "hasely crawford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hasely_Crawford"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1989",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q773828",
-      "answerKey": "c l r james"
+      "answerKey": "c l r james",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C._L._R._James"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1981",
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1338879",
-      "answerKey": "eric williams"
+      "answerKey": "eric williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eric_Williams"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105353116",
-      "answerKey": "dominique thorne"
+      "answerKey": "dominique thorne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominique_Thorne"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1959",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q737469",
-      "answerKey": "george padmore"
+      "answerKey": "george padmore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Padmore"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1657",
-      "answerKey": "lalonde gordon"
+      "answerKey": "lalonde gordon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lalonde_Gordon"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3677",
-      "answerKey": "dennis lawrence"
+      "answerKey": "dennis lawrence",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Lawrence"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2018",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q281713",
-      "answerKey": "jlloyd samuel"
+      "answerKey": "jlloyd samuel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jlloyd_Samuel"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380196",
-      "answerKey": "gavin hoyte"
+      "answerKey": "gavin hoyte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gavin_Hoyte"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2016",
       "occupation": "geologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365206",
-      "answerKey": "patrick manning"
+      "answerKey": "patrick manning",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Manning"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q370921",
-      "answerKey": "steven pressfield"
+      "answerKey": "steven pressfield",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steven_Pressfield"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464495",
-      "answerKey": "chris birchall"
+      "answerKey": "chris birchall",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Birchall"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2024",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q809814",
-      "answerKey": "basdeo panday"
+      "answerKey": "basdeo panday",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basdeo_Panday"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465603",
-      "answerKey": "brent sancho"
+      "answerKey": "brent sancho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brent_Sancho"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q503303",
-      "answerKey": "marc burns"
+      "answerKey": "marc burns",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Burns"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q738690",
-      "answerKey": "roy hibbert"
+      "answerKey": "roy hibbert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roy_Hibbert"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20902179",
-      "answerKey": "shaq moore"
+      "answerKey": "shaq moore",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shaq_Moore"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270339",
-      "answerKey": "kellyann baptiste"
+      "answerKey": "kellyann baptiste",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kelly-Ann_Baptiste"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1964",
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5129197",
-      "answerKey": "claudia jones"
+      "answerKey": "claudia jones",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudia_Jones"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1099310",
-      "answerKey": "clayton ince"
+      "answerKey": "clayton ince",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clayton_Ince"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q169529",
-      "answerKey": "emmanuel callender"
+      "answerKey": "emmanuel callender",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Callender"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954255",
-      "answerKey": "ian cox"
+      "answerKey": "ian cox",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ian_Cox"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1134058",
-      "answerKey": "cornell glen"
+      "answerKey": "cornell glen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornell_Glen"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1134058",
-      "answerKey": "cornell glen"
+      "answerKey": "cornell glen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornell_Glen"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q902005",
-      "answerKey": "john bostock"
+      "answerKey": "john bostock",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Bostock"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3112971",
-      "answerKey": "jehue gordon"
+      "answerKey": "jehue gordon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jehue_Gordon"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg",
+  "updated": "2025-12-14T22:23:30.951Z",
+  "wikipediaLinksAdded": true
 }

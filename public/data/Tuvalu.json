@@ -13,7 +13,8 @@
       "deathYear": "2018",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316267",
-      "answerKey": "apisai ielemia"
+      "answerKey": "apisai ielemia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apisai_Ielemia"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q330640",
-      "answerKey": "enele sopoaga"
+      "answerKey": "enele sopoaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enele_Sopoaga"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6378927",
-      "answerKey": "kausea natano"
+      "answerKey": "kausea natano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kausea_Natano"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5441662",
-      "answerKey": "feleti teo"
+      "answerKey": "feleti teo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Feleti_Teo"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2024",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q287513",
-      "answerKey": "maatia toafa"
+      "answerKey": "maatia toafa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maatia_Toafa"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3147210",
-      "answerKey": "sir iakoba italeli"
+      "answerKey": "sir iakoba italeli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iakoba_Italeli"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q108906680",
-      "answerKey": "tofiga vaevalu falani"
+      "answerKey": "tofiga vaevalu falani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tofiga_Vaevalu_Falani"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q384322",
-      "answerKey": "saufatu sopoanga"
+      "answerKey": "saufatu sopoanga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saufatu_Sopoanga"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164931",
-      "answerKey": "faimalaga luka"
+      "answerKey": "faimalaga luka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faimalaga_Luka"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2011",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451540",
-      "answerKey": "filoimea telito"
+      "answerKey": "filoimea telito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filoimea_Telito"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561559",
-      "answerKey": "willy telavi"
+      "answerKey": "willy telavi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Telavi"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126443",
-      "answerKey": "bikenibeu paeniu"
+      "answerKey": "bikenibeu paeniu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bikenibeu_Paeniu"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q739504",
-      "answerKey": "kamuta latasi"
+      "answerKey": "kamuta latasi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamuta_Latasi"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2440937",
-      "answerKey": "etimoni timuani"
+      "answerKey": "etimoni timuani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Etimoni_Timuani"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q961043",
-      "answerKey": "ionatana ionatana"
+      "answerKey": "ionatana ionatana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ionatana_Ionatana"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2516864",
-      "answerKey": "alopua petoa"
+      "answerKey": "alopua petoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alopua_Petoa"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1147917",
-      "answerKey": "okilani tinilau"
+      "answerKey": "okilani tinilau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Okilani_Tinilau"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q67199457",
-      "answerKey": "simon kofe"
+      "answerKey": "simon kofe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simon_Kofe"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104962757",
-      "answerKey": "teniku talesi honolulu"
+      "answerKey": "teniku talesi honolulu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teniku_Talesi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q553095",
-      "answerKey": "mau penisula"
+      "answerKey": "mau penisula",
+      "wikipediaUrl": null
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2694000",
-      "answerKey": "mati fusi"
+      "answerKey": "mati fusi",
+      "wikipediaUrl": null
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2526011",
-      "answerKey": "toakai puapua"
+      "answerKey": "toakai puapua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toakai_Puapua"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2526011",
-      "answerKey": "toakai puapua"
+      "answerKey": "toakai puapua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toakai_Puapua"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1675063",
-      "answerKey": "vaisua liva"
+      "answerKey": "vaisua liva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vaisua_Liva"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4351809",
-      "answerKey": "katepu sieni"
+      "answerKey": "katepu sieni",
+      "wikipediaUrl": null
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19795263",
-      "answerKey": "puakena boreham"
+      "answerKey": "puakena boreham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Puakena_Boreham"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "textile artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43252038",
-      "answerKey": "lakiloko keakea"
+      "answerKey": "lakiloko keakea",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lakiloko_Keakea"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33083086",
-      "answerKey": "nese ituasoconway"
+      "answerKey": "nese ituasoconway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nese_Ituaso-Conway"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85895228",
-      "answerKey": "minute alapati taupo"
+      "answerKey": "minute alapati taupo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Minute_Alapati_Taupo"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2088318",
-      "answerKey": "felo feoto"
+      "answerKey": "felo feoto",
+      "wikipediaUrl": null
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2490158",
-      "answerKey": "jelly selau"
+      "answerKey": "jelly selau",
+      "wikipediaUrl": null
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "volleyball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2907573",
-      "answerKey": "jay timo"
+      "answerKey": "jay timo",
+      "wikipediaUrl": null
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4752495",
-      "answerKey": "james lepaio"
+      "answerKey": "james lepaio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Lepaio"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7457133",
-      "answerKey": "seve paeniu"
+      "answerKey": "seve paeniu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seve_Paeniu"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2020",
       "occupation": "physician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108464134",
-      "answerKey": "miliama simeona"
+      "answerKey": "miliama simeona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miliama_Simeona"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21062795",
-      "answerKey": "mackenzie kiritome"
+      "answerKey": "mackenzie kiritome",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mackenzie_Kiritome"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1931047",
-      "answerKey": "uota ale"
+      "answerKey": "uota ale",
+      "wikipediaUrl": null
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2019972",
-      "answerKey": "petio semaia"
+      "answerKey": "petio semaia",
+      "wikipediaUrl": null
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4011722",
-      "answerKey": "viliamu sekifu"
+      "answerKey": "viliamu sekifu",
+      "wikipediaUrl": null
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124537364",
-      "answerKey": "panapasi nelesoni"
+      "answerKey": "panapasi nelesoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Panapasi_Nelesoni"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124537365",
-      "answerKey": "maina talia"
+      "answerKey": "maina talia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maina_Talia"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1708608",
-      "answerKey": "joshua tui tapasei"
+      "answerKey": "joshua tui tapasei",
+      "wikipediaUrl": null
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1934458",
-      "answerKey": "hetoa kaio"
+      "answerKey": "hetoa kaio",
+      "wikipediaUrl": null
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2045341",
-      "answerKey": "alamoana tofuola"
+      "answerKey": "alamoana tofuola",
+      "wikipediaUrl": null
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2179088",
-      "answerKey": "imo fiamalua"
+      "answerKey": "imo fiamalua",
+      "wikipediaUrl": null
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2199130",
-      "answerKey": "george panapa"
+      "answerKey": "george panapa",
+      "wikipediaUrl": null
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "badminton player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3185272",
-      "answerKey": "akelei limaalofa"
+      "answerKey": "akelei limaalofa",
+      "wikipediaUrl": null
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2776672",
-      "answerKey": "ali takataka"
+      "answerKey": "ali takataka",
+      "wikipediaUrl": null
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3485783",
-      "answerKey": "tapeni letueti"
+      "answerKey": "tapeni letueti",
+      "wikipediaUrl": null
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7108741",
-      "answerKey": "otinielu tausi"
+      "answerKey": "otinielu tausi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otinielu_Tausi"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tuvalu.svg",
+  "updated": "2025-12-14T22:23:50.379Z",
+  "wikipediaLinksAdded": true
 }

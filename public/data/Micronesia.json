@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57499",
-      "answerKey": "manny mori"
+      "answerKey": "manny mori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manny_Mori"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19921375",
-      "answerKey": "peter m christian"
+      "answerKey": "peter m christian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_M._Christian"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63872093",
-      "answerKey": "david w panuelo"
+      "answerKey": "david w panuelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Panuelo"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328864",
-      "answerKey": "tosiwo nakayama"
+      "answerKey": "tosiwo nakayama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tosiwo_Nakayama"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2025",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q435427",
-      "answerKey": "joseph urusemal"
+      "answerKey": "joseph urusemal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Urusemal"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q495517",
-      "answerKey": "jacob nena"
+      "answerKey": "jacob nena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacob_Nena"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7984081",
-      "answerKey": "wesley simina"
+      "answerKey": "wesley simina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wesley_Simina"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2024",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448251",
-      "answerKey": "john haglelgam"
+      "answerKey": "john haglelgam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Haglelgam"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448296",
-      "answerKey": "leo falcam"
+      "answerKey": "leo falcam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leo_Falcam"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1999",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q499593",
-      "answerKey": "bailey olter"
+      "answerKey": "bailey olter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bailey_Olter"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23302699",
-      "answerKey": "yosiwo george"
+      "answerKey": "yosiwo george",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yosiwo_George"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1283214",
-      "answerKey": "alik l alik"
+      "answerKey": "alik l alik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alik_Alik"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q940599",
-      "answerKey": "manuel minginfel"
+      "answerKey": "manuel minginfel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Minginfel"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1280200",
-      "answerKey": "hiroshi ismael"
+      "answerKey": "hiroshi ismael",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hirosi_Ismael"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7306049",
-      "answerKey": "redley a killion"
+      "answerKey": "redley a killion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Redley_A._Killion"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1184904",
-      "answerKey": "jane jimmy chigiyal"
+      "answerKey": "jane jimmy chigiyal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jane_Jimmy_Chigiyal"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2010",
       "occupation": "navigator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6792168",
-      "answerKey": "mau piailug"
+      "answerKey": "mau piailug",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mau_Piailug"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42756457",
-      "answerKey": "yoslyn sigrah"
+      "answerKey": "yoslyn sigrah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoslyn_Sigrah"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37340410",
-      "answerKey": "scott james fiti"
+      "answerKey": "scott james fiti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Scott_Fiti"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115365178",
-      "answerKey": "aren palik"
+      "answerKey": "aren palik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aren_Palik"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2439438",
-      "answerKey": "john ehsa"
+      "answerKey": "john ehsa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Ehsa"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6708731",
-      "answerKey": "lyndon jackson"
+      "answerKey": "lyndon jackson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lyndon_Jackson"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109779446",
-      "answerKey": "gardenia aisek"
+      "answerKey": "gardenia aisek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gardenia_Aisek"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42768190",
-      "answerKey": "beauleen carlworswick"
+      "answerKey": "beauleen carlworswick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beauleen_Carl-Worswick"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2010",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4063959",
-      "answerKey": "andon amaraich"
+      "answerKey": "andon amaraich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andon_Amaraich"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54895021",
-      "answerKey": "john mangefel"
+      "answerKey": "john mangefel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Mangefel"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116961955",
-      "answerKey": "bethwel henry"
+      "answerKey": "bethwel henry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bethwel_Henry"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28839985",
-      "answerKey": "marcelo peterson"
+      "answerKey": "marcelo peterson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_Peterson"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116203451",
-      "answerKey": "alexander robert narruhn"
+      "answerKey": "alexander robert narruhn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Narruhn"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115903103",
-      "answerKey": "esmond moses"
+      "answerKey": "esmond moses",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esmond_Moses"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116203673",
-      "answerKey": "reed oliver"
+      "answerKey": "reed oliver",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reed_Oliver"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85898738",
-      "answerKey": "wilson waguk"
+      "answerKey": "wilson waguk",
+      "wikipediaUrl": null
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132676106",
-      "answerKey": "elina p akinaga"
+      "answerKey": "elina p akinaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elina_P._Akinaga"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61386137",
-      "answerKey": "jack fritz"
+      "answerKey": "jack fritz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jack_Fritz_(politician)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2004",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5385889",
-      "answerKey": "erhart aten"
+      "answerKey": "erhart aten",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erhart_Aten"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1997",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110730137",
-      "answerKey": "nick bossy"
+      "answerKey": "nick bossy",
+      "wikipediaUrl": null
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116194193",
-      "answerKey": "isaac figir"
+      "answerKey": "isaac figir",
+      "wikipediaUrl": null
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124667024",
-      "answerKey": "robson u romolow"
+      "answerKey": "robson u romolow",
+      "wikipediaUrl": null
     },
     {
       "id": 39,
@@ -431,7 +469,10 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124667477",
-      "answerKey": "tiwiter aritos"
+      "answerKey": "tiwiter aritos",
+      "wikipediaUrl": null
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:18:31.868Z",
+  "wikipediaLinksAdded": true
 }

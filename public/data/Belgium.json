@@ -13,7 +13,8 @@
       "deathYear": "1949",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49747",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Maeterlinck"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1865",
       "occupation": "anarchist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5749",
-      "answerKey": "pierrejoseph proudhon"
+      "answerKey": "pierrejoseph proudhon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2239218",
-      "answerKey": "max verstappen"
+      "answerKey": "max verstappen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Verstappen"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2009",
       "occupation": "mythographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128126",
-      "answerKey": "claude levistrauss"
+      "answerKey": "claude levistrauss",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1967",
       "occupation": "collagist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7836",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1909",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12967",
-      "answerKey": "leopold ii of belgium"
+      "answerKey": "leopold ii of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leopold_II_of_Belgium"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214204",
-      "answerKey": "eden hazard"
+      "answerKey": "eden hazard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eden_Hazard"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "Noiraud",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155004",
-      "answerKey": "philippe of belgium"
+      "answerKey": "philippe of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Philippe_of_Belgium"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308840",
-      "answerKey": "jeanclaude van damme"
+      "answerKey": "jeanclaude van damme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Van_Damme"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308840",
-      "answerKey": "jeanclaude van damme"
+      "answerKey": "jeanclaude van damme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Van_Damme"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12983",
-      "answerKey": "herman van rompuy"
+      "answerKey": "herman van rompuy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herman_Van_Rompuy"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q357984",
-      "answerKey": "kevin de bruyne"
+      "answerKey": "kevin de bruyne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1989",
       "occupation": "amateur photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128790",
-      "answerKey": "georges simenon"
+      "answerKey": "georges simenon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Simenon"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1987",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q163118",
-      "answerKey": "marguerite yourcenar"
+      "answerKey": "marguerite yourcenar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marguerite_Yourcenar"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q73360",
-      "answerKey": "thibaut courtois"
+      "answerKey": "thibaut courtois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thibaut_Courtois"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313316",
-      "answerKey": "romelu lukaku"
+      "answerKey": "romelu lukaku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Romelu_Lukaku"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3911",
-      "answerKey": "albert ii of belgium"
+      "answerKey": "albert ii of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_II_of_Belgium"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1978",
       "occupation": "chansonnier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1666",
-      "answerKey": "jacques brel"
+      "answerKey": "jacques brel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Brel"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1966",
       "occupation": "cosmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12998",
-      "answerKey": "georges lemaitre"
+      "answerKey": "georges lemaitre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "obstetrician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1187542",
-      "answerKey": "denis mukwege"
+      "answerKey": "denis mukwege",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Mukwege"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1865",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12971",
-      "answerKey": "leopold i of belgium"
+      "answerKey": "leopold i of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2003",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183509",
-      "answerKey": "ilya prigogine"
+      "answerKey": "ilya prigogine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilya_Prigogine"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q168040",
-      "answerKey": "amelie nothomb"
+      "answerKey": "amelie nothomb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Am%C3%A9lie_Nothomb"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q950958",
-      "answerKey": "charles michel"
+      "answerKey": "charles michel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Michel"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11685",
-      "answerKey": "kim clijsters"
+      "answerKey": "kim clijsters",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Clijsters"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151746",
-      "answerKey": "francois englert"
+      "answerKey": "francois englert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1934",
       "occupation": "mountaineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55008046",
-      "answerKey": "albert i of belgium"
+      "answerKey": "albert i of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_I_of_Belgium"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103756",
-      "answerKey": "eddy merckx"
+      "answerKey": "eddy merckx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddy_Merckx"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1983",
       "occupation": "entomologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12973",
-      "answerKey": "leopold iii of belgium"
+      "answerKey": "leopold iii of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leopold_III_of_Belgium"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1993",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12976",
-      "answerKey": "baudouin i of belgium"
+      "answerKey": "baudouin i of belgium",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Baudouin_of_Belgium"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1961",
       "occupation": "immunologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211787",
-      "answerKey": "jules bordet"
+      "answerKey": "jules bordet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jules_Bordet"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1916",
       "occupation": "playwright",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193680",
-      "answerKey": "emile verhaeren"
+      "answerKey": "emile verhaeren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89mile_Verhaeren"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201381",
-      "answerKey": "vincent kompany"
+      "answerKey": "vincent kompany",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Kompany"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11682",
-      "answerKey": "justine henin"
+      "answerKey": "justine henin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justine_Henin"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12981",
-      "answerKey": "yves leterme"
+      "answerKey": "yves leterme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yves_Leterme"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1894",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181995",
-      "answerKey": "adolphe sax"
+      "answerKey": "adolphe sax",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolphe_Sax"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2017",
       "occupation": "magistrate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298180",
-      "answerKey": "simone veil"
+      "answerKey": "simone veil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simone_Veil"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2013",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234590",
-      "answerKey": "christian de duve"
+      "answerKey": "christian de duve",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_de_Duve"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313453",
-      "answerKey": "stromae"
+      "answerKey": "stromae",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stromae"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4254043",
-      "answerKey": "divock origi"
+      "answerKey": "divock origi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Divock_Origi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1983",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52985",
-      "answerKey": "herge"
+      "answerKey": "herge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Herg%C3%A9"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184177",
-      "answerKey": "thomas vermaelen"
+      "answerKey": "thomas vermaelen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas_Vermaelen"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2019",
       "occupation": "film score composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348652",
-      "answerKey": "giya kancheli"
+      "answerKey": "giya kancheli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giya_Kancheli"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15048",
-      "answerKey": "elio di rupo"
+      "answerKey": "elio di rupo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elio_Di_Rupo"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2019",
       "occupation": "plastic artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229990",
-      "answerKey": "agnes varda"
+      "answerKey": "agnes varda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "author",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12978",
-      "answerKey": "guy verhofstadt"
+      "answerKey": "guy verhofstadt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guy_Verhofstadt"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313170",
-      "answerKey": "jan vertonghen"
+      "answerKey": "jan vertonghen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Vertonghen"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128840",
-      "answerKey": "toby alderweireld"
+      "answerKey": "toby alderweireld",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toby_Alderweireld"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q275169",
-      "answerKey": "marouane fellaini"
+      "answerKey": "marouane fellaini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marouane_Fellaini"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18434995",
-      "answerKey": "sophie wilmes"
+      "answerKey": "sophie wilmes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sophie_Wilm%C3%A8s"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg",
+  "updated": "2025-12-14T22:11:31.281Z",
+  "wikipediaLinksAdded": true
 }

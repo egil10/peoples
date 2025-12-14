@@ -13,7 +13,8 @@
       "deathYear": "1973",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34189",
-      "answerKey": "pablo neruda"
+      "answerKey": "pablo neruda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pablo_Neruda"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1973",
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q440",
-      "answerKey": "salvador allende"
+      "answerKey": "salvador allende",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Allende"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1957",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80871",
-      "answerKey": "gabriela mistral"
+      "answerKey": "gabriela mistral",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriela_Mistral"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2006",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q368",
-      "answerKey": "augusto pinochet"
+      "answerKey": "augusto pinochet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Pinochet"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "epidemiologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320",
-      "answerKey": "michelle bachelet"
+      "answerKey": "michelle bachelet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Bachelet"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83566",
-      "answerKey": "isabel allende"
+      "answerKey": "isabel allende",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabel_Allende"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2024",
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q306",
-      "answerKey": "sebastian pinera"
+      "answerKey": "sebastian pinera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16297876",
-      "answerKey": "gabriel boric"
+      "answerKey": "gabriel boric",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Boric"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192671",
-      "answerKey": "arturo vidal"
+      "answerKey": "arturo vidal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arturo_Vidal"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180553",
-      "answerKey": "alexis sanchez chileno"
+      "answerKey": "alexis sanchez chileno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_S%C3%A1nchez"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313161",
-      "answerKey": "claudio bravo"
+      "answerKey": "claudio bravo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudio_Bravo"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1842",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28930",
-      "answerKey": "bernardo ohiggins"
+      "answerKey": "bernardo ohiggins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_O'Higgins"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1842",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28930",
-      "answerKey": "bernardo ohiggins"
+      "answerKey": "bernardo ohiggins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernardo_O'Higgins"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1973",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q125133",
-      "answerKey": "victor jara"
+      "answerKey": "victor jara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Jara"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "comics creator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q263730",
-      "answerKey": "alejandro jodorowsky"
+      "answerKey": "alejandro jodorowsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Jodorowsky"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "2003",
       "occupation": "literary critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297532",
-      "answerKey": "roberto bolano"
+      "answerKey": "roberto bolano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Bola%C3%B1o"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q329524",
-      "answerKey": "gary medel"
+      "answerKey": "gary medel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Medel"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q331",
-      "answerKey": "ricardo lagos"
+      "answerKey": "ricardo lagos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ricardo_Lagos"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192035",
-      "answerKey": "ivan zamorano"
+      "answerKey": "ivan zamorano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Zamorano"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1967",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230499",
-      "answerKey": "violeta parra"
+      "answerKey": "violeta parra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Violeta_Parra"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296222",
-      "answerKey": "mauricio isla"
+      "answerKey": "mauricio isla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mauricio_Isla"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2268949",
-      "answerKey": "eduardo vargas"
+      "answerKey": "eduardo vargas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Vargas"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313307",
-      "answerKey": "jean beausejour"
+      "answerKey": "jean beausejour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean_Beausejour"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1941",
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23347",
-      "answerKey": "chris watson"
+      "answerKey": "chris watson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chris_Watson"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295438",
-      "answerKey": "marcelo salas"
+      "answerKey": "marcelo salas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_Salas"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2020",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334126",
-      "answerKey": "luis sepulveda"
+      "answerKey": "luis sepulveda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Sep%C3%BAlveda"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1997",
       "occupation": "scientific collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158476",
-      "answerKey": "hugo gunckel luer"
+      "answerKey": "hugo gunckel luer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Gunckel_L%C3%BCer"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296036",
-      "answerKey": "manuel pellegrini"
+      "answerKey": "manuel pellegrini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Pellegrini"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2018",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360832",
-      "answerKey": "nicanor parra"
+      "answerKey": "nicanor parra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicanor_Parra"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2016",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q335",
-      "answerKey": "patricio aylwin"
+      "answerKey": "patricio aylwin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patricio_Aylwin"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208517",
-      "answerKey": "fernando gonzalez"
+      "answerKey": "fernando gonzalez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Gonz%C3%A1lez"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q274070",
-      "answerKey": "alejandro amenabar"
+      "answerKey": "alejandro amenabar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alejandro_Amen%C3%A1bar"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272532",
-      "answerKey": "marcelo rios"
+      "answerKey": "marcelo rios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_R%C3%ADos"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272532",
-      "answerKey": "marcelo rios"
+      "answerKey": "marcelo rios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_R%C3%ADos"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1982",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q475",
-      "answerKey": "eduardo frei montalva"
+      "answerKey": "eduardo frei montalva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Frei_Montalva"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "bass guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312292",
-      "answerKey": "tom araya"
+      "answerKey": "tom araya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Araya"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q326",
-      "answerKey": "eduardo frei ruiztagle"
+      "answerKey": "eduardo frei ruiztagle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Frei_Ruiz-Tagle"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q70567",
-      "answerKey": "david pizarro"
+      "answerKey": "david pizarro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Pizarro"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310657",
-      "answerKey": "matias fernandez"
+      "answerKey": "matias fernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Fern%C3%A1ndez_(footballer%2C_born_1986)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q349172",
-      "answerKey": "gonzalo jara"
+      "answerKey": "gonzalo jara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonzalo_Jara_(footballer%2C_born_1985)"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360782",
-      "answerKey": "jorge valdivia"
+      "answerKey": "jorge valdivia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Valdivia"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230647",
-      "answerKey": "cote de pablo"
+      "answerKey": "cote de pablo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cote_de_Pablo"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295858",
-      "answerKey": "nicolas massu"
+      "answerKey": "nicolas massu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Mass%C3%BA"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q797945",
-      "answerKey": "charles aranguiz"
+      "answerKey": "charles aranguiz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Ar%C3%A1nguiz"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2022",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314630",
-      "answerKey": "leonel sanchez"
+      "answerKey": "leonel sanchez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonel_S%C3%A1nchez"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q69474",
-      "answerKey": "nicole"
+      "answerKey": "nicole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicole_(Chilean_singer)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213124",
-      "answerKey": "mark gonzalez"
+      "answerKey": "mark gonzalez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Gonz%C3%A1lez"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1991",
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160223",
-      "answerKey": "claudio arrau"
+      "answerKey": "claudio arrau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudio_Arrau"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310981",
-      "answerKey": "don elias figueroa"
+      "answerKey": "don elias figueroa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310981",
-      "answerKey": "don elias figueroa"
+      "answerKey": "don elias figueroa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/El%C3%ADas_Figueroa"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
+  "updated": "2025-12-14T22:12:45.541Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32732",
-      "answerKey": "malala yousafzai"
+      "answerKey": "malala yousafzai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malala_Yousafzai"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34413",
-      "answerKey": "benazir bhutto"
+      "answerKey": "benazir bhutto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benazir_Bhutto"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2023",
       "occupation": "financier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40495",
-      "answerKey": "pervez musharraf"
+      "answerKey": "pervez musharraf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pervez_Musharraf"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1948",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160554",
-      "answerKey": "mohammad ali jinnah"
+      "answerKey": "mohammad ali jinnah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155164",
-      "answerKey": "imran khan"
+      "answerKey": "imran khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imran_Khan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155164",
-      "answerKey": "imran khan"
+      "answerKey": "imran khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imran_Khan"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1979",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131355",
-      "answerKey": "zulfikar ali bhutto"
+      "answerKey": "zulfikar ali bhutto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zulfikar_Ali_Bhutto"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57373",
-      "answerKey": "asif ali zardari"
+      "answerKey": "asif ali zardari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asif_Ali_Zardari"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1996",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28189",
-      "answerKey": "abdus salam"
+      "answerKey": "abdus salam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdus_Salam"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134068",
-      "answerKey": "nawaz sharif"
+      "answerKey": "nawaz sharif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nawaz_Sharif"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1988",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q200499",
-      "answerKey": "muhammad ziaulhaq"
+      "answerKey": "muhammad ziaulhaq",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zia-ul-Haq"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3246667",
-      "answerKey": "abdul hamid"
+      "answerKey": "abdul hamid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abdul_Hamid"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2096387",
-      "answerKey": "shehbaz sharif"
+      "answerKey": "shehbaz sharif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shehbaz_Sharif"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208468",
-      "answerKey": "taslima nasrin"
+      "answerKey": "taslima nasrin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taslima_Nasrin"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1974",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190071",
-      "answerKey": "ayub khan"
+      "answerKey": "ayub khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayub_Khan"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1974",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q190071",
-      "answerKey": "ayub khan"
+      "answerKey": "ayub khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ayub_Khan"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2021",
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14257286",
-      "answerKey": "mamnoon hussain"
+      "answerKey": "mamnoon hussain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamnoon_Hussain"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1980",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q333981",
-      "answerKey": "yahya khan"
+      "answerKey": "yahya khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yahya_Khan"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1951",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295713",
-      "answerKey": "liaquat ali khan"
+      "answerKey": "liaquat ali khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liaquat_Ali_Khan"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1997",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299073",
-      "answerKey": "nusrat fateh ali khan"
+      "answerKey": "nusrat fateh ali khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nusrat_Fateh_Ali_Khan"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152052",
-      "answerKey": "yusuf raza gilani"
+      "answerKey": "yusuf raza gilani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Raza_Gilani"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1980",
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154260",
-      "answerKey": "oskar kokoschka"
+      "answerKey": "oskar kokoschka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oskar_Kokoschka"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4790529",
-      "answerKey": "arif alvi"
+      "answerKey": "arif alvi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arif_Alvi"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "peace activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314787",
-      "answerKey": "tariq ali"
+      "answerKey": "tariq ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tariq_Ali"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155111",
-      "answerKey": "iskandar ali mirza"
+      "answerKey": "iskandar ali mirza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iskander_Mirza"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1988",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312966",
-      "answerKey": "abdul ghaffar khan"
+      "answerKey": "abdul ghaffar khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Ghaffar_Khan"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2013",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57485",
-      "answerKey": "zillur rahman"
+      "answerKey": "zillur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zillur_Rahman"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2013",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57485",
-      "answerKey": "zillur rahman"
+      "answerKey": "zillur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zillur_Rahman"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2012",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165672",
-      "answerKey": "iajuddin ahmed"
+      "answerKey": "iajuddin ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iajuddin_Ahmed"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1981",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q198313",
-      "answerKey": "ziaur rahman"
+      "answerKey": "ziaur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziaur_Rahman"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "terrorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319068",
-      "answerKey": "khalid sheikh mohammed"
+      "answerKey": "khalid sheikh mohammed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalid_Sheikh_Mohammed"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q244338",
-      "answerKey": "bilawal bhutto zardari"
+      "answerKey": "bilawal bhutto zardari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bilawal_Bhutto_Zardari"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2021",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310773",
-      "answerKey": "abdul qadeer khan"
+      "answerKey": "abdul qadeer khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Qadeer_Khan"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1967",
       "occupation": "biographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464947",
-      "answerKey": "fatima jinnah"
+      "answerKey": "fatima jinnah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fatima_Jinnah"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2018",
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1522527",
-      "answerKey": "asma jahangir"
+      "answerKey": "asma jahangir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asma_Jahangir"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2006",
       "occupation": "botanist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314776",
-      "answerKey": "ghulam ishaq khan"
+      "answerKey": "ghulam ishaq khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghulam_Ishaq_Khan"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2010",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334059",
-      "answerKey": "farooq leghari"
+      "answerKey": "farooq leghari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farooq_Leghari"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34935",
-      "answerKey": "muhammad rafiq tarar"
+      "answerKey": "muhammad rafiq tarar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Rafiq_Tarar"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "financier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q223555",
-      "answerKey": "shaukat aziz"
+      "answerKey": "shaukat aziz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shaukat_Aziz"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1979",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q369907",
-      "answerKey": "syed abul ala maududi"
+      "answerKey": "syed abul ala maududi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abul_A'la_Maududi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1964",
       "occupation": "barrister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q369988",
-      "answerKey": "khawaja nazimuddin"
+      "answerKey": "khawaja nazimuddin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khawaja_Nazimuddin"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7461686",
-      "answerKey": "shahid khaqan abbasi"
+      "answerKey": "shahid khaqan abbasi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahid_Khaqan_Abbasi"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q254122",
-      "answerKey": "hina rabbani khar"
+      "answerKey": "hina rabbani khar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hina_Rabbani_Khar"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2016",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317465",
-      "answerKey": "abdul sattar edhi"
+      "answerKey": "abdul sattar edhi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Sattar_Edhi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2019",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q461816",
-      "answerKey": "hussain muhammad ershad"
+      "answerKey": "hussain muhammad ershad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussain_Muhammad_Ershad"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1963",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469875",
-      "answerKey": "muhammad ali bogra"
+      "answerKey": "muhammad ali bogra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Ali_Bogra"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317624",
-      "answerKey": "muhammad mian soomro"
+      "answerKey": "muhammad mian soomro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Mian_Soomro"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "stand-up comedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6443390",
-      "answerKey": "kumail nanjiani"
+      "answerKey": "kumail nanjiani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kumail_Nanjiani"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q161399",
-      "answerKey": "shahbaz bhatti"
+      "answerKey": "shahbaz bhatti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahbaz_Bhatti"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1963",
       "occupation": "barrister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2046354",
-      "answerKey": "huseyn shaheed suhrawardy"
+      "answerKey": "huseyn shaheed suhrawardy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Huseyn_Suhrawardy"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg",
+  "updated": "2025-12-14T22:20:09.855Z",
+  "wikipediaLinksAdded": true
 }

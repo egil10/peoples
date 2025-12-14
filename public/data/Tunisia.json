@@ -13,7 +13,8 @@
       "deathYear": "2019",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204487",
-      "answerKey": "zine el abidine ben ali"
+      "answerKey": "zine el abidine ben ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zine_El_Abidine_Ben_Ali"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q643348",
-      "answerKey": "habib bourguiba"
+      "answerKey": "habib bourguiba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Habib_Bourguiba"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54094",
-      "answerKey": "sami khedira"
+      "answerKey": "sami khedira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sami_Khedira"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2019",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313539",
-      "answerKey": "beji caid essebsi"
+      "answerKey": "beji caid essebsi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beji_Caid_Essebsi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4715",
-      "answerKey": "moncef marzouki"
+      "answerKey": "moncef marzouki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moncef_Marzouki"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16120878",
-      "answerKey": "kais saied"
+      "answerKey": "kais saied",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kais_Saied"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1928",
-      "answerKey": "hatem ben arfa"
+      "answerKey": "hatem ben arfa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hatem_Ben_Arfa"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q431515",
-      "answerKey": "mohamed ghannouchi"
+      "answerKey": "mohamed ghannouchi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ghannouchi"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2011",
       "occupation": "street vendor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214088",
-      "answerKey": "mohamed bouazizi"
+      "answerKey": "mohamed bouazizi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Bouazizi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q368345",
-      "answerKey": "lassad nouioui"
+      "answerKey": "lassad nouioui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lassad_Nouioui"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2025",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152369",
-      "answerKey": "fouad mebazaa"
+      "answerKey": "fouad mebazaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fouad_Mebazaa"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2013",
       "occupation": "French resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165110",
-      "answerKey": "stephane hessel"
+      "answerKey": "stephane hessel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C3%A9phane_Hessel"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2013",
       "occupation": "French resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165110",
-      "answerKey": "stephane hessel"
+      "answerKey": "stephane hessel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/St%C3%A9phane_Hessel"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27794",
-      "answerKey": "wahbi khazri"
+      "answerKey": "wahbi khazri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wahbi_Khazri"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q290212",
-      "answerKey": "ons jabeur"
+      "answerKey": "ons jabeur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ons_Jabeur"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15433043",
-      "answerKey": "moungi bawendi"
+      "answerKey": "moungi bawendi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moungi_Bawendi"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108741355",
-      "answerKey": "najla bouden"
+      "answerKey": "najla bouden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Najla_Bouden"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307996",
-      "answerKey": "abdellatif kechiche"
+      "answerKey": "abdellatif kechiche",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdellatif_Kechiche"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16636036",
-      "answerKey": "ferjani sassi"
+      "answerKey": "ferjani sassi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferjani_Sassi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360792",
-      "answerKey": "rached ghannouchi"
+      "answerKey": "rached ghannouchi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rached_Ghannouchi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235896",
-      "answerKey": "natacha atlas"
+      "answerKey": "natacha atlas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natacha_Atlas"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2020",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q733225",
-      "answerKey": "albert memmi"
+      "answerKey": "albert memmi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Memmi"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q265654",
-      "answerKey": "hatem trabelsi"
+      "answerKey": "hatem trabelsi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hatem_Trabelsi"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2409513",
-      "answerKey": "youssef msakni"
+      "answerKey": "youssef msakni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssef_Msakni"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19956607",
-      "answerKey": "yassine meriah"
+      "answerKey": "yassine meriah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yassine_Meriah"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60597",
-      "answerKey": "aymen abdennour"
+      "answerKey": "aymen abdennour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aymen_Abdennour"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257993",
-      "answerKey": "habiba ghribi"
+      "answerKey": "habiba ghribi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Habiba_Ghribi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20641500",
-      "answerKey": "ellyes skhiri"
+      "answerKey": "ellyes skhiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ellyes_Skhiri"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57699",
-      "answerKey": "hamadi jebali"
+      "answerKey": "hamadi jebali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamadi_Jebali"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q331918",
-      "answerKey": "radhi jaidi"
+      "answerKey": "radhi jaidi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radhi_Ja%C3%AFdi"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q345439",
-      "answerKey": "mohammed gammoudi"
+      "answerKey": "mohammed gammoudi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Gammoudi"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q793138",
-      "answerKey": "aymen mathlouthi"
+      "answerKey": "aymen mathlouthi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aymen_Mathlouthi"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96755704",
-      "answerKey": "hannibal mejbri"
+      "answerKey": "hannibal mejbri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannibal_Mejbri"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26405549",
-      "answerKey": "dylan bronn"
+      "answerKey": "dylan bronn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dylan_Bronn"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1883",
-      "answerKey": "sabri lamouchi"
+      "answerKey": "sabri lamouchi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabri_Lamouchi"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3064692",
-      "answerKey": "fakhreddine ben youssef"
+      "answerKey": "fakhreddine ben youssef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fakhreddine_Ben_Youssef"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q331753",
-      "answerKey": "oussama mellouli"
+      "answerKey": "oussama mellouli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oussama_Mellouli"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2017",
       "occupation": "grand couturier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2553832",
-      "answerKey": "azzedine alaia"
+      "answerKey": "azzedine alaia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Azzedine_Ala%C3%AFa"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2517101",
-      "answerKey": "yohan benalouane"
+      "answerKey": "yohan benalouane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yohan_Benalouane"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13817318",
-      "answerKey": "marwan kenzari"
+      "answerKey": "marwan kenzari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marwan_Kenzari"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2024",
       "occupation": "documentarian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257752",
-      "answerKey": "frederic mitterrand"
+      "answerKey": "frederic mitterrand",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mitterrand"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2836275",
-      "answerKey": "ali maaloul"
+      "answerKey": "ali maaloul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Ma%C3%A2loul"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2020",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457705",
-      "answerKey": "gisele halimi"
+      "answerKey": "gisele halimi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gis%C3%A8le_Halimi"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362296",
-      "answerKey": "karim haggui"
+      "answerKey": "karim haggui",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karim_Haggui"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62082",
-      "answerKey": "anis benhatira"
+      "answerKey": "anis benhatira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%84nis_Ben-Hatira"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2014",
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2043799",
-      "answerKey": "abdelmajid lakhal"
+      "answerKey": "abdelmajid lakhal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdelmajid_Lakhal"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3318530",
-      "answerKey": "mohamed ennaceur"
+      "answerKey": "mohamed ennaceur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Ennaceur"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3051875",
-      "answerKey": "elyes fakhfakh"
+      "answerKey": "elyes fakhfakh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elyes_Fakhfakh"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3358527",
-      "answerKey": "oussama haddadi"
+      "answerKey": "oussama haddadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oussama_Haddadi"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20641502",
-      "answerKey": "naim sliti"
+      "answerKey": "naim sliti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Na%C3%AFm_Sliti"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg",
+  "updated": "2025-12-14T22:23:35.835Z",
+  "wikipediaLinksAdded": true
 }

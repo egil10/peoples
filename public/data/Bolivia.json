@@ -13,7 +13,8 @@
       "deathYear": "1830",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
-      "answerKey": "simon bolivar"
+      "answerKey": "simon bolivar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42410",
-      "answerKey": "evo morales"
+      "answerKey": "evo morales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evo_Morales"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16149892",
-      "answerKey": "luis arce"
+      "answerKey": "luis arce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Arce"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16581287",
-      "answerKey": "jeanine anez"
+      "answerKey": "jeanine anez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeanine_%C3%81%C3%B1ez"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1991",
       "occupation": "torturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q77088",
-      "answerKey": "klaus barbie"
+      "answerKey": "klaus barbie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Klaus_Barbie"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558955",
-      "answerKey": "julio cesar baldivieso"
+      "answerKey": "julio cesar baldivieso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Baldivieso"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q785320",
-      "answerKey": "edivaldo hermoza"
+      "answerKey": "edivaldo hermoza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edivaldo_Hermoza"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312668",
-      "answerKey": "carlos mesa"
+      "answerKey": "carlos mesa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Mesa"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2011",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466098",
-      "answerKey": "lidia gueiler tejada"
+      "answerKey": "lidia gueiler tejada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lidia_Gueiler"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2011",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466098",
-      "answerKey": "lidia gueiler tejada"
+      "answerKey": "lidia gueiler tejada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lidia_Gueiler"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2001",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312055",
-      "answerKey": "victor paz estenssoro"
+      "answerKey": "victor paz estenssoro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Paz_Estenssoro"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2002",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q269039",
-      "answerKey": "hugo banzer"
+      "answerKey": "hugo banzer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hugo_Banzer"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312761",
-      "answerKey": "eduardo rodriguez"
+      "answerKey": "eduardo rodriguez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Rodr%C3%ADguez_Veltz%C3%A9"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379645",
-      "answerKey": "gonzalo sanchez de lozada"
+      "answerKey": "gonzalo sanchez de lozada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q332074",
-      "answerKey": "rene emilio barrientos ortuno"
+      "answerKey": "rene emilio barrientos ortuno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Barrientos"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q370507",
-      "answerKey": "marcelo martins moreno"
+      "answerKey": "marcelo martins moreno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marcelo_Martins_Moreno"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2014",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q519851",
-      "answerKey": "juan gelman"
+      "answerKey": "juan gelman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Gelman"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1856",
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372074",
-      "answerKey": "manuela saenz"
+      "answerKey": "manuela saenz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuela_S%C3%A1enz"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1865",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467959",
-      "answerKey": "andres de santa cruz"
+      "answerKey": "andres de santa cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andr%C3%A9s_de_Santa_Cruz"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2018",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467929",
-      "answerKey": "luis garcia meza tejada"
+      "answerKey": "luis garcia meza tejada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Garc%C3%ADa_Meza"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q555207",
-      "answerKey": "jaime paz zamora"
+      "answerKey": "jaime paz zamora",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Paz_Zamora"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "industrial engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468805",
-      "answerKey": "jorge quiroga"
+      "answerKey": "jorge quiroga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jorge_Quiroga"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q246243",
-      "answerKey": "marco etcheverry"
+      "answerKey": "marco etcheverry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Etcheverry"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471313",
-      "answerKey": "hernan siles zuazo"
+      "answerKey": "hernan siles zuazo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Siles_Zuazo"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1982",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1780127",
-      "answerKey": "alfredo ovando candia"
+      "answerKey": "alfredo ovando candia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Ovando"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q110520817",
-      "answerKey": "rodrigo paz pereira"
+      "answerKey": "rodrigo paz pereira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodrigo_Paz"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1976",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q195762",
-      "answerKey": "juan jose torres"
+      "answerKey": "juan jose torres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_Torres"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1928",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353784",
-      "answerKey": "adela zamudio"
+      "answerKey": "adela zamudio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adela_Zamudio"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2331752",
-      "answerKey": "erwin sanchez"
+      "answerKey": "erwin sanchez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erwin_S%C3%A1nchez"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467979",
-      "answerKey": "jaime moreno"
+      "answerKey": "jaime moreno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaime_Moreno_(footballer%2C_born_1974)"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2015",
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q541218",
-      "answerKey": "julio terrazas sandoval"
+      "answerKey": "julio terrazas sandoval",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Terrazas_Sandoval"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1935",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q738270",
-      "answerKey": "daniel salamanca urey"
+      "answerKey": "daniel salamanca urey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Salamanca"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2444070",
-      "answerKey": "toribio ticona porco"
+      "answerKey": "toribio ticona porco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toribio_Ticona_Porco"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q520731",
-      "answerKey": "juan carlos arce"
+      "answerKey": "juan carlos arce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Carlos_Arce"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q886523",
-      "answerKey": "enrique penaranda"
+      "answerKey": "enrique penaranda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Pe%C3%B1aranda"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1946",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q886495",
-      "answerKey": "gualberto villarroel"
+      "answerKey": "gualberto villarroel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gualberto_Villarroel"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q250993",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%81lvaro_Garc%C3%ADa_Linera"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1996",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80924",
-      "answerKey": "walter guevara"
+      "answerKey": "walter guevara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/W%C3%A1lter_Guevara"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1981",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q195495",
-      "answerKey": "enrique hertzog"
+      "answerKey": "enrique hertzog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Hertzog"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1871",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q734622",
-      "answerKey": "mariano melgarejo"
+      "answerKey": "mariano melgarejo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariano_Melgarejo"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q734593",
-      "answerKey": "guido vildoso"
+      "answerKey": "guido vildoso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guido_Vildoso"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2016",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q886514",
-      "answerKey": "david padilla"
+      "answerKey": "david padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Padilla"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1852",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q734711",
-      "answerKey": "jose ballivian"
+      "answerKey": "jose ballivian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ballivi%C3%A1n"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1917",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q734690",
-      "answerKey": "jose manuel pando"
+      "answerKey": "jose manuel pando",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Pando"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1894",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q492024",
-      "answerKey": "hilarion daza"
+      "answerKey": "hilarion daza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hilari%C3%B3n_Daza"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1939",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q734606",
-      "answerKey": "german busch"
+      "answerKey": "german busch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Germ%C3%A1n_Busch"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q554944",
-      "answerKey": "juan manuel pena"
+      "answerKey": "juan manuel pena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Manuel_Pe%C3%B1a"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1939",
       "occupation": "sociologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q811928",
-      "answerKey": "bautista saavedra"
+      "answerKey": "bautista saavedra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bautista_Saavedra"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1942",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q886300",
-      "answerKey": "hernando siles reyes"
+      "answerKey": "hernando siles reyes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hernando_Siles"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2005",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q886540",
-      "answerKey": "luis adolfo siles salinas"
+      "answerKey": "luis adolfo siles salinas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luis_Adolfo_Siles"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg",
+  "updated": "2025-12-14T22:11:46.800Z",
+  "wikipediaLinksAdded": true
 }

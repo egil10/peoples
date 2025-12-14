@@ -13,7 +13,8 @@
       "deathYear": "2014",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151929",
-      "answerKey": "eduard shevardnadze"
+      "answerKey": "eduard shevardnadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduard_Shevardnadze"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272416",
-      "answerKey": "salome zourabichvili"
+      "answerKey": "salome zourabichvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salom%C3%A9_Zourabichvili"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1993",
       "occupation": "literary historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q218435",
-      "answerKey": "zviad gamsakhurdia"
+      "answerKey": "zviad gamsakhurdia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zviad_Gamsakhurdia"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13107337",
-      "answerKey": "giorgi marghvilashvili"
+      "answerKey": "giorgi marghvilashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgi_Margvelashvili"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2019",
       "occupation": "film score composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348652",
-      "answerKey": "giya kancheli"
+      "answerKey": "giya kancheli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giya_Kancheli"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231630",
-      "answerKey": "nona gaprindashvili"
+      "answerKey": "nona gaprindashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nona_Gaprindashvili"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61780902",
-      "answerKey": "khvicha kvaratskhelia"
+      "answerKey": "khvicha kvaratskhelia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q485032",
-      "answerKey": "sergei bagapsh"
+      "answerKey": "sergei bagapsh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergei_Bagapsh"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6066533",
-      "answerKey": "irakli garibashvili"
+      "answerKey": "irakli garibashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irakli_Garibashvili"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q511502",
-      "answerKey": "ilia ii of georgia"
+      "answerKey": "ilia ii of georgia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilia_II_of_Georgia"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156322",
-      "answerKey": "katie melua"
+      "answerKey": "katie melua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katie_Melua"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "business oligarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57794",
-      "answerKey": "bidzina ivanishvili"
+      "answerKey": "bidzina ivanishvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bidzina_Ivanishvili"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1125",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36760",
-      "answerKey": "david iv of georgia"
+      "answerKey": "david iv of georgia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_IV"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62572609",
-      "answerKey": "nika melia"
+      "answerKey": "nika melia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nika_Melia"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43287680",
-      "answerKey": "giorgi gakharia"
+      "answerKey": "giorgi gakharia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgi_Gakharia"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192031",
-      "answerKey": "kakha kaladze"
+      "answerKey": "kakha kaladze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kakha_Kaladze"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232720",
-      "answerKey": "maia chiburdanidze"
+      "answerKey": "maia chiburdanidze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maia_Chiburdanidze"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229493",
-      "answerKey": "nino burjanadze"
+      "answerKey": "nino burjanadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nino_Burjanadze"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1918",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310896",
-      "answerKey": "niko pirosmani"
+      "answerKey": "niko pirosmani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Niko_Pirosmani"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15277881",
-      "answerKey": "giorgi kvirikashvili"
+      "answerKey": "giorgi kvirikashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgi_Kvirikashvili"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27885302",
-      "answerKey": "irakli kobakhidze"
+      "answerKey": "irakli kobakhidze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irakli_Kobakhidze"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q709320",
-      "answerKey": "davit mujiri"
+      "answerKey": "davit mujiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Davit_Mujiri"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2010",
       "occupation": "luger",
       "wikidataUrl": "http://www.wikidata.org/entity/Q193690",
-      "answerKey": "nodar kumaritashvili"
+      "answerKey": "nodar kumaritashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nodar_Kumaritashvili"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q711893",
-      "answerKey": "mikheil kavelashvili"
+      "answerKey": "mikheil kavelashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikheil_Kavelashvili"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2023",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380280",
-      "answerKey": "vakhtang kikabidze"
+      "answerKey": "vakhtang kikabidze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vakhtang_Kikabidze"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78541955",
-      "answerKey": "georges mikautadze"
+      "answerKey": "georges mikautadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Mikautadze"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2005",
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312493",
-      "answerKey": "zurab zhvania"
+      "answerKey": "zurab zhvania",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zurab_Zhvania"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "classical pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467436",
-      "answerKey": "khatia buniatishvili"
+      "answerKey": "khatia buniatishvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khatia_Buniatishvili"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54982996",
-      "answerKey": "mamuka bakhtadze"
+      "answerKey": "mamuka bakhtadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamuka_Bakhtadze"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2025",
       "occupation": "art educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1358703",
-      "answerKey": "zurab tsereteli"
+      "answerKey": "zurab tsereteli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zurab_Tsereteli"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313355",
-      "answerKey": "alexander ankvab"
+      "answerKey": "alexander ankvab",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Ankvab"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2022",
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299463",
-      "answerKey": "viktor saneyev"
+      "answerKey": "viktor saneyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viktor_Saneyev"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314365",
-      "answerKey": "shota arveladze"
+      "answerKey": "shota arveladze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shota_Arveladze"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319614",
-      "answerKey": "zaza pachulia"
+      "answerKey": "zaza pachulia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zaza_Pachulia"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2010",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313353",
-      "answerKey": "vladislav ardzinba"
+      "answerKey": "vladislav ardzinba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladislav_Ardzinba"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58419925",
-      "answerKey": "lasha bekauri"
+      "answerKey": "lasha bekauri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasha_Bekauri"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18710983",
-      "answerKey": "nina sublati"
+      "answerKey": "nina sublati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nina_Sublatti"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1817405",
-      "answerKey": "tamta"
+      "answerKey": "tamta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamta"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310942",
-      "answerKey": "nika gilauri"
+      "answerKey": "nika gilauri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nika_Gilauri"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2023",
       "occupation": "film editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q321365",
-      "answerKey": "otar iosseliani"
+      "answerKey": "otar iosseliani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Otar_Iosseliani"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4949623",
-      "answerKey": "tako gachechiladze"
+      "answerKey": "tako gachechiladze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamara_Gachechiladze"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1764908",
-      "answerKey": "lasha shavdatuashvili"
+      "answerKey": "lasha shavdatuashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasha_Shavdatuashvili"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1994",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319486",
-      "answerKey": "tengiz abuladze"
+      "answerKey": "tengiz abuladze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tengiz_Abuladze"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380730",
-      "answerKey": "vano merabishvili"
+      "answerKey": "vano merabishvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vano_Merabishvili"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99529077",
-      "answerKey": "giorgi mamardashvili"
+      "answerKey": "giorgi mamardashvili",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgi_Mamardashvili"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "stage actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229755",
-      "answerKey": "sofia nizharadze"
+      "answerKey": "sofia nizharadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sofia_Nizharadze"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "stage actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229755",
-      "answerKey": "sofia nizharadze"
+      "answerKey": "sofia nizharadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sofia_Nizharadze"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3218304",
-      "answerKey": "lasha talakhadze"
+      "answerKey": "lasha talakhadze",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lasha_Talakhadze"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316238",
-      "answerKey": "zurab noghaideli"
+      "answerKey": "zurab noghaideli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zurab_Nogaideli"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1359023",
-      "answerKey": "raul khadjimba"
+      "answerKey": "raul khadjimba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raul_Khajimba"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:14:43.800Z",
+  "wikipediaLinksAdded": true
 }

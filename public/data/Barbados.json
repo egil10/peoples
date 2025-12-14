@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36844",
-      "answerKey": "rihanna"
+      "answerKey": "rihanna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rihanna"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6827147",
-      "answerKey": "mia mottley"
+      "answerKey": "mia mottley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mia_Mottley"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9333540",
-      "answerKey": "sandra mason"
+      "answerKey": "sandra mason",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Mason"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57709",
-      "answerKey": "freundel stuart"
+      "answerKey": "freundel stuart",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freundel_Stuart"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2010",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310082",
-      "answerKey": "david thompson"
+      "answerKey": "david thompson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Thompson_(Barbadian_politician)"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2020",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356389",
-      "answerKey": "owen arthur"
+      "answerKey": "owen arthur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Owen_Arthur"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233544",
-      "answerKey": "shontelle"
+      "answerKey": "shontelle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shontelle"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q349811",
-      "answerKey": "ryan brathwaite"
+      "answerKey": "ryan brathwaite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ryan_Brathwaite"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366517",
-      "answerKey": "obadele thompson"
+      "answerKey": "obadele thompson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Obadele_Thompson"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q506900",
-      "answerKey": "grandmaster flash"
+      "answerKey": "grandmaster flash",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grandmaster_Flash"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q561991",
-      "answerKey": "emmerson boyce"
+      "answerKey": "emmerson boyce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmerson_Boyce"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24955964",
-      "answerKey": "sada williams"
+      "answerKey": "sada williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sada_Williams"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q431236",
-      "answerKey": "nick blackman"
+      "answerKey": "nick blackman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nick_Blackman"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1987",
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1361644",
-      "answerKey": "errol barrow"
+      "answerKey": "errol barrow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Errol_Barrow"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981485",
-      "answerKey": "garfield sobers"
+      "answerKey": "garfield sobers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garfield_Sobers"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2717754",
-      "answerKey": "elliott belgrave"
+      "answerKey": "elliott belgrave",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elliott_Belgrave"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3371110",
-      "answerKey": "ramon gittens"
+      "answerKey": "ramon gittens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ramon_Gittens"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2023",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q114622",
-      "answerKey": "lloyd erskine sandiford"
+      "answerKey": "lloyd erskine sandiford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lloyd_Erskine_Sandiford"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1985",
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q259189",
-      "answerKey": "tom adams"
+      "answerKey": "tom adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Adams_(politician)"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2020",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q515790",
-      "answerKey": "everton weekes"
+      "answerKey": "everton weekes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Everton_Weekes"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q86923950",
-      "answerKey": "zane maloney"
+      "answerKey": "zane maloney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zane_Maloney"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6162716",
-      "answerKey": "jason holder"
+      "answerKey": "jason holder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jason_Holder"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5079475",
-      "answerKey": "charles jason gordon"
+      "answerKey": "charles jason gordon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Jason_Gordon"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16526914",
-      "answerKey": "akela jones"
+      "answerKey": "akela jones",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Akela_Jones"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2004",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1371769",
-      "answerKey": "harold bernard st john"
+      "answerKey": "harold bernard st john",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harold_Bernard_St._John"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1935",
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1691641",
-      "answerKey": "barbados joe walcott"
+      "answerKey": "barbados joe walcott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbados_Joe_Walcott"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107718230",
-      "answerKey": "jeffrey bostic"
+      "answerKey": "jeffrey bostic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeffrey_Bostic"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23772680",
-      "answerKey": "shamilia connell"
+      "answerKey": "shamilia connell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shamilia_Connell"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1971",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3228666",
-      "answerKey": "learie constantine"
+      "answerKey": "learie constantine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Learie_Constantine"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3017545",
-      "answerKey": "dennis bovell"
+      "answerKey": "dennis bovell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dennis_Bovell"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2006",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q462487",
-      "answerKey": "clyde walcott"
+      "answerKey": "clyde walcott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clyde_Walcott"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3522020",
-      "answerKey": "desmond haynes"
+      "answerKey": "desmond haynes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Desmond_Haynes"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21621458",
-      "answerKey": "hayley matthews"
+      "answerKey": "hayley matthews",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hayley_Matthews"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2000565",
-      "answerKey": "paul ifill"
+      "answerKey": "paul ifill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Ifill"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2461636",
-      "answerKey": "andrea blackett"
+      "answerKey": "andrea blackett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Blackett"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3351716",
-      "answerKey": "joel garner"
+      "answerKey": "joel garner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Garner"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1971",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q707548",
-      "answerKey": "grantley herbert adams"
+      "answerKey": "grantley herbert adams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grantley_Herbert_Adams"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1967",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q954650",
-      "answerKey": "frank worrell"
+      "answerKey": "frank worrell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Worrell"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6451285",
-      "answerKey": "kyle mayers"
+      "answerKey": "kyle mayers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyle_Mayers"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5246692",
-      "answerKey": "deandra dottin"
+      "answerKey": "deandra dottin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Deandra_Dottin"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16571809",
-      "answerKey": "levi cadogan"
+      "answerKey": "levi cadogan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Levi_Cadogan"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16941915",
-      "answerKey": "darian king"
+      "answerKey": "darian king",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Darian_King"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25714029",
-      "answerKey": "jofra archer"
+      "answerKey": "jofra archer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jofra_Archer"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25714029",
-      "answerKey": "jofra archer"
+      "answerKey": "jofra archer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jofra_Archer"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2846635",
-      "answerKey": "andrew hinds"
+      "answerKey": "andrew hinds",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Hinds"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q330487",
-      "answerKey": "mark mccammon"
+      "answerKey": "mark mccammon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_McCammon"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "hurdler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7487995",
-      "answerKey": "shane brathwaite"
+      "answerKey": "shane brathwaite",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shane_Brathwaite"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14949582",
-      "answerKey": "karen lord"
+      "answerKey": "karen lord",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karen_Lord"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26160489",
-      "answerKey": "mario burke"
+      "answerKey": "mario burke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Burke"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q952255",
-      "answerKey": "rayvon"
+      "answerKey": "rayvon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayvon"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg",
+  "updated": "2025-12-14T22:11:21.079Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "narrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2263",
-      "answerKey": "tom hanks"
+      "answerKey": "tom hanks",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tom_Hanks"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1971",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165823",
-      "answerKey": "giorgos seferis"
+      "answerKey": "giorgos seferis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgos_Seferis"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312015",
-      "answerKey": "alexis tsipras"
+      "answerKey": "alexis tsipras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexis_Tsipras"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1977",
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Callas"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1977",
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Callas"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1996",
       "occupation": "art critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160478",
-      "answerKey": "odysseas elytis"
+      "answerKey": "odysseas elytis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odysseas_Elytis"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1957",
       "occupation": "lexicographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214622",
-      "answerKey": "nikos kazantzakis"
+      "answerKey": "nikos kazantzakis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikos_Kazantzakis"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1975",
       "occupation": "ship-owner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180455",
-      "answerKey": "aristotle onassis"
+      "answerKey": "aristotle onassis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aristotle_Onassis"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2003",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q72717",
-      "answerKey": "elia kazan"
+      "answerKey": "elia kazan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elia_Kazan"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552751",
-      "answerKey": "kyriakos mitsotakis"
+      "answerKey": "kyriakos mitsotakis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyriakos_Mitsotakis"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2023",
       "occupation": "sailor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151773",
-      "answerKey": "constantine ii of greece"
+      "answerKey": "constantine ii of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantine_II_of_Greece"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2022",
       "occupation": "film score composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153172",
-      "answerKey": "vangelis"
+      "answerKey": "vangelis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vangelis"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57415743",
-      "answerKey": "katerina sakellaropoulou"
+      "answerKey": "katerina sakellaropoulou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Katerina_Sakellaropoulou"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1933",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216980",
-      "answerKey": "konstantinos p cavafy"
+      "answerKey": "konstantinos p cavafy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantine_P._Cavafy"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "Greek Orthodox bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44501",
-      "answerKey": "patriarch bartholomew of constantinople"
+      "answerKey": "patriarch bartholomew of constantinople",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_I_of_Constantinople"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154662",
-      "answerKey": "nana mouskouri"
+      "answerKey": "nana mouskouri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nana_Mouskouri"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1913",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
-      "answerKey": "george i of greece"
+      "answerKey": "george i of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_I_of_Greece"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1913",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
-      "answerKey": "george i of greece"
+      "answerKey": "george i of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_I_of_Greece"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1913",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
-      "answerKey": "george i of greece"
+      "answerKey": "george i of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_I_of_Greece"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "sociologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151917",
-      "answerKey": "giorgos papandreou"
+      "answerKey": "giorgos papandreou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Papandreou"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1936",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q205545",
-      "answerKey": "eleftherios venizelos"
+      "answerKey": "eleftherios venizelos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2021",
       "occupation": "legal counselor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57303",
-      "answerKey": "karolos papoulias"
+      "answerKey": "karolos papoulias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karolos_Papoulias"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3407316",
-      "answerKey": "prokopis pavlopoulos"
+      "answerKey": "prokopis pavlopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prokopis_Pavlopoulos"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2015",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q487882",
-      "answerKey": "demis roussos"
+      "answerKey": "demis roussos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Demis_Roussos"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8991894",
-      "answerKey": "giannis antetokounmpo"
+      "answerKey": "giannis antetokounmpo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2021",
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151976",
-      "answerKey": "mikis theodorakis"
+      "answerKey": "mikis theodorakis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikis_Theodorakis"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40688",
-      "answerKey": "yanis varoufakis"
+      "answerKey": "yanis varoufakis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yanis_Varoufakis"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1994",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q228611",
-      "answerKey": "melina mercouri"
+      "answerKey": "melina mercouri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Melina_Mercouri"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164281",
-      "answerKey": "loukas papademos"
+      "answerKey": "loukas papademos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Papademos"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1923",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152099",
-      "answerKey": "constantine i of greece"
+      "answerKey": "constantine i of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Greece"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1923",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152099",
-      "answerKey": "constantine i of greece"
+      "answerKey": "constantine i of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantine_I_of_Greece"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1947",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152935",
-      "answerKey": "george ii of greece"
+      "answerKey": "george ii of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_II_of_Greece"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183008",
-      "answerKey": "helena paparizou"
+      "answerKey": "helena paparizou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helena_Paparizou"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183008",
-      "answerKey": "helena paparizou"
+      "answerKey": "helena paparizou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Helena_Paparizou"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2022",
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230563",
-      "answerKey": "irene papas"
+      "answerKey": "irene papas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irene_Papas"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1964",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155394",
-      "answerKey": "paul of greece"
+      "answerKey": "paul of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_of_Greece"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188983",
-      "answerKey": "giorgos karagounis"
+      "answerKey": "giorgos karagounis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giorgos_Karagounis"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192923",
-      "answerKey": "sokratis papastathopoulos"
+      "answerKey": "sokratis papastathopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sokratis_Papastathopoulos"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57806",
-      "answerKey": "antonis samaras"
+      "answerKey": "antonis samaras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonis_Samaras"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1831",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220430",
-      "answerKey": "ioannis kapodistrias"
+      "answerKey": "ioannis kapodistrias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Kapodistrias"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1998",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156806",
-      "answerKey": "konstantinos karamanlis"
+      "answerKey": "konstantinos karamanlis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantinos_Karamanlis"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202404",
-      "answerKey": "giorgos samaras"
+      "answerKey": "giorgos samaras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georgios_Samaras"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295002",
-      "answerKey": "avraam papadopoulos"
+      "answerKey": "avraam papadopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avraam_Papadopoulos"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1996",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q219256",
-      "answerKey": "andreas papandreou"
+      "answerKey": "andreas papandreou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andreas_Papandreou"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "nightclub owner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60970",
-      "answerKey": "sakis rouvas"
+      "answerKey": "sakis rouvas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sakis_Rouvas"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2012",
       "occupation": "film critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55168",
-      "answerKey": "thodoros angelopoulos"
+      "answerKey": "thodoros angelopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theo_Angelopoulos"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1920",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151742",
-      "answerKey": "alexander of greece"
+      "answerKey": "alexander of greece",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_of_Greece"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296698",
-      "answerKey": "costagavras"
+      "answerKey": "costagavras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Costa-Gavras"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1941",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189139",
-      "answerKey": "ioannis metaxas"
+      "answerKey": "ioannis metaxas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ioannis_Metaxas"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2016",
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206421",
-      "answerKey": "konstantinos stephanopoulos"
+      "answerKey": "konstantinos stephanopoulos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantinos_Stephanopoulos"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
+  "updated": "2025-12-14T22:14:59.520Z",
+  "wikipediaLinksAdded": true
 }

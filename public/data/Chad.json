@@ -13,7 +13,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57350",
-      "answerKey": "idriss deby"
+      "answerKey": "idriss deby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Idriss_D%C3%A9by"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2021",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310886",
-      "answerKey": "hissene habre"
+      "answerKey": "hissene habre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiss%C3%A8ne_Habr%C3%A9"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16206405",
-      "answerKey": "mahamat deby"
+      "answerKey": "mahamat deby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamat_D%C3%A9by"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297812",
-      "answerKey": "francois tombalbaye"
+      "answerKey": "francois tombalbaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Tombalbaye"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57087586",
-      "answerKey": "hindou oumarou ibrahim"
+      "answerKey": "hindou oumarou ibrahim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hindou_Oumarou_Ibrahim"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58117",
-      "answerKey": "moussa faki"
+      "answerKey": "moussa faki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moussa_Faki"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q725722",
-      "answerKey": "mahamat saleh haroun"
+      "answerKey": "mahamat saleh haroun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamat-Saleh_Haroun"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4710950",
-      "answerKey": "albert pahimi padacke"
+      "answerKey": "albert pahimi padacke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Pahimi_Padack%C3%A9"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q918784",
-      "answerKey": "mc solaar"
+      "answerKey": "mc solaar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MC_Solaar"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q510225",
-      "answerKey": "ezechiel ndouassel"
+      "answerKey": "ezechiel ndouassel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezechiel_N'Douassel"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57872",
-      "answerKey": "emmanuel nadingar"
+      "answerKey": "emmanuel nadingar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emmanuel_Nadingar"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7403916",
-      "answerKey": "saleh kebzabo"
+      "answerKey": "saleh kebzabo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saleh_Kebzabo"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2019",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3661283",
-      "answerKey": "djimrangar dadnadji"
+      "answerKey": "djimrangar dadnadji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Djimrangar_Dadnadji"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126086566",
-      "answerKey": "allamaye halina"
+      "answerKey": "allamaye halina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allamaye_Halina"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126086566",
-      "answerKey": "allamaye halina"
+      "answerKey": "allamaye halina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allamaye_Halina"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19518001",
-      "answerKey": "casimir ninga"
+      "answerKey": "casimir ninga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Casimir_Ninga"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15221749",
-      "answerKey": "kalzeubet pahimi deubet"
+      "answerKey": "kalzeubet pahimi deubet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalzeubet_Pahimi_Deubet"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106598060",
-      "answerKey": "succes masra"
+      "answerKey": "succes masra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Succ%C3%A8s_Masra"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5254427",
-      "answerKey": "delphine djiraibe"
+      "answerKey": "delphine djiraibe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Delphine_Djiraibe"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1371523",
-      "answerKey": "haroun kabadi"
+      "answerKey": "haroun kabadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haroun_Kabadi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26459671",
-      "answerKey": "bibiro ali taher"
+      "answerKey": "bibiro ali taher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bibiro_Ali_Taher"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1285666",
-      "answerKey": "edmond jitangar"
+      "answerKey": "edmond jitangar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edmond_Jitangar"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1371488",
-      "answerKey": "nagoum yamassoum"
+      "answerKey": "nagoum yamassoum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nagoum_Yamassoum"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3658508",
-      "answerKey": "issa serge coelo"
+      "answerKey": "issa serge coelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Issa_Serge_Coelo"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2001",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q681208",
-      "answerKey": "gabriel lisette"
+      "answerKey": "gabriel lisette",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriel_Lisette"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3325995",
-      "answerKey": "mounira mitchala"
+      "answerKey": "mounira mitchala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mounira_Mitchala"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21964709",
-      "answerKey": "rosalie gangue"
+      "answerKey": "rosalie gangue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rosalie_Gangu%C3%A9"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27662545",
-      "answerKey": "hissein brahim sem taha"
+      "answerKey": "hissein brahim sem taha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hissein_Brahim_Taha"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64781750",
-      "answerKey": "khalifa koumadje"
+      "answerKey": "khalifa koumadje",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khalifa_Koumadje"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "cultural activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1154316",
-      "answerKey": "koulsy lamko"
+      "answerKey": "koulsy lamko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Koulsy_Lamko"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61763036",
-      "answerKey": "ache coelo"
+      "answerKey": "ache coelo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ach%C3%A9_Ahmat_Moustapha"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1963",
       "occupation": "freedom fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3509901",
-      "answerKey": "gontchome sahoulba"
+      "answerKey": "gontchome sahoulba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gontchom%C3%A9_Sahoulba"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q717952",
-      "answerKey": "nassour guelendouksia ouaido"
+      "answerKey": "nassour guelendouksia ouaido",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nassour_Guelendouksia_Ouaido"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8059107",
-      "answerKey": "youssouf djaoro"
+      "answerKey": "youssouf djaoro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssouf_Djaoro"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "consort",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12250368",
-      "answerKey": "hinda deby itno"
+      "answerKey": "hinda deby itno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hinda_D%C3%A9by_Itno"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "cartoonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48876981",
-      "answerKey": "salma khalil alio"
+      "answerKey": "salma khalil alio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salma_Khalil_Alio"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75004649",
-      "answerKey": "achta djibrine sy"
+      "answerKey": "achta djibrine sy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Achta_Djibrine_Sy"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61762308",
-      "answerKey": "achta saleh damane"
+      "answerKey": "achta saleh damane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Achta_Saleh_Damane"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2024",
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8050505",
-      "answerKey": "yaya dillo djerou"
+      "answerKey": "yaya dillo djerou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yaya_Dillo_Dj%C3%A9rou"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450559",
-      "answerKey": "leger djime"
+      "answerKey": "leger djime",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/L%C3%A9ger_Djimrangar"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104172784",
-      "answerKey": "amina priscille longoh"
+      "answerKey": "amina priscille longoh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amina_Priscille_Longoh"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2025",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42415316",
-      "answerKey": "aziza baroud"
+      "answerKey": "aziza baroud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aziza_Baroud"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19662475",
-      "answerKey": "mahamat zene cherif"
+      "answerKey": "mahamat zene cherif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamat_Zene_Cherif"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q99568520",
-      "answerKey": "mariam ali moussa"
+      "answerKey": "mariam ali moussa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariam_Ali_Moussa"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60965479",
-      "answerKey": "banata tchale sow"
+      "answerKey": "banata tchale sow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Banata_Tchale_Sow"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3341908",
-      "answerKey": "nimrod"
+      "answerKey": "nimrod",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nimrod_(writer)"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3528720",
-      "answerKey": "timane erdimi"
+      "answerKey": "timane erdimi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Timane_Erdimi"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9034140",
-      "answerKey": "mahamat saleh annadif"
+      "answerKey": "mahamat saleh annadif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamat_Saleh_Annadif"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9034140",
-      "answerKey": "mahamat saleh annadif"
+      "answerKey": "mahamat saleh annadif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamat_Saleh_Annadif"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "archer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107279564",
-      "answerKey": "israel madaye"
+      "answerKey": "israel madaye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Israel_Madaye"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chad.svg",
+  "updated": "2025-12-14T22:12:40.425Z",
+  "wikipediaLinksAdded": true
 }

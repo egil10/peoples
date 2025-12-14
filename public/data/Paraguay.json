@@ -13,7 +13,8 @@
       "deathYear": "2006",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152534",
-      "answerKey": "alfredo stroessner"
+      "answerKey": "alfredo stroessner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfredo_Stroessner"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5901842",
-      "answerKey": "horacio cartes"
+      "answerKey": "horacio cartes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Horacio_Cartes"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "sociologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151879",
-      "answerKey": "fernando lugo"
+      "answerKey": "fernando lugo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Lugo"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152492",
-      "answerKey": "roque santa cruz"
+      "answerKey": "roque santa cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roque_Santa_Cruz"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216312",
-      "answerKey": "jose luis chilavert"
+      "answerKey": "jose luis chilavert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Chilavert"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2005",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159967",
-      "answerKey": "augusto roa bastos"
+      "answerKey": "augusto roa bastos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Augusto_Roa_Bastos"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264228",
-      "answerKey": "francisco arce"
+      "answerKey": "francisco arce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Arce"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5340511",
-      "answerKey": "eduardo aranda"
+      "answerKey": "eduardo aranda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Aranda"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1870",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37677",
-      "answerKey": "francisco solano lopez"
+      "answerKey": "francisco solano lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Solano_L%C3%B3pez"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1870",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37677",
-      "answerKey": "francisco solano lopez"
+      "answerKey": "francisco solano lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francisco_Solano_L%C3%B3pez"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157584",
-      "answerKey": "nelson valdez"
+      "answerKey": "nelson valdez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelson_Valdez"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57496",
-      "answerKey": "federico franco"
+      "answerKey": "federico franco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Franco"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57496",
-      "answerKey": "federico franco"
+      "answerKey": "federico franco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Franco"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154623",
-      "answerKey": "lucas barrios"
+      "answerKey": "lucas barrios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lucas_Barrios"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213437",
-      "answerKey": "oscar crsos"
+      "answerKey": "oscar crsos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%93scar_Cardozo"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q491544",
-      "answerKey": "jose ortigoza"
+      "answerKey": "jose ortigoza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ortigoza"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q222652",
-      "answerKey": "nicanor duarte"
+      "answerKey": "nicanor duarte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicanor_Duarte"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q48136013",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mario_Abdo_Ben%C3%ADtez"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1840",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34063",
-      "answerKey": "jose gaspar rodriguez de francia"
+      "answerKey": "jose gaspar rodriguez de francia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar_Rodr%C3%ADguez_de_Francia"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1840",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34063",
-      "answerKey": "jose gaspar rodriguez de francia"
+      "answerKey": "jose gaspar rodriguez de francia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar_Rodr%C3%ADguez_de_Francia"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295512",
-      "answerKey": "carlos gamarra"
+      "answerKey": "carlos gamarra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Gamarra"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217095",
-      "answerKey": "justo villar"
+      "answerKey": "justo villar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Justo_Villar"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215431",
-      "answerKey": "antolin alcaraz"
+      "answerKey": "antolin alcaraz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antol%C3%ADn_Alcaraz"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22695687",
-      "answerKey": "santiago pena palacios"
+      "answerKey": "santiago pena palacios",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Santiago_Pe%C3%B1a"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1862",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235648",
-      "answerKey": "carlos antonio lopez"
+      "answerKey": "carlos antonio lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1862",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235648",
-      "answerKey": "carlos antonio lopez"
+      "answerKey": "carlos antonio lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1862",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235648",
-      "answerKey": "carlos antonio lopez"
+      "answerKey": "carlos antonio lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1862",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235648",
-      "answerKey": "carlos antonio lopez"
+      "answerKey": "carlos antonio lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1862",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235648",
-      "answerKey": "carlos antonio lopez"
+      "answerKey": "carlos antonio lopez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Antonio_L%C3%B3pez"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215454",
-      "answerKey": "cristian riveros"
+      "answerKey": "cristian riveros",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Riveros"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16145667",
-      "answerKey": "miguel almiron"
+      "answerKey": "miguel almiron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miguel_Almir%C3%B3n"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311676",
-      "answerKey": "edgar barreto"
+      "answerKey": "edgar barreto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89dgar_Barreto"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q968361",
-      "answerKey": "juan manuel iturbe"
+      "answerKey": "juan manuel iturbe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Iturbe"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "beach soccer player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353234",
-      "answerKey": "roberto acuna"
+      "answerKey": "roberto acuna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Acu%C3%B1a"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1033783",
-      "answerKey": "gustavo gomez"
+      "answerKey": "gustavo gomez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavo_G%C3%B3mez"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310710",
-      "answerKey": "paulo da silva"
+      "answerKey": "paulo da silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_da_Silva"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q376549",
-      "answerKey": "juan carlos wasmosy"
+      "answerKey": "juan carlos wasmosy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Carlos_Wasmosy"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q377971",
-      "answerKey": "jose cardozo"
+      "answerKey": "jose cardozo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jos%C3%A9_Cardozo"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q328886",
-      "answerKey": "claudio morel rodriguez irala"
+      "answerKey": "claudio morel rodriguez irala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudio_Morel"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312927",
-      "answerKey": "enrique vera"
+      "answerKey": "enrique vera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Vera"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q343080",
-      "answerKey": "salvador cabanas"
+      "answerKey": "salvador cabanas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Caba%C3%B1as"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10856523",
-      "answerKey": "antonio sanabria"
+      "answerKey": "antonio sanabria",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonio_Sanabria"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1999",
       "occupation": "ceramicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464474",
-      "answerKey": "josefina pla"
+      "answerKey": "josefina pla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josefina_Pl%C3%A1"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83192",
-      "answerKey": "ivan piris"
+      "answerKey": "ivan piris",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iv%C3%A1n_Piris"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "stage actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153040",
-      "answerKey": "larissa riquelme"
+      "answerKey": "larissa riquelme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Larissa_Riquelme"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342493",
-      "answerKey": "diego barreto"
+      "answerKey": "diego barreto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diego_Barreto"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316747",
-      "answerKey": "carlos bonet"
+      "answerKey": "carlos bonet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Bonet"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316728",
-      "answerKey": "julio cesar caceres"
+      "answerKey": "julio cesar caceres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_C%C3%A1ceres"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348925",
-      "answerKey": "victor caceres"
+      "answerKey": "victor caceres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_C%C3%A1ceres"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q85872272",
-      "answerKey": "julio cesar enciso footballer born 2004"
+      "answerKey": "julio cesar enciso footballer born 2004",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julio_Enciso_(footballer%2C_born_2004)"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg",
+  "updated": "2025-12-14T22:20:27.269Z",
+  "wikipediaLinksAdded": true
 }

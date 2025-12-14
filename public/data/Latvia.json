@@ -13,7 +13,8 @@
       "deathYear": "1992",
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102664",
-      "answerKey": "mikhail tal"
+      "answerKey": "mikhail tal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Tal"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295420",
-      "answerKey": "mikhail baryshnikov"
+      "answerKey": "mikhail baryshnikov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikhail_Baryshnikov"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61121565",
-      "answerKey": "evika silina"
+      "answerKey": "evika silina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evika_Sili%C5%86a"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "Chernobyl liquidator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182673",
-      "answerKey": "valdis zatlers"
+      "answerKey": "valdis zatlers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valdis_Zatlers"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3047551",
-      "answerKey": "edgars rinkevics"
+      "answerKey": "edgars rinkevics",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgars_Rink%C4%93vi%C4%8Ds"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151301",
-      "answerKey": "vaira vikefreiberga"
+      "answerKey": "vaira vikefreiberga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vaira_V%C4%AB%C4%B7e-Freiberga"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "biologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2416022",
-      "answerKey": "raimonds vejonis"
+      "answerKey": "raimonds vejonis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raimonds_V%C4%93jonis"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348043",
-      "answerKey": "egils levits"
+      "answerKey": "egils levits",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Egils_Levits"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57630",
-      "answerKey": "valdis dombrovskis"
+      "answerKey": "valdis dombrovskis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valdis_Dombrovskis"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57506",
-      "answerKey": "andris berzins"
+      "answerKey": "andris berzins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andris_B%C4%93rzi%C5%86%C5%A1_(president)"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1942",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q298041",
-      "answerKey": "karlis ulmanis"
+      "answerKey": "karlis ulmanis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/K%C4%81rlis_Ulmanis"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3089345",
-      "answerKey": "laimdota straujuma"
+      "answerKey": "laimdota straujuma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laimdota_Straujuma"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3736499",
-      "answerKey": "krisjanis karins"
+      "answerKey": "krisjanis karins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kri%C5%A1j%C4%81nis_Kari%C5%86%C5%A1"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5551564",
-      "answerKey": "jelena ostapenko"
+      "answerKey": "jelena ostapenko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Je%C4%BCena_Ostapenko"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1929",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348001",
-      "answerKey": "rainis"
+      "answerKey": "rainis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainis"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229366",
-      "answerKey": "marija naumova"
+      "answerKey": "marija naumova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marija_Naumova"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60106",
-      "answerKey": "guntis ulmanis"
+      "answerKey": "guntis ulmanis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guntis_Ulmanis"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2019",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158340",
-      "answerKey": "mariss jansons"
+      "answerKey": "mariss jansons",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariss_Jansons"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217038",
-      "answerKey": "maris verpakovskis"
+      "answerKey": "maris verpakovskis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C4%81ris_Verpakovskis"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1927",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379554",
-      "answerKey": "janis cakste"
+      "answerKey": "janis cakste",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C4%81nis_%C4%8Cakste"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6112509",
-      "answerKey": "maris kucinskis"
+      "answerKey": "maris kucinskis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C4%81ris_Ku%C4%8Dinskis"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q210715",
-      "answerKey": "aigars kalvitis"
+      "answerKey": "aigars kalvitis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aigars_Kalv%C4%ABtis"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295866",
-      "answerKey": "ernests gulbis"
+      "answerKey": "ernests gulbis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernests_Gulbis"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295866",
-      "answerKey": "ernests gulbis"
+      "answerKey": "ernests gulbis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernests_Gulbis"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235225",
-      "answerKey": "elina garanca"
+      "answerKey": "elina garanca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/El%C4%ABna_Garan%C4%8Da"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2022",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q92628",
-      "answerKey": "juris hartmanis"
+      "answerKey": "juris hartmanis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juris_Hartmanis"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q210822",
-      "answerKey": "ivars godmanis"
+      "answerKey": "ivars godmanis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivars_Godmanis"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19346451",
-      "answerKey": "aminata savadogo"
+      "answerKey": "aminata savadogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminata_Savadogo"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229801",
-      "answerKey": "aija andrejeva"
+      "answerKey": "aija andrejeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aisha_(Latvian_singer)"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236968",
-      "answerKey": "sandra kalniete"
+      "answerKey": "sandra kalniete",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandra_Kalniete"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q114954",
-      "answerKey": "artjoms rudnevs"
+      "answerKey": "artjoms rudnevs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Artjoms_Rud%C5%86evs"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1943",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257872",
-      "answerKey": "aspazija"
+      "answerKey": "aspazija",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aspazija"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433045",
-      "answerKey": "uljana semjonova"
+      "answerKey": "uljana semjonova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Uljana_Semjonova"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6381120",
-      "answerKey": "deandre yedlin"
+      "answerKey": "deandre yedlin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/DeAndre_Yedlin"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14834367",
-      "answerKey": "kristaps porzingis"
+      "answerKey": "kristaps porzingis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristaps_Porzi%C5%86%C4%A3is"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "violinist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159915",
-      "answerKey": "gidon kremer"
+      "answerKey": "gidon kremer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gidon_Kremer"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232445",
-      "answerKey": "anastasija sevastova"
+      "answerKey": "anastasija sevastova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anastasija_Sevastova"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "conductor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q511817",
-      "answerKey": "andris nelsons"
+      "answerKey": "andris nelsons",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andris_Nelsons"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2020",
       "occupation": "javelin thrower",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318923",
-      "answerKey": "janis lusis"
+      "answerKey": "janis lusis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C4%81nis_L%C5%ABsis"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13217375",
-      "answerKey": "samanta tina"
+      "answerKey": "samanta tina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samanta_T%C4%ABna"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "science communicator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4449893",
-      "answerKey": "daina taimina"
+      "answerKey": "daina taimina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daina_Taimi%C5%86a"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1939",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366054",
-      "answerKey": "gustavs zemgals"
+      "answerKey": "gustavs zemgals",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavs_Zemgals"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362955",
-      "answerKey": "vitalijs astafjevs"
+      "answerKey": "vitalijs astafjevs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vit%C4%81lijs_Astafjevs"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362843",
-      "answerKey": "aleksandrs cauna"
+      "answerKey": "aleksandrs cauna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksandrs_Cau%C5%86a"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q178708",
-      "answerKey": "raimonds pauls"
+      "answerKey": "raimonds pauls",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raimonds_Pauls"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "2008",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257901",
-      "answerKey": "vija artmane"
+      "answerKey": "vija artmane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vija_Artmane"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q357419",
-      "answerKey": "janis pujats"
+      "answerKey": "janis pujats",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C4%81nis_Pujats"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1944",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q382253",
-      "answerKey": "alberts kviesis"
+      "answerKey": "alberts kviesis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberts_Kviesis"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1957",
       "occupation": "chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63131",
-      "answerKey": "paul walden"
+      "answerKey": "paul walden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Walden"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "voice actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465793",
-      "answerKey": "laima vaikule"
+      "answerKey": "laima vaikule",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laima_Vaikule"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg",
+  "updated": "2025-12-14T22:17:12.563Z",
+  "wikipediaLinksAdded": true
 }

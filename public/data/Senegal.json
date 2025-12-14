@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57482",
-      "answerKey": "mahamadou issoufou"
+      "answerKey": "mahamadou issoufou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamadou_Issoufou"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3318398",
-      "answerKey": "mohamed bazoum"
+      "answerKey": "mohamed bazoum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Bazoum"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2020",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220227",
-      "answerKey": "mamadou tandja"
+      "answerKey": "mamadou tandja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamadou_Tandja"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314355",
-      "answerKey": "diori hamani"
+      "answerKey": "diori hamani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamani_Diori"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q120965176",
-      "answerKey": "abdourahamane tchiani"
+      "answerKey": "abdourahamane tchiani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdourahamane_Tchiani"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319430",
-      "answerKey": "mahamane ousmane"
+      "answerKey": "mahamane ousmane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahamane_Ousmane"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1987",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353198",
-      "answerKey": "seyni kountche"
+      "answerKey": "seyni kountche",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seyni_Kountch%C3%A9"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57877",
-      "answerKey": "brigi rafini"
+      "answerKey": "brigi rafini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brigi_Rafini"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1999",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365417",
-      "answerKey": "ibrahim bare mainassara"
+      "answerKey": "ibrahim bare mainassara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Bar%C3%A9_Ma%C3%AFnassara"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2011",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q448655",
-      "answerKey": "ali saibou"
+      "answerKey": "ali saibou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Saibou"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7110324",
-      "answerKey": "ouhoumoudou mahamadou"
+      "answerKey": "ouhoumoudou mahamadou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ouhoumoudou_Mahamadou"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356835",
-      "answerKey": "salou djibo"
+      "answerKey": "salou djibo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salou_Djibo"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5637905",
-      "answerKey": "hadizatou mani"
+      "answerKey": "hadizatou mani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hadizatou_Mani"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q507389",
-      "answerKey": "moussa maazou"
+      "answerKey": "moussa maazou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moussa_Ma%C3%A2zou"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2024",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q544141",
-      "answerKey": "hama amadou"
+      "answerKey": "hama amadou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hama_Amadou"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2646711",
-      "answerKey": "ali lamine zeine"
+      "answerKey": "ali lamine zeine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Lamine_Zeine"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2646711",
-      "answerKey": "ali lamine zeine"
+      "answerKey": "ali lamine zeine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Lamine_Zeine"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25433452",
-      "answerKey": "abdoul razak issoufou"
+      "answerKey": "abdoul razak issoufou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdoul_Razak_Issoufou"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2061385",
-      "answerKey": "amadou moutari"
+      "answerKey": "amadou moutari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amadou_Moutari"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5680106",
-      "answerKey": "hassoumi massoudou"
+      "answerKey": "hassoumi massoudou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassoumi_Massaoudou"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29203653",
-      "answerKey": "aichatou ousmane issaka"
+      "answerKey": "aichatou ousmane issaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aichatou_Ousmane_Issaka"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2699113",
-      "answerKey": "william ngounou"
+      "answerKey": "william ngounou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_N'Gounou"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q703987",
-      "answerKey": "seyni oumarou"
+      "answerKey": "seyni oumarou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seyni_Oumarou"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105565734",
-      "answerKey": "mariam kamara"
+      "answerKey": "mariam kamara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariam_Kamara"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1995",
       "occupation": "business executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q548202",
-      "answerKey": "mano dayak"
+      "answerKey": "mano dayak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mano_Dayak"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1995",
       "occupation": "business executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q548202",
-      "answerKey": "mano dayak"
+      "answerKey": "mano dayak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mano_Dayak"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q891919",
-      "answerKey": "bombino"
+      "answerKey": "bombino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bombino_(musician)"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366908",
-      "answerKey": "kamilou daouda"
+      "answerKey": "kamilou daouda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamilou_Daouda"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q458916",
-      "answerKey": "ambroise ouedraogo"
+      "answerKey": "ambroise ouedraogo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambroise_Ou%C3%A9draogo"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2062559",
-      "answerKey": "boubacar talatou"
+      "answerKey": "boubacar talatou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boubacar_Talatou"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "sprinter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65048587",
-      "answerKey": "aminatou seyni"
+      "answerKey": "aminatou seyni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminatou_Seyni"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "guitarist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16732408",
-      "answerKey": "mdou moctar"
+      "answerKey": "mdou moctar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mdou_Moctar"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2700820",
-      "answerKey": "alhassane issoufou"
+      "answerKey": "alhassane issoufou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alhassane_Issoufou"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2700820",
-      "answerKey": "alhassane issoufou"
+      "answerKey": "alhassane issoufou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alhassane_Issoufou"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2700820",
-      "answerKey": "alhassane issoufou"
+      "answerKey": "alhassane issoufou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alhassane_Issoufou"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2081843",
-      "answerKey": "kader amadou"
+      "answerKey": "kader amadou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kader_Amadou"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2876218",
-      "answerKey": "aichatou mindaoudou"
+      "answerKey": "aichatou mindaoudou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A%C3%AFchatou_Mindaoudou"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16855373",
-      "answerKey": "toulou kiki"
+      "answerKey": "toulou kiki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toulou_Kiki"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61107643",
-      "answerKey": "magaajyia silberfeld"
+      "answerKey": "magaajyia silberfeld",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magaajyia_Silberfeld"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "manager",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2097624",
-      "answerKey": "ali badjo gamatie"
+      "answerKey": "ali badjo gamatie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Badjo_Gamati%C3%A9"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27243375",
-      "answerKey": "ali mohamed"
+      "answerKey": "ali mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mohamed_(footballer)"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27243375",
-      "answerKey": "ali mohamed"
+      "answerKey": "ali mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Mohamed_(footballer)"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3417580",
-      "answerKey": "rahmatou keita"
+      "answerKey": "rahmatou keita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rahmatou_Ke%C3%AFta"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "2002",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4021998",
-      "answerKey": "ide oumarou"
+      "answerKey": "ide oumarou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ide_Oumarou"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q761823",
-      "answerKey": "ibrahim assane mayaki"
+      "answerKey": "ibrahim assane mayaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Hassane_Mayaki"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42883976",
-      "answerKey": "ouma laouali"
+      "answerKey": "ouma laouali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ouma_Laouali"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "hydrologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96203683",
-      "answerKey": "fadji maina"
+      "answerKey": "fadji maina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fadji_Maina"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1974",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2876211",
-      "answerKey": "aissa diori"
+      "answerKey": "aissa diori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aissa_Diori"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q120968448",
-      "answerKey": "abdou sidikou issa"
+      "answerKey": "abdou sidikou issa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdou_Sidikou_Issa"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4075272",
-      "answerKey": "amina bazindre"
+      "answerKey": "amina bazindre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amina_Bazindre"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg",
+  "updated": "2025-12-14T22:21:41.134Z",
+  "wikipediaLinksAdded": true
 }

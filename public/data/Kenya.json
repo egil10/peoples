@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q50365049",
-      "answerKey": "abiy ahmed"
+      "answerKey": "abiy ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abiy_Ahmed"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7399685",
-      "answerKey": "sahlework zewde"
+      "answerKey": "sahlework zewde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sahle-Work_Zewde"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "malariologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16196017",
-      "answerKey": "tedros adhanom ghebreyesus"
+      "answerKey": "tedros adhanom ghebreyesus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tedros_Adhanom_Ghebreyesus"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "malariologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16196017",
-      "answerKey": "tedros adhanom ghebreyesus"
+      "answerKey": "tedros adhanom ghebreyesus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tedros_Adhanom_Ghebreyesus"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192512",
-      "answerKey": "mengistu haile mariam"
+      "answerKey": "mengistu haile mariam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mengistu_Haile_Mariam"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2012",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q161184",
-      "answerKey": "meles zenawi"
+      "answerKey": "meles zenawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meles_Zenawi"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171500",
-      "answerKey": "haile gebrselassie"
+      "answerKey": "haile gebrselassie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haile_Gebrselassie"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1973",
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52596",
-      "answerKey": "abebe bikila"
+      "answerKey": "abebe bikila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abebe_Bikila"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1913",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q244748",
-      "answerKey": "menilek ii"
+      "answerKey": "menilek ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menelik_II"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15054736",
-      "answerKey": "mulatu teshome"
+      "answerKey": "mulatu teshome",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mulatu_Teshome"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9119",
-      "answerKey": "kenenisa bekele"
+      "answerKey": "kenenisa bekele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kenenisa_Bekele"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2018",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57383",
-      "answerKey": "girma woldegiorgis"
+      "answerKey": "girma woldegiorgis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Girma_Wolde-Giorgis"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6003",
-      "answerKey": "tirunesh dibaba"
+      "answerKey": "tirunesh dibaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tirunesh_Dibaba"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14855644",
-      "answerKey": "sifan hassan"
+      "answerKey": "sifan hassan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sifan_Hassan"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1930",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q148524",
-      "answerKey": "zewditu i of ethiopia"
+      "answerKey": "zewditu i of ethiopia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zewditu"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q381071",
-      "answerKey": "hailemariam desalegn"
+      "answerKey": "hailemariam desalegn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hailemariam_Desalegn"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "stage actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3453629",
-      "answerKey": "ruth negga"
+      "answerKey": "ruth negga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruth_Negga"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5877",
-      "answerKey": "meseret defar"
+      "answerKey": "meseret defar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meseret_Defar"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115201",
-      "answerKey": "liya kebede"
+      "answerKey": "liya kebede",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liya_Kebede"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457099",
-      "answerKey": "genzebe dibaba"
+      "answerKey": "genzebe dibaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Genzebe_Dibaba"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457099",
-      "answerKey": "genzebe dibaba"
+      "answerKey": "genzebe dibaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Genzebe_Dibaba"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457099",
-      "answerKey": "genzebe dibaba"
+      "answerKey": "genzebe dibaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Genzebe_Dibaba"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2839100",
-      "answerKey": "almaz ayana"
+      "answerKey": "almaz ayana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Almaz_Ayana"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20028924",
-      "answerKey": "letesenbet gidey"
+      "answerKey": "letesenbet gidey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Letesenbet_Gidey"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466315",
-      "answerKey": "derartu tulu"
+      "answerKey": "derartu tulu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Derartu_Tulu"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q466315",
-      "answerKey": "derartu tulu"
+      "answerKey": "derartu tulu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Derartu_Tulu"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1889",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315659",
-      "answerKey": "yohannes iv"
+      "answerKey": "yohannes iv",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yohannes_IV"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16224285",
-      "answerKey": "gudaf tsegay"
+      "answerKey": "gudaf tsegay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gudaf_Tsegay"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32760246",
-      "answerKey": "selemon barega"
+      "answerKey": "selemon barega",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selemon_Barega"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "-1000",
       "occupation": "ruler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365687",
-      "answerKey": "menelik i"
+      "answerKey": "menelik i",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menelik_I"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "-1000",
       "occupation": "ruler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365687",
-      "answerKey": "menelik i"
+      "answerKey": "menelik i",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menelik_I"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2019",
       "occupation": "scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4937352",
-      "answerKey": "bogaletch gebre"
+      "answerKey": "bogaletch gebre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bogaletch_Gebre"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q443605",
-      "answerKey": "kalkidan gezahegne"
+      "answerKey": "kalkidan gezahegne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalkidan_Gezahegne"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2019",
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356741",
-      "answerKey": "negasso gidada"
+      "answerKey": "negasso gidada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Negasso_Gidada"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1268577",
-      "answerKey": "mare dibaba"
+      "answerKey": "mare dibaba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mare_Dibaba"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234377",
-      "answerKey": "elvan abeylegesse"
+      "answerKey": "elvan abeylegesse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvan_Abeylegesse"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2002",
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q372208",
-      "answerKey": "mamo wolde"
+      "answerKey": "mamo wolde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamo_Wolde"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124831090",
-      "answerKey": "taye atske selassie"
+      "answerKey": "taye atske selassie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taye_Atske_Selassie"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21173820",
-      "answerKey": "tigst assefa"
+      "answerKey": "tigst assefa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tigst_Assefa"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2016",
       "occupation": "long-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q225913",
-      "answerKey": "miruts yifter"
+      "answerKey": "miruts yifter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miruts_Yifter"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1935",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379889",
-      "answerKey": "iyasu v"
+      "answerKey": "iyasu v",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lij_Iyasu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9132",
-      "answerKey": "sileshi sihine"
+      "answerKey": "sileshi sihine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sileshi_Sihine"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2014",
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78928",
-      "answerKey": "karlheinz bohm"
+      "answerKey": "karlheinz bohm",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karlheinz_B%C3%B6hm"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19749746",
-      "answerKey": "tamirat tola"
+      "answerKey": "tamirat tola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamirat_Tola"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q69523786",
-      "answerKey": "lamecha girma"
+      "answerKey": "lamecha girma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamecha_Girma"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q820563",
-      "answerKey": "berhaneyesus demerew souraphiel"
+      "answerKey": "berhaneyesus demerew souraphiel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Berhaneyesus_Demerew_Souraphiel"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q820563",
-      "answerKey": "berhaneyesus demerew souraphiel"
+      "answerKey": "berhaneyesus demerew souraphiel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Berhaneyesus_Demerew_Souraphiel"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q687586",
-      "answerKey": "abeba aregawi"
+      "answerKey": "abeba aregawi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abeba_Aregawi"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260978",
-      "answerKey": "berhane adere"
+      "answerKey": "berhane adere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Berhane_Adere"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6260",
-      "answerKey": "tiki gelana"
+      "answerKey": "tiki gelana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiki_Gelana"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg",
+  "updated": "2025-12-14T22:16:51.098Z",
+  "wikipediaLinksAdded": true
 }

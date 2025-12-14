@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57830",
-      "answerKey": "frank bainimarama"
+      "answerKey": "frank bainimarama",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank_Bainimarama"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5541411",
-      "answerKey": "jioji george konrote"
+      "answerKey": "jioji george konrote",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jioji_Konrote"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2011",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316317",
-      "answerKey": "josefa iloilo"
+      "answerKey": "josefa iloilo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josefa_Iloilo"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981549",
-      "answerKey": "sitiveni rabuka"
+      "answerKey": "sitiveni rabuka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitiveni_Rabuka"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981549",
-      "answerKey": "sitiveni rabuka"
+      "answerKey": "sitiveni rabuka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitiveni_Rabuka"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1883",
       "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q681408",
-      "answerKey": "seru epenisa cakobau"
+      "answerKey": "seru epenisa cakobau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seru_Epenisa_Cakobau"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q733523",
-      "answerKey": "roy krishna"
+      "answerKey": "roy krishna",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roy_Krishna"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2004",
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q469507",
-      "answerKey": "kamisese mara"
+      "answerKey": "kamisese mara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamisese_Mara"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109012733",
-      "answerKey": "wiliame katonivere"
+      "answerKey": "wiliame katonivere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wiliame_Katonivere"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "golfer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q331942",
-      "answerKey": "vijay singh"
+      "answerKey": "vijay singh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vijay_Singh"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q373605",
-      "answerKey": "epeli nailatikau"
+      "answerKey": "epeli nailatikau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Epeli_Nailatikau"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2020",
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q473214",
-      "answerKey": "laisenia qarase"
+      "answerKey": "laisenia qarase",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laisenia_Qarase"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6959729",
-      "answerKey": "naiqama lalabalavu"
+      "answerKey": "naiqama lalabalavu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naiqama_Lalabalavu"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1989",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2097052",
-      "answerKey": "timoci bavadra"
+      "answerKey": "timoci bavadra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Timoci_Bavadra"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1993",
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1398207",
-      "answerKey": "penaia ganilau"
+      "answerKey": "penaia ganilau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Penaia_Ganilau"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558880",
-      "answerKey": "mahendra chaudhry"
+      "answerKey": "mahendra chaudhry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahendra_Chaudhry"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3229756",
-      "answerKey": "leone nakarawa"
+      "answerKey": "leone nakarawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leone_Nakarawa"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7934819",
-      "answerKey": "virisila buadromo"
+      "answerKey": "virisila buadromo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virisila_Buadromo"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19661153",
-      "answerKey": "jerry tuwai"
+      "answerKey": "jerry tuwai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerry_Tuwai"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15653152",
-      "answerKey": "josua tuisova"
+      "answerKey": "josua tuisova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josua_Tuisova"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2076735",
-      "answerKey": "peter loy chong"
+      "answerKey": "peter loy chong",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Loy_Chong"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16730969",
-      "answerKey": "osea kolinisau"
+      "answerKey": "osea kolinisau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osea_Kolinisau"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26155884",
-      "answerKey": "viliame mata"
+      "answerKey": "viliame mata",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Viliame_Mata"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26132721",
-      "answerKey": "apisai domolailai"
+      "answerKey": "apisai domolailai",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apisai_Domolailai"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22213056",
-      "answerKey": "peter thomson"
+      "answerKey": "peter thomson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Thomson_(diplomat)"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2025",
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37586526",
-      "answerKey": "josaia raisuqe"
+      "answerKey": "josaia raisuqe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josaia_Raisuqe"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q94780",
-      "answerKey": "joe rokocoko"
+      "answerKey": "joe rokocoko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Rokocoko"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "English teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529566",
-      "answerKey": "nalini singh"
+      "answerKey": "nalini singh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nalini_Singh_(author)"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23883345",
-      "answerKey": "jasa veremalua"
+      "answerKey": "jasa veremalua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jasa_Veremalua"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24572643",
-      "answerKey": "masivesi dakuwaqa"
+      "answerKey": "masivesi dakuwaqa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Masivesi_Dakuwaqa"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19662912",
-      "answerKey": "semi kunatani"
+      "answerKey": "semi kunatani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Semi_Kunatani"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24963359",
-      "answerKey": "vatemo ravouvou"
+      "answerKey": "vatemo ravouvou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vatemo_Ravouvou"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17811567",
-      "answerKey": "roshika deo"
+      "answerKey": "roshika deo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roshika_Deo"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17811567",
-      "answerKey": "roshika deo"
+      "answerKey": "roshika deo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roshika_Deo"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3337982",
-      "answerKey": "nemani nadolo"
+      "answerKey": "nemani nadolo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nemani_Nadolo"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107660091",
-      "answerKey": "iosefo masi"
+      "answerKey": "iosefo masi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iosefo_Masi"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3565170",
-      "answerKey": "waisale serevi"
+      "answerKey": "waisale serevi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Waisale_Serevi"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16107404",
-      "answerKey": "jiko luveni"
+      "answerKey": "jiko luveni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiko_Luveni"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "record producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q774277",
-      "answerKey": "mike howlett"
+      "answerKey": "mike howlett",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Howlett"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6983385",
-      "answerKey": "nazhat shameem"
+      "answerKey": "nazhat shameem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nazhat_Shameem"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2476819",
-      "answerKey": "rupeni caucaunibuca"
+      "answerKey": "rupeni caucaunibuca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rupeni_Caucaunibuca"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107660093",
-      "answerKey": "jiuta wainiqolo"
+      "answerKey": "jiuta wainiqolo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jiuta_Wainiqolo"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16873617",
-      "answerKey": "samisoni viriviri"
+      "answerKey": "samisoni viriviri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samisoni_Viriviri"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q690729",
-      "answerKey": "vilimoni delasau"
+      "answerKey": "vilimoni delasau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilimoni_Delasau"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q425580",
-      "answerKey": "sitiveni sivivatu"
+      "answerKey": "sitiveni sivivatu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitiveni_Sivivatu"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26217963",
-      "answerKey": "rusila nagasau"
+      "answerKey": "rusila nagasau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rusila_Nagasau"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "rugby union player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107659092",
-      "answerKey": "asaeli tuivuaka"
+      "answerKey": "asaeli tuivuaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asaeli_Tuivuaka"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1964082",
-      "answerKey": "nalini krishan"
+      "answerKey": "nalini krishan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nalini_Krishan"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "rugby sevens player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58836605",
-      "answerKey": "waisea nacuqu"
+      "answerKey": "waisea nacuqu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Waisea_Nacuqu"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "rugby league player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q364694",
-      "answerKey": "lote tuqiri"
+      "answerKey": "lote tuqiri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lote_Tuqiri"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Fiji.svg",
+  "updated": "2025-12-14T22:14:19.971Z",
+  "wikipediaLinksAdded": true
 }

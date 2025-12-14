@@ -948,6 +948,38 @@ html {
     color: #000;
 }
 
+/* Wikipedia Link Button */
+.wikipedia-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 12px;
+    padding: 10px 16px;
+    background: #FFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 6px;
+    color: #000;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.wikipedia-link:hover {
+    background: #F9F9F9;
+    border-color: #000;
+    transform: translateX(4px);
+}
+
+.wikipedia-link:active {
+    transform: translateX(2px);
+    background: #F0F0F0;
+}
+
+.wikipedia-link svg {
+    flex-shrink: 0;
+}
+
 /* RESPONSIVE */
 
 @media (max-width: 1000px) {

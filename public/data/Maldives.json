@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297957",
-      "answerKey": "maumoon abdul gayoom"
+      "answerKey": "maumoon abdul gayoom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152381",
-      "answerKey": "mohamed nasheed"
+      "answerKey": "mohamed nasheed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Nasheed"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665896",
-      "answerKey": "abdulla yameen"
+      "answerKey": "abdulla yameen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulla_Yameen"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116293030",
-      "answerKey": "mohamed muizzu"
+      "answerKey": "mohamed muizzu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Muizzu"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55614252",
-      "answerKey": "ibrahim mohamed solih"
+      "answerKey": "ibrahim mohamed solih",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Mohamed_Solih"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57515",
-      "answerKey": "mohamed waheed hassan"
+      "answerKey": "mohamed waheed hassan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Waheed_Hassan"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558802",
-      "answerKey": "ibrahim nasir"
+      "answerKey": "ibrahim nasir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Nasir"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2057870",
-      "answerKey": "ali ashfaq"
+      "answerKey": "ali ashfaq",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Ashfaq"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1954",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q601491",
-      "answerKey": "mohamed amin didi"
+      "answerKey": "mohamed amin didi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Amin_Didi"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1968",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3270179",
-      "answerKey": "muhammad fareed didi"
+      "answerKey": "muhammad fareed didi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Fareed_Didi"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665893",
-      "answerKey": "abdulla shahid"
+      "answerKey": "abdulla shahid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulla_Shahid"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4665893",
-      "answerKey": "abdulla shahid"
+      "answerKey": "abdulla shahid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulla_Shahid"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "badminton player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17517052",
-      "answerKey": "mariya ahmed didi"
+      "answerKey": "mariya ahmed didi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariya_Ahmed_Didi"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17985434",
-      "answerKey": "aneesa ahmed"
+      "answerKey": "aneesa ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aneesa_Ahmed"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1980",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3279791",
-      "answerKey": "ibrahim muhammad didi"
+      "answerKey": "ibrahim muhammad didi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Muhammad_Didi"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4696065",
-      "answerKey": "ahmed zaki"
+      "answerKey": "ahmed zaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Zaki_(politician)"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2011",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4746398",
-      "answerKey": "aminath faiza"
+      "answerKey": "aminath faiza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aminath_Faiza"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56752471",
-      "answerKey": "faisal naseem"
+      "answerKey": "faisal naseem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faisal_Naseem"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4688777",
-      "answerKey": "afa ismail"
+      "answerKey": "afa ismail",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Afa_Ismail"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5437751",
-      "answerKey": "fathimath dhiyana saeed"
+      "answerKey": "fathimath dhiyana saeed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fathimath_Dhiyana_Saeed"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4118047",
-      "answerKey": "ibrahim fazeel"
+      "answerKey": "ibrahim fazeel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Fazeel"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "2012",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559061",
-      "answerKey": "fathulla jameel"
+      "answerKey": "fathulla jameel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fathulla_Jameel"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4724792",
-      "answerKey": "ali fasir"
+      "answerKey": "ali fasir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Fasir"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6008201",
-      "answerKey": "imran mohamed"
+      "answerKey": "imran mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imran_Mohamed"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q103278170",
-      "answerKey": "moomina haleem"
+      "answerKey": "moomina haleem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moomina_Haleem"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122380438",
-      "answerKey": "hussain mohamed latheef"
+      "answerKey": "hussain mohamed latheef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussain_Mohamed_Latheef"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4993858",
-      "answerKey": "laila ali abdulla"
+      "answerKey": "laila ali abdulla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laila_Ali_Abdulla"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1255051",
-      "answerKey": "ahmed shaheed"
+      "answerKey": "ahmed shaheed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Shaheed"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12300379",
-      "answerKey": "abdulla jihad"
+      "answerKey": "abdulla jihad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdulla_Jihad"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18736935",
-      "answerKey": "hassan saaid"
+      "answerKey": "hassan saaid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Saaid"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20675816",
-      "answerKey": "ahmed adeeb"
+      "answerKey": "ahmed adeeb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Adeeb"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43218548",
-      "answerKey": "mariyam shakeela"
+      "answerKey": "mariyam shakeela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariyam_Shakeela_(politician)"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1993",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317558",
-      "answerKey": "abdullah afeef"
+      "answerKey": "abdullah afeef",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdullah_Afeef"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "professional fitness coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131427404",
-      "answerKey": "ahmed haitham"
+      "answerKey": "ahmed haitham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Haitham"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107642668",
-      "answerKey": "aishath sajina"
+      "answerKey": "aishath sajina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aishath_Sajina"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6891272",
-      "answerKey": "mohamed jameel"
+      "answerKey": "mohamed jameel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Jameel"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2013",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15428017",
-      "answerKey": "abdul samad abdulla"
+      "answerKey": "abdul samad abdulla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Samad_Abdulla"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2024",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16223811",
-      "answerKey": "mohamed arif"
+      "answerKey": "mohamed arif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohamed_Arif"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7267003",
-      "answerKey": "qasim ibrahim"
+      "answerKey": "qasim ibrahim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Qasim_Ibrahim"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5984572",
-      "answerKey": "ibrahim hussain zaki"
+      "answerKey": "ibrahim hussain zaki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ibrahim_Hussain_Zaki"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5997859",
-      "answerKey": "ilham hussain"
+      "answerKey": "ilham hussain",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilham_Hussain"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q123472135",
-      "answerKey": "sajidha mohamed"
+      "answerKey": "sajidha mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sajidha_Mohamed"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "tourism minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16733060",
-      "answerKey": "mustafa lutfi"
+      "answerKey": "mustafa lutfi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafa_Lutfi"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q56875340",
-      "answerKey": "fazna ahmed"
+      "answerKey": "fazna ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fazna_Ahmed"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17279111",
-      "answerKey": "rozeyna adam"
+      "answerKey": "rozeyna adam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rozaina_Adam"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "ambassador",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55062784",
-      "answerKey": "zahiya zareer"
+      "answerKey": "zahiya zareer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zahiya_Zareer"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2025",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112769223",
-      "answerKey": "hassan sobir"
+      "answerKey": "hassan sobir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hassan_Sobir"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "table tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126595834",
-      "answerKey": "fathimath dheema ali"
+      "answerKey": "fathimath dheema ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fathimath_Dheema_Ali"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4807264",
-      "answerKey": "aslam abdul raheem"
+      "answerKey": "aslam abdul raheem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aslam_Abdul_Raheem"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6966674",
-      "answerKey": "naseema mohamed"
+      "answerKey": "naseema mohamed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Naseema_Mohamed"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:18:03.526Z",
+  "wikipediaLinksAdded": true
 }

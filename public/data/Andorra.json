@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21001195",
-      "answerKey": "xavier espot zamora"
+      "answerKey": "xavier espot zamora",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xavier_Espot_Zamora"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24801",
-      "answerKey": "antoni marti"
+      "answerKey": "antoni marti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoni_Mart%C3%AD"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q350483",
-      "answerKey": "ildefons lima"
+      "answerKey": "ildefons lima",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ildefons_Lima"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q374197",
-      "answerKey": "koldo alvarez"
+      "answerKey": "koldo alvarez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Koldo_%C3%81lvarez"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q374197",
-      "answerKey": "koldo alvarez"
+      "answerKey": "koldo alvarez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Koldo_%C3%81lvarez"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1989",
       "occupation": "usurper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q176731",
-      "answerKey": "boris skossyreff"
+      "answerKey": "boris skossyreff",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Skossyreff"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q217598",
-      "answerKey": "jaume bartumeu cassany"
+      "answerKey": "jaume bartumeu cassany",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaume_Bartumeu"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359613",
-      "answerKey": "oscar sonejee"
+      "answerKey": "oscar sonejee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%93scar_Sonejee"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359613",
-      "answerKey": "oscar sonejee"
+      "answerKey": "oscar sonejee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%93scar_Sonejee"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q236034",
-      "answerKey": "susanne georgi"
+      "answerKey": "susanne georgi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susanne_Georgi"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312785",
-      "answerKey": "albert pintat"
+      "answerKey": "albert pintat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Pintat"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q275912",
-      "answerKey": "marta roure"
+      "answerKey": "marta roure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marta_Roure"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365542",
-      "answerKey": "marc forne molne"
+      "answerKey": "marc forne molne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Forn%C3%A9_Moln%C3%A9"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q597670",
-      "answerKey": "antoni lima sola"
+      "answerKey": "antoni lima sola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoni_Lima"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2020",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q292884",
-      "answerKey": "oscar ribas reig"
+      "answerKey": "oscar ribas reig",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%92scar_Ribas_Reig"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q952221",
-      "answerKey": "marc vales"
+      "answerKey": "marc vales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Vales"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1926",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q526235",
-      "answerKey": "juan benlloch i vivo"
+      "answerKey": "juan benlloch i vivo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Benlloch_i_Viv%C3%B3"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983691",
-      "answerKey": "josep gomes"
+      "answerKey": "josep gomes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josep_G%C3%B3mes"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1364412",
-      "answerKey": "josep ayala"
+      "answerKey": "josep ayala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josep_Ayala"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q976321",
-      "answerKey": "marcio vieira"
+      "answerKey": "marcio vieira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Vieira"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982434",
-      "answerKey": "marc pujol"
+      "answerKey": "marc pujol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Pujol"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "middle-distance runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23714523",
-      "answerKey": "pol moya"
+      "answerKey": "pol moya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pol_Moya"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2007",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q72546",
-      "answerKey": "josep pintatsolans"
+      "answerKey": "josep pintatsolans",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josep_Pintat_Solans"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2020",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q933019",
-      "answerKey": "albert salvado"
+      "answerKey": "albert salvado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Salvad%C3%B3"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q720264",
-      "answerKey": "marc bernaus"
+      "answerKey": "marc bernaus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Bernaus"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1703726",
-      "answerKey": "jordi rubio"
+      "answerKey": "jordi rubio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordi_Rubio"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q67372349",
-      "answerKey": "victoria jimenez kasintseva"
+      "answerKey": "victoria jimenez kasintseva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoria_Jim%C3%A9nez_Kasintseva"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q631539",
-      "answerKey": "sergi moreno"
+      "answerKey": "sergi moreno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sergi_Moreno"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q967614",
-      "answerKey": "ferran pol"
+      "answerKey": "ferran pol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ferran_Pol"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q597196",
-      "answerKey": "antoni bernado"
+      "answerKey": "antoni bernado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoni_Bernad%C3%B3"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2893282",
-      "answerKey": "quino colom"
+      "answerKey": "quino colom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Quino_Colom"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3543972",
-      "answerKey": "cristina llovera"
+      "answerKey": "cristina llovera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristina_Llovera"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q950792",
-      "answerKey": "emili garcia"
+      "answerKey": "emili garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emili_Garc%C3%ADa"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1400642",
-      "answerKey": "fernando silva"
+      "answerKey": "fernando silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fernando_Silva_(footballer%2C_born_1977)"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1140313",
-      "answerKey": "cristian martinez"
+      "answerKey": "cristian martinez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristian_Mart%C3%ADnez_(Andorran_footballer)"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11727363",
-      "answerKey": "joan verdu"
+      "answerKey": "joan verdu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Verd%C3%BA_(alpine_skier)"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55955802",
-      "answerKey": "maria ubach"
+      "answerKey": "maria ubach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Ubach_i_Font"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1373075",
-      "answerKey": "manolo jimenez"
+      "answerKey": "manolo jimenez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manolo_Jim%C3%A9nez_(footballer%2C_born_1976)"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q452201",
-      "answerKey": "victor rodriguez"
+      "answerKey": "victor rodriguez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/V%C3%ADctor_Rodr%C3%ADguez_(Andorran_footballer)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2064123",
-      "answerKey": "xavi andorra"
+      "answerKey": "xavi andorra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xavi_Andorr%C3%A0"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21104557",
-      "answerKey": "max llovera"
+      "answerKey": "max llovera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Max_Llovera"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21153742",
-      "answerKey": "marc rebes"
+      "answerKey": "marc rebes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Reb%C3%A9s"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1908",
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q786613",
-      "answerKey": "salvador casanas y pages"
+      "answerKey": "salvador casanas y pages",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvador_Casa%C3%B1as_y_Pag%C3%A9s"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "cross-country skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28123915",
-      "answerKey": "irineu esteve altimiras"
+      "answerKey": "irineu esteve altimiras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irineu_Esteve_Altimiras"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q737266",
-      "answerKey": "gabi riera"
+      "answerKey": "gabi riera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabi_Riera"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1369512",
-      "answerKey": "jordi escura"
+      "answerKey": "jordi escura",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordi_Escura"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q555708",
-      "answerKey": "sebastian gomez"
+      "answerKey": "sebastian gomez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_G%C3%B3mez_(Andorran_footballer)"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3105855",
-      "answerKey": "gilbert saboya sunye"
+      "answerKey": "gilbert saboya sunye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gilbert_Saboya_Suny%C3%A9"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1349543",
-      "answerKey": "joan toscano"
+      "answerKey": "joan toscano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joan_Toscano"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "2022",
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3701677",
-      "answerKey": "daniel mejias"
+      "answerKey": "daniel mejias",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Mej%C3%ADas"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg",
+  "updated": "2025-12-14T22:10:26.256Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15071069",
-      "answerKey": "maia sandu"
+      "answerKey": "maia sandu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maia_Sandu"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "ship captain",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57279",
-      "answerKey": "traian basescu"
+      "answerKey": "traian basescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Traian_B%C4%83sescu"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4164146",
-      "answerKey": "igor dodon"
+      "answerKey": "igor dodon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Dodon"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57478",
-      "answerKey": "nicolae timofti"
+      "answerKey": "nicolae timofti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolae_Timofti"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189435",
-      "answerKey": "vladimir voronin"
+      "answerKey": "vladimir voronin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vladimir_Voronin"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105193792",
-      "answerKey": "natalia gavrilita"
+      "answerKey": "natalia gavrilita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Gavrili%C8%9Ba"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61299",
-      "answerKey": "zinaida greceanii"
+      "answerKey": "zinaida greceanii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zinaida_Grecean%C3%AEi"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13407948",
-      "answerKey": "dorin recean"
+      "answerKey": "dorin recean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dorin_Recean"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q347679",
-      "answerKey": "mircea snegur"
+      "answerKey": "mircea snegur",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mircea_Snegur"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57685",
-      "answerKey": "vlad filat"
+      "answerKey": "vlad filat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vlad_Filat"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231048",
-      "answerKey": "natalia barbu"
+      "answerKey": "natalia barbu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Barbu"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q305161",
-      "answerKey": "pasha parfeni"
+      "answerKey": "pasha parfeni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pasha_Parfeni"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433039",
-      "answerKey": "natalia gordienko"
+      "answerKey": "natalia gordienko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Gordienko"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312340",
-      "answerKey": "marian lupu"
+      "answerKey": "marian lupu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marian_Lupu"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "esperantologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12833",
-      "answerKey": "boris kolker"
+      "answerKey": "boris kolker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Kolker"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294473",
-      "answerKey": "mihai ghimpu"
+      "answerKey": "mihai ghimpu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mihai_Ghimpu"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "record producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314206",
-      "answerKey": "dan balan"
+      "answerKey": "dan balan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dan_Balan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75020865",
-      "answerKey": "ion chicu"
+      "answerKey": "ion chicu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ion_Chicu"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355874",
-      "answerKey": "petru lucinschi"
+      "answerKey": "petru lucinschi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Petru_Lucinschi"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7155601",
-      "answerKey": "pavel filip"
+      "answerKey": "pavel filip",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pavel_Filip"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1953",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q435709",
-      "answerKey": "mykola zelinsky"
+      "answerKey": "mykola zelinsky",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nikolay_Zelinsky"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7477013",
-      "answerKey": "aliona moon"
+      "answerKey": "aliona moon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aliona_Moon"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61947352",
-      "answerKey": "anna odobescu"
+      "answerKey": "anna odobescu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Odobescu"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58087",
-      "answerKey": "iurie leanca"
+      "answerKey": "iurie leanca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iurie_Leanc%C4%83"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353684",
-      "answerKey": "igor dobrovolski"
+      "answerKey": "igor dobrovolski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Igor_Dobrovolski"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q182230",
-      "answerKey": "vasile tarlev"
+      "answerKey": "vasile tarlev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vasile_Tarlev"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q237084",
-      "answerKey": "olia tira"
+      "answerKey": "olia tira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olia_Tira"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1138420",
-      "answerKey": "alexandru epureanu"
+      "answerKey": "alexandru epureanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandru_Epureanu"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463809",
-      "answerKey": "svetlana toma"
+      "answerKey": "svetlana toma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svetlana_Toma"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238428",
-      "answerKey": "nelly ciobanu"
+      "answerKey": "nelly ciobanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelly_Ciobanu"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "philologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6968023",
-      "answerKey": "natalia gherman"
+      "answerKey": "natalia gherman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Gherman"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365400",
-      "answerKey": "arsenie todiras"
+      "answerKey": "arsenie todiras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arsenie_Todira%C8%99"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19281444",
-      "answerKey": "chiril gaburici"
+      "answerKey": "chiril gaburici",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chiril_Gaburici"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234035",
-      "answerKey": "cleopatra stratan"
+      "answerKey": "cleopatra stratan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cleopatra_Stratan"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "poker player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q440144",
-      "answerKey": "almira skripchenko"
+      "answerKey": "almira skripchenko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Almira_Skripchenko"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15947372",
-      "answerKey": "cristina scarlat"
+      "answerKey": "cristina scarlat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cristina_Scarlat"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12731069",
-      "answerKey": "irina vlah"
+      "answerKey": "irina vlah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irina_Vlah"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "sport cyclist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q269362",
-      "answerKey": "andrei tchmil"
+      "answerKey": "andrei tchmil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrei_Tchmil"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "radio personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q263582",
-      "answerKey": "vika jigulina"
+      "answerKey": "vika jigulina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vika_Jigulina"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "association football coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2655687",
-      "answerKey": "alexandru gatcan"
+      "answerKey": "alexandru gatcan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandru_Ga%C8%9Bcan"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "jazz musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q235370",
-      "answerKey": "geta burlacu"
+      "answerKey": "geta burlacu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geta_Burlacu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7281705",
-      "answerKey": "radu albot"
+      "answerKey": "radu albot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Radu_Albot"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4822275",
-      "answerKey": "aureliu ciocoi"
+      "answerKey": "aureliu ciocoi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aureliu_Ciocoi"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468198",
-      "answerKey": "natalia morari"
+      "answerKey": "natalia morari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Natalia_Morari"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22964723",
-      "answerKey": "lidia isac"
+      "answerKey": "lidia isac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lidia_Isac"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q118378361",
-      "answerKey": "evghenia gutul"
+      "answerKey": "evghenia gutul",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Evghenia_Gu%C8%9Bul"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2003",
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2610508",
-      "answerKey": "emil loteanu"
+      "answerKey": "emil loteanu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Loteanu"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2025",
       "occupation": "music educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2632350",
-      "answerKey": "eugen doga"
+      "answerKey": "eugen doga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugen_Doga"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4272163",
-      "answerKey": "arkady luxemburg"
+      "answerKey": "arkady luxemburg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arkady_Luxemburg"
     },
     {
       "id": 50,
@@ -552,7 +601,10 @@
       "deathYear": null,
       "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q125622249",
-      "answerKey": "adil osmanov"
+      "answerKey": "adil osmanov",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adil_Osmanov"
     }
-  ]
+  ],
+  "updated": "2025-12-14T22:18:36.693Z",
+  "wikipediaLinksAdded": true
 }

@@ -13,7 +13,8 @@
       "deathYear": "1928",
       "occupation": "naval aviator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q926",
-      "answerKey": "roald amundsen"
+      "answerKey": "roald amundsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roald_Amundsen"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1906",
       "occupation": "librettist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36661",
-      "answerKey": "henrik ibsen"
+      "answerKey": "henrik ibsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henrik_Ibsen"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1952",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40826",
-      "answerKey": "knut hamsun"
+      "answerKey": "knut hamsun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Knut_Hamsun"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1910",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46405",
-      "answerKey": "bjrnstjerne bjrnson"
+      "answerKey": "bjrnstjerne bjrnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B8rnstjerne_Bj%C3%B8rnson"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1992",
       "occupation": "social democrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
-      "answerKey": "willy brandt"
+      "answerKey": "willy brandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Brandt"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1944",
       "occupation": "architectural draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41406",
-      "answerKey": "edvard munch"
+      "answerKey": "edvard munch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edvard_Munch"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1949",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80889",
-      "answerKey": "sigrid undset"
+      "answerKey": "sigrid undset",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sigrid_Undset"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1930",
       "occupation": "scientific collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q72292",
-      "answerKey": "fridtjof nansen"
+      "answerKey": "fridtjof nansen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fridtjof_Nansen"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106807",
-      "answerKey": "magnus carlsen"
+      "answerKey": "magnus carlsen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magnus_Carlsen"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1907",
       "occupation": "pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80621",
-      "answerKey": "edvard grieg"
+      "answerKey": "edvard grieg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edvard_Grieg"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1990",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25161",
-      "answerKey": "roald dahl"
+      "answerKey": "roald dahl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roald_Dahl"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57665",
-      "answerKey": "jens stoltenberg"
+      "answerKey": "jens stoltenberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jens_Stoltenberg"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57287",
-      "answerKey": "harald v of norway"
+      "answerKey": "harald v of norway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harald_V"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1829",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q124115",
-      "answerKey": "niels henrik abel"
+      "answerKey": "niels henrik abel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Niels_Henrik_Abel"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133009",
-      "answerKey": "gro harlem brundtland"
+      "answerKey": "gro harlem brundtland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gro_Harlem_Brundtland"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "conspiracy theorist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44220",
-      "answerKey": "anders behring breivik"
+      "answerKey": "anders behring breivik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anders_Behring_Breivik"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2002",
       "occupation": "traveler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q133622",
-      "answerKey": "thor heyerdahl"
+      "answerKey": "thor heyerdahl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thor_Heyerdahl"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28967995",
-      "answerKey": "erling haaland"
+      "answerKey": "erling haaland",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erling_Haaland"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q291644",
-      "answerKey": "erna solberg"
+      "answerKey": "erna solberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erna_Solberg"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1968",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1271",
-      "answerKey": "trygve lie"
+      "answerKey": "trygve lie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Trygve_Lie"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185548",
-      "answerKey": "jostein gaarder"
+      "answerKey": "jostein gaarder",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jostein_Gaarder"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "literary scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q443868",
-      "answerKey": "jon fosse"
+      "answerKey": "jon fosse",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jon_Fosse"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1973",
       "occupation": "econometrician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187988",
-      "answerKey": "ragnar frisch"
+      "answerKey": "ragnar frisch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ragnar_Frisch"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "neuroscientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6796222",
-      "answerKey": "maybritt moser"
+      "answerKey": "maybritt moser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/May-Britt_Moser"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1976",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107405",
-      "answerKey": "lars onsager"
+      "answerKey": "lars onsager",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lars_Onsager"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2025",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192688",
-      "answerKey": "ivar giver"
+      "answerKey": "ivar giver",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivar_Giaever"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1957",
       "occupation": "aristocrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154927",
-      "answerKey": "haakon vii of norway"
+      "answerKey": "haakon vii of norway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haakon_VII"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131259",
-      "answerKey": "alexander rybak"
+      "answerKey": "alexander rybak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexander_Rybak"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1945",
       "occupation": "wartime collaborator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151364",
-      "answerKey": "vidkun quisling"
+      "answerKey": "vidkun quisling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vidkun_Quisling"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191064",
-      "answerKey": "liv ullmann"
+      "answerKey": "liv ullmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liv_Ullmann"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21808729",
-      "answerKey": "alan walker"
+      "answerKey": "alan walker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Walker"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18976",
-      "answerKey": "ole gunnar solskjr"
+      "answerKey": "ole gunnar solskjr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Gunnar_Solskj%C3%A6r"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1003",
       "occupation": "explorer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172345",
-      "answerKey": "erik the red"
+      "answerKey": "erik the red",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_the_Red"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1991",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154912",
-      "answerKey": "olav v of norway"
+      "answerKey": "olav v of norway",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olav_V"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1896",
       "occupation": "Bible translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106812",
-      "answerKey": "ivar andreas aasen"
+      "answerKey": "ivar andreas aasen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivar_Aasen"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1896",
       "occupation": "Bible translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106812",
-      "answerKey": "ivar andreas aasen"
+      "answerKey": "ivar andreas aasen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ivar_Aasen"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "biathlon coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189408",
-      "answerKey": "ole einar bjrndalen"
+      "answerKey": "ole einar bjrndalen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ole_Einar_Bj%C3%B8rndalen"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1412",
       "occupation": "queen regnant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202266",
-      "answerKey": "margaret i of denmark"
+      "answerKey": "margaret i of denmark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "YouTuber",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207824",
-      "answerKey": "varg vikernes"
+      "answerKey": "varg vikernes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Varg_Vikernes"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1929",
       "occupation": "social scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q73646",
-      "answerKey": "thorstein veblen"
+      "answerKey": "thorstein veblen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thorstein_Veblen"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "philanthropist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202693",
-      "answerKey": "jo nesb"
+      "answerKey": "jo nesb",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jo_Nesb%C3%B8"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1481",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153940",
-      "answerKey": "christian i of denmark"
+      "answerKey": "christian i of denmark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_I_of_Denmark"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1969",
       "occupation": "figure skater",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204205",
-      "answerKey": "sonja henie"
+      "answerKey": "sonja henie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sonja_Henie"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1754",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q216692",
-      "answerKey": "ludvig holberg"
+      "answerKey": "ludvig holberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludvig_Holberg"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16902219",
-      "answerKey": "martin degaard"
+      "answerKey": "martin degaard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_%C3%98degaard"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "online coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189827",
-      "answerKey": "john arne riise"
+      "answerKey": "john arne riise",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Arne_Riise"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1981",
       "occupation": "physical chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q157212",
-      "answerKey": "odd hassel"
+      "answerKey": "odd hassel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odd_Hassel"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1559",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154460",
-      "answerKey": "christian ii of denmark"
+      "answerKey": "christian ii of denmark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1559",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154460",
-      "answerKey": "christian ii of denmark"
+      "answerKey": "christian ii of denmark",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_II_of_Denmark"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "neuroscientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5341373",
-      "answerKey": "edvard moser"
+      "answerKey": "edvard moser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edvard_Moser"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+  "updated": "2025-12-14T22:20:00.189Z",
+  "wikipediaLinksAdded": true
 }

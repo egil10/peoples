@@ -13,7 +13,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21294765",
-      "answerKey": "jovenel moise"
+      "answerKey": "jovenel moise",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jovenel_Mo%C3%AFse"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1971",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187697",
-      "answerKey": "francois duvalier"
+      "answerKey": "francois duvalier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1806",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212068",
-      "answerKey": "jeanjacques dessalines"
+      "answerKey": "jeanjacques dessalines",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Jacques_Dessalines"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310775",
-      "answerKey": "jeanclaude duvalier"
+      "answerKey": "jeanclaude duvalier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Duvalier"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310775",
-      "answerKey": "jeanclaude duvalier"
+      "answerKey": "jeanclaude duvalier",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Claude_Duvalier"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208834",
-      "answerKey": "rene preval"
+      "answerKey": "rene preval",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%A9val"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2017",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208834",
-      "answerKey": "rene preval"
+      "answerKey": "rene preval",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%A9val"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q209617",
-      "answerKey": "jeanbertrand aristide"
+      "answerKey": "jeanbertrand aristide",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128933",
-      "answerKey": "michaelle jean"
+      "answerKey": "michaelle jean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micha%C3%ABlle_Jean"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202663",
-      "answerKey": "wyclef jean"
+      "answerKey": "wyclef jean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wyclef_Jean"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57512",
-      "answerKey": "michel martelly"
+      "answerKey": "michel martelly",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Martelly"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1820",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353458",
-      "answerKey": "henri christophe"
+      "answerKey": "henri christophe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Christophe"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2023",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q323218",
-      "answerKey": "boniface alexandre"
+      "answerKey": "boniface alexandre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boniface_Alexandre"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "neurosurgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q107451258",
-      "answerKey": "ariel henry"
+      "answerKey": "ariel henry",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ariel_Henry"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2014",
       "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470492",
-      "answerKey": "leslie manigat"
+      "answerKey": "leslie manigat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leslie_Manigat"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1818",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
-      "answerKey": "alejandro petion"
+      "answerKey": "alejandro petion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_P%C3%A9tion"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1818",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
-      "answerKey": "alejandro petion"
+      "answerKey": "alejandro petion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_P%C3%A9tion"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1818",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
-      "answerKey": "alejandro petion"
+      "answerKey": "alejandro petion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexandre_P%C3%A9tion"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450346",
-      "answerKey": "edwidge danticat"
+      "answerKey": "edwidge danticat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edwidge_Danticat"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1806",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q572684",
-      "answerKey": "thomasalexandre dumas"
+      "answerKey": "thomasalexandre dumas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas-Alexandre_Dumas"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1806",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q572684",
-      "answerKey": "thomasalexandre dumas"
+      "answerKey": "thomasalexandre dumas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thomas-Alexandre_Dumas"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264711",
-      "answerKey": "michele pierrelouis"
+      "answerKey": "michele pierrelouis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mich%C3%A8le_Pierre-Louis"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106496152",
-      "answerKey": "claude joseph"
+      "answerKey": "claude joseph",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Joseph"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1071759",
-      "answerKey": "chibly langlois"
+      "answerKey": "chibly langlois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chibly_Langlois"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1850",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q449421",
-      "answerKey": "jeanpierre boyer"
+      "answerKey": "jeanpierre boyer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Pierre_Boyer"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q441217",
-      "answerKey": "bruny surin"
+      "answerKey": "bruny surin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bruny_Surin"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q461636",
-      "answerKey": "ertha pascaltrouillot"
+      "answerKey": "ertha pascaltrouillot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ertha_Pascal-Trouillot"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2023",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q560895",
-      "answerKey": "gerard latortue"
+      "answerKey": "gerard latortue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Latortue"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q371821",
-      "answerKey": "samuel dalembert"
+      "answerKey": "samuel dalembert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Dalembert"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q371821",
-      "answerKey": "samuel dalembert"
+      "answerKey": "samuel dalembert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Dalembert"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2018",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q470500",
-      "answerKey": "henri namphy"
+      "answerKey": "henri namphy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henri_Namphy"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450219",
-      "answerKey": "garcelle beauvais"
+      "answerKey": "garcelle beauvais",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garcelle_Beauvais"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1952",
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q301677",
-      "answerKey": "silvio cator"
+      "answerKey": "silvio cator",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silvio_Cator"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315427",
-      "answerKey": "jeanmax bellerive"
+      "answerKey": "jeanmax bellerive",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Max_Bellerive"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1165217",
-      "answerKey": "dany laferriere"
+      "answerKey": "dany laferriere",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dany_Laferri%C3%A8re"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2025",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q162778",
-      "answerKey": "franketienne"
+      "answerKey": "franketienne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Frank%C3%A9tienne"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1867",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q560853",
-      "answerKey": "faustin soulouque"
+      "answerKey": "faustin soulouque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Faustin_Soulouque"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450359",
-      "answerKey": "claudette werleigh"
+      "answerKey": "claudette werleigh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claudette_Werleigh"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q382423",
-      "answerKey": "raoul cedras"
+      "answerKey": "raoul cedras",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raoul_C%C3%A9dras"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1953",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q738355",
-      "answerKey": "dumarsais estime"
+      "answerKey": "dumarsais estime",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dumarsais_Estim%C3%A9"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1357018",
-      "answerKey": "raoul peck"
+      "answerKey": "raoul peck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raoul_Peck"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1868",
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1982279",
-      "answerKey": "jeanne duval"
+      "answerKey": "jeanne duval",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeanne_Duval"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59581",
-      "answerKey": "rene depestre"
+      "answerKey": "rene depestre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Depestre"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16916422",
-      "answerKey": "duckens nazon"
+      "answerKey": "duckens nazon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Duckens_Nazon"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21809321",
-      "answerKey": "fritz jean"
+      "answerKey": "fritz jean",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fritz_Jean"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6207072",
-      "answerKey": "jocelerme privert"
+      "answerKey": "jocelerme privert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jocelerme_Privert"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q260400",
-      "answerKey": "garry conille"
+      "answerKey": "garry conille",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garry_Conille"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57854",
-      "answerKey": "laurent lamothe"
+      "answerKey": "laurent lamothe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurent_Lamothe"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1942",
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q635697",
-      "answerKey": "constantin henriquez"
+      "answerKey": "constantin henriquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Constantin_Henriquez"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471075",
-      "answerKey": "jacquesedouard alexis"
+      "answerKey": "jacquesedouard alexis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques-%C3%89douard_Alexis"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg",
+  "updated": "2025-12-14T22:15:29.289Z",
+  "wikipediaLinksAdded": true
 }

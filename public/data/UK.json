@@ -13,7 +13,8 @@
       "deathYear": "1965",
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8016",
-      "answerKey": "winston churchill"
+      "answerKey": "winston churchill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Winston_Churchill"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1977",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q882",
-      "answerKey": "charlie chaplin"
+      "answerKey": "charlie chaplin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlie_Chaplin"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2022",
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9682",
-      "answerKey": "elizabeth ii"
+      "answerKey": "elizabeth ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_II"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "Wikimedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181",
-      "answerKey": "jimmy wales"
+      "answerKey": "jimmy wales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jimmy_Wales"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1900",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30875",
-      "answerKey": "oscar wilde"
+      "answerKey": "oscar wilde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1950",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3335",
-      "answerKey": "george orwell"
+      "answerKey": "george orwell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Orwell"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2013",
       "occupation": "research scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7416",
-      "answerKey": "margaret thatcher"
+      "answerKey": "margaret thatcher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1973",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q892",
-      "answerKey": "j r r tolkien"
+      "answerKey": "j r r tolkien",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2018",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17714",
-      "answerKey": "stephen hawking"
+      "answerKey": "stephen hawking",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Hawking"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2018",
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17714",
-      "answerKey": "stephen hawking"
+      "answerKey": "stephen hawking",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stephen_Hawking"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1941",
       "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6882",
-      "answerKey": "james joyce"
+      "answerKey": "james joyce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Joyce"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1895",
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34787",
-      "answerKey": "friedrich engels"
+      "answerKey": "friedrich engels",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Engels"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1976",
       "occupation": "crime fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35064",
-      "answerKey": "agatha christie"
+      "answerKey": "agatha christie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agatha_Christie"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1954",
       "occupation": "cryptographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7251",
-      "answerKey": "alan turing"
+      "answerKey": "alan turing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Turing"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1950",
       "occupation": "playwright",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19185",
-      "answerKey": "george bernard shaw"
+      "answerKey": "george bernard shaw",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1936",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34743",
-      "answerKey": "rudyard kipling"
+      "answerKey": "rudyard kipling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudyard_Kipling"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1970",
       "occupation": "analytic philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33760",
-      "answerKey": "bertrand russell"
+      "answerKey": "bertrand russell",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bertrand_Russell"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1980",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1203",
-      "answerKey": "john lennon"
+      "answerKey": "john lennon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Lennon"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1930",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q35610",
-      "answerKey": "arthur conan doyle"
+      "answerKey": "arthur conan doyle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1980",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7374",
-      "answerKey": "alfred hitchcock"
+      "answerKey": "alfred hitchcock",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Hitchcock"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1946",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9317",
-      "answerKey": "john maynard keynes"
+      "answerKey": "john maynard keynes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Maynard_Keynes"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "anti-transgender activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34660",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J._K._Rowling"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1991",
       "occupation": "manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15869",
-      "answerKey": "freddie mercury"
+      "answerKey": "freddie mercury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddie_Mercury"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "helicopter pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43274",
-      "answerKey": "charles iii"
+      "answerKey": "charles iii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_III"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1941",
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40909",
-      "answerKey": "virginia woolf"
+      "answerKey": "virginia woolf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Virginia_Woolf"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1946",
       "occupation": "Idist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42511",
-      "answerKey": "h g wells"
+      "answerKey": "h g wells",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/H._G._Wells"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1951",
       "occupation": "architectural theoretician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9391",
-      "answerKey": "ludwig wittgenstein"
+      "answerKey": "ludwig wittgenstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1827",
       "occupation": "exlibrist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41513",
-      "answerKey": "william blake"
+      "answerKey": "william blake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/William_Blake"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "web developer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80",
-      "answerKey": "tim bernerslee"
+      "answerKey": "tim bernerslee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1965",
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37767",
-      "answerKey": "t s eliot"
+      "answerKey": "t s eliot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/T._S._Eliot"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9545",
-      "answerKey": "tony blair"
+      "answerKey": "tony blair",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tony_Blair"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1999",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2001",
-      "answerKey": "stanley kubrick"
+      "answerKey": "stanley kubrick",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanley_Kubrick"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192",
-      "answerKey": "david cameron"
+      "answerKey": "david cameron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Cameron"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180589",
-      "answerKey": "boris johnson"
+      "answerKey": "boris johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boris_Johnson"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1894",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1512",
-      "answerKey": "robert louis stevenson"
+      "answerKey": "robert louis stevenson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2599",
-      "answerKey": "paul mccartney"
+      "answerKey": "paul mccartney",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_McCartney"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1997",
       "occupation": "mental health advocate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9685",
-      "answerKey": "diana princess of wales"
+      "answerKey": "diana princess of wales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diana%2C_Princess_of_Wales"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q264766",
-      "answerKey": "theresa may"
+      "answerKey": "theresa may",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Theresa_May"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1993",
       "occupation": "humanitarian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42786",
-      "answerKey": "audrey hepburn"
+      "answerKey": "audrey hepburn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Audrey_Hepburn"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2020",
       "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4573",
-      "answerKey": "sean connery"
+      "answerKey": "sean connery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sean_Connery"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39476",
-      "answerKey": "emma watson"
+      "answerKey": "emma watson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emma_Watson"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1963",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81447",
-      "answerKey": "aldous huxley"
+      "answerKey": "aldous huxley",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aldous_Huxley"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2011",
       "occupation": "HIV/AIDS activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34851",
-      "answerKey": "elizabeth taylor"
+      "answerKey": "elizabeth taylor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elizabeth_Taylor"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "financial analyst",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20055561",
-      "answerKey": "rishi sunak"
+      "answerKey": "rishi sunak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rishi_Sunak"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1832",
       "occupation": "musicologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q79025",
-      "answerKey": "walter scott"
+      "answerKey": "walter scott",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walter_Scott"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "video game actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44461",
-      "answerKey": "richard dawkins"
+      "answerKey": "richard dawkins",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Dawkins"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10520",
-      "answerKey": "david beckham"
+      "answerKey": "david beckham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Beckham"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2016",
       "occupation": "manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5383",
-      "answerKey": "david bowie"
+      "answerKey": "david bowie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Bowie"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23215",
-      "answerKey": "adele"
+      "answerKey": "adele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adele"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234679",
-      "answerKey": "charlotte rampling"
+      "answerKey": "charlotte rampling",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlotte_Rampling"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom%20%283-5%29.svg",
+  "updated": "2025-12-14T22:24:01.282Z",
+  "wikipediaLinksAdded": true
 }

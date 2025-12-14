@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152472",
-      "answerKey": "ingrid betancourt"
+      "answerKey": "ingrid betancourt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%8Dngrid_Betancourt"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57476",
-      "answerKey": "james michel"
+      "answerKey": "james michel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Michel"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "2019",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q224986",
-      "answerKey": "francealbert rene"
+      "answerKey": "francealbert rene",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/France-Albert_Ren%C3%A9"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5220343",
-      "answerKey": "danny faure"
+      "answerKey": "danny faure",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Faure"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1568174",
-      "answerKey": "wavel ramkalawan"
+      "answerKey": "wavel ramkalawan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wavel_Ramkalawan"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2017",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q362948",
-      "answerKey": "james mancham"
+      "answerKey": "james mancham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Mancham"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315301",
-      "answerKey": "michael mancienne"
+      "answerKey": "michael mancienne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Mancienne"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64010186",
-      "answerKey": "ahmed afif"
+      "answerKey": "ahmed afif",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Afif"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16190544",
-      "answerKey": "patrick herminie"
+      "answerKey": "patrick herminie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Herminie"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1997",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173874",
-      "answerKey": "danielle de st jorre"
+      "answerKey": "danielle de st jorre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danielle_de_St._Jorre"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20089124",
-      "answerKey": "vincent meriton"
+      "answerKey": "vincent meriton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vincent_Meriton"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3195661",
-      "answerKey": "kevin betsy"
+      "answerKey": "kevin betsy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Betsy"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "political activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6883654",
-      "answerKey": "mitzy larue"
+      "answerKey": "mitzy larue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mitcy_Larue"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16161140",
-      "answerKey": "caroline abel"
+      "answerKey": "caroline abel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caroline_Abel"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26223039",
-      "answerKey": "alexia amesbury"
+      "answerKey": "alexia amesbury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexia_Amesbury"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27914753",
-      "answerKey": "macsuzy mondon"
+      "answerKey": "macsuzy mondon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Macsuzy_Mondon"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "badminton player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457040",
-      "answerKey": "juliette ahwan"
+      "answerKey": "juliette ahwan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juliette_Ah-Wan"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6762697",
-      "answerKey": "marielouise potter"
+      "answerKey": "marielouise potter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie-Louise_Potter"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32860470",
-      "answerKey": "pamela charlette"
+      "answerKey": "pamela charlette",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pamela_Charlette"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12877508",
-      "answerKey": "joseph belmont"
+      "answerKey": "joseph belmont",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Belmont"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q959257",
-      "answerKey": "lissa labiche"
+      "answerKey": "lissa labiche",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lissa_Labiche"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20670782",
-      "answerKey": "roland raforme"
+      "answerKey": "roland raforme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roland_Raforme"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2021",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6214238",
-      "answerKey": "joevana charles"
+      "answerKey": "joevana charles",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joevana_Charles"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football referee",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16382955",
-      "answerKey": "bernard camille"
+      "answerKey": "bernard camille",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bernard_Camille"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56249687",
-      "answerKey": "jeanne simeon"
+      "answerKey": "jeanne simeon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeanne_Sim%C3%A9on"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101110528",
-      "answerKey": "sylvestre radegonde"
+      "answerKey": "sylvestre radegonde",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvestre_Radegonde"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q102407168",
-      "answerKey": "roger mancienne"
+      "answerKey": "roger mancienne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roger_Mancienne"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7937823",
-      "answerKey": "vivianne fock tave"
+      "answerKey": "vivianne fock tave",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vivianne_Fock_Tave"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2024",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2057880",
-      "answerKey": "patrick pillay"
+      "answerKey": "patrick pillay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_Pillay"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "badminton player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2647180",
-      "answerKey": "allisen camille"
+      "answerKey": "allisen camille",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Allisen_Camille"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16240369",
-      "answerKey": "felicity passon"
+      "answerKey": "felicity passon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Felicity_Passon"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17183684",
-      "answerKey": "jeanpaul adam"
+      "answerKey": "jeanpaul adam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Paul_Adam"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "financier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26249441",
-      "answerKey": "sherin naiken"
+      "answerKey": "sherin naiken",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sherin_Francis"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "sailor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26472805",
-      "answerKey": "rodney govinden"
+      "answerKey": "rodney govinden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rodney_Govinden"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101038872",
-      "answerKey": "peggy vidot"
+      "answerKey": "peggy vidot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peggy_Vidot"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2029480",
-      "answerKey": "andrique allisop"
+      "answerKey": "andrique allisop",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrique_Allisop"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2820957",
-      "answerKey": "abdel kader sylla"
+      "answerKey": "abdel kader sylla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdel_Kader_Sylla"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "consultant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6762638",
-      "answerKey": "marieantoinette rose"
+      "answerKey": "marieantoinette rose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie-Antoinette_Rose"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21057322",
-      "answerKey": "alexus laird"
+      "answerKey": "alexus laird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alexus_Laird"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26217914",
-      "answerKey": "mathilda twomey"
+      "answerKey": "mathilda twomey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mathilda_Twomey"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26838074",
-      "answerKey": "ned justeen azemia"
+      "answerKey": "ned justeen azemia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ned_Azemia"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26896897",
-      "answerKey": "janet georges"
+      "answerKey": "janet georges",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janet_Georges"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30302391",
-      "answerKey": "nicolas van beveren"
+      "answerKey": "nicolas van beveren",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicolas_van_Beveren"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33093239",
-      "answerKey": "may de silva"
+      "answerKey": "may de silva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/May_De_Silva"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "business undergraduate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11995661",
-      "answerKey": "pierre laporte"
+      "answerKey": "pierre laporte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Frank_Laporte"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7336958",
-      "answerKey": "rival cadeau"
+      "answerKey": "rival cadeau",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rival_Cadeau"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7361414",
-      "answerKey": "rolph payet"
+      "answerKey": "rolph payet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rolph_Payet"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20089126",
-      "answerKey": "alain st ange"
+      "answerKey": "alain st ange",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alain_St_Ange"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20089125",
-      "answerKey": "joel morgan"
+      "answerKey": "joel morgan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joel_Morgan"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26844440",
-      "answerKey": "clementina agricole"
+      "answerKey": "clementina agricole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clementina_Agricole"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg",
+  "updated": "2025-12-14T22:11:56.621Z",
+  "wikipediaLinksAdded": true
 }

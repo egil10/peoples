@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43969",
-      "answerKey": "muhammad yunus"
+      "answerKey": "muhammad yunus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Yunus"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52183",
-      "answerKey": "sheikh hasina"
+      "answerKey": "sheikh hasina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheikh_Hasina"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q191375",
-      "answerKey": "sheikh mujibur rahman"
+      "answerKey": "sheikh mujibur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3246667",
-      "answerKey": "abdul hamid"
+      "answerKey": "abdul hamid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammad_Abdul_Hamid"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q208468",
-      "answerKey": "taslima nasrin"
+      "answerKey": "taslima nasrin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taslima_Nasrin"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q234814",
-      "answerKey": "khaleda zia"
+      "answerKey": "khaleda zia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khaleda_Zia"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1976",
       "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334818",
-      "answerKey": "kazi nazrul islam"
+      "answerKey": "kazi nazrul islam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kazi_Nazrul_Islam"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2013",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57485",
-      "answerKey": "zillur rahman"
+      "answerKey": "zillur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zillur_Rahman"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2013",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57485",
-      "answerKey": "zillur rahman"
+      "answerKey": "zillur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zillur_Rahman"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2012",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165672",
-      "answerKey": "iajuddin ahmed"
+      "answerKey": "iajuddin ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iajuddin_Ahmed"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1981",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q198313",
-      "answerKey": "ziaur rahman"
+      "answerKey": "ziaur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ziaur_Rahman"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q116763154",
-      "answerKey": "mohammad shahabuddin"
+      "answerKey": "mohammad shahabuddin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohammed_Shahabuddin"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2019",
       "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q461816",
-      "answerKey": "hussain muhammad ershad"
+      "answerKey": "hussain muhammad ershad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussain_Muhammad_Ershad"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2022",
       "occupation": "judge",
       "wikidataUrl": "http://www.wikidata.org/entity/Q465481",
-      "answerKey": "shahabuddin ahmed"
+      "answerKey": "shahabuddin ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shahabuddin_Ahmed"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "2009",
       "occupation": "film score composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468356",
-      "answerKey": "ali akbar khan"
+      "answerKey": "ali akbar khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Akbar_Khan"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2975772",
-      "answerKey": "tajuddin ahmad"
+      "answerKey": "tajuddin ahmad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tajuddin_Ahmad"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23771218",
-      "answerKey": "hamza choudhury"
+      "answerKey": "hamza choudhury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hamza_Choudhury"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1685252",
-      "answerKey": "patrick drozario"
+      "answerKey": "patrick drozario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_D'Rozario"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1685252",
-      "answerKey": "patrick drozario"
+      "answerKey": "patrick drozario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patrick_D'Rozario"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464960",
-      "answerKey": "monica ali"
+      "answerKey": "monica ali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Ali"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1982",
       "occupation": "structural engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62918",
-      "answerKey": "fazlur khan"
+      "answerKey": "fazlur khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fazlur_Rahman_Khan"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q257835",
-      "answerKey": "irene khan"
+      "answerKey": "irene khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irene_Khan"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q266104",
-      "answerKey": "shakib al hasan"
+      "answerKey": "shakib al hasan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakib_Al_Hasan"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q560060",
-      "answerKey": "fakhruddin ahmed"
+      "answerKey": "fakhruddin ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fakhruddin_Ahmed"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7462919",
-      "answerKey": "shakib khan"
+      "answerKey": "shakib khan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakib_Khan"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1996",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2427042",
-      "answerKey": "khondaker mostaq ahmad"
+      "answerKey": "khondaker mostaq ahmad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Khondaker_Mostaq_Ahmad"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q544036",
-      "answerKey": "runa laila"
+      "answerKey": "runa laila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Runa_Laila"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3348174",
-      "answerKey": "mushfiqur rahim"
+      "answerKey": "mushfiqur rahim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mushfiqur_Rahim"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12269600",
-      "answerKey": "shirin sharmin chaudhury"
+      "answerKey": "shirin sharmin chaudhury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shirin_Sharmin_Chaudhury"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "2002",
       "occupation": "philosopher of language",
       "wikidataUrl": "http://www.wikidata.org/entity/Q126460",
-      "answerKey": "eugenio coseriu"
+      "answerKey": "eugenio coseriu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eugenio_Co%C8%99eriu"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1976",
       "occupation": "sculptor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2443222",
-      "answerKey": "zainul abedin"
+      "answerKey": "zainul abedin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zainul_Abedin"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1999",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3031309",
-      "answerKey": "sufia kamal"
+      "answerKey": "sufia kamal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sufia_Kamal"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "2012",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12052777",
-      "answerKey": "humayun ahmed"
+      "answerKey": "humayun ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Humayun_Ahmed"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3350076",
-      "answerKey": "mashrafe bin mortaza"
+      "answerKey": "mashrafe bin mortaza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mashrafe_Mortaza"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3350076",
-      "answerKey": "mashrafe bin mortaza"
+      "answerKey": "mashrafe bin mortaza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mashrafe_Mortaza"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3350076",
-      "answerKey": "mashrafe bin mortaza"
+      "answerKey": "mashrafe bin mortaza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mashrafe_Mortaza"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1985",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317969",
-      "answerKey": "abdus sattar"
+      "answerKey": "abdus sattar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdus_Sattar_(president)"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1975",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3346340",
-      "answerKey": "syed nazrul islam"
+      "answerKey": "syed nazrul islam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Syed_Nazrul_Islam"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2024",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q278403",
-      "answerKey": "a q m badruddoza chowdhury"
+      "answerKey": "a q m badruddoza chowdhury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A._Q._M._Badruddoza_Chowdhury"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1987",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q335379",
-      "answerKey": "abu sayeed chowdhury"
+      "answerKey": "abu sayeed chowdhury",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abu_Sayeed_Chowdhury"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2021",
       "occupation": "barrister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3250277",
-      "answerKey": "moudud ahmed"
+      "answerKey": "moudud ahmed",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moudud_Ahmed"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19829386",
-      "answerKey": "mustafizur rahman"
+      "answerKey": "mustafizur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mustafizur_Rahman"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2093175",
-      "answerKey": "muhammad habibur rahman"
+      "answerKey": "muhammad habibur rahman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Habibur_Rahman"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "orator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q96012890",
-      "answerKey": "mamunul haque"
+      "answerKey": "mamunul haque",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mamunul_Haque"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "2001",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4696034",
-      "answerKey": "ahmed sofa"
+      "answerKey": "ahmed sofa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_Sofa"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4935828",
-      "answerKey": "bobita"
+      "answerKey": "bobita",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farida_Akhtar_Babita"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5299406",
-      "answerKey": "shamim azad"
+      "answerKey": "shamim azad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shamim_Azad"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q432748",
-      "answerKey": "rani hamid"
+      "answerKey": "rani hamid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rani_Hamid"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "cricketer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1187662",
-      "answerKey": "mahmudullah"
+      "answerKey": "mahmudullah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mahmudullah"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "architect",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27451427",
-      "answerKey": "marina tabassum"
+      "answerKey": "marina tabassum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marina_Tabassum"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
+  "updated": "2025-12-14T22:11:16.288Z",
+  "wikipediaLinksAdded": true
 }

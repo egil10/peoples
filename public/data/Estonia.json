@@ -13,7 +13,8 @@
       "deathYear": "1948",
       "occupation": "Idist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327195",
-      "answerKey": "edgar de wahl"
+      "answerKey": "edgar de wahl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_de_Wahl"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "business undergraduate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11869065",
-      "answerKey": "kaja kallas"
+      "answerKey": "kaja kallas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaja_Kallas"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "consultant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12366816",
-      "answerKey": "kersti kaljulaid"
+      "answerKey": "kersti kaljulaid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kersti_Kaljulaid"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57289",
-      "answerKey": "toomas hendrik ilves"
+      "answerKey": "toomas hendrik ilves",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toomas_Hendrik_Ilves"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "classical composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189534",
-      "answerKey": "arvo part"
+      "answerKey": "arvo part",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arvo_P%C3%A4rt"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433003",
-      "answerKey": "birgit sarrap"
+      "answerKey": "birgit sarrap",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Birgit_Sarrap"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2621730",
-      "answerKey": "juri ratas"
+      "answerKey": "juri ratas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCri_Ratas"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2024",
       "occupation": "agricultural scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q194000",
-      "answerKey": "arnold ruutel"
+      "answerKey": "arnold ruutel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnold_R%C3%BC%C3%BCtel"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "molecular geneticist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12358575",
-      "answerKey": "alar karis"
+      "answerKey": "alar karis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alar_Karis"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57640",
-      "answerKey": "andrus ansip"
+      "answerKey": "andrus ansip",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrus_Ansip"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1956",
       "occupation": "sportsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299114",
-      "answerKey": "konstantin pats"
+      "answerKey": "konstantin pats",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Konstantin_P%C3%A4ts"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2006",
       "occupation": "philologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153149",
-      "answerKey": "lennart meri"
+      "answerKey": "lennart meri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lennart_Meri"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "2008",
       "occupation": "patriarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151040",
-      "answerKey": "patriarch alexius ii"
+      "answerKey": "patriarch alexius ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Patriarch_Alexy_II_of_Moscow"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1975",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207727",
-      "answerKey": "paul keres"
+      "answerKey": "paul keres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Keres"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1975",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q207727",
-      "answerKey": "paul keres"
+      "answerKey": "paul keres",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Keres"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1980",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q154410",
-      "answerKey": "marie under"
+      "answerKey": "marie under",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie_Under"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3785077",
-      "answerKey": "taavi roivas"
+      "answerKey": "taavi roivas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taavi_R%C3%B5ivas"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "beach soccer player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310571",
-      "answerKey": "valeri karpin"
+      "answerKey": "valeri karpin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valery_Karpin"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1993",
       "occupation": "semiotician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360084",
-      "answerKey": "juri lotman"
+      "answerKey": "juri lotman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juri_Lotman"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1989",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q253998",
-      "answerKey": "betti alver"
+      "answerKey": "betti alver",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Betti_Alver"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1789192",
-      "answerKey": "kristen michal"
+      "answerKey": "kristen michal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kristen_Michal"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "sportsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q229566",
-      "answerKey": "carmen kass"
+      "answerKey": "carmen kass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Kass"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1940",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q353637",
-      "answerKey": "a h tammsaare"
+      "answerKey": "a h tammsaare",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/A._H._Tammsaare"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1985",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318126",
-      "answerKey": "ernst opik"
+      "answerKey": "ernst opik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ernst_%C3%96pik"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307473",
-      "answerKey": "mart laar"
+      "answerKey": "mart laar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mart_Laar"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211428",
-      "answerKey": "kaia kanepi"
+      "answerKey": "kaia kanepi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaia_Kanepi"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q458302",
-      "answerKey": "ragnar klavan"
+      "answerKey": "ragnar klavan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ragnar_Klavan"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "music artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233944",
-      "answerKey": "kerli"
+      "answerKey": "kerli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kerli"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "academician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q439102",
-      "answerKey": "ene ergma"
+      "answerKey": "ene ergma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ene_Ergma"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1973",
       "occupation": "philologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558166",
-      "answerKey": "johannes aavik"
+      "answerKey": "johannes aavik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Aavik"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "track and field coach",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334700",
-      "answerKey": "erki nool"
+      "answerKey": "erki nool",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erki_Nool"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q343318",
-      "answerKey": "tanel padar"
+      "answerKey": "tanel padar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tanel_Padar"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q359345",
-      "answerKey": "dave benton"
+      "answerKey": "dave benton",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dave_Benton"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2007",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q161842",
-      "answerKey": "jaan kross"
+      "answerKey": "jaan kross",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaan_Kross"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "2021",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467482",
-      "answerKey": "jaan kaplinski"
+      "answerKey": "jaan kaplinski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaan_Kaplinski"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "sportsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q156469",
-      "answerKey": "siim kallas"
+      "answerKey": "siim kallas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siim_Kallas"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q295452",
-      "answerKey": "mart poom"
+      "answerKey": "mart poom",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mart_Poom"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312894",
-      "answerKey": "juhan parts"
+      "answerKey": "juhan parts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juhan_Parts"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312412",
-      "answerKey": "andres oper"
+      "answerKey": "andres oper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andres_Oper"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q237061",
-      "answerKey": "getter jaani"
+      "answerKey": "getter jaani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Getter_Jaani"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "table hockey player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28498299",
-      "answerKey": "tommy cash"
+      "answerKey": "tommy cash",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tommy_Cash_(rapper)"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46366625",
-      "answerKey": "elina nechayeva"
+      "answerKey": "elina nechayeva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elina_Nechayeva"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "athletics competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1776",
-      "answerKey": "gerd kanter"
+      "answerKey": "gerd kanter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerd_Kanter"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q639366",
-      "answerKey": "anett kontaveit"
+      "answerKey": "anett kontaveit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anett_Kontaveit"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1984",
       "occupation": "marathon runner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q127347",
-      "answerKey": "juri lossmann"
+      "answerKey": "juri lossmann",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%BCri_Lossmann"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1941",
       "occupation": "sportsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q710956",
-      "answerKey": "jaan tonisson"
+      "answerKey": "jaan tonisson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaan_T%C3%B5nisson"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q450134",
-      "answerKey": "anne veski"
+      "answerKey": "anne veski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_Veski"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16403201",
-      "answerKey": "elina born"
+      "answerKey": "elina born",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elina_Born"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2022",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355241",
-      "answerKey": "edgar savisaar"
+      "answerKey": "edgar savisaar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edgar_Savisaar"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7688162",
-      "answerKey": "tanya mikhailova"
+      "answerKey": "tanya mikhailova",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tanja_Mihhailova-Saar"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg",
+  "updated": "2025-12-14T22:14:13.186Z",
+  "wikipediaLinksAdded": true
 }

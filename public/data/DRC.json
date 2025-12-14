@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57416",
-      "answerKey": "joseph kabila"
+      "answerKey": "joseph kabila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Kabila"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57416",
-      "answerKey": "joseph kabila"
+      "answerKey": "joseph kabila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Kabila"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "gynecologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1187542",
-      "answerKey": "denis mukwege"
+      "answerKey": "denis mukwege",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denis_Mukwege"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29032770",
-      "answerKey": "felix tshisekedi"
+      "answerKey": "felix tshisekedi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/F%C3%A9lix_Tshisekedi"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2001",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q135547",
-      "answerKey": "laurentdesire kabila"
+      "answerKey": "laurentdesire kabila",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laurent-D%C3%A9sir%C3%A9_Kabila"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184362",
-      "answerKey": "claude makelele"
+      "answerKey": "claude makelele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claude_Mak%C3%A9l%C3%A9l%C3%A9"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q62960177",
-      "answerKey": "eduardo camavinga"
+      "answerKey": "eduardo camavinga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eduardo_Camavinga"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1924",
-      "answerKey": "steve mandanda"
+      "answerKey": "steve mandanda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Mandanda"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2024",
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313481",
-      "answerKey": "dikembe mutombo"
+      "answerKey": "dikembe mutombo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dikembe_Mutombo"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206048",
-      "answerKey": "joseph kasavubu"
+      "answerKey": "joseph kasavubu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Kasa-Vubu"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q50137347",
-      "answerKey": "aaron wanbissaka"
+      "answerKey": "aaron wanbissaka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Wan-Bissaka"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "2019",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316942",
-      "answerKey": "antoine gizenga"
+      "answerKey": "antoine gizenga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antoine_Gizenga"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q299703",
-      "answerKey": "gael kakuta"
+      "answerKey": "gael kakuta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ga%C3%ABl_Kakuta"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314541",
-      "answerKey": "rio mavuba"
+      "answerKey": "rio mavuba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rio_Mavuba"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1969",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334830",
-      "answerKey": "tchombe moise"
+      "answerKey": "tchombe moise",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mo%C3%AFse_Tshombe"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q932982",
-      "answerKey": "cedric bakambu"
+      "answerKey": "cedric bakambu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9dric_Bakambu"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1456204",
-      "answerKey": "fridolin ambongo besungu"
+      "answerKey": "fridolin ambongo besungu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fridolin_Ambongo_Besungu"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1456204",
-      "answerKey": "fridolin ambongo besungu"
+      "answerKey": "fridolin ambongo besungu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fridolin_Ambongo_Besungu"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3303251",
-      "answerKey": "gims"
+      "answerKey": "gims",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gims"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27019988",
-      "answerKey": "axel tuanzebe"
+      "answerKey": "axel tuanzebe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axel_Tuanzebe"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q220826",
-      "answerKey": "jessy matador"
+      "answerKey": "jessy matador",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessy_Matador"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20745071",
-      "answerKey": "nordi mukiele"
+      "answerKey": "nordi mukiele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nordi_Mukiele"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4022527",
-      "answerKey": "yannick bolasie"
+      "answerKey": "yannick bolasie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yannick_Bolasie"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98815671",
-      "answerKey": "pierre kalulu"
+      "answerKey": "pierre kalulu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pierre_Kalulu"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20666686",
-      "answerKey": "jonathan ikone"
+      "answerKey": "jonathan ikone",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jonathan_Ikon%C3%A9"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342439",
-      "answerKey": "shabani nonda"
+      "answerKey": "shabani nonda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shabani_Nonda"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16010783",
-      "answerKey": "arthur masuaku"
+      "answerKey": "arthur masuaku",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Masuaku"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552597",
-      "answerKey": "dieumerci mbokani"
+      "answerKey": "dieumerci mbokani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dieumerci_Mbokani"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379148",
-      "answerKey": "jeanpierre bemba"
+      "answerKey": "jeanpierre bemba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jean-Pierre_Bemba"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3196721",
-      "answerKey": "chancel mbemba"
+      "answerKey": "chancel mbemba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chancel_Mbemba"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2016",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q736274",
-      "answerKey": "papa wemba"
+      "answerKey": "papa wemba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Papa_Wemba"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "2016",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q736274",
-      "answerKey": "papa wemba"
+      "answerKey": "papa wemba",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Papa_Wemba"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8277714",
-      "answerKey": "kashetu kyenge"
+      "answerKey": "kashetu kyenge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/C%C3%A9cile_Kyenge"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "2017",
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q168629",
-      "answerKey": "etienne tshisekedi"
+      "answerKey": "etienne tshisekedi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/%C3%89tienne_Tshisekedi"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q736301",
-      "answerKey": "bismack biyombo"
+      "answerKey": "bismack biyombo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bismack_Biyombo"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316995",
-      "answerKey": "lomana lualua"
+      "answerKey": "lomana lualua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lomana_LuaLua"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q105523479",
-      "answerKey": "jeanmichel sama lukonde kyenge"
+      "answerKey": "jeanmichel sama lukonde kyenge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sama_Lukonde"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117472023",
-      "answerKey": "judith tuluka suminwa"
+      "answerKey": "judith tuluka suminwa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Judith_Suminwa"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q342608",
-      "answerKey": "peguy luyindula"
+      "answerKey": "peguy luyindula",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peguy_Luyindula"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q379117",
-      "answerKey": "mohombi"
+      "answerKey": "mohombi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mohombi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q556595",
-      "answerKey": "youssouf mulumbu"
+      "answerKey": "youssouf mulumbu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssouf_Mulumbu"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26203389",
-      "answerKey": "marieantoinette katoto"
+      "answerKey": "marieantoinette katoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marie-Antoinette_Katoto"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365790",
-      "answerKey": "adolphe muzito"
+      "answerKey": "adolphe muzito",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolphe_Muzito"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4971532",
-      "answerKey": "britt assombalonga"
+      "answerKey": "britt assombalonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Britt_Assombalonga"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56678276",
-      "answerKey": "silas katompa mvumpa"
+      "answerKey": "silas katompa mvumpa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silas_Katompa_Mvumpa"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57883",
-      "answerKey": "matata ponyo mapon augustin"
+      "answerKey": "matata ponyo mapon augustin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matata_Ponyo_Mapon"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q63967715",
-      "answerKey": "ilunga ilunkamba sylvestre"
+      "answerKey": "ilunga ilunkamba sylvestre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvestre_Ilunga"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23021435",
-      "answerKey": "julienne lusenge"
+      "answerKey": "julienne lusenge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julienne_Lusenge"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23021435",
-      "answerKey": "julienne lusenge"
+      "answerKey": "julienne lusenge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julienne_Lusenge"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14565887",
-      "answerKey": "giannelli imbula"
+      "answerKey": "giannelli imbula",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giannelli_Imbula"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Democratic%20Republic%20of%20the%20Congo.svg",
+  "updated": "2025-12-14T22:13:27.512Z",
+  "wikipediaLinksAdded": true
 }

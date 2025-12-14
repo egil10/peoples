@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13375983",
-      "answerKey": "peter gadiot"
+      "answerKey": "peter gadiot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Gadiot"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1692",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q533759",
-      "answerKey": "joseph de la vega"
+      "answerKey": "joseph de la vega",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_de_la_Vega"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1658",
       "occupation": "printmaker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q542383",
-      "answerKey": "cornelis visscher"
+      "answerKey": "cornelis visscher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelis_Visscher"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1631",
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3161764",
-      "answerKey": "jan pynas"
+      "answerKey": "jan pynas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Pynas"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1863",
       "occupation": "scientific collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2292953",
-      "answerKey": "martin martens"
+      "answerKey": "martin martens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Martens"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1717",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3216628",
-      "answerKey": "lambert bos"
+      "answerKey": "lambert bos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lambert_Bos"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "1713",
       "occupation": "anatomist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q633408",
-      "answerKey": "archibald pitcairne"
+      "answerKey": "archibald pitcairne",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Archibald_Pitcairne"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1778",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4355142",
-      "answerKey": "jan jacob schultens"
+      "answerKey": "jan jacob schultens",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Jacob_Schultens"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1624",
       "occupation": "anatomist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380814",
-      "answerKey": "aelius everardus vorstius"
+      "answerKey": "aelius everardus vorstius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aelius_Everhardus_Vorstius"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1660",
       "occupation": "print publisher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4684802",
-      "answerKey": "adriaen matham"
+      "answerKey": "adriaen matham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adriaen_Matham"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1742",
       "occupation": "philologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3483509",
-      "answerKey": "siwart haverkamp"
+      "answerKey": "siwart haverkamp",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siwart_Haverkamp"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1607",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q611844",
-      "answerKey": "jan kraeck"
+      "answerKey": "jan kraeck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Kraeck"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": "1644",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1971867",
-      "answerKey": "johann heinrich alting"
+      "answerKey": "johann heinrich alting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johann_Heinrich_Alting"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "1601",
       "occupation": "anatomist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1697683",
-      "answerKey": "johannes heurnius"
+      "answerKey": "johannes heurnius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Heurnius"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1660",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6122291",
-      "answerKey": "saul levi morteira"
+      "answerKey": "saul levi morteira",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Saul_Levi_Morteira"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1624",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186820",
-      "answerKey": "martin becanus"
+      "answerKey": "martin becanus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Becanus"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1701",
       "occupation": "church historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q325341",
-      "answerKey": "friedrich spanheim the younger"
+      "answerKey": "friedrich spanheim the younger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Friedrich_Spanheim_the_Younger"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1612",
       "occupation": "botanical illustrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1334797",
-      "answerKey": "emanuel sweert"
+      "answerKey": "emanuel sweert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emanuel_Sweert"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1680",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5616002",
-      "answerKey": "guillam dubois"
+      "answerKey": "guillam dubois",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Guillam_Dubois"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "1704",
       "occupation": "designer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q721656",
-      "answerKey": "egbert van heemskerck"
+      "answerKey": "egbert van heemskerck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Egbert_van_Heemskerck"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1695",
       "occupation": "botanical illustrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5038987",
-      "answerKey": "carel de vogelaer"
+      "answerKey": "carel de vogelaer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carel_de_Vogelaer"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1728",
       "occupation": "memoirist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1757913",
-      "answerKey": "andrey matveyev"
+      "answerKey": "andrey matveyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrey_Matveyev"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1728",
       "occupation": "memoirist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1757913",
-      "answerKey": "andrey matveyev"
+      "answerKey": "andrey matveyev",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrey_Matveyev"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1624",
       "occupation": "postmaster",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1801636",
-      "answerKey": "lamoral von taxis"
+      "answerKey": "lamoral von taxis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamoral_von_Taxis"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1628",
       "occupation": "postmaster",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1801636",
-      "answerKey": "lamoral von taxis"
+      "answerKey": "lamoral von taxis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lamoral_von_Taxis"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1637",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1237707",
-      "answerKey": "dominicus arumaeus"
+      "answerKey": "dominicus arumaeus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominicus_Arumaeus"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1663",
       "occupation": "botanist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q366020",
-      "answerKey": "adolphus vorstius"
+      "answerKey": "adolphus vorstius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adolphus_Vorstius"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1733",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2141204",
-      "answerKey": "reinhardt vincent von hompesch"
+      "answerKey": "reinhardt vincent von hompesch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reinhard_Vincent_Graf_von_Hompesch"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1733",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2141204",
-      "answerKey": "reinhardt vincent von hompesch"
+      "answerKey": "reinhardt vincent von hompesch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reinhard_Vincent_Graf_von_Hompesch"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1775",
       "occupation": "scientific illustrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4484167",
-      "answerKey": "jan caspar philips"
+      "answerKey": "jan caspar philips",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Caspar_Philips"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "1775",
       "occupation": "scientific illustrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4484167",
-      "answerKey": "jan caspar philips"
+      "answerKey": "jan caspar philips",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Caspar_Philips"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1574",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13479703",
-      "answerKey": "dirk crabeth"
+      "answerKey": "dirk crabeth",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dirk_Crabeth"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1647",
       "occupation": "stampcutter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14551648",
-      "answerKey": "simon van de passe"
+      "answerKey": "simon van de passe",
+      "wikipediaUrl": null
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1776",
       "occupation": "librarian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q763707",
-      "answerKey": "matthew maty"
+      "answerKey": "matthew maty",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Maty"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1627",
       "occupation": "theologian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q832264",
-      "answerKey": "johannes acronius"
+      "answerKey": "johannes acronius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Johannes_Acronius"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1664",
       "occupation": "Christian minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7784006",
-      "answerKey": "thieleman j van braght"
+      "answerKey": "thieleman j van braght",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thieleman_J._van_Braght"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1811",
       "occupation": "wholesaler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3364635",
-      "answerKey": "frederic de coninck"
+      "answerKey": "frederic de coninck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_de_Coninck"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1571",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q566065",
-      "answerKey": "anneken hendriks"
+      "answerKey": "anneken hendriks",
+      "wikipediaUrl": null
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1691",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q608264",
-      "answerKey": "jacques vaillant"
+      "answerKey": "jacques vaillant",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jacques_Vaillant_(painter)"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1749",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5619170",
-      "answerKey": "sir matthew decker 1st baronet"
+      "answerKey": "sir matthew decker 1st baronet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Decker"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "1627",
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5626027",
-      "answerKey": "gerard thibault danvers"
+      "answerKey": "gerard thibault danvers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Thibault_d'Anvers"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "1627",
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5626027",
-      "answerKey": "gerard thibault danvers"
+      "answerKey": "gerard thibault danvers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Thibault_d'Anvers"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1629",
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5626027",
-      "answerKey": "gerard thibault danvers"
+      "answerKey": "gerard thibault danvers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Thibault_d'Anvers"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1629",
       "occupation": "martial artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5626027",
-      "answerKey": "gerard thibault danvers"
+      "answerKey": "gerard thibault danvers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G%C3%A9rard_Thibault_d'Anvers"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1666",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5280819",
-      "answerKey": "dirk graswinckel"
+      "answerKey": "dirk graswinckel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dirk_Graswinckel"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1681",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1133512",
-      "answerKey": "cornelis brouwer"
+      "answerKey": "cornelis brouwer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelis_Brouwer"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1685",
       "occupation": "physician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1133731",
-      "answerKey": "cornelis bontekoe"
+      "answerKey": "cornelis bontekoe",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cornelis_Bontekoe"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1570",
       "occupation": "visual artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1682266",
-      "answerKey": "jan swart van groningen"
+      "answerKey": "jan swart van groningen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jan_Swart_van_Groningen"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1610",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5552584",
-      "answerKey": "gerrit pietersz sweelink"
+      "answerKey": "gerrit pietersz sweelink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerrit_Pietersz_Sweelink"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1612",
       "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5552584",
-      "answerKey": "gerrit pietersz sweelink"
+      "answerKey": "gerrit pietersz sweelink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerrit_Pietersz_Sweelink"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+  "updated": "2025-12-14T22:19:24.694Z",
+  "wikipediaLinksAdded": true
 }

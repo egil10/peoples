@@ -13,7 +13,8 @@
       "deathYear": "2005",
       "occupation": "latin catholic deacon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q989",
-      "answerKey": "john paul ii"
+      "answerKey": "john paul ii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "anti-communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q444",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1916",
       "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41502",
-      "answerKey": "henryk sienkiewicz"
+      "answerKey": "henryk sienkiewicz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Henryk_Sienkiewicz"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1855",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q79822",
-      "answerKey": "adam mickiewicz"
+      "answerKey": "adam mickiewicz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Mickiewicz"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "1924",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82925",
-      "answerKey": "joseph conrad"
+      "answerKey": "joseph conrad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joseph_Conrad"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2004",
       "occupation": "literary historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45970",
-      "answerKey": "czesaw miosz"
+      "answerKey": "czesaw miosz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Czes%C5%82aw_Mi%C5%82osz"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "2012",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42552",
-      "answerKey": "wisawa szymborska"
+      "answerKey": "wisawa szymborska",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wis%C5%82awa_Szymborska"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2010",
       "occupation": "legal scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2757",
-      "answerKey": "lech kaczynski"
+      "answerKey": "lech kaczynski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lech_Kaczy%C5%84ski"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1991",
       "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75612",
-      "answerKey": "isaac bashevis singer"
+      "answerKey": "isaac bashevis singer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51552",
-      "answerKey": "roman polanski"
+      "answerKey": "roman polanski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roman_Polanski"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "head of government",
       "wikidataUrl": "http://www.wikidata.org/entity/Q946",
-      "answerKey": "donald tusk"
+      "answerKey": "donald tusk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donald_Tusk"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9151911",
-      "answerKey": "andrzej duda"
+      "answerKey": "andrzej duda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_Duda"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151269",
-      "answerKey": "robert lewandowski"
+      "answerKey": "robert lewandowski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Lewandowski"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "programmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
-      "answerKey": "steve wozniak"
+      "answerKey": "steve wozniak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wozniak"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "programmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
-      "answerKey": "steve wozniak"
+      "answerKey": "steve wozniak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wozniak"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "programmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
-      "answerKey": "steve wozniak"
+      "answerKey": "steve wozniak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wozniak"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "2006",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6530",
-      "answerKey": "stanisaw lem"
+      "answerKey": "stanisaw lem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80471",
-      "answerKey": "miroslav klose"
+      "answerKey": "miroslav klose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miroslav_Klose"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1992",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q130873",
-      "answerKey": "menachem begin"
+      "answerKey": "menachem begin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Menachem_Begin"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "librettist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q254032",
-      "answerKey": "olga tokarczuk"
+      "answerKey": "olga tokarczuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olga_Tokarczuk"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "2025",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2542",
-      "answerKey": "horst kohler"
+      "answerKey": "horst kohler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Horst_K%C3%B6hler"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134976",
-      "answerKey": "lukas podolski"
+      "answerKey": "lukas podolski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lukas_Podolski"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42939",
-      "answerKey": "bronisaw komorowski"
+      "answerKey": "bronisaw komorowski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bronis%C5%82aw_Komorowski"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "2014",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55834",
-      "answerKey": "wojciech jaruzelski"
+      "answerKey": "wojciech jaruzelski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wojciech_Jaruzelski"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "2022",
       "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189732",
-      "answerKey": "leonid kravchuk"
+      "answerKey": "leonid kravchuk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leonid_Kravchuk"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "2010",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q101740",
-      "answerKey": "benoit mandelbrot"
+      "answerKey": "benoit mandelbrot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40890",
-      "answerKey": "anna maria jopek"
+      "answerKey": "anna maria jopek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anna_Maria_Jopek"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "2010",
       "occupation": "French resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153178",
-      "answerKey": "georges charpak"
+      "answerKey": "georges charpak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Georges_Charpak"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1963",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
-      "answerKey": "nazm hikmet"
+      "answerKey": "nazm hikmet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1963",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
-      "answerKey": "nazm hikmet"
+      "answerKey": "nazm hikmet",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/N%C3%A2z%C4%B1m_Hikmet"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2016",
       "occupation": "theatrical director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106685",
-      "answerKey": "andrzej wajda"
+      "answerKey": "andrzej wajda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_Wajda"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55917",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55758",
-      "answerKey": "aleksander kwasniewski"
+      "answerKey": "aleksander kwasniewski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aleksander_Kwa%C5%9Bniewski"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1982",
       "occupation": "classical pianist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183182",
-      "answerKey": "arthur rubinstein"
+      "answerKey": "arthur rubinstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Rubinstein"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "manager",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11771436",
-      "answerKey": "mateusz morawiecki"
+      "answerKey": "mateusz morawiecki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mateusz_Morawiecki"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q188997",
-      "answerKey": "wojciech szczesny"
+      "answerKey": "wojciech szczesny",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "ethnologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4877021",
-      "answerKey": "beata szydo"
+      "answerKey": "beata szydo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beata_Szyd%C5%82o"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1996",
       "occupation": "botanist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q115490",
-      "answerKey": "tadeusz reichstein"
+      "answerKey": "tadeusz reichstein",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tadeusz_Reichstein"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2008",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
-      "answerKey": "irena sendler"
+      "answerKey": "irena sendler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irena_Sendler"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "2008",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
-      "answerKey": "irena sendler"
+      "answerKey": "irena sendler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irena_Sendler"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": "2010",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
-      "answerKey": "irena sendler"
+      "answerKey": "irena sendler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irena_Sendler"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": "2010",
       "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
-      "answerKey": "irena sendler"
+      "answerKey": "irena sendler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Irena_Sendler"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "2017",
       "occupation": "opinion journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q158092",
-      "answerKey": "zygmunt bauman"
+      "answerKey": "zygmunt bauman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zygmunt_Bauman"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1996",
       "occupation": "director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55165",
-      "answerKey": "krzysztof kieslowski"
+      "answerKey": "krzysztof kieslowski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Krzysztof_Kie%C5%9Blowski"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "television personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q199901",
-      "answerKey": "doda"
+      "answerKey": "doda",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Doda_(singer)"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160359",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Kubica"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "1957",
       "occupation": "sex educator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q84412",
-      "answerKey": "wilhelm reich"
+      "answerKey": "wilhelm reich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wilhelm_Reich"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1831",
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294136",
-      "answerKey": "emilia plater"
+      "answerKey": "emilia plater",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emilia_Plater"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1849",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q243267",
-      "answerKey": "juliusz sowacki"
+      "answerKey": "juliusz sowacki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juliusz_S%C5%82owacki"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312101",
-      "answerKey": "andrzej sapkowski"
+      "answerKey": "andrzej sapkowski",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_Sapkowski"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+  "updated": "2025-12-14T22:20:42.561Z",
+  "wikipediaLinksAdded": true
 }

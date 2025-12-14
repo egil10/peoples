@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q383541",
-      "answerKey": "basshunter"
+      "answerKey": "basshunter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basshunter"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": "1778",
       "occupation": "scientific collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1043",
-      "answerKey": "carl linnaeus"
+      "answerKey": "carl linnaeus",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Linnaeus"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1896",
       "occupation": "weapons manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
-      "answerKey": "alfred nobel"
+      "answerKey": "alfred nobel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Nobel"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1896",
       "occupation": "weapons manufacturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
-      "answerKey": "alfred nobel"
+      "answerKey": "alfred nobel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alfred_Nobel"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2007",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7546",
-      "answerKey": "ingmar bergman"
+      "answerKey": "ingmar bergman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ingmar_Bergman"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1940",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44519",
-      "answerKey": "selma lagerlof"
+      "answerKey": "selma lagerlof",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56434717",
-      "answerKey": "greta thunberg"
+      "answerKey": "greta thunberg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Greta_Thunberg"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "1961",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1267",
-      "answerKey": "dag hammarskjold"
+      "answerKey": "dag hammarskjold",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dag_Hammarskj%C3%B6ld"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "1992",
       "occupation": "social democrat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
-      "answerKey": "willy brandt"
+      "answerKey": "willy brandt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willy_Brandt"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "1982",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
-      "answerKey": "ingrid bergman"
+      "answerKey": "ingrid bergman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ingrid_Bergman"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "1982",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
-      "answerKey": "ingrid bergman"
+      "answerKey": "ingrid bergman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ingrid_Bergman"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": "1982",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
-      "answerKey": "ingrid bergman"
+      "answerKey": "ingrid bergman",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ingrid_Bergman"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46896",
-      "answerKey": "zlatan ibrahimovic"
+      "answerKey": "zlatan ibrahimovic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zlatan_Ibrahimovi%C4%87"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2002",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55767",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Astrid_Lindgren"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": "1912",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7724",
-      "answerKey": ""
+      "answerKey": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Strindberg"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1946",
       "occupation": "Holocaust perpetrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q47906",
-      "answerKey": "hermann gorin"
+      "answerKey": "hermann gorin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hermann_G%C3%B6ring"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": "1990",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5443",
-      "answerKey": "greta garbo"
+      "answerKey": "greta garbo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Greta_Garbo"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "1970",
       "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57074",
-      "answerKey": "nelly sachs"
+      "answerKey": "nelly sachs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nelly_Sachs"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "1927",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80956",
-      "answerKey": "svante august arrhenius"
+      "answerKey": "svante august arrhenius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Svante_Arrhenius"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": "2015",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42122",
-      "answerKey": "tomas transtromer"
+      "answerKey": "tomas transtromer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tomas_Transtr%C3%B6mer"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45068",
-      "answerKey": "carl xvi gustaf of sweden"
+      "answerKey": "carl xvi gustaf of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_XVI_Gustaf"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": "1744",
       "occupation": "meteorologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81130",
-      "answerKey": "anders celsius"
+      "answerKey": "anders celsius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anders_Celsius"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1940",
       "occupation": "painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129173",
-      "answerKey": "verner von heidenstam"
+      "answerKey": "verner von heidenstam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Verner_von_Heidenstam"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1974",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93137",
-      "answerKey": "par lagerkvist"
+      "answerKey": "par lagerkvist",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/P%C3%A4r_Lagerkvist"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": "1968",
       "occupation": "nuclear physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56189",
-      "answerKey": "lise meitner"
+      "answerKey": "lise meitner",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lise_Meitner"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1891",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184535",
-      "answerKey": "sofia kovalevskaya"
+      "answerKey": "sofia kovalevskaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sofya_Kovalevskaya"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "1986",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q53713",
-      "answerKey": "olof palme"
+      "answerKey": "olof palme",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olof_Palme"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1848",
       "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q151911",
-      "answerKey": "jons jacob berzelius"
+      "answerKey": "jons jacob berzelius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/J%C3%B6ns_Jacob_Berzelius"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1840",
       "occupation": "landscape painter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104884",
-      "answerKey": "caspar david friedrich"
+      "answerKey": "caspar david friedrich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": "1931",
       "occupation": "poet",
       "wikidataUrl": "http://www.wikidata.org/entity/Q134641",
-      "answerKey": "erik axel karlfeldt"
+      "answerKey": "erik axel karlfeldt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Axel_Karlfeldt"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": "2018",
       "occupation": "remixer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q505476",
-      "answerKey": "avicii"
+      "answerKey": "avicii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Avicii"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1976",
       "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131326",
-      "answerKey": "eyvind johnson"
+      "answerKey": "eyvind johnson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyvind_Johnson"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1772",
       "occupation": "mystic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q185832",
-      "answerKey": "emmanuel swedenborg"
+      "answerKey": "emmanuel swedenborg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": "1937",
       "occupation": "industrialist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160518",
-      "answerKey": "gustaf dalen"
+      "answerKey": "gustaf dalen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustaf_Dal%C3%A9n"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "Japan Enthusiast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13423853",
-      "answerKey": "pewdiepie"
+      "answerKey": "pewdiepie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/PewDiePie"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1689",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52937",
-      "answerKey": "christina of sweden"
+      "answerKey": "christina of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christina%2C_Queen_of_Sweden"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "1978",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q132695",
-      "answerKey": "harry martinson"
+      "answerKey": "harry martinson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Harry_Martinson"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "1632",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52938",
-      "answerKey": "gustavus adolphus of sweden"
+      "answerKey": "gustavus adolphus of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gustavus_Adolphus"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "1995",
       "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54945",
-      "answerKey": "hannes alfven"
+      "answerKey": "hannes alfven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "disco singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173144",
-      "answerKey": "agnetha faltskog"
+      "answerKey": "agnetha faltskog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnetha_F%C3%A4ltskog"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "disco singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q173144",
-      "answerKey": "agnetha faltskog"
+      "answerKey": "agnetha faltskog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnetha_F%C3%A4ltskog"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104506",
-      "answerKey": "bjorn borg"
+      "answerKey": "bjorn borg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1987",
       "occupation": "sociologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q152452",
-      "answerKey": "gunnar myrdal"
+      "answerKey": "gunnar myrdal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gunnar_Myrdal"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": "1718",
       "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52934",
-      "answerKey": "carl xii of sweden"
+      "answerKey": "carl xii of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": "1978",
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q170741",
-      "answerKey": "manne siegbahn"
+      "answerKey": "manne siegbahn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manne_Siegbahn"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": "1786",
       "occupation": "pharmacologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q70538",
-      "answerKey": "carl wilhelm scheele"
+      "answerKey": "carl wilhelm scheele",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carl_Wilhelm_Scheele"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2740012",
-      "answerKey": "stefan lofven"
+      "answerKey": "stefan lofven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Stefan_L%C3%B6fven"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "1844",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52927",
-      "answerKey": "charles xiv john of sweden"
+      "answerKey": "charles xiv john of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_XIV_John"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1844",
       "occupation": "military commander",
       "wikidataUrl": "http://www.wikidata.org/entity/Q52927",
-      "answerKey": "charles xiv john of sweden"
+      "answerKey": "charles xiv john of sweden",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_XIV_John"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": "1884",
       "occupation": "lexicographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q153159",
-      "answerKey": "elias lonnrot"
+      "answerKey": "elias lonnrot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elias_L%C3%B6nnrot"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+  "updated": "2025-12-14T22:22:49.289Z",
+  "wikipediaLinksAdded": true
 }

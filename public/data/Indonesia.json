@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q221310",
-      "answerKey": "anggun"
+      "answerKey": "anggun",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anggun"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1362169",
-      "answerKey": "agnez mo"
+      "answerKey": "agnez mo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agnez_Mo"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": "1970",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76127",
-      "answerKey": "sukarno"
+      "answerKey": "sukarno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sukarno"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": "1970",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76127",
-      "answerKey": "sukarno"
+      "answerKey": "sukarno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sukarno"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3318231",
-      "answerKey": "joko widodo"
+      "answerKey": "joko widodo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joko_Widodo"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "2008",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44819",
-      "answerKey": "suharto"
+      "answerKey": "suharto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Suharto"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76179",
-      "answerKey": "megawati soekarnoputri"
+      "answerKey": "megawati soekarnoputri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Megawati_Sukarnoputri"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57405",
-      "answerKey": "susilo bambang yudhoyono"
+      "answerKey": "susilo bambang yudhoyono",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": "2019",
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76156",
-      "answerKey": "b j habibie"
+      "answerKey": "b j habibie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/B._J._Habibie"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": "2009",
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76167",
-      "answerKey": "abdurrahman wahid"
+      "answerKey": "abdurrahman wahid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdurrahman_Wahid"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2107268",
-      "answerKey": "prabowo subianto"
+      "answerKey": "prabowo subianto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prabowo_Subianto"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42297483",
-      "answerKey": "hary gunarto"
+      "answerKey": "hary gunarto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hary_Gunarto"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q61999077",
-      "answerKey": "jolene marie rotinsulu"
+      "answerKey": "jolene marie rotinsulu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jolene_Marie_Rotinsulu"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": "2006",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q326935",
-      "answerKey": "pramoedya ananta toer"
+      "answerKey": "pramoedya ananta toer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pramoedya_Ananta_Toer"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240527",
-      "answerKey": "laura gemser"
+      "answerKey": "laura gemser",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Laura_Gemser"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q981543",
-      "answerKey": "rio haryanto"
+      "answerKey": "rio haryanto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rio_Haryanto"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76354",
-      "answerKey": "jusuf kalla"
+      "answerKey": "jusuf kalla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jusuf_Kalla"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1157022",
-      "answerKey": "jordi amat"
+      "answerKey": "jordi amat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jordi_Amat_(footballer)"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464589",
-      "answerKey": "susi susanti"
+      "answerKey": "susi susanti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Susi_Susanti"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18342668",
-      "answerKey": "retno marsudi"
+      "answerKey": "retno marsudi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Retno_Marsudi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "qāriʾ",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28481203",
-      "answerKey": "muammar za"
+      "answerKey": "muammar za",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muammar_Z.A."
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q660145",
-      "answerKey": "taufik hidayat"
+      "answerKey": "taufik hidayat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taufik_Hidayat"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": null,
       "occupation": "model",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3391654",
-      "answerKey": "jessica iskandar"
+      "answerKey": "jessica iskandar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessica_Iskandar"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468506",
-      "answerKey": "greysia polii"
+      "answerKey": "greysia polii",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Greysia_Polii"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17410409",
-      "answerKey": "emil audero mulyadi"
+      "answerKey": "emil audero mulyadi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Emil_Audero"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": "1984",
       "occupation": "art collector",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76297",
-      "answerKey": "adam malik"
+      "answerKey": "adam malik",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adam_Malik"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3177708",
-      "answerKey": "sri mulyani indrawati"
+      "answerKey": "sri mulyani indrawati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sri_Mulyani"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": "1946",
       "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3981632",
-      "answerKey": "amir hamzah"
+      "answerKey": "amir hamzah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amir_Hamzah"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "2019",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464900",
-      "answerKey": "sheila dikshit"
+      "answerKey": "sheila dikshit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheila_Dikshit"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2350460",
-      "answerKey": "iko uwais"
+      "answerKey": "iko uwais",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iko_Uwais"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468407",
-      "answerKey": "julius darmaatmadja"
+      "answerKey": "julius darmaatmadja",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julius_Darmaatmadja"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "Islamic religious leaders",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12497177",
-      "answerKey": "maruf amin"
+      "answerKey": "maruf amin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ma'ruf_Amin"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "Islamic religious leaders",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12497177",
-      "answerKey": "maruf amin"
+      "answerKey": "maruf amin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ma'ruf_Amin"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "Islamic religious leaders",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12497177",
-      "answerKey": "maruf amin"
+      "answerKey": "maruf amin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ma'ruf_Amin"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "weightlifter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q554549",
-      "answerKey": "eko irawan"
+      "answerKey": "eko irawan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eko_Yuli_Irawan"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "2021",
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558761",
-      "answerKey": "markis kido"
+      "answerKey": "markis kido",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Markis_Kido"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2015",
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q606577",
-      "answerKey": "olga syahputra"
+      "answerKey": "olga syahputra",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Olga_Syahputra"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17602824",
-      "answerKey": "kevin diks"
+      "answerKey": "kevin diks",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kevin_Diks"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23723804",
-      "answerKey": "apriyani rahayu"
+      "answerKey": "apriyani rahayu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apriyani_Rahayu"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": "1959",
       "occupation": "education activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1815982",
-      "answerKey": "ki hajar dewantara"
+      "answerKey": "ki hajar dewantara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ki_Hajar_Dewantara"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q975434",
-      "answerKey": "bambang pamungkas"
+      "answerKey": "bambang pamungkas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bambang_Pamungkas"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468400",
-      "answerKey": "alan budikusuma"
+      "answerKey": "alan budikusuma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Budikusuma"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": "1965",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q558979",
-      "answerKey": "dipa nusantara aidit"
+      "answerKey": "dipa nusantara aidit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/D._N._Aidit"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q591530",
-      "answerKey": "musdah mulia"
+      "answerKey": "musdah mulia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Siti_Musdah_Mulia"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18342893",
-      "answerKey": "gibran rakabuming raka"
+      "answerKey": "gibran rakabuming raka",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gibran_Rakabuming_Raka"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4263230",
-      "answerKey": "anies baswedan"
+      "answerKey": "anies baswedan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anies_Baswedan"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": "2000",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q317291",
-      "answerKey": "abdul haris nasution"
+      "answerKey": "abdul haris nasution",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Haris_Nasution"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "Olympic competitor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q464630",
-      "answerKey": "liliyana natsir"
+      "answerKey": "liliyana natsir",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Liliyana_Natsir"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "2018",
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q468531",
-      "answerKey": "anneke gronloh"
+      "answerKey": "anneke gronloh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anneke_Gr%C3%B6nloh"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q538107",
-      "answerKey": "ignatius suharyo hardjoatmodjo"
+      "answerKey": "ignatius suharyo hardjoatmodjo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignatius_Suharyo_Hardjoatmodjo"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+  "updated": "2025-12-14T22:15:54.738Z",
+  "wikipediaLinksAdded": true
 }

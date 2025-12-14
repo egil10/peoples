@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "ophthalmologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44329",
-      "answerKey": "bashar alassad"
+      "answerKey": "bashar alassad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bashar_al-Assad"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7934206",
-      "answerKey": "ahmed alsharaa"
+      "answerKey": "ahmed alsharaa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ahmed_al-Sharaa"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "financial analyst",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231637",
-      "answerKey": "asma alassad"
+      "answerKey": "asma alassad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asma_al-Assad"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "swimmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23701408",
-      "answerKey": "yusra mardini"
+      "answerKey": "yusra mardini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusra_Mardini"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": "2015",
       "occupation": "Wikipedian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982696",
-      "answerKey": "bassel khartabil"
+      "answerKey": "bassel khartabil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bassel_Khartabil"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": "1989",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q355416",
-      "answerKey": "michel aflaq"
+      "answerKey": "michel aflaq",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michel_Aflaq"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": "459",
       "occupation": "stylite",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310987",
-      "answerKey": "simeon stylites"
+      "answerKey": "simeon stylites",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simeon_Stylites"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": "2013",
       "occupation": "video game actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1276579",
-      "answerKey": "michael ansara"
+      "answerKey": "michael ansara",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_Ansara"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "Eastern Orthodox priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1146609",
-      "answerKey": "john x of antioch"
+      "answerKey": "john x of antioch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_X_of_Antioch"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q546669",
-      "answerKey": "ghassan massoud"
+      "answerKey": "ghassan massoud",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ghassan_Massoud"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": "2015",
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q20900441",
-      "answerKey": "alan kurdi"
+      "answerKey": "alan kurdi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alan_Kurdi"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "military personnel",
       "wikidataUrl": "http://www.wikidata.org/entity/Q447173",
-      "answerKey": "maher alassad"
+      "answerKey": "maher alassad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maher_al-Assad"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "astronomer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12242407",
-      "answerKey": "alijliyyah"
+      "answerKey": "alijliyyah",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-%CA%BBIjliyyah"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q238419",
-      "answerKey": "wafa sultan"
+      "answerKey": "wafa sultan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wafa_Sultan"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2804276",
-      "answerKey": "razan zaitouneh"
+      "answerKey": "razan zaitouneh",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Razan_Zaitouneh"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": "1967",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59981",
-      "answerKey": "shukri alquwatli"
+      "answerKey": "shukri alquwatli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shukri_al-Quwatli"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1527916",
-      "answerKey": "randa kassis"
+      "answerKey": "randa kassis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Randa_Kassis"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": "2024",
       "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q430996",
-      "answerKey": "muhammed faris alaqidi"
+      "answerKey": "muhammed faris alaqidi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammed_Faris"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q307237",
-      "answerKey": "abd alhalim khaddam"
+      "answerKey": "abd alhalim khaddam",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abdul_Halim_Khaddam"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "Greek-Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q544296",
-      "answerKey": "gregory iii laham"
+      "answerKey": "gregory iii laham",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gregory_III_Laham"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": "1999",
       "occupation": "muhaddith",
       "wikidataUrl": "http://www.wikidata.org/entity/Q560078",
-      "answerKey": "alalbani"
+      "answerKey": "alalbani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al-Albani"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "chemist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1379731",
-      "answerKey": "salih muslim"
+      "answerKey": "salih muslim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salih_Muslim"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "1980",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q500447",
-      "answerKey": "salah addin albitar"
+      "answerKey": "salah addin albitar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salah_al-Din_al-Bitar"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": "1993",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q732137",
-      "answerKey": "essam sirius"
+      "answerKey": "essam sirius",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salah_Jadid"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60455401",
-      "answerKey": "hussein arnous"
+      "answerKey": "hussein arnous",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hussein_Arnous"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q109659531",
-      "answerKey": "roony bardghji"
+      "answerKey": "roony bardghji",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roony_Bardghji"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": "2020",
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1334803",
-      "answerKey": "walid muallem"
+      "answerKey": "walid muallem",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walid_Muallem"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6001983",
-      "answerKey": "imad khamis"
+      "answerKey": "imad khamis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imad_Khamis"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": "1974",
       "occupation": "oud player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1391669",
-      "answerKey": "farid alatrash"
+      "answerKey": "farid alatrash",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Farid_al-Atrash"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q519639",
-      "answerKey": "rifaat alassad"
+      "answerKey": "rifaat alassad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rifaat_al-Assad"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559498",
-      "answerKey": "ignatius joseph iii younan"
+      "answerKey": "ignatius joseph iii younan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignatius_Joseph_III_Yonan"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559498",
-      "answerKey": "ignatius joseph iii younan"
+      "answerKey": "ignatius joseph iii younan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignatius_Joseph_III_Yonan"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": "1992",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q59691",
-      "answerKey": "nureddin alatassi"
+      "answerKey": "nureddin alatassi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nureddin_al-Atassi"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1334135",
-      "answerKey": "mikael ishak"
+      "answerKey": "mikael ishak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mikael_Ishak"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": "1580",
       "occupation": "inventor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1379164",
-      "answerKey": "taqi aldin muhammad ibn maruf"
+      "answerKey": "taqi aldin muhammad ibn maruf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taqi_ad-Din_Muhammad_ibn_Ma'ruf"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1585",
       "occupation": "inventor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1379164",
-      "answerKey": "taqi aldin muhammad ibn maruf"
+      "answerKey": "taqi aldin muhammad ibn maruf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Taqi_ad-Din_Muhammad_ibn_Ma'ruf"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": "2012",
       "occupation": "patriarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q380422",
-      "answerKey": "ignatius iv of antioch"
+      "answerKey": "ignatius iv of antioch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ignatius_IV_of_Antioch"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": "2021",
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q984486",
-      "answerKey": "sabah fakhri"
+      "answerKey": "sabah fakhri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabah_Fakhri"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": "2009",
       "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q471449",
-      "answerKey": "amin alhafez"
+      "answerKey": "amin alhafez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amin_al-Hafiz"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "gynecologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q713915",
-      "answerKey": "wael alhalqi"
+      "answerKey": "wael alhalqi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wael_Nader_al-Halqi"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q76949",
-      "answerKey": "rafik schami"
+      "answerKey": "rafik schami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rafik_Schami"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q354642",
-      "answerKey": "riyad farid hijab"
+      "answerKey": "riyad farid hijab",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Riyad_Farid_Hijab"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4119196",
-      "answerKey": "samar yazbek"
+      "answerKey": "samar yazbek",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Samar_Yazbek"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1706406",
-      "answerKey": "joseph absi"
+      "answerKey": "joseph absi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Youssef_Absi"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "caricaturist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q403252",
-      "answerKey": "ali farzat"
+      "answerKey": "ali farzat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ali_Farzat"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q336406",
-      "answerKey": "muhammad naji alotari"
+      "answerKey": "muhammad naji alotari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muhammad_Naji_al-Otari"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2353139",
-      "answerKey": "assala"
+      "answerKey": "assala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Assala"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": "2019",
       "occupation": "dynamics / stress engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q70593695",
-      "answerKey": "hevrin khalaf"
+      "answerKey": "hevrin khalaf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Killing_of_Hevrin_Khalaf"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": "1968",
       "occupation": "philosopher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q144693",
-      "answerKey": "zaki alarsuzi"
+      "answerKey": "zaki alarsuzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zaki_al-Arsuzi"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": null,
       "wikidataUrl": "http://www.wikidata.org/entity/Q459816",
-      "answerKey": "bushra assad"
+      "answerKey": "bushra assad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bushra_al-Assad"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Syria%20%282025-%29.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Syria%20%282025-%29.svg",
+  "updated": "2025-12-14T22:22:59.822Z",
+  "wikipediaLinksAdded": true
 }

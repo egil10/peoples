@@ -13,7 +13,8 @@
       "deathYear": null,
       "occupation": "musician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q240942",
-      "answerKey": "valentina monetta"
+      "answerKey": "valentina monetta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valentina_Monetta"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "deathYear": null,
       "occupation": "television presenter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21998497",
-      "answerKey": "serhat"
+      "answerKey": "serhat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Serhat_(singer)"
     },
     {
       "id": 3,
@@ -35,7 +37,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q68043",
-      "answerKey": "massimo bonini"
+      "answerKey": "massimo bonini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Massimo_Bonini"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "deathYear": null,
       "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18577217",
-      "answerKey": "anita simoncini"
+      "answerKey": "anita simoncini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anita_Simoncini"
     },
     {
       "id": 5,
@@ -57,7 +61,8 @@
       "deathYear": null,
       "occupation": "amateur wrestler",
       "wikidataUrl": "http://www.wikidata.org/entity/Q64840211",
-      "answerKey": "myles amine"
+      "answerKey": "myles amine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Myles_Amine"
     },
     {
       "id": 6,
@@ -68,7 +73,8 @@
       "deathYear": null,
       "occupation": "rider performance analyst",
       "wikidataUrl": "http://www.wikidata.org/entity/Q478513",
-      "answerKey": "manuel poggiali"
+      "answerKey": "manuel poggiali",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manuel_Poggiali"
     },
     {
       "id": 7,
@@ -79,7 +85,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888508",
-      "answerKey": "alessandro mancini"
+      "answerKey": "alessandro mancini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Mancini"
     },
     {
       "id": 8,
@@ -90,7 +97,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q167075",
-      "answerKey": "valeria ciavatta"
+      "answerKey": "valeria ciavatta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Valeria_Ciavatta"
     },
     {
       "id": 9,
@@ -101,7 +109,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7132238",
-      "answerKey": "paolo rondelli"
+      "answerKey": "paolo rondelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paolo_Rondelli"
     },
     {
       "id": 10,
@@ -112,7 +121,8 @@
       "deathYear": null,
       "occupation": "motorcycle racer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q621623",
-      "answerKey": "alex de angelis"
+      "answerKey": "alex de angelis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alex_de_Angelis"
     },
     {
       "id": 11,
@@ -123,7 +133,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q58075",
-      "answerKey": "antonella mularoni"
+      "answerKey": "antonella mularoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antonella_Mularoni"
     },
     {
       "id": 12,
@@ -134,7 +145,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82919",
-      "answerKey": "alessandro rossi"
+      "answerKey": "alessandro rossi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Rossi_(Captain_Regent)"
     },
     {
       "id": 13,
@@ -145,7 +157,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557019",
-      "answerKey": "marino riccardi"
+      "answerKey": "marino riccardi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marino_Riccardi"
     },
     {
       "id": 14,
@@ -156,7 +169,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q369808",
-      "answerKey": "danilo rinaldi"
+      "answerKey": "danilo rinaldi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danilo_Rinaldi"
     },
     {
       "id": 15,
@@ -167,7 +181,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1154493",
-      "answerKey": "matteo vitaioli"
+      "answerKey": "matteo vitaioli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matteo_Vitaioli"
     },
     {
       "id": 16,
@@ -178,7 +193,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q723734",
-      "answerKey": "giampaolo mazza"
+      "answerKey": "giampaolo mazza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giampaolo_Mazza"
     },
     {
       "id": 17,
@@ -189,7 +205,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q542939",
-      "answerKey": "maria lea pediniangelini"
+      "answerKey": "maria lea pediniangelini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maria_Lea_Pedini-Angelini"
     },
     {
       "id": 18,
@@ -200,7 +217,8 @@
       "deathYear": null,
       "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q676260",
-      "answerKey": "luciano maiani"
+      "answerKey": "luciano maiani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luciano_Maiani"
     },
     {
       "id": 19,
@@ -211,7 +229,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q879064",
-      "answerKey": "filippo tamagnini"
+      "answerKey": "filippo tamagnini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filippo_Tamagnini"
     },
     {
       "id": 20,
@@ -222,7 +241,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21035121",
-      "answerKey": "nicola renzi"
+      "answerKey": "nicola renzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicola_Renzi"
     },
     {
       "id": 21,
@@ -233,7 +253,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56488891",
-      "answerKey": "nicola nanni"
+      "answerKey": "nicola nanni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicola_Nanni"
     },
     {
       "id": 22,
@@ -244,7 +265,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q887796",
-      "answerKey": "francesco mussoni"
+      "answerKey": "francesco mussoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francesco_Mussoni"
     },
     {
       "id": 23,
@@ -255,7 +277,8 @@
       "deathYear": "2013",
       "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q982072",
-      "answerKey": "little tony"
+      "answerKey": "little tony",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Little_Tony_(singer)"
     },
     {
       "id": 24,
@@ -266,7 +289,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23830564",
-      "answerKey": "filippo berardi"
+      "answerKey": "filippo berardi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filippo_Berardi"
     },
     {
       "id": 25,
@@ -277,7 +301,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q125119157",
-      "answerKey": "nicko sensoli"
+      "answerKey": "nicko sensoli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nicko_Sensoli"
     },
     {
       "id": 26,
@@ -288,7 +313,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15998324",
-      "answerKey": "luca beccari"
+      "answerKey": "luca beccari",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Luca_Beccari"
     },
     {
       "id": 27,
@@ -299,7 +325,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q31504",
-      "answerKey": "simone bacciocchi"
+      "answerKey": "simone bacciocchi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Simone_Bacciocchi"
     },
     {
       "id": 28,
@@ -310,7 +337,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q69382520",
-      "answerKey": "mariella mularoni"
+      "answerKey": "mariella mularoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mariella_Mularoni"
     },
     {
       "id": 29,
@@ -321,7 +349,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108584119",
-      "answerKey": "giacomo simoncini"
+      "answerKey": "giacomo simoncini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giacomo_Simoncini"
     },
     {
       "id": 30,
@@ -332,7 +361,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q117199896",
-      "answerKey": "adele tonnini"
+      "answerKey": "adele tonnini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adele_Tonnini"
     },
     {
       "id": 31,
@@ -343,7 +373,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17352697",
-      "answerKey": "elia benedettini"
+      "answerKey": "elia benedettini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elia_Benedettini"
     },
     {
       "id": 32,
@@ -354,7 +385,8 @@
       "deathYear": "1860",
       "occupation": "archaeologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q581258",
-      "answerKey": "bartolomeo borghesi"
+      "answerKey": "bartolomeo borghesi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartolomeo_Borghesi"
     },
     {
       "id": 33,
@@ -365,7 +397,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2734265",
-      "answerKey": "alessandro della valle"
+      "answerKey": "alessandro della valle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Della_Valle"
     },
     {
       "id": 34,
@@ -376,7 +409,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3609898",
-      "answerKey": "alessandro cardelli"
+      "answerKey": "alessandro cardelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alessandro_Cardelli"
     },
     {
       "id": 35,
@@ -387,7 +421,8 @@
       "deathYear": null,
       "occupation": "lawyer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q122423364",
-      "answerKey": "gaetano troina"
+      "answerKey": "gaetano troina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gaetano_Troina"
     },
     {
       "id": 36,
@@ -398,7 +433,8 @@
       "deathYear": "1955",
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1093721",
-      "answerKey": "giuliano gozi"
+      "answerKey": "giuliano gozi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuliano_Gozi"
     },
     {
       "id": 37,
@@ -409,7 +445,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q771240",
-      "answerKey": "mirko tomassoni"
+      "answerKey": "mirko tomassoni",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mirko_Tomassoni"
     },
     {
       "id": 38,
@@ -420,7 +457,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q65499704",
-      "answerKey": "marco nicolini"
+      "answerKey": "marco nicolini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Nicolini"
     },
     {
       "id": 39,
@@ -431,7 +469,8 @@
       "deathYear": null,
       "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19691256",
-      "answerKey": "andrea belluzzi"
+      "answerKey": "andrea belluzzi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrea_Belluzzi"
     },
     {
       "id": 40,
@@ -442,7 +481,8 @@
       "deathYear": null,
       "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1157057",
-      "answerKey": "marino cardelli"
+      "answerKey": "marino cardelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marino_Cardelli"
     },
     {
       "id": 41,
@@ -453,7 +493,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19691303",
-      "answerKey": "roberto venturini"
+      "answerKey": "roberto venturini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Venturini"
     },
     {
       "id": 42,
@@ -464,7 +505,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888458",
-      "answerKey": "alberto selva"
+      "answerKey": "alberto selva",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alberto_Selva"
     },
     {
       "id": 43,
@@ -475,7 +517,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16064803",
-      "answerKey": "gian carlo venturini"
+      "answerKey": "gian carlo venturini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gian_Carlo_Venturini"
     },
     {
       "id": 44,
@@ -486,7 +529,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q442415",
-      "answerKey": "carlo valentini"
+      "answerKey": "carlo valentini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlo_Valentini"
     },
     {
       "id": 45,
@@ -497,7 +541,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106188004",
-      "answerKey": "filippo fabbri"
+      "answerKey": "filippo fabbri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Filippo_Fabbri"
     },
     {
       "id": 46,
@@ -508,7 +553,8 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q888414",
-      "answerKey": "federico pedini amati"
+      "answerKey": "federico pedini amati",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Federico_Pedini_Amati"
     },
     {
       "id": 47,
@@ -519,7 +565,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28058612",
-      "answerKey": "michele cevoli"
+      "answerKey": "michele cevoli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michele_Cevoli"
     },
     {
       "id": 48,
@@ -530,7 +577,8 @@
       "deathYear": null,
       "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q377856",
-      "answerKey": "fiorenzo stolfi"
+      "answerKey": "fiorenzo stolfi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fiorenzo_Stolfi"
     },
     {
       "id": 49,
@@ -541,7 +589,8 @@
       "deathYear": null,
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1613731",
-      "answerKey": "roberto cevoli"
+      "answerKey": "roberto cevoli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roberto_Cevoli"
     },
     {
       "id": 50,
@@ -552,8 +601,11 @@
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6693543",
-      "answerKey": "pasquale valentini"
+      "answerKey": "pasquale valentini",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pasquale_Valentini"
     }
   ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg"
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg",
+  "updated": "2025-12-14T22:21:31.480Z",
+  "wikipediaLinksAdded": true
 }
