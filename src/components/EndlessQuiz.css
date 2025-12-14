@@ -69,10 +69,32 @@ body {
     z-index: 10;
     contain: layout style;
     transition: transform 0.3s ease;
+    gap: 16px;
 }
 
 .header.sidebar-open {
     transform: translateX(-280px);
+}
+
+.logo-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    text-align: left;
+    flex-shrink: 0;
+}
+
+.logo-button h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+    transition: opacity 0.15s ease;
+}
+
+.logo-button:hover h1 {
+    opacity: 0.7;
 }
 
 .stats {
@@ -81,6 +103,8 @@ body {
     align-items: center;
     font-size: 14px;
     font-weight: 600;
+    flex: 1;
+    justify-content: center;
 }
 
 .stats .dim {
@@ -108,16 +132,37 @@ body {
     display: flex;
     gap: 8px;
     align-items: center;
+    flex-shrink: 0;
 }
 
-/* Game Mode Toggle - Radio Style */
-.game-mode-toggle {
+.stats-button {
     display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    background: #F9F9F9;
     border: 1px solid #E0E0E0;
     border-radius: 6px;
-    padding: 2px;
-    background: #F9F9F9;
+    cursor: pointer;
+    transition: background 0.15s ease;
+    color: #000;
+}
+
+.stats-button:hover {
+    background: #F0F0F0;
+}
+
+/* Game Mode Toggle - Rounded Switch Style */
+.game-mode-toggle {
+    display: flex;
+    border: none;
+    border-radius: 24px;
+    padding: 4px;
+    background: #E8E8E8;
     margin: 0;
+    position: relative;
+    width: 80px;
+    height: 36px;
 }
 
 .game-mode-toggle legend {
@@ -136,11 +181,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 6px 12px;
+    padding: 0;
     cursor: pointer;
-    border-radius: 4px;
-    transition: background 0.15s ease;
+    border-radius: 50%;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     position: relative;
+    z-index: 2;
+    width: 28px;
+    height: 28px;
+    background: transparent;
+    flex: 1;
 }
 
 .game-mode-option input[type="radio"] {
@@ -150,23 +200,55 @@ body {
     height: 0;
 }
 
+/* Animated toggle slider */
+.game-mode-toggle::after {
+    content: '';
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 28px;
+    height: 28px;
+    background: #FFF;
+    border-radius: 50%;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.game-mode-toggle[data-mode="name-to-image"]::after {
+    transform: translateX(44px);
+}
+
 .game-mode-option.active {
-    background: #000;
-    color: #FFF;
+    background: transparent;
+    color: #000;
 }
 
 .game-mode-option:not(.active) {
-    color: #666;
-}
-
-.game-mode-option:not(.active):hover {
-    background: #F0F0F0;
+    color: #999;
 }
 
 .game-mode-icon {
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: transparent;
+    transition: background 0.2s ease;
+    z-index: 3;
+    position: relative;
+}
+
+.game-mode-option.active .game-mode-icon {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+}
+
+.game-mode-option:not(.active) .game-mode-icon {
+    background: transparent;
+    color: #999;
 }
 
 .controls button {
@@ -175,7 +257,7 @@ body {
     gap: 4px;
     padding: 6px 10px;
     background: transparent;
-    border: 1px solid #E0E0E0;
+    border: none;
     cursor: pointer;
     font-size: 13px;
     color: #000;
@@ -192,7 +274,7 @@ body {
 }
 
 .sidebar-toggle {
-    border: 1px solid #E0E0E0;
+    border: none;
 }
 
 /* Sidebar */
@@ -541,16 +623,17 @@ body {
 
 .feedback-popup {
     position: fixed;
-    top: 80px;
+    top: 100px;
     right: 24px;
     z-index: 1000;
     animation: slideInRight 0.3s ease;
     contain: layout style paint;
+    max-width: 360px;
 }
 
-/* Feedback in name-to-image mode - positioned higher to avoid covering images */
+/* Feedback in name-to-image mode - same position */
 .feedback-popup-name-mode {
-    top: 20px;
+    top: 100px;
     right: 24px;
 }
 
@@ -568,12 +651,14 @@ body {
 .feedback-content {
     background: #FFF;
     border-radius: 12px;
-    padding: 20px;
-    max-width: 380px;
+    padding: 16px;
+    max-width: 360px;
     width: 100%;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
     border: 1px solid #E0E0E0;
     contain: layout style paint;
+    max-height: calc(100vh - 140px);
+    overflow-y: auto;
 }
 
 .feedback-correct {
@@ -587,10 +672,10 @@ body {
 }
 
 .feedback-correct h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     color: #00C853;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .feedback-wrong {
@@ -604,10 +689,10 @@ body {
 }
 
 .feedback-wrong h3 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     color: #FF3D00;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .feedback-wrong-answer,
@@ -628,9 +713,9 @@ body {
 }
 
 .feedback-name {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 700;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     line-height: 1.2;
 }
 
@@ -651,10 +736,11 @@ body {
 
 .feedback-details {
     border-top: 1px solid #F0F0F0;
-    padding-top: 16px;
+    padding-top: 12px;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 6px;
+    margin-top: 8px;
 }
 
 .detail-item {
@@ -728,11 +814,11 @@ body {
 
     .feedback-popup {
         right: 16px;
-        top: 70px;
+        top: 100px;
     }
 
     .feedback-popup-name-mode {
-        top: 20px;
+        top: 100px;
         right: 16px;
     }
 
@@ -769,11 +855,11 @@ body {
 
     .feedback-popup {
         right: 12px;
-        top: 60px;
+        top: 90px;
     }
 
     .feedback-popup-name-mode {
-        top: 10px;
+        top: 90px;
         right: 12px;
     }
 

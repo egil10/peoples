@@ -1,10 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import EndlessQuiz from './components/EndlessQuiz';
+import Gallery from './components/Gallery';
+import Statistics from './components/Statistics';
 
 function App() {
     const [allCountryData, setAllCountryData] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
+    const [currentPage, setCurrentPage] = useState('quiz'); // 'quiz', 'gallery', 'statistics'
 
     // Load ALL country data on mount - go straight to quiz
     useEffect(() => {
@@ -86,9 +89,22 @@ function App() {
         );
     }
 
-    // Go straight to quiz - no start screen
+    // Render based on current page
+    if (currentPage === 'gallery') {
+        return <Gallery allPeopleData={allCountryData} onNavigateToQuiz={() => setCurrentPage('quiz')} />;
+    }
+
+    if (currentPage === 'statistics') {
+        return <Statistics onNavigateToQuiz={() => setCurrentPage('quiz')} />;
+    }
+
+    // Default to quiz
     return (
-        <EndlessQuiz allPeopleData={allCountryData} />
+        <EndlessQuiz 
+            allPeopleData={allCountryData} 
+            onNavigateToGallery={() => setCurrentPage('gallery')}
+            onNavigateToStatistics={() => setCurrentPage('statistics')}
+        />
     );
 }
 

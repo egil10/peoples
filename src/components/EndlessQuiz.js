@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { Image, User, Award, Check, X, PanelLeft, Timer } from 'lucide-react';
+import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart } from 'lucide-react';
 import './EndlessQuiz.css';
 
 // Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
@@ -91,7 +91,7 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
            prevProps.isAnswered === nextProps.isAnswered;
 });
 
-function EndlessQuiz({ allPeopleData }) {
+function EndlessQuiz({ allPeopleData, onNavigateToStatistics }) {
     const [allPeople, setAllPeople] = useState([]);
     const [filteredPeople, setFilteredPeople] = useState([]);
     const [selectedCountry, setSelectedCountry] = useState('all');
@@ -283,6 +283,33 @@ function EndlessQuiz({ allPeopleData }) {
         return () => clearTimeout(timeoutId);
     }, [isAnswered, selectedAnswer, autoAdvanceDelay, handleNext]);
 
+    // Save stats to localStorage whenever they change
+    useEffect(() => {
+        const saved = localStorage.getItem('quizStats');
+        let bestStreak = 0;
+        let bestElo = 1500;
+        
+        if (saved) {
+            try {
+                const parsed = JSON.parse(saved);
+                bestStreak = parsed.bestStreak || 0;
+                bestElo = parsed.bestElo || 1500;
+            } catch (e) {
+                // Ignore parse errors
+            }
+        }
+        
+        const stats = {
+            totalAnswered,
+            correctCount,
+            streak,
+            bestStreak: Math.max(streak, bestStreak),
+            elo,
+            bestElo: Math.max(elo, bestElo),
+        };
+        localStorage.setItem('quizStats', JSON.stringify(stats));
+    }, [totalAnswered, correctCount, streak, elo]);
+
     const toggleGameMode = useCallback((e) => {
         const newMode = e.target.value;
         setGameMode(newMode);
@@ -316,6 +343,9 @@ function EndlessQuiz({ allPeopleData }) {
     return (
         <div className="quiz-container">
             <header className={`header ${showCountryFilter ? 'sidebar-open' : ''}`}>
+                <button className="logo-button" onClick={() => window.location.reload()}>
+                    <h1>Famous Nationals</h1>
+                </button>
                 <div className="stats">
                     {selectedCountry !== 'all' && (
                         <>
@@ -335,7 +365,16 @@ function EndlessQuiz({ allPeopleData }) {
                 </div>
 
                 <div className="controls">
-                    <fieldset className="game-mode-toggle">
+                    {onNavigateToStatistics && (
+                        <button 
+                            onClick={onNavigateToStatistics} 
+                            className="stats-button"
+                            title="View Statistics"
+                        >
+                            <BarChart size={16} />
+                        </button>
+                    )}
+                    <fieldset className="game-mode-toggle" data-mode={gameMode}>
                         <legend className="sr-only">Game Mode</legend>
                         <label className={`game-mode-option ${gameMode === 'image-to-name' ? 'active' : ''}`}>
                             <input
