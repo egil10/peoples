@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import { Image, User, Award, Check, X, Filter, Timer } from 'lucide-react';
+import { Image, User, Award, Check, X, PanelLeft, Timer } from 'lucide-react';
 import './EndlessQuiz.css';
 
 // Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
@@ -258,8 +258,9 @@ function EndlessQuiz({ allPeopleData }) {
         return () => clearTimeout(timeoutId);
     }, [isAnswered, selectedAnswer, autoAdvanceDelay, handleNext]);
 
-    const toggleGameMode = useCallback(() => {
-        setGameMode(prev => prev === 'image-to-name' ? 'name-to-image' : 'image-to-name');
+    const toggleGameMode = useCallback((e) => {
+        const newMode = e.target.value;
+        setGameMode(newMode);
         setCurrentQuestion(null);
         setQuestionQueue([]);
         setSelectedAnswer(null);
@@ -287,17 +288,6 @@ function EndlessQuiz({ allPeopleData }) {
         [currentQuestion, allPeopleData]
     );
 
-    if (!currentQuestion) {
-        return (
-            <div className="quiz-container">
-                <div className="loading">
-                    <div className="spinner"></div>
-                    <p>Loading...</p>
-                </div>
-            </div>
-        );
-    }
-
     return (
         <div className="quiz-container">
             <header className="header">
@@ -320,39 +310,84 @@ function EndlessQuiz({ allPeopleData }) {
                 </div>
 
                 <div className="controls">
-                    <button onClick={toggleGameMode} title="Image → Names">
-                        <Image size={14} />
-                    </button>
-                    <button onClick={toggleGameMode} title="Name → Images">
-                        <User size={14} />
-                    </button>
+                    <fieldset className="game-mode-toggle">
+                        <legend className="sr-only">Game Mode</legend>
+                        <label className={`game-mode-option ${gameMode === 'image-to-name' ? 'active' : ''}`}>
+                            <input
+                                type="radio"
+                                name="gameMode"
+                                value="image-to-name"
+                                checked={gameMode === 'image-to-name'}
+                                onChange={toggleGameMode}
+                                aria-label="Image to Name"
+                            />
+                            <span className="game-mode-icon" aria-hidden="true">
+                                <Image size={16} />
+                            </span>
+                        </label>
+                        <label className={`game-mode-option ${gameMode === 'name-to-image' ? 'active' : ''}`}>
+                            <input
+                                type="radio"
+                                name="gameMode"
+                                value="name-to-image"
+                                checked={gameMode === 'name-to-image'}
+                                onChange={toggleGameMode}
+                                aria-label="Name to Image"
+                            />
+                            <span className="game-mode-icon" aria-hidden="true">
+                                <User size={16} />
+                            </span>
+                        </label>
+                    </fieldset>
                     <button onClick={cycleDelay} title={`Delay: ${autoAdvanceDelay}s`}>
                         <Timer size={14} />
                         <span>{autoAdvanceDelay}s</span>
                     </button>
-                    <div className="filter-wrap">
-                        <button onClick={() => setShowCountryFilter(!showCountryFilter)}>
-                            <Filter size={14} />
-                        </button>
-                        {showCountryFilter && (
-                            <div className="menu">
-                                <button className={selectedCountry === 'all' ? 'active' : ''} onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}>
-                                    All ({allPeople.length})
-                                </button>
-                                {countries.map(c => (
-                                    <button key={c} className={selectedCountry === c ? 'active' : ''} onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}>
-                                        {c}
-                                    </button>
-                                ))}
-                            </div>
-                        )}
-                    </div>
+                    <button onClick={() => setShowCountryFilter(!showCountryFilter)} className="sidebar-toggle">
+                        <PanelLeft size={14} />
+                    </button>
                 </div>
             </header>
 
+            {/* Sidebar */}
+            {showCountryFilter && (
+                <>
+                    <div className="sidebar-overlay" onClick={() => setShowCountryFilter(false)}></div>
+                    <aside className="sidebar">
+                        <div className="sidebar-header">
+                            <h3>Select Country</h3>
+                            <button onClick={() => setShowCountryFilter(false)} className="sidebar-close">×</button>
+                        </div>
+                        <div className="sidebar-content">
+                            <button 
+                                className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`} 
+                                onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}
+                            >
+                                All ({allPeople.length})
+                            </button>
+                            {countries.map(c => (
+                                <button 
+                                    key={c} 
+                                    className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`} 
+                                    onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}
+                                >
+                                    {c}
+                                </button>
+                            ))}
+                        </div>
+                    </aside>
+                </>
+            )}
+
             <main className="content">
-                {gameMode === 'image-to-name' ? (
-                    <div className="split">
+                {!currentQuestion ? (
+                    <div className="loading">
+                        <div className="spinner"></div>
+                        <p>Loading...</p>
+                    </div>
+                ) : (
+                    gameMode === 'image-to-name' ? (
+                        <div className="split">
                         <div className="img-box">
                             <img
                                 src={currentQuestion.correct.image}
@@ -379,7 +414,7 @@ function EndlessQuiz({ allPeopleData }) {
                         </div>
 
                         {isAnswered && (
-                            <div className="feedback-overlay">
+                            <div className="feedback-popup">
                                 <div className="feedback-content">
                                     {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
                                         <div className="feedback-correct">
@@ -433,9 +468,9 @@ function EndlessQuiz({ allPeopleData }) {
                                 </div>
                             </div>
                         )}
-                    </div>
-                ) : (
-                    <div className="name-top">
+                        </div>
+                    ) : (
+                        <div className="name-top">
                         <h2>{currentQuestion.correct.name}</h2>
                         <div className="imgs">
                             {currentQuestion.options.map((person, i) => (
@@ -452,7 +487,7 @@ function EndlessQuiz({ allPeopleData }) {
                         </div>
 
                         {isAnswered && (
-                            <div className="feedback-overlay">
+                            <div className="feedback-popup">
                                 <div className="feedback-content">
                                     {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
                                         <div className="feedback-correct">
@@ -506,7 +541,8 @@ function EndlessQuiz({ allPeopleData }) {
                                 </div>
                             </div>
                         )}
-                    </div>
+                        </div>
+                    )
                 )}
             </main>
         </div>
