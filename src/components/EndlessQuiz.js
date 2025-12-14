@@ -351,6 +351,20 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         [currentQuestion, allPeopleData]
     );
 
+    // Debug logging
+    useEffect(() => {
+        if (currentQuestion && isAnswered) {
+            console.log('🔍 Debug Info:');
+            console.log('  Person:', currentQuestion.correct.name);
+            console.log('  Country:', currentQuestion.correct.country);
+            console.log('  Has wikipediaUrl:', !!currentQuestion.correct.wikipediaUrl);
+            console.log('  Wikipedia URL:', currentQuestion.correct.wikipediaUrl);
+            console.log('  countryData found:', !!countryData);
+            console.log('  Has flag:', !!countryData?.flag);
+            console.log('  Flag URL:', countryData?.flag);
+        }
+    }, [currentQuestion, isAnswered, countryData]);
+
     return (
         <div className="quiz-container">
             <header className={`header ${showCountryFilter ? 'sidebar-open' : ''}`}>
