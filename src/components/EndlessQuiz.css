@@ -84,6 +84,19 @@ body {
     padding: 0;
     text-align: left;
     flex-shrink: 0;
+    color: #000;
+    text-decoration: none;
+}
+
+.logo-button,
+.logo-button:link,
+.logo-button:visited,
+.logo-button:hover,
+.logo-button:active,
+.logo-button:focus {
+    color: #000;
+    text-decoration: none;
+    outline: none;
 }
 
 .logo-button h1 {
@@ -142,7 +155,23 @@ body {
     border: none;
     border-radius: 6px;
     cursor: pointer;
-    color: #000;
+    color: #666;
+    outline: none;
+}
+
+.gallery-button:hover,
+.stats-button:hover {
+    color: #E8E8E8;
+}
+
+.gallery-button:active,
+.stats-button:active {
+    color: #E8E8E8;
+}
+
+.gallery-button svg,
+.stats-button svg {
+    display: block;
 }
 
 /* Game Mode Toggle - Rounded Switch Style */
@@ -254,8 +283,22 @@ body {
     border: none;
     cursor: pointer;
     font-size: 13px;
-    color: #000;
+    color: #666;
     border-radius: 4px;
+    outline: none;
+}
+
+.controls button:hover {
+    color: #E8E8E8;
+}
+
+.controls button:active {
+    color: #E8E8E8;
+}
+
+.controls button svg {
+    display: block;
+    transform: none;
 }
 
 .sidebar-toggle {

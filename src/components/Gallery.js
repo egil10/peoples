@@ -10,6 +10,16 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     const [loadedCount, setLoadedCount] = useState(30); // 3 rows × 10 people
     const [shuffledPeople, setShuffledPeople] = useState([]);
 
+    // Proper Fisher-Yates shuffle algorithm
+    const shuffleArray = (array) => {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    };
+
     // Flatten people data once on mount
     useEffect(() => {
         const flattened = [];
@@ -26,44 +36,39 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
 
     // Filter and shuffle people based on selected country
     useEffect(() => {
-        let filtered = selectedCountry === 'all' 
-            ? [...allPeople] 
-            : allPeople.filter(p => p.country === selectedCountry);
+        if (allPeople.length === 0) return;
         
-        // Shuffle array
-        filtered = filtered.sort(() => Math.random() - 0.5);
-        setShuffledPeople(filtered);
+        let filtered;
+        if (selectedCountry === 'all') {
+            filtered = [...allPeople];
+        } else {
+            // Strict filter - must match country exactly
+            filtered = allPeople.filter(p => {
+                return p.country && p.country.trim() === selectedCountry.trim();
+            });
+        }
+        
+        // Properly shuffle array using Fisher-Yates
+        const shuffled = shuffleArray(filtered);
+        setShuffledPeople(shuffled);
         
         // Reset loaded count when filter changes
         setLoadedCount(30);
         
-        // Take first 30 (3 rows × 10 people)
-        setDisplayedPeople(filtered.slice(0, 30));
+        // Take first 30 (3 rows × 10 people) or all if less than 30
+        setDisplayedPeople(shuffled.slice(0, Math.min(30, shuffled.length)));
     }, [selectedCountry, allPeople]);
 
-    // Load more people when scrolling
-    useEffect(() => {
-        let isLoading = false;
+    // Load more people
+    const handleLoadMore = () => {
+        if (shuffledPeople.length === 0) return;
         
-        const handleScroll = () => {
-            if (isLoading || shuffledPeople.length === 0) return;
-            
-            if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 500) {
-                isLoading = true;
-                
-                const newCount = loadedCount + 30;
-                setLoadedCount(newCount);
-                setDisplayedPeople(shuffledPeople.slice(0, newCount));
-                
-                setTimeout(() => {
-                    isLoading = false;
-                }, 500);
-            }
-        };
+        const newCount = loadedCount + 30;
+        setLoadedCount(newCount);
+        setDisplayedPeople(shuffledPeople.slice(0, newCount));
+    };
 
-        window.addEventListener('scroll', handleScroll);
-        return () => window.removeEventListener('scroll', handleScroll);
-    }, [loadedCount, shuffledPeople]);
+    const hasMore = shuffledPeople.length > loadedCount;
 
     const countries = useMemo(() =>
         [...new Set(allPeople.map(p => p.country))].sort(),
@@ -147,6 +152,14 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                         </div>
                     ))}
                 </div>
+                
+                {hasMore && (
+                    <div className="gallery-load-more">
+                        <button className="load-more-button" onClick={handleLoadMore}>
+                            Load More
+                        </button>
+                    </div>
+                )}
             </main>
         </div>
     );

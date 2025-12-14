@@ -23,6 +23,19 @@
     cursor: pointer;
     padding: 0;
     text-align: left;
+    color: #000;
+    text-decoration: none;
+}
+
+.logo-button,
+.logo-button:link,
+.logo-button:visited,
+.logo-button:hover,
+.logo-button:active,
+.logo-button:focus {
+    color: #000;
+    text-decoration: none;
+    outline: none;
 }
 
 .logo-button h1 {
