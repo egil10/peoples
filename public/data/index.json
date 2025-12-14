@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-14T20:28:43.426Z",
+  "generated": "2025-12-14T20:44:57.989Z",
   "countries": [
     {
       "name": "China",
@@ -785,6 +785,21 @@
       "name": "Seychelles",
       "code": "Q1043",
       "file": "Seychelles.json"
+    },
+    {
+      "name": "USA",
+      "code": "Q30",
+      "file": "USA.json"
+    },
+    {
+      "name": "Germany",
+      "code": "Q183",
+      "file": "Germany.json"
+    },
+    {
+      "name": "France",
+      "code": "Q142",
+      "file": "France.json"
     }
   ]
 }

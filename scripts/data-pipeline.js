@@ -186,7 +186,38 @@ const PEOPLE_LIMIT = 50; // Fetch top 50 people per country
 // Large countries that may need special handling
 const LARGE_COUNTRIES = ['USA', 'UK', 'China', 'India', 'Russia', 'Germany', 'France', 'Japan', 'Italy', 'Brazil', 'Canada', 'Australia', 'Spain', 'Mexico', 'Indonesia', 'Pakistan', 'Bangladesh', 'Nigeria', 'Philippines', 'Vietnam', 'Turkey', 'Iran', 'Thailand', 'South Korea', 'Egypt', 'Poland', 'Ukraine', 'Argentina', 'Colombia', 'South Africa'];
 
-function buildQuery(countryCode) {
+function buildQuery(countryCode, isLargeCountry = false) {
+  // For large countries, add minimum sitelinks filter to reduce dataset size
+  // This makes queries much faster by filtering out less famous people upfront
+  const minSitelinksFilter = isLargeCountry ? 'FILTER(?sitelinks >= 50)' : '';
+  
+  // Simplified query for large countries - remove some optional fields to speed up
+  if (isLargeCountry) {
+    return `
+      SELECT DISTINCT ?person ?personLabel ?image ?sitelinks ?birthYear ?deathYear 
+             (SAMPLE(?occupationLabel) AS ?occupation) 
+      WHERE {
+        ?person wdt:P31 wd:Q5;
+                wdt:P27 wd:${countryCode};
+                wdt:P18 ?image;
+                wikibase:sitelinks ?sitelinks.
+        ${minSitelinksFilter}
+        OPTIONAL { ?person wdt:P569 ?birthDate. }
+        OPTIONAL { ?person wdt:P570 ?deathDate. }
+        OPTIONAL { 
+          ?person wdt:P106 ?occupationItem.
+          ?occupationItem rdfs:label ?occupationLabel.
+          FILTER(LANG(?occupationLabel) = "en")
+        }
+        SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+      }
+      GROUP BY ?person ?personLabel ?image ?sitelinks ?birthYear ?deathYear
+      ORDER BY DESC(?sitelinks)
+      LIMIT ${PEOPLE_LIMIT}
+    `;
+  }
+  
+  // Standard query for smaller countries
   return `
     SELECT DISTINCT ?person ?personLabel ?image ?sitelinks ?birthYear ?deathYear 
            (SAMPLE(?occupationLabel) AS ?occupation) 
@@ -299,16 +330,22 @@ function transformResults(sparqlResults) {
   const bindings = sparqlResults.results.bindings;
   return bindings.map((binding, index) => {
     // Extract name, handling cases where personLabel might be a Q code
-    let name = binding.personLabel?.value || binding.personLabelFallback?.value || 'Unknown';
+    let name = binding.personLabel?.value || 'Unknown';
     
-    // If name is a Wikidata Q code (starts with Q followed by numbers), use fallback
+    // If name is a Wikidata Q code (starts with Q followed by numbers), try to extract from URL
     if (name && name.match(/^Q\d+$/)) {
-      name = binding.personLabelFallback?.value || `Unknown (${name})`;
-    }
-    
-    // If still a Q code, we need to fetch it separately - for now mark as needing fix
-    if (name && name.match(/^Q\d+$/)) {
-      name = `Unknown (${name})`;
+      // Try to get name from person URL if available
+      const personUrl = binding.person?.value;
+      if (personUrl) {
+        const qCodeMatch = personUrl.match(/\/(Q\d+)$/);
+        if (qCodeMatch) {
+          name = `Unknown (${qCodeMatch[1]})`;
+        } else {
+          name = `Unknown (${name})`;
+        }
+      } else {
+        name = `Unknown (${name})`;
+      }
     }
     
     const nameForAnswerKey = name.replace(/^Unknown \(Q\d+\)$/, '').toLowerCase();
@@ -356,7 +393,7 @@ async function generateCountryData(country, index, total, forceRegenerate = fals
   const startTime = Date.now();
 
   try {
-    const query = buildQuery(country.code);
+    const query = buildQuery(country.code, isLargeCountry);
     const sparqlResults = await fetchWithTimeout(query, country.name, RETRY_LIMIT, isLargeCountry);
     const people = transformResults(sparqlResults);
 
