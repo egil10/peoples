@@ -1,7 +1,7 @@
 {
   "country": "Tunisia",
   "countryCode": "Q948",
-  "generated": "2025-12-14T02:00:27.014Z",
+  "generated": "2025-12-14T20:24:15.122Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 86,
       "birthYear": "1936",
       "deathYear": "2019",
-      "occupation": "politician",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q204487",
       "answerKey": "zine el abidine ben ali"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 77,
       "birthYear": "1903",
       "deathYear": "2000",
-      "occupation": "lawyer",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q643348",
       "answerKey": "habib bourguiba"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 69,
       "birthYear": "1926",
       "deathYear": "2019",
-      "occupation": "lawyer",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313539",
       "answerKey": "beji caid essebsi"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 55,
       "birthYear": "1945",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4715",
       "answerKey": "moncef marzouki"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 53,
       "birthYear": "1958",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "academic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16120878",
       "answerKey": "kais saied"
     },
@@ -94,6 +94,17 @@
     },
     {
       "id": 9,
+      "name": "Mohamed Bouazizi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/French%20support%20Bouazizi.jpg",
+      "sitelinks": 47,
+      "birthYear": "1984",
+      "deathYear": "2011",
+      "occupation": "street vendor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214088",
+      "answerKey": "mohamed bouazizi"
+    },
+    {
+      "id": 10,
       "name": "Lassad Nouioui",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lassad%20Nouioui.jpg",
       "sitelinks": 47,
@@ -104,16 +115,444 @@
       "answerKey": "lassad nouioui"
     },
     {
-      "id": 10,
-      "name": "Mohamed Bouazizi",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/French%20support%20Bouazizi.jpg",
-      "sitelinks": 47,
+      "id": 11,
+      "name": "Fouad Mebazaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FouedMebazaa.jpg",
+      "sitelinks": 46,
+      "birthYear": "1933",
+      "deathYear": "2025",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152369",
+      "answerKey": "fouad mebazaa"
+    },
+    {
+      "id": 12,
+      "name": "Stéphane Hessel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%C3%A9phane-hessel-2010-paris-n05-a-uea.jpg",
+      "sitelinks": 45,
+      "birthYear": "1917",
+      "deathYear": "2013",
+      "occupation": "French resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q165110",
+      "answerKey": "stephane hessel"
+    },
+    {
+      "id": 13,
+      "name": "Stéphane Hessel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%C3%A9phane%20Hessel%2C%202012%20%28cropped%29.JPG",
+      "sitelinks": 45,
+      "birthYear": "1917",
+      "deathYear": "2013",
+      "occupation": "French resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q165110",
+      "answerKey": "stephane hessel"
+    },
+    {
+      "id": 14,
+      "name": "Wahbi Khazri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wahbi%20Khazri.jpg",
+      "sitelinks": 44,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27794",
+      "answerKey": "wahbi khazri"
+    },
+    {
+      "id": 15,
+      "name": "Ons Jabeur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ons%20Jabeur%20%282023%20US%20Open%29%2002%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q290212",
+      "answerKey": "ons jabeur"
+    },
+    {
+      "id": 16,
+      "name": "Moungi Bawendi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/US%20Embassy%20Sweden%202023%20Nobel%20Reception%20%2853390424864%29%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "chemist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15433043",
+      "answerKey": "moungi bawendi"
+    },
+    {
+      "id": 17,
+      "name": "Najla Bouden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Najla%20Bouden%20Romadhane%20-%202023%20-%20P061638-101685%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q108741355",
+      "answerKey": "najla bouden"
+    },
+    {
+      "id": 18,
+      "name": "Abdellatif Kechiche",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdellatif%20Kechiche%20Cannes%202013.jpg",
+      "sitelinks": 40,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q307996",
+      "answerKey": "abdellatif kechiche"
+    },
+    {
+      "id": 19,
+      "name": "Ferjani Sassi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferjani%20Sassi%202.jpg",
+      "sitelinks": 36,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16636036",
+      "answerKey": "ferjani sassi"
+    },
+    {
+      "id": 20,
+      "name": "Rached Ghannouchi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rached%20Ghannouchi%203.jpg",
+      "sitelinks": 35,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360792",
+      "answerKey": "rached ghannouchi"
+    },
+    {
+      "id": 21,
+      "name": "Natacha Atlas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natacha%20Atlas%202.jpg",
+      "sitelinks": 34,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q235896",
+      "answerKey": "natacha atlas"
+    },
+    {
+      "id": 22,
+      "name": "Albert Memmi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Memmi%20par%20Claude%20Truong-Ngoc%20d%C3%A9cembre%201982.jpg",
+      "sitelinks": 34,
+      "birthYear": "1920",
+      "deathYear": "2020",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q733225",
+      "answerKey": "albert memmi"
+    },
+    {
+      "id": 23,
+      "name": "Hatem Trabelsi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hatem%20Trabelsi.jpg",
+      "sitelinks": 32,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q265654",
+      "answerKey": "hatem trabelsi"
+    },
+    {
+      "id": 24,
+      "name": "Youssef Msakni",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Youssef%20Msakni%202015b.jpg",
+      "sitelinks": 32,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2409513",
+      "answerKey": "youssef msakni"
+    },
+    {
+      "id": 25,
+      "name": "Yassine Meriah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yassine%20Meriah.jpg",
+      "sitelinks": 32,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19956607",
+      "answerKey": "yassine meriah"
+    },
+    {
+      "id": 26,
+      "name": "Aymen Abdennour",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zenit-Valencia%20%282%29.jpg",
+      "sitelinks": 32,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60597",
+      "answerKey": "aymen abdennour"
+    },
+    {
+      "id": 27,
+      "name": "Habiba Ghribi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Habiba%20Ghribi%20Daegu%202011.jpg",
+      "sitelinks": 31,
       "birthYear": "1984",
-      "deathYear": "2011",
-      "occupation": "street vendor",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q214088",
-      "answerKey": "mohamed bouazizi"
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q257993",
+      "answerKey": "habiba ghribi"
+    },
+    {
+      "id": 28,
+      "name": "Ellyes Skhiri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2021-08-08%20FC%20Carl%20Zeiss%20Jena%20gegen%201.%20FC%20K%C3%B6ln%20%28DFB-Pokal%29%20by%20Sandro%20Halank%E2%80%93182.jpg",
+      "sitelinks": 31,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20641500",
+      "answerKey": "ellyes skhiri"
+    },
+    {
+      "id": 29,
+      "name": "Hamadi Jebali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamadi%20Jebali%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012-1.jpg",
+      "sitelinks": 31,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57699",
+      "answerKey": "hamadi jebali"
+    },
+    {
+      "id": 30,
+      "name": "Radhi Jaïdi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radhi%20Jaidi%202019.jpg",
+      "sitelinks": 30,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q331918",
+      "answerKey": "radhi jaidi"
+    },
+    {
+      "id": 31,
+      "name": "Mohammed Gammoudi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PortraitMohammedGammoudi.jpg",
+      "sitelinks": 30,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q345439",
+      "answerKey": "mohammed gammoudi"
+    },
+    {
+      "id": 32,
+      "name": "Aymen Mathlouthi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PAN-TUN%20%284%29%20%28cropped%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q793138",
+      "answerKey": "aymen mathlouthi"
+    },
+    {
+      "id": 33,
+      "name": "Hannibal Mejbri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannibal%20Mejbri%2026042025%20%281%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q96755704",
+      "answerKey": "hannibal mejbri"
+    },
+    {
+      "id": 34,
+      "name": "Dylan Bronn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dylan%20Bronn.jpg",
+      "sitelinks": 29,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26405549",
+      "answerKey": "dylan bronn"
+    },
+    {
+      "id": 35,
+      "name": "Sabri Lamouchi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sabri%20Lamouchi%20-%20Portrait%202022.jpg",
+      "sitelinks": 29,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1883",
+      "answerKey": "sabri lamouchi"
+    },
+    {
+      "id": 36,
+      "name": "Fakhreddine Ben Youssef",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fakhreddine%20Ben%20Youssef%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3064692",
+      "answerKey": "fakhreddine ben youssef"
+    },
+    {
+      "id": 37,
+      "name": "Oussama Mellouli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oussama%20Mellouli%202013.jpg",
+      "sitelinks": 28,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q331753",
+      "answerKey": "oussama mellouli"
+    },
+    {
+      "id": 38,
+      "name": "Azzedine Alaïa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AzzedineAlaia%20Beaux%20Arts%20Tunis.jpg",
+      "sitelinks": 28,
+      "birthYear": "1935",
+      "deathYear": "2017",
+      "occupation": "grand couturier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2553832",
+      "answerKey": "azzedine alaia"
+    },
+    {
+      "id": 39,
+      "name": "Yohan Benalouane",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yohan%20Benalouane.jpg",
+      "sitelinks": 28,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2517101",
+      "answerKey": "yohan benalouane"
+    },
+    {
+      "id": 40,
+      "name": "Marwan Kenzari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marwan-kenzari-1391101948.jpg",
+      "sitelinks": 28,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13817318",
+      "answerKey": "marwan kenzari"
+    },
+    {
+      "id": 41,
+      "name": "Frédéric Mitterrand",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/R%C3%A9ception%20pour%20les%20Fran%C3%A7ais%20de%20Shanghai%2020100430%20-%2010.jpg",
+      "sitelinks": 27,
+      "birthYear": "1947",
+      "deathYear": "2024",
+      "occupation": "documentarian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q257752",
+      "answerKey": "frederic mitterrand"
+    },
+    {
+      "id": 42,
+      "name": "Ali Maâloul",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Ma%C3%A2loul.jpg",
+      "sitelinks": 27,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2836275",
+      "answerKey": "ali maaloul"
+    },
+    {
+      "id": 43,
+      "name": "Gisèle Halimi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gisele%20Halimi%20-%20Huma-2008%202.jpg",
+      "sitelinks": 27,
+      "birthYear": "1927",
+      "deathYear": "2020",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457705",
+      "answerKey": "gisele halimi"
+    },
+    {
+      "id": 44,
+      "name": "Karim Haggui",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karim-Haggui-2015-07.jpg",
+      "sitelinks": 27,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362296",
+      "answerKey": "karim haggui"
+    },
+    {
+      "id": 45,
+      "name": "Änis Ben-Hatira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%84NISBEN%20HATIRA.JPG",
+      "sitelinks": 27,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q62082",
+      "answerKey": "anis benhatira"
+    },
+    {
+      "id": 46,
+      "name": "Abdelmajid Lakhal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelmajid.lakhal.01.jpg",
+      "sitelinks": 26,
+      "birthYear": "1939",
+      "deathYear": "2014",
+      "occupation": "theatrical director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2043799",
+      "answerKey": "abdelmajid lakhal"
+    },
+    {
+      "id": 47,
+      "name": "Mohamed Ennaceur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Ennaceur.jpg",
+      "sitelinks": 26,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3318530",
+      "answerKey": "mohamed ennaceur"
+    },
+    {
+      "id": 48,
+      "name": "Elyes Fakhfakh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Elyes%20Fakhfakh.jpg",
+      "sitelinks": 26,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3051875",
+      "answerKey": "elyes fakhfakh"
+    },
+    {
+      "id": 49,
+      "name": "Oussama Haddadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PAN-TUN%20%2821%29.jpg",
+      "sitelinks": 26,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3358527",
+      "answerKey": "oussama haddadi"
+    },
+    {
+      "id": 50,
+      "name": "Naïm Sliti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bel-Tun%20%2823%29%20%28cropped%29.jpg",
+      "sitelinks": 26,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20641502",
+      "answerKey": "naim sliti"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
+  ]
 }

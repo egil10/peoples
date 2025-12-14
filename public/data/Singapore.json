@@ -1,7 +1,7 @@
 {
   "country": "Singapore",
   "countryCode": "Q334",
-  "generated": "2025-12-14T01:55:21.141Z",
+  "generated": "2025-12-14T20:16:13.420Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 118,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159577",
       "answerKey": "jet li"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 115,
       "birthYear": "1923",
       "deathYear": "2015",
-      "occupation": "lawyer",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131248",
       "answerKey": "lee kuan yew"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 77,
       "birthYear": "1952",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57643",
       "answerKey": "lee hsien loong"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 67,
       "birthYear": "1965",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q150903",
       "answerKey": "gong li"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 56,
       "birthYear": "1978",
       "deathYear": null,
-      "occupation": "composer",
+      "occupation": "alpine skier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q215076",
       "answerKey": "vanessamae"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 53,
       "birthYear": "1940",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38987",
       "answerKey": "tony tan keng yam"
     },
@@ -99,12 +99,23 @@
       "sitelinks": 47,
       "birthYear": "1924",
       "deathYear": "2016",
-      "occupation": "politician",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q212188",
       "answerKey": "s r nathan"
     },
     {
       "id": 10,
+      "name": "Lawrence Wong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lawrence%20Wong%2020230526.jpg",
+      "sitelinks": 47,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "chief executive officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6504758",
+      "answerKey": "lawrence wong"
+    },
+    {
+      "id": 11,
       "name": "Tharman Shanmugaratnam",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tharman%20Shanmugaratnam%20Official%20photo%202023.tif",
       "sitelinks": 47,
@@ -113,7 +124,435 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q983752",
       "answerKey": "tharman shanmugaratnam"
+    },
+    {
+      "id": 12,
+      "name": "Eduardo Saverin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Saverin%20CHINICT.JPG",
+      "sitelinks": 43,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312663",
+      "answerKey": "eduardo saverin"
+    },
+    {
+      "id": 13,
+      "name": "Yusof bin Ishak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yusof%20Ishak%20in%20NCC%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1910",
+      "deathYear": "1970",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q259331",
+      "answerKey": "yusof bin ishak"
+    },
+    {
+      "id": 14,
+      "name": "Wee Kim Wee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wee%20Kim%20Wee%20%283x4%20crop%29.png",
+      "sitelinks": 36,
+      "birthYear": "1915",
+      "deathYear": "2005",
+      "occupation": "sports executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q399998",
+      "answerKey": "wee kim wee"
+    },
+    {
+      "id": 15,
+      "name": "Devan Nair",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Devan%20Nair%2C%201953%20%28larger%20crop%29.png",
+      "sitelinks": 35,
+      "birthYear": "1923",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457929",
+      "answerKey": "devan nair"
+    },
+    {
+      "id": 16,
+      "name": "Joseph Schooling",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Schooling%20Kazan%202015.jpg",
+      "sitelinks": 34,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6286898",
+      "answerKey": "joseph schooling"
+    },
+    {
+      "id": 17,
+      "name": "Tila Tequila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tila%20Tequila%202008.jpg",
+      "sitelinks": 34,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "presenter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233295",
+      "answerKey": "tila tequila"
+    },
+    {
+      "id": 18,
+      "name": "Stefanie Sun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2014%20%E5%AD%AB%E7%87%95%E5%A7%BF.jpg",
+      "sitelinks": 34,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51157",
+      "answerKey": "stefanie sun"
+    },
+    {
+      "id": 19,
+      "name": "Ong Teng Cheong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ong%20Teng%20Cheong.jpg",
+      "sitelinks": 30,
+      "birthYear": "1936",
+      "deathYear": "2002",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q543664",
+      "answerKey": "ong teng cheong"
+    },
+    {
+      "id": 20,
+      "name": "Annabel Chong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Annabel%20Chong%20%28cropped%29.jpg",
+      "sitelinks": 27,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q260770",
+      "answerKey": "annabel chong"
+    },
+    {
+      "id": 21,
+      "name": "Fann Wong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fannwong.jpg",
+      "sitelinks": 27,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q265124",
+      "answerKey": "fann wong"
+    },
+    {
+      "id": 22,
+      "name": "Ho Ching",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ho%20Ching%20in%20August%202016.jpg",
+      "sitelinks": 26,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "chief executive officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q455666",
+      "answerKey": "ho ching"
+    },
+    {
+      "id": 23,
+      "name": "JJ Lin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JJ%20Lin%20at%20Shaping%20Hearts%20Award%202025%20ceremony.jpg",
+      "sitelinks": 25,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716022",
+      "answerKey": "jj lin"
+    },
+    {
+      "id": 24,
+      "name": "Feng Tianwei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Feng%20Tianwei%20ATTC2017%2010.jpeg",
+      "sitelinks": 24,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "table tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242490",
+      "answerKey": "feng tianwei"
+    },
+    {
+      "id": 25,
+      "name": "Kaylani Lei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaylani%20Lei%2C%202011%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q260764",
+      "answerKey": "kaylani lei"
+    },
+    {
+      "id": 26,
+      "name": "Li Jiawei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LiJiawei-AustrianOpen-Wels-20071028-02-detail.jpg",
+      "sitelinks": 22,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "table tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q254727",
+      "answerKey": "li jiawei"
+    },
+    {
+      "id": 27,
+      "name": "David Marshall",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Saul%20Marshall%2C%201930s%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1908",
+      "deathYear": "1995",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q687956",
+      "answerKey": "david marshall"
+    },
+    {
+      "id": 28,
+      "name": "Shou Zi Chew",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TikTok%20CEO%20Shou%20Zi%20Chew.jpg",
+      "sitelinks": 22,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "chief executive officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115591126",
+      "answerKey": "shou zi chew"
+    },
+    {
+      "id": 29,
+      "name": "Fandi Ahmad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fandi%20Ahmad%2C%202017%20%28cropped%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2556661",
+      "answerKey": "fandi ahmad"
+    },
+    {
+      "id": 30,
+      "name": "Aleksandar Đurić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksduric.jpg",
+      "sitelinks": 20,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q715706",
+      "answerKey": "aleksandar uric"
+    },
+    {
+      "id": 31,
+      "name": "Kyoga Nakamura",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kyoga%20Nakamura.jpg",
+      "sitelinks": 19,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18054534",
+      "answerKey": "kyoga nakamura"
+    },
+    {
+      "id": 32,
+      "name": "Chin Han",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ng%20Chin%20Han%20%26%20Hannah%20Quinlivan%202018.jpg",
+      "sitelinks": 19,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q938855",
+      "answerKey": "chin han"
+    },
+    {
+      "id": 33,
+      "name": "Wang Yuegu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WangYuegu-SingaporeWomensTableTennisTeam-2008SummerOlympics-20080825.jpg",
+      "sitelinks": 18,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "table tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q257372",
+      "answerKey": "wang yuegu"
+    },
+    {
+      "id": 34,
+      "name": "Kishore Mahbubani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kishore%20Mahbubani%20-%20World%20Economic%20Forum%20Annual%20Meeting%202011.jpg",
+      "sitelinks": 18,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q933957",
+      "answerKey": "kishore mahbubani"
+    },
+    {
+      "id": 35,
+      "name": "Zhang Zhong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Zhong.jpg",
+      "sitelinks": 17,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q197348",
+      "answerKey": "zhang zhong"
+    },
+    {
+      "id": 36,
+      "name": "Tan Howe Liang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tan%20Howe%20Liang%20at%20the%20opening%20of%20the%20YOG%20Learning%20Centre%2C%20Singapore%20-%2020081030%20%28cropped%29.jpg",
+      "sitelinks": 17,
+      "birthYear": "1933",
+      "deathYear": "2024",
+      "occupation": "weightlifter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q709924",
+      "answerKey": "tan howe liang"
+    },
+    {
+      "id": 37,
+      "name": "Ikhsan Fandi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kc-ikhsan1302%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28962335",
+      "answerKey": "ikhsan fandi"
+    },
+    {
+      "id": 38,
+      "name": "J.Y. Pillay",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1%20JY%20Pillay%202023%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6109288",
+      "answerKey": "jy pillay"
+    },
+    {
+      "id": 39,
+      "name": "Peter Lim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Lim.jpg",
+      "sitelinks": 15,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "stockbroker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7175463",
+      "answerKey": "peter lim"
+    },
+    {
+      "id": 40,
+      "name": "Muhammad Taqi Aljaafari Bin Jahari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Taqi.jpg",
+      "sitelinks": 15,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15921775",
+      "answerKey": "muhammad taqi aljaafari bin jahari"
+    },
+    {
+      "id": 41,
+      "name": "Loh Kean Yew",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Loh%20Kean%20Yew%20YDO2021.jpg",
+      "sitelinks": 15,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "Olympic competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20687848",
+      "answerKey": "loh kean yew"
+    },
+    {
+      "id": 42,
+      "name": "Wang Gungwu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Gungwu%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1930",
+      "deathYear": null,
+      "occupation": "sinologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q696748",
+      "answerKey": "wang gungwu"
+    },
+    {
+      "id": 43,
+      "name": "Gwendoline Yeo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwendoline%20Yeo%20-%20SOVAS%202018.jpg",
+      "sitelinks": 15,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q449072",
+      "answerKey": "gwendoline yeo"
+    },
+    {
+      "id": 44,
+      "name": "Vivian Balakrishnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vivian%20Balakrishnan%20%282024%29%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "ophthalmologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
+      "answerKey": "vivian balakrishnan"
+    },
+    {
+      "id": 45,
+      "name": "Vivian Balakrishnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vivian%20Balakrishnan%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "ophthalmologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
+      "answerKey": "vivian balakrishnan"
+    },
+    {
+      "id": 46,
+      "name": "Vivian Balakrishnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vivian%20Balakrishnan%20March%202023.jpg",
+      "sitelinks": 14,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "ophthalmologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7937671",
+      "answerKey": "vivian balakrishnan"
+    },
+    {
+      "id": 47,
+      "name": "S. Rajaratnam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S%20Rajaratnam%20c.%201940s.jpg",
+      "sitelinks": 14,
+      "birthYear": "1915",
+      "deathYear": "2006",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q337799",
+      "answerKey": "s rajaratnam"
+    },
+    {
+      "id": 48,
+      "name": "Pritam Singh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pritam%20Singh%20Singapore%204%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7245929",
+      "answerKey": "pritam singh"
+    },
+    {
+      "id": 49,
+      "name": "Tan Kah Kee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chenjiageng.JPG",
+      "sitelinks": 14,
+      "birthYear": "1874",
+      "deathYear": "1961",
+      "occupation": "philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q709049",
+      "answerKey": "tan kah kee"
+    },
+    {
+      "id": 50,
+      "name": "Kevin Kwan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Author%20Kevin%20Kwan%20speaks%20about%20his%20new%20book%2C%20%22Lies%20and%20Weddings%2C%22%20with%20Library%20literary%20director%20Clay%20Smith%2C%20June%206%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20948755",
+      "answerKey": "kevin kwan"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Honduras",
   "countryCode": "Q783",
-  "generated": "2025-12-14T01:58:30.392Z",
+  "generated": "2025-12-14T20:23:01.902Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 62,
       "birthYear": "1967",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "voice actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1043065",
       "answerKey": "carlos mencia"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 53,
       "birthYear": "1959",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "woman manager",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8044708",
       "answerKey": "xiomara castro"
     },
@@ -55,23 +55,12 @@
       "sitelinks": 45,
       "birthYear": "1947",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "taekwondo athlete",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4737",
       "answerKey": "porfirio lobo sosa"
     },
     {
       "id": 6,
-      "name": "David Suazo",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Suazo%20photo%20by%20Djuradj%20Vujcic.jpg",
-      "sitelinks": 42,
-      "birthYear": "1979",
-      "deathYear": null,
-      "occupation": "association football coach",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q212756",
-      "answerKey": "david suazo"
-    },
-    {
-      "id": 7,
       "name": "Maynor Figueroa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maynor%20Figueroa%202017.jpg",
       "sitelinks": 42,
@@ -80,6 +69,17 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312064",
       "answerKey": "maynor figueroa"
+    },
+    {
+      "id": 7,
+      "name": "David Suazo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Suazo%20photo%20by%20Djuradj%20Vujcic.jpg",
+      "sitelinks": 42,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212756",
+      "answerKey": "david suazo"
     },
     {
       "id": 8,
@@ -99,7 +99,7 @@
       "sitelinks": 38,
       "birthYear": "1971",
       "deathYear": "2016",
-      "occupation": "human rights defender",
+      "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q22999106",
       "answerKey": "berta caceres"
     },
@@ -113,7 +113,446 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q350415",
       "answerKey": "emilio izaguirre"
+    },
+    {
+      "id": 11,
+      "name": "Noel Valladares",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NoelValladares.jpg",
+      "sitelinks": 35,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q439899",
+      "answerKey": "noel valladares"
+    },
+    {
+      "id": 12,
+      "name": "Óscar Andrés Rodríguez Maradiaga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OscarKardinalRodriguez.jpg",
+      "sitelinks": 34,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q293434",
+      "answerKey": "oscar andres rodriguez maradiaga"
+    },
+    {
+      "id": 13,
+      "name": "Roberto Micheletti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20micheletti%2001.jpg",
+      "sitelinks": 34,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299442",
+      "answerKey": "roberto micheletti"
+    },
+    {
+      "id": 14,
+      "name": "Francisco Morazán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Francisco%20Moraz%C3%A1n.JPG",
+      "sitelinks": 33,
+      "birthYear": "1792",
+      "deathYear": "1842",
+      "occupation": "soldier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332111",
+      "answerKey": "francisco morazan"
+    },
+    {
+      "id": 15,
+      "name": "Carlos Pavón",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CarlosPavonP.JPG",
+      "sitelinks": 31,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q350398",
+      "answerKey": "carlos pavon"
+    },
+    {
+      "id": 16,
+      "name": "Amado Guevara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amado%20guevara%207.jpg",
+      "sitelinks": 31,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q361044",
+      "answerKey": "amado guevara"
+    },
+    {
+      "id": 17,
+      "name": "Ricardo Maduro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20030820-F-2828D-168%20Honduran%20President%20Ricardo%20Maduro%202003-08-20.jpg",
+      "sitelinks": 30,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q441393",
+      "answerKey": "ricardo maduro"
+    },
+    {
+      "id": 18,
+      "name": "Édgar Álvarez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edgard%20Alvarez%2028.JPG",
+      "sitelinks": 29,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318526",
+      "answerKey": "edgar alvarez"
+    },
+    {
+      "id": 19,
+      "name": "Oswaldo López Arellano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oswaldo%20Lopez%20Arellano.JPG",
+      "sitelinks": 29,
+      "birthYear": "1921",
+      "deathYear": "2010",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q371186",
+      "answerKey": "oswaldo lopez arellano"
+    },
+    {
+      "id": 20,
+      "name": "Hendry Thomas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hendry%20Thomas.jpg",
+      "sitelinks": 28,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q349142",
+      "answerKey": "hendry thomas"
+    },
+    {
+      "id": 21,
+      "name": "Andy Najar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Najar%20Revolution%20Nashville%206.25.25-062%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q526854",
+      "answerKey": "andy najar"
+    },
+    {
+      "id": 22,
+      "name": "Walter Martínez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Mart%C3%ADnez%20San%20Jose%20Earthquakes.jpg",
+      "sitelinks": 27,
+      "birthYear": "1982",
+      "deathYear": "2019",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q455954",
+      "answerKey": "walter martinez"
+    },
+    {
+      "id": 23,
+      "name": "Víctor Bernárdez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Bernardez.jpg",
+      "sitelinks": 27,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q462522",
+      "answerKey": "victor bernardez"
+    },
+    {
+      "id": 24,
+      "name": "Roger Espinoza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RogerEspinoza%2007JUL2012.JPG",
+      "sitelinks": 27,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q510862",
+      "answerKey": "roger espinoza"
+    },
+    {
+      "id": 25,
+      "name": "Anthony Lozano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Rub%C3%A9n%20Lozano%20Col%C3%B3n.jpg",
+      "sitelinks": 26,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2702056",
+      "answerKey": "anthony lozano"
+    },
+    {
+      "id": 26,
+      "name": "Ramón Núñez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Nunez%20closeup.jpg",
+      "sitelinks": 26,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q368618",
+      "answerKey": "ramon nunez"
+    },
+    {
+      "id": 27,
+      "name": "Arnold Peralta",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arnold%20Peralta.jpg",
+      "sitelinks": 26,
+      "birthYear": "1989",
+      "deathYear": "2015",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q598877",
+      "answerKey": "arnold peralta"
+    },
+    {
+      "id": 28,
+      "name": "Boniek García",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BoniekGarcia%2007JUL2012%20profile.jpg",
+      "sitelinks": 26,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q618646",
+      "answerKey": "boniek garcia"
+    },
+    {
+      "id": 29,
+      "name": "Osman Chávez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osman%20Chavez.jpg",
+      "sitelinks": 26,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q552821",
+      "answerKey": "osman chavez"
+    },
+    {
+      "id": 30,
+      "name": "Jerry Bengtson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jerry%20Bengtson%20in%202017.jpg",
+      "sitelinks": 25,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1356186",
+      "answerKey": "jerry bengtson"
+    },
+    {
+      "id": 31,
+      "name": "Tiburcio Carías",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TiburcioCarias.JPG",
+      "sitelinks": 25,
+      "birthYear": "1876",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q562044",
+      "answerKey": "tiburcio carias"
+    },
+    {
+      "id": 32,
+      "name": "Luis López Fernández",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Aurelio%20L%C3%B3pez%20Fern%C3%A1ndez.jpg",
+      "sitelinks": 24,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16301232",
+      "answerKey": "luis lopez fernandez"
+    },
+    {
+      "id": 33,
+      "name": "Donis Escober",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donis%20Escober.jpg",
+      "sitelinks": 24,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716011",
+      "answerKey": "donis escober"
+    },
+    {
+      "id": 34,
+      "name": "Johnny Palacios",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johnny%20Palacios%20-%20Ecuador%20v%20Honduras%202015.jpg",
+      "sitelinks": 24,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q510909",
+      "answerKey": "johnny palacios"
+    },
+    {
+      "id": 35,
+      "name": "Luis Garrido",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Garrido%20%282015%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3699218",
+      "answerKey": "luis garrido"
+    },
+    {
+      "id": 36,
+      "name": "Roberto Suazo Córdova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20Suazo%20Cordova.jpg",
+      "sitelinks": 23,
+      "birthYear": "1927",
+      "deathYear": "2018",
+      "occupation": "surgeon",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q881507",
+      "answerKey": "roberto suazo cordova"
+    },
+    {
+      "id": 37,
+      "name": "Rafael Leonardo Callejas Romero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Comite%20Ejecutivo%20concacaf%202015%20sps.JPG",
+      "sitelinks": 23,
+      "birthYear": "1943",
+      "deathYear": "2020",
+      "occupation": "sports executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887322",
+      "answerKey": "rafael leonardo callejas romero"
+    },
+    {
+      "id": 38,
+      "name": "Rafael Leonardo Callejas Romero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20Leonardo%20Callejas%20Romero%20%28cropped%203x4%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1943",
+      "deathYear": "2020",
+      "occupation": "sports executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887322",
+      "answerKey": "rafael leonardo callejas romero"
+    },
+    {
+      "id": 39,
+      "name": "José Azcona del Hoyo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20Azcona.JPG",
+      "sitelinks": 23,
+      "birthYear": "1927",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887424",
+      "answerKey": "jose azcona del hoyo"
+    },
+    {
+      "id": 40,
+      "name": "Ramón Villeda Morales",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Villeda%20Morales.jpg",
+      "sitelinks": 23,
+      "birthYear": "1909",
+      "deathYear": "1971",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q783111",
+      "answerKey": "ramon villeda morales"
+    },
+    {
+      "id": 41,
+      "name": "Ramón Villeda Morales",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vilmorstamp.jpeg",
+      "sitelinks": 23,
+      "birthYear": "1909",
+      "deathYear": "1971",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q783111",
+      "answerKey": "ramon villeda morales"
+    },
+    {
+      "id": 42,
+      "name": "Reinaldo Rueda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Argentina%20-%20Colombia%202022%20%2879%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q663127",
+      "answerKey": "reinaldo rueda"
+    },
+    {
+      "id": 43,
+      "name": "Carlos Roberto Reina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Roberto%20Reina%20at%20the%20Central%20American%20Summit%2C%20May%201997.png",
+      "sitelinks": 22,
+      "birthYear": "1926",
+      "deathYear": "2003",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q879219",
+      "answerKey": "carlos roberto reina"
+    },
+    {
+      "id": 44,
+      "name": "Mario Martínez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Roberto%20Mart%C3%ADnez%20Hern%C3%A1ndez.jpg",
+      "sitelinks": 21,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1367612",
+      "answerKey": "mario martinez"
+    },
+    {
+      "id": 45,
+      "name": "Carlos Roberto Flores",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Flores%20Facusse.JPG",
+      "sitelinks": 21,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q654177",
+      "answerKey": "carlos roberto flores"
+    },
+    {
+      "id": 46,
+      "name": "Juan Lindo y Zelaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Licenciado%20Juan%20Lindo%2C%20Presidente%20de%20El%20Salvador%20y%20de%20Honduras.jpg",
+      "sitelinks": 20,
+      "birthYear": "1790",
+      "deathYear": "1857",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q718333",
+      "answerKey": "juan lindo y zelaya"
+    },
+    {
+      "id": 47,
+      "name": "Alberth Elis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alberth%20Elis%20-%20Rio%202016.jpg",
+      "sitelinks": 20,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17620504",
+      "answerKey": "alberth elis"
+    },
+    {
+      "id": 48,
+      "name": "Marvin Chávez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marvin%20Chavez.jpg",
+      "sitelinks": 20,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q978728",
+      "answerKey": "marvin chavez"
+    },
+    {
+      "id": 49,
+      "name": "Romell Quioto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Romell%20Quioto%20-%20Rio%202016.jpg",
+      "sitelinks": 20,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q866041",
+      "answerKey": "romell quioto"
+    },
+    {
+      "id": 50,
+      "name": "Ricardo Canales",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo%20Canales%20Vida%202015%20%28cropped%29.JPG",
+      "sitelinks": 20,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q552837",
+      "answerKey": "ricardo canales"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras%20%282022%E2%80%93present%29.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Uruguay",
   "countryCode": "Q77",
-  "generated": "2025-12-14T01:58:03.822Z",
+  "generated": "2025-12-14T20:22:45.589Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -22,7 +22,7 @@
       "sitelinks": 108,
       "birthYear": "1935",
       "deathYear": "2025",
-      "occupation": "politician",
+      "occupation": "draftsperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9094",
       "answerKey": "jose mujica"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 97,
       "birthYear": "1977",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q232458",
       "answerKey": "natalia oreiro"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 87,
       "birthYear": "1979",
       "deathYear": null,
-      "occupation": "association football coach",
+      "occupation": "tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q261534",
       "answerKey": "diego forlan"
     },
@@ -72,14 +72,14 @@
     },
     {
       "id": 7,
-      "name": "Eduardo Galeano",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20galeano%20002.png",
+      "name": "Tabaré Vázquez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tabar%C3%A926022007.jpg",
       "sitelinks": 70,
       "birthYear": "1940",
-      "deathYear": "2015",
-      "occupation": "writer",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q44575",
-      "answerKey": "eduardo galeano"
+      "deathYear": "2020",
+      "occupation": "oncologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9099",
+      "answerKey": "tabare vazquez"
     },
     {
       "id": 8,
@@ -88,20 +88,20 @@
       "sitelinks": 70,
       "birthYear": "1940",
       "deathYear": "2015",
-      "occupation": "writer",
+      "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44575",
       "answerKey": "eduardo galeano"
     },
     {
       "id": 9,
-      "name": "Tabaré Vázquez",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tabar%C3%A926022007.jpg",
+      "name": "Eduardo Galeano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20galeano%20002.png",
       "sitelinks": 70,
       "birthYear": "1940",
-      "deathYear": "2020",
-      "occupation": "physician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q9099",
-      "answerKey": "tabare vazquez"
+      "deathYear": "2015",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44575",
+      "answerKey": "eduardo galeano"
     },
     {
       "id": 10,
@@ -113,7 +113,446 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19509544",
       "answerKey": "federico valverde"
+    },
+    {
+      "id": 11,
+      "name": "Carlos Gardel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20gardel%20en%20su%20casa%201933.jpg",
+      "sitelinks": 60,
+      "birthYear": "1890",
+      "deathYear": "1935",
+      "occupation": "singer-songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229613",
+      "answerKey": "carlos gardel"
+    },
+    {
+      "id": 12,
+      "name": "Comte de Lautréamont",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lautr%C3%A9amont.jpg",
+      "sitelinks": 58,
+      "birthYear": "1846",
+      "deathYear": "1870",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q294181",
+      "answerKey": "comte de lautreamont"
+    },
+    {
+      "id": 13,
+      "name": "Fernando Muslera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fernando%20Muslera%20in%202021.jpg",
+      "sitelinks": 56,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q203749",
+      "answerKey": "fernando muslera"
+    },
+    {
+      "id": 14,
+      "name": "Martín Cáceres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20C%C3%A1ceres%20against%20Chile.jpg",
+      "sitelinks": 54,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194107",
+      "answerKey": "martin caceres"
+    },
+    {
+      "id": 15,
+      "name": "Martín Cáceres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20caceres.jpg",
+      "sitelinks": 54,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194107",
+      "answerKey": "martin caceres"
+    },
+    {
+      "id": 16,
+      "name": "Luis Lacalle Pou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Foto%20Oficial%20Presidente%20Luis%20Lacalle%20Pou%20%28cropped%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "attorney at law",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6800406",
+      "answerKey": "luis lacalle pou"
+    },
+    {
+      "id": 17,
+      "name": "Lucas Torreira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucas%20Torreira.jpg",
+      "sitelinks": 51,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16302330",
+      "answerKey": "lucas torreira"
+    },
+    {
+      "id": 18,
+      "name": "Rodrigo Bentancur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20171114%20AUT%20URU%204518%20-%20Rodrigo%20Bentancur%20%28cropped%29%202.jpg",
+      "sitelinks": 51,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18817134",
+      "answerKey": "rodrigo bentancur"
+    },
+    {
+      "id": 19,
+      "name": "Darwin Núñez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darwin%20N%C3%BA%C3%B1ez%20%28cropped%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46372260",
+      "answerKey": "darwin nunez"
+    },
+    {
+      "id": 20,
+      "name": "Diego Lugano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U02%20Diego%20Lugano%207557.jpg",
+      "sitelinks": 50,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q373547",
+      "answerKey": "diego lugano"
+    },
+    {
+      "id": 21,
+      "name": "Alcides Ghiggia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AS%20Roma%20-%20Alcides%20Ghiggia.jpg",
+      "sitelinks": 50,
+      "birthYear": "1926",
+      "deathYear": "2015",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q352611",
+      "answerKey": "alcides ghiggia"
+    },
+    {
+      "id": 22,
+      "name": "José María Giménez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Gim%C3%A9nez%20%28cropped%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13634114",
+      "answerKey": "jose maria gimenez"
+    },
+    {
+      "id": 23,
+      "name": "Álvaro Recoba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alvaro%20Recoba.jpg",
+      "sitelinks": 49,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204108",
+      "answerKey": "alvaro recoba"
+    },
+    {
+      "id": 24,
+      "name": "Enzo Francescoli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enzo%20Francescoli%202011.jpg",
+      "sitelinks": 49,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q210083",
+      "answerKey": "enzo francescoli"
+    },
+    {
+      "id": 25,
+      "name": "Ronaldo araujo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Red%20Bull%20Salzburg%20gegen%20CF%20Barcelona%20%28Testspiel%204.%20August%202021%29%2045%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56332606",
+      "answerKey": "ronaldo araujo"
+    },
+    {
+      "id": 26,
+      "name": "Pedro Cea",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Cea%20%281928%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1900",
+      "deathYear": "1970",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q191471",
+      "answerKey": "pedro cea"
+    },
+    {
+      "id": 27,
+      "name": "Juan Alberto Schiaffino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Schiaffino%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1925",
+      "deathYear": "2002",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332064",
+      "answerKey": "juan alberto schiaffino"
+    },
+    {
+      "id": 28,
+      "name": "José Nasazzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jose%20nasazzi%20urug.jpg",
+      "sitelinks": 47,
+      "birthYear": "1901",
+      "deathYear": "1968",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312164",
+      "answerKey": "jose nasazzi"
+    },
+    {
+      "id": 29,
+      "name": "Maxi Pereira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20171114%20AUT%20URU%204527.jpg",
+      "sitelinks": 46,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214886",
+      "answerKey": "maxi pereira"
+    },
+    {
+      "id": 30,
+      "name": "Walter Gargano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walter%20Gargano%20-%20SSC%20Neapel%20%282%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208680",
+      "answerKey": "walter gargano"
+    },
+    {
+      "id": 31,
+      "name": "José Gervasio Artigas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Manuel%20Blanes%20-%20Artigas%20en%20la%20Ciudadela.jpg",
+      "sitelinks": 46,
+      "birthYear": "1764",
+      "deathYear": "1850",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q252847",
+      "answerKey": "jose gervasio artigas"
+    },
+    {
+      "id": 32,
+      "name": "José Leandro Andrade",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrade%20urug.jpg",
+      "sitelinks": 46,
+      "birthYear": "1901",
+      "deathYear": "1957",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315814",
+      "answerKey": "jose leandro andrade"
+    },
+    {
+      "id": 33,
+      "name": "Sebastián Coates",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian%20Coates%20-%20Olympics%202012.jpg",
+      "sitelinks": 46,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311941",
+      "answerKey": "sebastian coates"
+    },
+    {
+      "id": 34,
+      "name": "Mario Benedetti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Benedetti.jpg",
+      "sitelinks": 46,
+      "birthYear": "1920",
+      "deathYear": "2009",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16285",
+      "answerKey": "mario benedetti"
+    },
+    {
+      "id": 35,
+      "name": "Mario Benedetti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Benedetti%2C%201981.jpg",
+      "sitelinks": 46,
+      "birthYear": "1920",
+      "deathYear": "2009",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16285",
+      "answerKey": "mario benedetti"
+    },
+    {
+      "id": 36,
+      "name": "Sebastián Abreu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SEBASTIAN%20ABREU%20%2816821761936%29%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q132056",
+      "answerKey": "sebastian abreu"
+    },
+    {
+      "id": 37,
+      "name": "Álvaro Pereira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%81lvaro%20Daniel%20Pereira%206306.jpg",
+      "sitelinks": 45,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q214898",
+      "answerKey": "alvaro pereira"
+    },
+    {
+      "id": 38,
+      "name": "Cristian Rodríguez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cristian%20Rodriguez%20wears%20PUMA%20evoSPEED%20Tricks%204.jpg",
+      "sitelinks": 45,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q314376",
+      "answerKey": "cristian rodriguez"
+    },
+    {
+      "id": 39,
+      "name": "Pedro Rocha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Rocha%20c1966b.jpg",
+      "sitelinks": 45,
+      "birthYear": "1942",
+      "deathYear": "2013",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q516417",
+      "answerKey": "pedro rocha"
+    },
+    {
+      "id": 40,
+      "name": "Cristhian Stuani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U11%20Christian%20Stuani%207529.jpg",
+      "sitelinks": 45,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2608851",
+      "answerKey": "cristhian stuani"
+    },
+    {
+      "id": 41,
+      "name": "Abel Hernández",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abel%20Hern%C3%A1ndez.jpg",
+      "sitelinks": 44,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318456",
+      "answerKey": "abel hernandez"
+    },
+    {
+      "id": 42,
+      "name": "Óscar Tabárez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20171114%20AUT%20URU%20Oscar%20Tab%C3%A1rez%204562%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15149",
+      "answerKey": "oscar tabarez"
+    },
+    {
+      "id": 43,
+      "name": "Héctor Scarone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hector%20scarone%20nacional.jpg",
+      "sitelinks": 43,
+      "birthYear": "1898",
+      "deathYear": "1967",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318172",
+      "answerKey": "hector scarone"
+    },
+    {
+      "id": 44,
+      "name": "Héctor Castro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%A9ctor%20Castro%20%281928%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1904",
+      "deathYear": "1960",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32411",
+      "answerKey": "hector castro"
+    },
+    {
+      "id": 45,
+      "name": "Juan Carlos Onetti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Carlos%20Onetti%201981.jpg",
+      "sitelinks": 43,
+      "birthYear": "1909",
+      "deathYear": "1994",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16873",
+      "answerKey": "juan carlos onetti"
+    },
+    {
+      "id": 46,
+      "name": "Matías Vecino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20171114%20AUT%20URU%204555%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2053358",
+      "answerKey": "matias vecino"
+    },
+    {
+      "id": 47,
+      "name": "Diego Laxalt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Laxalt%202018.jpg",
+      "sitelinks": 42,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6999245",
+      "answerKey": "diego laxalt"
+    },
+    {
+      "id": 48,
+      "name": "Diego Laxalt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Laxalt%202021.jpg",
+      "sitelinks": 42,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6999245",
+      "answerKey": "diego laxalt"
+    },
+    {
+      "id": 49,
+      "name": "Nicolás Lodeiro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Urug%20tren%20%283%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q309808",
+      "answerKey": "nicolas lodeiro"
+    },
+    {
+      "id": 50,
+      "name": "Pedro Petrone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20Petrone%20%281928%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1905",
+      "deathYear": "1964",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362838",
+      "answerKey": "pedro petrone"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
+  ]
 }

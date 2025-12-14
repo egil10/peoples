@@ -1,7 +1,7 @@
 {
   "country": "Madagascar",
   "countryCode": "Q1019",
-  "generated": "2025-12-14T01:59:55.433Z",
+  "generated": "2025-12-14T20:23:48.873Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,31 +11,31 @@
       "sitelinks": 62,
       "birthYear": "1974",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "disc jockey",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57363",
       "answerKey": "andry rajoelina"
     },
     {
       "id": 2,
-      "name": "Hery Rajaonarimampianina",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hery%20Rajaonarimampianina%202014.jpg",
-      "sitelinks": 48,
-      "birthYear": "1958",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q15382355",
-      "answerKey": "hery rajaonarimampianina"
-    },
-    {
-      "id": 3,
       "name": "Marc Ravalomanana",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Ravalomanana.jpg",
       "sitelinks": 48,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155554",
       "answerKey": "marc ravalomanana"
+    },
+    {
+      "id": 3,
+      "name": "Hery Rajaonarimampianina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hery%20Rajaonarimampianina%202014.jpg",
+      "sitelinks": 48,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15382355",
+      "answerKey": "hery rajaonarimampianina"
     },
     {
       "id": 4,
@@ -44,7 +44,7 @@
       "sitelinks": 42,
       "birthYear": "1912",
       "deathYear": "1978",
-      "occupation": "teacher",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315944",
       "answerKey": "philibert tsiranana"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 39,
       "birthYear": "1936",
       "deathYear": "2021",
-      "occupation": "politician",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q315953",
       "answerKey": "didier ratsiraka"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 34,
       "birthYear": "1961",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "official",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54806925",
       "answerKey": "christian ntsay"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 32,
       "birthYear": "1927",
       "deathYear": "2017",
-      "occupation": "politician",
+      "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q559672",
       "answerKey": "albert zafy"
     },
@@ -113,7 +113,446 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q436247",
       "answerKey": "jeremy morel"
+    },
+    {
+      "id": 11,
+      "name": "Radama II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radama%20II%20with%20crown.jpg",
+      "sitelinks": 28,
+      "birthYear": "1829",
+      "deathYear": "1863",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q218628",
+      "answerKey": "radama ii"
+    },
+    {
+      "id": 12,
+      "name": "Richard Ratsimandrava",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buste%20du%20pr%C3%A9sident%20Richard%20Ratsimandrava%2C%20Troisi%C3%A8me%20pr%C3%A9sident%20de%20Madagascar%20dans%20l%27amphith%C3%A9%C3%A2tre%20du%20lyc%C3%A9e.JPG",
+      "sitelinks": 24,
+      "birthYear": "1931",
+      "deathYear": "1975",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q559681",
+      "answerKey": "richard ratsimandrava"
+    },
+    {
+      "id": 13,
+      "name": "Désiré Tsarahazana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mgr.%20D%C3%A9sir%C3%A9%20Tsarahazana.jpg",
+      "sitelinks": 24,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1270736",
+      "answerKey": "desire tsarahazana"
+    },
+    {
+      "id": 14,
+      "name": "Norbert Ratsirahonana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norbert%20Ratsirahonana%20-%201996.jpg",
+      "sitelinks": 23,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q727140",
+      "answerKey": "norbert ratsirahonana"
+    },
+    {
+      "id": 15,
+      "name": "Jacques Sylla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Jacques%20Sylla%2C%20Malagasy%20Prime%20Minister%2C%20to%20the%20EC%20%28P-010078%2000-1%29%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1946",
+      "deathYear": "2009",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q468825",
+      "answerKey": "jacques sylla"
+    },
+    {
+      "id": 16,
+      "name": "Omer Beriziky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Omer%20Beriziky-IMG%200958.jpg",
+      "sitelinks": 21,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57859",
+      "answerKey": "omer beriziky"
+    },
+    {
+      "id": 17,
+      "name": "Anicet Andrianantenaina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anicet%20Abel.jpg",
+      "sitelinks": 21,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2017930",
+      "answerKey": "anicet andrianantenaina"
+    },
+    {
+      "id": 18,
+      "name": "Albert Camille Vital",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Camille%20Vital%20%28IAEA%20Imagebank%29%20crop.jpg",
+      "sitelinks": 21,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2080781",
+      "answerKey": "albert camille vital"
+    },
+    {
+      "id": 19,
+      "name": "Charles Rabemananjara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Rabemananjara%20detail%2C%2012th%20AU%20Summit%2C%20090203-N-0506A-616.jpg",
+      "sitelinks": 21,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q455641",
+      "answerKey": "charles rabemananjara"
+    },
+    {
+      "id": 20,
+      "name": "Gisèle Rabesahala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gis%C3%A8le%20Rabesahala.jpg",
+      "sitelinks": 20,
+      "birthYear": "1929",
+      "deathYear": "2011",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27589887",
+      "answerKey": "gisele rabesahala"
+    },
+    {
+      "id": 21,
+      "name": "Jean Ravelonarivo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%96%D0%B0%D0%BD%20%D0%A0%D0%B0%D0%B2%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0%D1%80%D0%B8%D0%B2%D1%83%201%20%2820-01-2015%29%20%28cropped%29.png",
+      "sitelinks": 20,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18785199",
+      "answerKey": "jean ravelonarivo"
+    },
+    {
+      "id": 22,
+      "name": "Cécile Manorohanta",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9cile%20Manorohanta%20%282014%29.jpg",
+      "sitelinks": 19,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2067151",
+      "answerKey": "cecile manorohanta"
+    },
+    {
+      "id": 23,
+      "name": "Paulin Voavy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paulin%20Voavy.jpg",
+      "sitelinks": 17,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q930216",
+      "answerKey": "paulin voavy"
+    },
+    {
+      "id": 24,
+      "name": "Roger Kolo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Kolo%202014.jpg",
+      "sitelinks": 17,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "radiologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16326590",
+      "answerKey": "roger kolo"
+    },
+    {
+      "id": 25,
+      "name": "Rivo Rakotovao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rivo%20Rakotovao%202014.jpg",
+      "sitelinks": 17,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56635616",
+      "answerKey": "rivo rakotovao"
+    },
+    {
+      "id": 26,
+      "name": "Faneva Imà Andriatsima",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20Clermont%20Foot%2063%20%2804-05-2019%29%2027.jpg",
+      "sitelinks": 16,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1395522",
+      "answerKey": "faneva ima andriatsima"
+    },
+    {
+      "id": 27,
+      "name": "Marie Christina Kolo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Christina%20Kolo...jpg",
+      "sitelinks": 15,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "climate activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q111342326",
+      "answerKey": "marie christina kolo"
+    },
+    {
+      "id": 28,
+      "name": "Romain Métanire",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Romain%20Metanire%20Minnesota%20United%20-%20MNUFC%20v%20NYCFC%20NEW%20YORK%20CITY%20FOOTBALL%20CLUB%20-%20ALLIANZ%20FIELD%20-%20St.%20PAUL%20MINNESOTA%20%2833730624308%29%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3440726",
+      "answerKey": "romain metanire"
+    },
+    {
+      "id": 29,
+      "name": "Carolus Andriamatsinoro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stade%20rennais%20vs%20USM%20Alger%2C%20July%2016th%202016%20-%20Andria%20Carolus.jpg",
+      "sitelinks": 15,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q659940",
+      "answerKey": "carolus andriamatsinoro"
+    },
+    {
+      "id": 30,
+      "name": "Désiré Rakotoarijaona",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9sir%C3%A9%20Rakotoarijaona.jpg",
+      "sitelinks": 15,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983558",
+      "answerKey": "desire rakotoarijaona"
+    },
+    {
+      "id": 31,
+      "name": "Lalaina Nomenjanahary",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lalaina%20Nomenjanahary%20%28RC%20Lens%29.JPG",
+      "sitelinks": 15,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1055926",
+      "answerKey": "lalaina nomenjanahary"
+    },
+    {
+      "id": 32,
+      "name": "Francisque Ravony",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20of%20Francisque%20Ravony%2C%20Malagasy%20Prime%20Minister%2C%20to%20the%20EC%20%28P-000134%2001-19%29%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1942",
+      "deathYear": "2003",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1442346",
+      "answerKey": "francisque ravony"
+    },
+    {
+      "id": 33,
+      "name": "Jérôme Rakotomalala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20191002%20Madagascar%20J%C3%A9r%C3%B4me%20Rakotomalala.jpg",
+      "sitelinks": 14,
+      "birthYear": "1914",
+      "deathYear": "1975",
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1715006",
+      "answerKey": "jerome rakotomalala"
+    },
+    {
+      "id": 34,
+      "name": "Victor Razafimahatratra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Razafimahatratra%20%281921-1993%29.gif",
+      "sitelinks": 14,
+      "birthYear": "1921",
+      "deathYear": "1993",
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q533519",
+      "answerKey": "victor razafimahatratra"
+    },
+    {
+      "id": 35,
+      "name": "Nicole Ramalalanirina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JO%20Atlanta%201996%20-%20Stade.jpg",
+      "sitelinks": 14,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q955388",
+      "answerKey": "nicole ramalalanirina"
+    },
+    {
+      "id": 36,
+      "name": "Jean-Luc Raharimanana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Luc%20Raharimanana.jpg",
+      "sitelinks": 14,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2572328",
+      "answerKey": "jeanluc raharimanana"
+    },
+    {
+      "id": 37,
+      "name": "Tantely Andrianarivo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tantely%20Andrianarivo%20-%201997%20%28cropped%29.jpg",
+      "sitelinks": 13,
+      "birthYear": "1954",
+      "deathYear": "2023",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q984519",
+      "answerKey": "tantely andrianarivo"
+    },
+    {
+      "id": 38,
+      "name": "Olivier Mahafaly Solonandrasana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D0%BB%D0%B8%D0%B2%D1%8C%D0%B5%20%D0%A1%D0%BE%D0%BB%D0%BE%D0%BD%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%81%D0%B0%D0%BD%D0%B0%20%2814-03-2018%29.jpg",
+      "sitelinks": 13,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23782689",
+      "answerKey": "olivier mahafaly solonandrasana"
+    },
+    {
+      "id": 39,
+      "name": "Rayan Raveloson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rayan%20Raveloson.jpg",
+      "sitelinks": 13,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24005769",
+      "answerKey": "rayan raveloson"
+    },
+    {
+      "id": 40,
+      "name": "Herintsalama Rajaonarivelo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herintsalama%20Rajaonarivelo%20-%20Premier%20ministre.jpg",
+      "sitelinks": 12,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "Prime Minister of Madagascar",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q136542212",
+      "answerKey": "herintsalama rajaonarivelo"
+    },
+    {
+      "id": 41,
+      "name": "Jhon Baggio Rakotonomenjanahary",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Baggio.jpg",
+      "sitelinks": 12,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9164152",
+      "answerKey": "jhon baggio rakotonomenjanahary"
+    },
+    {
+      "id": 42,
+      "name": "Odon Marie Arsène Razanakolona",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mgr%20Odon%20Marie%20Ars%C3%A8ne%20Razanakolona.jpg",
+      "sitelinks": 11,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q722025",
+      "answerKey": "odon marie arsene razanakolona"
+    },
+    {
+      "id": 43,
+      "name": "Victoire Rasoamanarivo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20Rasoamanarivo.jpg",
+      "sitelinks": 11,
+      "birthYear": "1848",
+      "deathYear": "1894",
+      "occupation": "philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3557035",
+      "answerKey": "victoire rasoamanarivo"
+    },
+    {
+      "id": 44,
+      "name": "Raymond Rajaonarivelo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raymond%20Rajaonarivelo.jpg",
+      "sitelinks": 10,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3421105",
+      "answerKey": "raymond rajaonarivelo"
+    },
+    {
+      "id": 45,
+      "name": "Eliane Saholinirina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eliane%20Saholinirina.jpg",
+      "sitelinks": 10,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5360422",
+      "answerKey": "eliane saholinirina"
+    },
+    {
+      "id": 46,
+      "name": "Christine Razanamahasoa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christine%20Razanamahasoa%20%282021%29%20%28cropped%29.jpg",
+      "sitelinks": 10,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22338260",
+      "answerKey": "christine razanamahasoa"
+    },
+    {
+      "id": 47,
+      "name": "D'Gary",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D%27Gary%20STphotos.jpg",
+      "sitelinks": 10,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "guitarist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1272960",
+      "answerKey": "dgary"
+    },
+    {
+      "id": 48,
+      "name": "Sidonie Fiadanantsoa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20at%20Africa%20Games%2023%20421.jpg",
+      "sitelinks": 9,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q112304073",
+      "answerKey": "sidonie fiadanantsoa"
+    },
+    {
+      "id": 49,
+      "name": "Pascal Razakanantenaina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arras%20-%20Romorantin%20%2825-04-2015%29%201.jpg",
+      "sitelinks": 9,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10445810",
+      "answerKey": "pascal razakanantenaina"
+    },
+    {
+      "id": 50,
+      "name": "Lalao Ravalomanana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lalao%20Ravalomanana.jpg",
+      "sitelinks": 9,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14618311",
+      "answerKey": "lalao ravalomanana"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg"
+  ]
 }

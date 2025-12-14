@@ -1,7 +1,7 @@
 {
   "country": "Kyrgyzstan",
   "countryCode": "Q813",
-  "generated": "2025-12-14T01:56:59.716Z",
+  "generated": "2025-12-14T20:19:32.331Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 99,
       "birthYear": "1928",
       "deathYear": "2008",
-      "occupation": "screenwriter",
+      "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q484292",
       "answerKey": "chinghiz aitmatov"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 75,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24692",
       "answerKey": "almazbek atambaev"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 71,
       "birthYear": "1950",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q485136",
       "answerKey": "roza otunbayeva"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 57,
       "birthYear": "1958",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "farmer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23810819",
       "answerKey": "sooronbay jeenbekov"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 54,
       "birthYear": "1944",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q489893",
       "answerKey": "askar akayev"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 30,
       "birthYear": "1948",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q457980",
       "answerKey": "felix kulov"
     },
@@ -105,6 +105,17 @@
     },
     {
       "id": 10,
+      "name": "Talant Duyshebaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Talant%20Dujshebaev%2002.jpg",
+      "sitelinks": 27,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "handball coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q375867",
+      "answerKey": "talant duyshebaev"
+    },
+    {
+      "id": 11,
       "name": "Temir Sariyev",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Temir%20Sariev%20in%20August%202017.jpg",
       "sitelinks": 27,
@@ -113,7 +124,435 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3736573",
       "answerKey": "temir sariyev"
+    },
+    {
+      "id": 12,
+      "name": "Aisuluu Tynybekova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aisuluu%20Tynybekova%20%28KGZ%29%202021.JPG",
+      "sitelinks": 26,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4699222",
+      "answerKey": "aisuluu tynybekova"
+    },
+    {
+      "id": 13,
+      "name": "Ilzat Akhmetov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilzat%20Akhmetov%202018.jpg",
+      "sitelinks": 26,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18204915",
+      "answerKey": "ilzat akhmetov"
+    },
+    {
+      "id": 14,
+      "name": "Valentina Shevchenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentina%20Shevchenko%202014.jpg",
+      "sitelinks": 25,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "taekwondo athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4522047",
+      "answerKey": "valentina shevchenko"
+    },
+    {
+      "id": 15,
+      "name": "Djoomart Otorbaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Djoomart%20Otorbaev.jpg",
+      "sitelinks": 25,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5285365",
+      "answerKey": "djoomart otorbaev"
+    },
+    {
+      "id": 16,
+      "name": "Akzhol Makhmudov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akzhol%20Makhmudov%202018b.jpg",
+      "sitelinks": 24,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55389918",
+      "answerKey": "akzhol makhmudov"
+    },
+    {
+      "id": 17,
+      "name": "Mirlan Murzaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirlan%20Murzaev%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2073899",
+      "answerKey": "mirlan murzaev"
+    },
+    {
+      "id": 18,
+      "name": "Nikolai Tanayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%A2%D0%B0%D0%BD%D0%B0%D0%B5%D0%B2.jpg",
+      "sitelinks": 23,
+      "birthYear": "1945",
+      "deathYear": "2020",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24671",
+      "answerKey": "nikolai tanayev"
+    },
+    {
+      "id": 19,
+      "name": "Meerim Zhumanazarova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meerim%20Zhumanazarova.jpg",
+      "sitelinks": 23,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48870075",
+      "answerKey": "meerim zhumanazarova"
+    },
+    {
+      "id": 20,
+      "name": "Sapar Isakov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sapar%20Isakov%20%282017-10-11%29%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29865128",
+      "answerKey": "sapar isakov"
+    },
+    {
+      "id": 21,
+      "name": "Akylbek Japarov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BA%D1%8B%D0%BB%D0%B1%D0%B5%D0%BA%20%D0%96%D0%B0%D0%BF%D0%B0%D1%80%D0%BE%D0%B2%20%2819-11-2021%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4060344",
+      "answerKey": "akylbek japarov"
+    },
+    {
+      "id": 22,
+      "name": "Akylbek Japarov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chairman%20of%20the%20Cabinet%20of%20Ministers%20of%20Kyrgyzstan%2C%20Akylbek%20Zhaparov%20%28Akylbek%20Japarov%29%20on%2027%20November%202023%20-%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4060344",
+      "answerKey": "akylbek japarov"
+    },
+    {
+      "id": 23,
+      "name": "Igor Chudinov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Chudinov.jpg",
+      "sitelinks": 22,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466022",
+      "answerKey": "igor chudinov"
+    },
+    {
+      "id": 24,
+      "name": "Omurbek Babanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omurbek%20Babanov%2C%20October%202011.jpeg",
+      "sitelinks": 22,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24579",
+      "answerKey": "omurbek babanov"
+    },
+    {
+      "id": 25,
+      "name": "Zholaman Sharshenbekov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/5.%20Islamic%20Solidarity%20Games%202021%20Konya%20Men%20Wrestling%20Greco-Roman%2060kg%20Zholaman%20Sharshenbekov%2020220813.jpg",
+      "sitelinks": 21,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55389886",
+      "answerKey": "zholaman sharshenbekov"
+    },
+    {
+      "id": 26,
+      "name": "Zhantoro Satybaldiyev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%96%D0%B0%D0%BD%D1%82%D0%BE%D1%80%D0%BE%20%D0%A1%D0%B0%D1%82%D1%8B%D0%B1%D0%B0%D0%BB%D0%B4%D0%B8%D0%B5%D0%B2%20%2804-12-2012%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24565",
+      "answerKey": "zhantoro satybaldiyev"
+    },
+    {
+      "id": 27,
+      "name": "Fedor Samokhin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Samohin%201960.jpg",
+      "sitelinks": 20,
+      "birthYear": "1918",
+      "deathYear": "1992",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q65163420",
+      "answerKey": "fedor samokhin"
+    },
+    {
+      "id": 28,
+      "name": "Fedor Samokhin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fedor%20Samohin%201961.jpg",
+      "sitelinks": 20,
+      "birthYear": "1918",
+      "deathYear": "1992",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q65163420",
+      "answerKey": "fedor samokhin"
+    },
+    {
+      "id": 29,
+      "name": "Talant Mamytov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Talant%20Mamytov.jpg",
+      "sitelinks": 20,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25597831",
+      "answerKey": "talant mamytov"
+    },
+    {
+      "id": 30,
+      "name": "Dmitry Bivol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitry%20Bivol%20in%202023.jpg",
+      "sitelinks": 20,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18236558",
+      "answerKey": "dmitry bivol"
+    },
+    {
+      "id": 31,
+      "name": "Ishenbai Kadyrbekov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ishenbai%20Kadyrbekov.jpg",
+      "sitelinks": 19,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24669",
+      "answerKey": "ishenbai kadyrbekov"
+    },
+    {
+      "id": 32,
+      "name": "Vitalij Lux",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vitalij%20Lux.jpg",
+      "sitelinks": 19,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20203079",
+      "answerKey": "vitalij lux"
+    },
+    {
+      "id": 33,
+      "name": "Adylbek Kasymaliev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adylbek%20Kasymaliev%20%282024-14-05%29.jpg",
+      "sitelinks": 19,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q112703041",
+      "answerKey": "adylbek kasymaliev"
+    },
+    {
+      "id": 34,
+      "name": "Valery Kichin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valery%20Kichin%202022.jpg",
+      "sitelinks": 19,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7911371",
+      "answerKey": "valery kichin"
+    },
+    {
+      "id": 35,
+      "name": "Artyom Novikov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vice%20Prime%20Minister%20of%20Kyrgyzstan%20Artyom%20Novikov.png",
+      "sitelinks": 17,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "accountant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q101751482",
+      "answerKey": "artyom novikov"
+    },
+    {
+      "id": 36,
+      "name": "Azimzhan Askarov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Azimzhan%20Askarov.jpg",
+      "sitelinks": 17,
+      "birthYear": "1951",
+      "deathYear": "2020",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3910837",
+      "answerKey": "azimzhan askarov"
+    },
+    {
+      "id": 37,
+      "name": "Omurbek Tekebayev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omurbek%20Tekebaev%2C%201%20July%202016%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q297568",
+      "answerKey": "omurbek tekebayev"
+    },
+    {
+      "id": 38,
+      "name": "Dzhokhar Tsarnaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DzhokharATsarnaev.jpg",
+      "sitelinks": 16,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "terrorist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11835959",
+      "answerKey": "dzhokhar tsarnaev"
+    },
+    {
+      "id": 39,
+      "name": "Akhlidin Israilov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akhlidin%20Israilov.jpg",
+      "sitelinks": 16,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16690399",
+      "answerKey": "akhlidin israilov"
+    },
+    {
+      "id": 40,
+      "name": "Anton Zemlianukhin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Zemlyanukhin%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q594143",
+      "answerKey": "anton zemlianukhin"
+    },
+    {
+      "id": 41,
+      "name": "Kairat Zhyrgalbek Uulu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kairat%20Zhyrgalbek%20Uulu%2020191601.jpg",
+      "sitelinks": 15,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21623386",
+      "answerKey": "kairat zhyrgalbek uulu"
+    },
+    {
+      "id": 42,
+      "name": "Bolot Beishenaliev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stamps%20of%20Kyrgyzstan%2C%202012-19.jpg",
+      "sitelinks": 14,
+      "birthYear": "1937",
+      "deathYear": "2002",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1048113",
+      "answerKey": "bolot beishenaliev"
+    },
+    {
+      "id": 43,
+      "name": "Bolot Beishenaliev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stamps%20of%20Kyrgyzstan%2C%202012-19.jpg",
+      "sitelinks": 14,
+      "birthYear": "1937",
+      "deathYear": "2022",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1048113",
+      "answerKey": "bolot beishenaliev"
+    },
+    {
+      "id": 44,
+      "name": "Apas Jumagulov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jumagulov%202006.jpg",
+      "sitelinks": 14,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "geologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24653",
+      "answerKey": "apas jumagulov"
+    },
+    {
+      "id": 45,
+      "name": "Kamchybek Tashiev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kamchybek%20Tashiev.png",
+      "sitelinks": 14,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1584976",
+      "answerKey": "kamchybek tashiev"
+    },
+    {
+      "id": 46,
+      "name": "Suimenkul Chokmorov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Suimenkul%20Chokmorovon%20the%20stamp%20of%20Kyrgyzstan%20%282014%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1939",
+      "deathYear": "1992",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4517080",
+      "answerKey": "suimenkul chokmorov"
+    },
+    {
+      "id": 47,
+      "name": "Denis Petrashov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Petrashov%205.%20Islamic%20Solidarity%20Games%202021%20Konya%20Swimming%20Men%2050%20m%20breaststroke%20Medal%20ceremony%2020220813.jpg",
+      "sitelinks": 14,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26251849",
+      "answerKey": "denis petrashov"
+    },
+    {
+      "id": 48,
+      "name": "Joel Kojo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kojo%20in%20Esteghlal.jpg",
+      "sitelinks": 14,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60839019",
+      "answerKey": "joel kojo"
+    },
+    {
+      "id": 49,
+      "name": "Munarbek Seiitbek Uulu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Munarbek%20Seiitbek%20Uulu%20at%20the%202024%20Summer%20Olympics%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128416430",
+      "answerKey": "munarbek seiitbek uulu"
+    },
+    {
+      "id": 50,
+      "name": "Pavel Matiash",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Matyash%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7155690",
+      "answerKey": "pavel matiash"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg"
+  ]
 }

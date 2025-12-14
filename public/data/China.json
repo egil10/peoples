@@ -1,7 +1,7 @@
 {
   "country": "China",
   "countryCode": "Q148",
-  "generated": "2025-12-14T01:38:59.556Z",
+  "generated": "2025-12-14T19:51:46.948Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1893",
       "deathYear": "1976",
       "occupation": "communist",
-      "description": "1st chairman of the Chinese Communist Party and founder of the People's Republic of China (1893–1976)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5816",
       "answerKey": "mao zedong"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1953",
       "deathYear": null,
       "occupation": "statesperson",
-      "description": "General Secretary of the Chinese Communist Party since 2012",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15031",
       "answerKey": "xi jinping"
     },
@@ -35,8 +33,7 @@
       "sitelinks": 172,
       "birthYear": "1899",
       "deathYear": "1982",
-      "occupation": "folklorist",
-      "description": "Chinese historian, ethnologist and educator (1899-1982)",
+      "occupation": "ethnologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
       "answerKey": "huang xianfan"
     },
@@ -47,8 +44,7 @@
       "sitelinks": 172,
       "birthYear": "1899",
       "deathYear": "1982",
-      "occupation": "folklorist",
-      "description": "Chinese historian, ethnologist and educator (1899-1982)",
+      "occupation": "ethnologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5208",
       "answerKey": "huang xianfan"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1935",
       "deathYear": null,
       "occupation": "Buddhist monk",
-      "description": "14th Dalai Lama",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17293",
       "answerKey": "tenzin gyatso"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1954",
       "deathYear": null,
       "occupation": "taekwondo athlete",
-      "description": "Hong Kong actor and martial artist (born 1954)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36970",
       "answerKey": "jackie chan"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1904",
       "deathYear": "1997",
       "occupation": "journalist",
-      "description": "Chinese politician and paramount leader from 1978 to 1989",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16977",
       "answerKey": "deng xiaoping"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1942",
       "deathYear": null,
       "occupation": "politician",
-      "description": "former General Secretary of the Chinese Communist Party",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15029",
       "answerKey": "hu jintao"
     },
@@ -107,8 +99,7 @@
       "sitelinks": 115,
       "birthYear": "1955",
       "deathYear": "2017",
-      "occupation": "literary critic",
-      "description": "Chinese literary critic, writer, professor, and human rights activist (1955–2017)",
+      "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41617",
       "answerKey": "liu xiaobo"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1955",
       "deathYear": null,
       "occupation": "novelist",
-      "description": "Chinese novelist and screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8998",
       "answerKey": "mo yan"
+    },
+    {
+      "id": 11,
+      "name": "Gao Xingjian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gao%20Xingjian%20%282012%2C%20cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "literary critic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18143",
+      "answerKey": "gao xingjian"
+    },
+    {
+      "id": 12,
+      "name": "Jiang Zemin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiang%20Zemin%202002.jpg",
+      "sitelinks": 100,
+      "birthYear": "1926",
+      "deathYear": "2022",
+      "occupation": "electrical engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16597",
+      "answerKey": "jiang zemin"
+    },
+    {
+      "id": 13,
+      "name": "Jiang Zemin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiang%20Zemin1.png",
+      "sitelinks": 100,
+      "birthYear": "1926",
+      "deathYear": "2022",
+      "occupation": "electrical engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16597",
+      "answerKey": "jiang zemin"
+    },
+    {
+      "id": 14,
+      "name": "Zhou Enlai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%9C%8B%E5%85%B1%E5%85%A7%E6%88%B0%E6%99%82%E6%9C%9F%E5%91%A8%E6%81%A9%E4%BE%86.jpg",
+      "sitelinks": 99,
+      "birthYear": "1898",
+      "deathYear": "1976",
+      "occupation": "foreign minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17410",
+      "answerKey": "zhou enlai"
+    },
+    {
+      "id": 15,
+      "name": "Zhou Enlai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhou%20Enlai%20MeiyuanXincun17%20Nanjing%201946.jpg",
+      "sitelinks": 99,
+      "birthYear": "1898",
+      "deathYear": "1976",
+      "occupation": "foreign minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17410",
+      "answerKey": "zhou enlai"
+    },
+    {
+      "id": 16,
+      "name": "Li Keqiang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Keqiang%20%2820230104%29.jpg",
+      "sitelinks": 95,
+      "birthYear": "1955",
+      "deathYear": "2023",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18111",
+      "answerKey": "li keqiang"
+    },
+    {
+      "id": 17,
+      "name": "Tu Youyou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/D810%204987%20Tu%20Youyou%2C%20medicine%20%2822945001843%29%20%28cropped%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1930",
+      "deathYear": null,
+      "occupation": "malariologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q462843",
+      "answerKey": "tu youyou"
+    },
+    {
+      "id": 18,
+      "name": "Jack Ma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enabling%20eCommerce-%20Small%20Enterprises%2C%20Global%20Players%20%2839008130265%29%20%28cropped%29.jpg",
+      "sitelinks": 91,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1137062",
+      "answerKey": "jack ma"
+    },
+    {
+      "id": 19,
+      "name": "Chen-ning Yang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang.jpg",
+      "sitelinks": 85,
+      "birthYear": "1922",
+      "deathYear": "2025",
+      "occupation": "theoretical physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181369",
+      "answerKey": "chenning yang"
+    },
+    {
+      "id": 20,
+      "name": "Wen Jiabao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wen%20Jiabao%20-%20Annual%20Meeting%20of%20the%20New%20Champions%202012.jpg",
+      "sitelinks": 84,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "geologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16628",
+      "answerKey": "wen jiabao"
+    },
+    {
+      "id": 21,
+      "name": "Puyi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%BA%A5%E4%BB%AA.jpg",
+      "sitelinks": 83,
+      "birthYear": "1906",
+      "deathYear": "1967",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q185152",
+      "answerKey": "puyi"
+    },
+    {
+      "id": 22,
+      "name": "Hua Guofeng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hua%20Guofeng.jpg",
+      "sitelinks": 68,
+      "birthYear": "1921",
+      "deathYear": "2008",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41570",
+      "answerKey": "hua guofeng"
+    },
+    {
+      "id": 23,
+      "name": "Gong Li",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gong%20Li%20Cannes%202016.jpg",
+      "sitelinks": 67,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q150903",
+      "answerKey": "gong li"
+    },
+    {
+      "id": 24,
+      "name": "Zhang Ziyi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Ziyi-63357%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180852",
+      "answerKey": "zhang ziyi"
+    },
+    {
+      "id": 25,
+      "name": "Liu Yifei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Yifei%20of%20the%207th%20Beijing%20International%20Film%20Festival.%20%281%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242676",
+      "answerKey": "liu yifei"
+    },
+    {
+      "id": 26,
+      "name": "Li Na",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Na%20%28China%29%20%2824364518991%29.jpg",
+      "sitelinks": 65,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180446",
+      "answerKey": "li na"
+    },
+    {
+      "id": 27,
+      "name": "Fan Bingbing",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fan%20Bingbing-3213%20%28cropped%29.jpg",
+      "sitelinks": 64,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q381074",
+      "answerKey": "fan bingbing"
+    },
+    {
+      "id": 28,
+      "name": "Zhao Ziyang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bezoek%20Chinese%20premier%20Zhao%20Ziyang%20%2C%20met%20premier%20Lubbers%20tijdens%20regeringsdiner%2C%20Bestanddeelnr%20933-3563%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1919",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q99829",
+      "answerKey": "zhao ziyang"
+    },
+    {
+      "id": 29,
+      "name": "Ai Weiwei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aj%20Wej-wej%20I%20%282017%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160115",
+      "answerKey": "ai weiwei"
+    },
+    {
+      "id": 30,
+      "name": "Donnie Yen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donnie%20Yen%2020250323.jpg",
+      "sitelinks": 63,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311723",
+      "answerKey": "donnie yen"
+    },
+    {
+      "id": 31,
+      "name": "Ding Liren",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DingLiren24a.jpg",
+      "sitelinks": 63,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1191198",
+      "answerKey": "ding liren"
+    },
+    {
+      "id": 32,
+      "name": "Li Wenliang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LiWengliang.jpg",
+      "sitelinks": 63,
+      "birthYear": "1985",
+      "deathYear": "2020",
+      "occupation": "physician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q84497471",
+      "answerKey": "li wenliang"
+    },
+    {
+      "id": 33,
+      "name": "Chloe Zhao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chlo%C3%A9%20Zhao%2004.jpg",
+      "sitelinks": 61,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21078321",
+      "answerKey": "chloe zhao"
+    },
+    {
+      "id": 34,
+      "name": "Yao Ming",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yao%20Ming%20in%20Beijing%20in%202016%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58590",
+      "answerKey": "yao ming"
+    },
+    {
+      "id": 35,
+      "name": "Yao Ming",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YaoMingonoffense2.jpg",
+      "sitelinks": 61,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58590",
+      "answerKey": "yao ming"
+    },
+    {
+      "id": 36,
+      "name": "Liu Shaoqi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Liu%20Shaoqi%20%28cropped%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1898",
+      "deathYear": "1969",
+      "occupation": "trade unionist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16988",
+      "answerKey": "liu shaoqi"
+    },
+    {
+      "id": 37,
+      "name": "Chow Yun-fat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chow%20Yun%20Fat%202.JPG",
+      "sitelinks": 59,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181425",
+      "answerKey": "chow yunfat"
+    },
+    {
+      "id": 38,
+      "name": "Chow Yun-fat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chow%20Yun%20Fat%20for%20wiki.jpg",
+      "sitelinks": 59,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181425",
+      "answerKey": "chow yunfat"
+    },
+    {
+      "id": 39,
+      "name": "Soong Ching-ling",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soong%20Ching-ling.jpg",
+      "sitelinks": 59,
+      "birthYear": "1893",
+      "deathYear": "1981",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17132",
+      "answerKey": "soong chingling"
+    },
+    {
+      "id": 40,
+      "name": "Jiang Qing",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiang%20Qing%201976.jpg",
+      "sitelinks": 57,
+      "birthYear": "1914",
+      "deathYear": "1991",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236017",
+      "answerKey": "jiang qing"
+    },
+    {
+      "id": 41,
+      "name": "Carrie Lam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carrie%20Lam%202019-04-09%20%281%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "justice of the peace",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19217",
+      "answerKey": "carrie lam"
+    },
+    {
+      "id": 42,
+      "name": "Zhang Yimou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Yimou%20from%20%22Full%20River%20Red%22%20at%20Red%20Carpet%20of%20the%20Tokyo%20International%20Film%20Festival%202023%20%2853347207442%29%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55430",
+      "answerKey": "zhang yimou"
+    },
+    {
+      "id": 43,
+      "name": "Zhang Yimou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhang%20Yimou%20from%20%22Full%20River%20Red%22%20at%20Red%20Carpet%20of%20the%20Tokyo%20International%20Film%20Festival%202023%20%2853347207442%29%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55430",
+      "answerKey": "zhang yimou"
+    },
+    {
+      "id": 44,
+      "name": "Lin Biao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lin%20Biao.jpg",
+      "sitelinks": 55,
+      "birthYear": "1907",
+      "deathYear": "1971",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315475",
+      "answerKey": "lin biao"
+    },
+    {
+      "id": 45,
+      "name": "Li Qiang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Qiang%2C%20Premier%20of%20the%20People%27s%20Republic%20of%20China%20on%20October%2027%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4414390",
+      "answerKey": "li qiang"
+    },
+    {
+      "id": 46,
+      "name": "Li Peng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lipeng.jpg",
+      "sitelinks": 55,
+      "birthYear": "1928",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18301",
+      "answerKey": "li peng"
+    },
+    {
+      "id": 47,
+      "name": "Yang Liwei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yang%20Liwei.jpg",
+      "sitelinks": 53,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "fighter pilot",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q147581",
+      "answerKey": "yang liwei"
+    },
+    {
+      "id": 48,
+      "name": "Hou Yifan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hou%20Yifan%20%2829762728494%29%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q234011",
+      "answerKey": "hou yifan"
+    },
+    {
+      "id": 49,
+      "name": "Lin Dan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lin%20Dan%20photp%20%28Cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "Olympic competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1390341",
+      "answerKey": "lin dan"
+    },
+    {
+      "id": 50,
+      "name": "Zhu Rongji",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhu%20Rongji%201986.jpg",
+      "sitelinks": 53,
+      "birthYear": "1928",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18285",
+      "answerKey": "zhu rongji"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20People%27s%20Republic%20of%20China.svg"
+  ]
 }

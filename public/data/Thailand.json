@@ -1,7 +1,7 @@
 {
   "country": "Thailand",
   "countryCode": "Q869",
-  "generated": "2025-12-14T01:55:31.759Z",
+  "generated": "2025-12-14T20:16:23.459Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 142,
       "birthYear": "1927",
       "deathYear": "2016",
-      "occupation": "monarch",
+      "occupation": "saxophonist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q855252",
       "answerKey": "bhumibol adulyadej"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 83,
       "birthYear": "1961",
       "deathYear": "1992",
-      "occupation": "actor",
+      "occupation": "singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6583188",
       "answerKey": "pumpuang duangjan"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 81,
       "birthYear": "1967",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "refugee",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57670",
       "answerKey": "yingluck shinawatra"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 79,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "lecturer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q164373",
       "answerKey": "thaksin shinawatra"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 78,
       "birthYear": "1997",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26707663",
       "answerKey": "lisa"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 75,
       "birthYear": "1969",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q383197",
       "answerKey": "jintara poonlarp"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 67,
       "birthYear": "1900",
       "deathYear": "1983",
-      "occupation": "screenwriter",
+      "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q714934",
       "answerKey": "pridi banomyong"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 62,
       "birthYear": "1964",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174267",
       "answerKey": "abhisit vejjajiva"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 62,
       "birthYear": "1986",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "businessperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q13026319",
       "answerKey": "paetongtarn shinawatra"
+    },
+    {
+      "id": 11,
+      "name": "Prayut Chanocha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fumio%20Kishida%20and%20Prayut%20Chan-o-cha%20at%20the%20Prime%20Minister%27s%20Office%202022%20%281%29%20%28altered%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2108126",
+      "answerKey": "prayut chanocha"
+    },
+    {
+      "id": 12,
+      "name": "Mongkut",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/First%20King%20of%20Siam%20MET%20DP-573-001%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1804",
+      "deathYear": "1868",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312849",
+      "answerKey": "mongkut"
+    },
+    {
+      "id": 13,
+      "name": "Vanessa-Mae",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanessa-Mae%202014%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "alpine skier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215076",
+      "answerKey": "vanessamae"
+    },
+    {
+      "id": 14,
+      "name": "Prajadhipok",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Prajadhipok%20portrait%20photograph.jpg",
+      "sitelinks": 56,
+      "birthYear": "1893",
+      "deathYear": "1941",
+      "occupation": "social worker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313124",
+      "answerKey": "prajadhipok"
+    },
+    {
+      "id": 15,
+      "name": "Prem Tinsulanonda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prem%20Tinsulanonda%201984.jpg",
+      "sitelinks": 55,
+      "birthYear": "1920",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379827",
+      "answerKey": "prem tinsulanonda"
+    },
+    {
+      "id": 16,
+      "name": "Buddha Yodfa Chulaloke",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Buddha%20Yodfa%20Chulaloke%20portrait.jpg",
+      "sitelinks": 54,
+      "birthYear": "1737",
+      "deathYear": "1809",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310992",
+      "answerKey": "buddha yodfa chulaloke"
+    },
+    {
+      "id": 17,
+      "name": "Sirikit",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Sirikit%201960.jpg",
+      "sitelinks": 53,
+      "birthYear": "1932",
+      "deathYear": "2025",
+      "occupation": "social worker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164518",
+      "answerKey": "sirikit"
+    },
+    {
+      "id": 18,
+      "name": "Plaek Phibunsongkhram",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Field%20Marshal%20Plaek%20Phibunsongkhram.jpg",
+      "sitelinks": 52,
+      "birthYear": "1897",
+      "deathYear": "1964",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152777",
+      "answerKey": "plaek phibunsongkhram"
+    },
+    {
+      "id": 19,
+      "name": "Tony Jaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Jaa%202005.jpg",
+      "sitelinks": 51,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "taekwondo athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298551",
+      "answerKey": "tony jaa"
+    },
+    {
+      "id": 20,
+      "name": "Alexander Albon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20albon%20%2851383514844%29%20%28cropped%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16149172",
+      "answerKey": "alexander albon"
+    },
+    {
+      "id": 21,
+      "name": "Taksin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Taksin%20of%20Thonburi%20Portrait%20Painting.png",
+      "sitelinks": 46,
+      "birthYear": "1734",
+      "deathYear": "1782",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q320097",
+      "answerKey": "taksin"
+    },
+    {
+      "id": 22,
+      "name": "Chanathip Songkrasin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanathip%20Songkrasin%2020191001%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3196760",
+      "answerKey": "chanathip songkrasin"
+    },
+    {
+      "id": 23,
+      "name": "Nangklao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Rama%20III%20of%20Siam%20%28Nangklao%29%20Portrait.jpg",
+      "sitelinks": 44,
+      "birthYear": "1787",
+      "deathYear": "1851",
+      "occupation": "foreign minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319669",
+      "answerKey": "nangklao"
+    },
+    {
+      "id": 24,
+      "name": "Buddha Loetla Nabhalai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Rama%20II%20of%20Siam%20%28Naphalai%29%20Portrait.jpg",
+      "sitelinks": 44,
+      "birthYear": "1768",
+      "deathYear": "1824",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319675",
+      "answerKey": "buddha loetla nabhalai"
+    },
+    {
+      "id": 25,
+      "name": "Srettha Thavisin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PM%20Srettha%20Thavisin%202023%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q118213697",
+      "answerKey": "srettha thavisin"
+    },
+    {
+      "id": 26,
+      "name": "Mike Phiromphorn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Phiromphon%20-%20Oct%2012%2C%202020.jpg",
+      "sitelinks": 42,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13027773",
+      "answerKey": "mike phiromphorn"
+    },
+    {
+      "id": 27,
+      "name": "Teerasil Dangda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.Dangda.jpg",
+      "sitelinks": 41,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q304901",
+      "answerKey": "teerasil dangda"
+    },
+    {
+      "id": 28,
+      "name": "Teerasil Dangda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Teerasil%20Dangda%2020191001%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q304901",
+      "answerKey": "teerasil dangda"
+    },
+    {
+      "id": 29,
+      "name": "Sirindhorn, Princess Royal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11%20Maha%20Chakri%20Sirindhorn.jpg",
+      "sitelinks": 40,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "linguist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1884754",
+      "answerKey": "sirindhorn princess royal"
+    },
+    {
+      "id": 30,
+      "name": "Samak Sundaravej",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samak%20Sundaravej.JPG",
+      "sitelinks": 39,
+      "birthYear": "1935",
+      "deathYear": "2009",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q243623",
+      "answerKey": "samak sundaravej"
+    },
+    {
+      "id": 31,
+      "name": "Thongchai McIntyre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bird%20Smile.jpg",
+      "sitelinks": 39,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1365889",
+      "answerKey": "thongchai mcintyre"
+    },
+    {
+      "id": 32,
+      "name": "Somchai Wongsawat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%20of%20Thailand%2C%20Mr.%20Somchai%20Wangsawat%20meeting%20the%20Prime%20Minister%2C%20Dr.%20Manmohan%20Singh%2C%20in%20New%20Delhi%20on%20November%2013%2C%202008%20%28cropped%29%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298088",
+      "answerKey": "somchai wongsawat"
+    },
+    {
+      "id": 33,
+      "name": "Sarit Thanarat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarit%20Thanarat%20portrait.jpg",
+      "sitelinks": 38,
+      "birthYear": "1908",
+      "deathYear": "1963",
+      "occupation": "soldier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q975621",
+      "answerKey": "sarit thanarat"
+    },
+    {
+      "id": 34,
+      "name": "Suraphol Sombatcharoen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%9E%E0%B8%A5%20%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D.webp",
+      "sitelinks": 37,
+      "birthYear": "1930",
+      "deathYear": "1968",
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4922443",
+      "answerKey": "suraphol sombatcharoen"
+    },
+    {
+      "id": 35,
+      "name": "Theerathon Bunmathan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/250930%20FC%20%EC%84%9C%EC%9A%B8%20vs%20%EB%B6%80%EB%A6%AC%EB%9E%8C%20%28Theerathon%20Bunmathan%29.jpg",
+      "sitelinks": 37,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4274269",
+      "answerKey": "theerathon bunmathan"
+    },
+    {
+      "id": 36,
+      "name": "Anutin Charnvirakul",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Anutin%20Charnvirakul%20%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%99%20%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%81%E0%B8%B9%E0%B8%A5%20%282568%29%20%28cropped%29.jpg",
+      "sitelinks": 37,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "volunteer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16139757",
+      "answerKey": "anutin charnvirakul"
+    },
+    {
+      "id": 37,
+      "name": "Surayud Chulanont",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Surayud%20Chulanont.jpg",
+      "sitelinks": 36,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298079",
+      "answerKey": "surayud chulanont"
+    },
+    {
+      "id": 38,
+      "name": "Thanom Kittikachorn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thanom%20Kittikachorn.jpg",
+      "sitelinks": 35,
+      "birthYear": "1911",
+      "deathYear": "2004",
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q439990",
+      "answerKey": "thanom kittikachorn"
+    },
+    {
+      "id": 39,
+      "name": "Pita Limjaroenrat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pita%20Limjaroenrat%2C%20October%202023.jpg",
+      "sitelinks": 35,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q85998709",
+      "answerKey": "pita limjaroenrat"
+    },
+    {
+      "id": 40,
+      "name": "Apichatpong Weerasethakul",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Apichatpong.jpg",
+      "sitelinks": 34,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "installation artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q445198",
+      "answerKey": "apichatpong weerasethakul"
+    },
+    {
+      "id": 41,
+      "name": "Vichai Srivaddhanaprabha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vichai%20Raksriaksorn%202007.jpg",
+      "sitelinks": 34,
+      "birthYear": "1958",
+      "deathYear": "2018",
+      "occupation": "polo player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6631231",
+      "answerKey": "vichai srivaddhanaprabha"
+    },
+    {
+      "id": 42,
+      "name": "Queen Suthida",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Suthida%2C%20Royal%20ploughing%20ceremony%202019%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18744506",
+      "answerKey": "queen suthida"
+    },
+    {
+      "id": 43,
+      "name": "Chuan Leekpai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chuan%20Leekpai.jpg",
+      "sitelinks": 33,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q464301",
+      "answerKey": "chuan leekpai"
+    },
+    {
+      "id": 44,
+      "name": "Paradorn Srichaphan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paradon%20Srichaphan.jpg",
+      "sitelinks": 32,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q140253",
+      "answerKey": "paradorn srichaphan"
+    },
+    {
+      "id": 45,
+      "name": "Tamarine Tanasugarn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tamarine%20Tanasugarn%202007%20Australian%20Open%20R1.jpg",
+      "sitelinks": 32,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q144555",
+      "answerKey": "tamarine tanasugarn"
+    },
+    {
+      "id": 46,
+      "name": "Thitipan Puangchan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thitipan%20Puangchan.JPG",
+      "sitelinks": 32,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6577868",
+      "answerKey": "thitipan puangchan"
+    },
+    {
+      "id": 47,
+      "name": "Michael Michai Kitbunchu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B1%E0%B8%A2%20%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B9.jpg",
+      "sitelinks": 31,
+      "birthYear": "1929",
+      "deathYear": null,
+      "occupation": "Catholic priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q506672",
+      "answerKey": "michael michai kitbunchu"
+    },
+    {
+      "id": 48,
+      "name": "Suchinda Kraprayoon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suchinda%20Kraprayoon%20early%201970s.jpg",
+      "sitelinks": 31,
+      "birthYear": "1933",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q959614",
+      "answerKey": "suchinda kraprayoon"
+    },
+    {
+      "id": 49,
+      "name": "Orathai Dabkham",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thai%20PM%20Abhisit%20Vejjajiva%20with%20Tai%20Orathai%20%282009%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "YouTuber",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q467624",
+      "answerKey": "orathai dabkham"
+    },
+    {
+      "id": 50,
+      "name": "Thanin Kraiwichian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanin2011.jpg",
+      "sitelinks": 30,
+      "birthYear": "1927",
+      "deathYear": "2025",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q74861",
+      "answerKey": "thanin kraiwichian"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Czech Republic",
   "countryCode": "Q213",
-  "generated": "2025-12-14T01:54:09.707Z",
+  "generated": "2025-12-14T20:13:25.639Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 141,
       "birthYear": "1936",
       "deathYear": "2011",
-      "occupation": "writer",
+      "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q36233",
       "answerKey": "vaclav havel"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 113,
       "birthYear": "1929",
       "deathYear": "2023",
-      "occupation": "screenwriter",
+      "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93166",
       "answerKey": "milan kundera"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 95,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54545",
       "answerKey": "martina navratilova"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 90,
       "birthYear": "1944",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29032",
       "answerKey": "milos zeman"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 87,
       "birthYear": "1932",
       "deathYear": "2018",
-      "occupation": "screenwriter",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51525",
       "answerKey": "milos forman"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 84,
       "birthYear": "1941",
       "deathYear": null,
-      "occupation": "teacher",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57434",
       "answerKey": "vaclav klaus"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 75,
       "birthYear": "1982",
       "deathYear": null,
-      "occupation": "association football player",
+      "occupation": "ice hockey player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q483137",
       "answerKey": "petr cech"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 70,
       "birthYear": "1961",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "President of the Czech Republic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2080040",
       "answerKey": "petr pavel"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 67,
       "birthYear": "1954",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10819807",
       "answerKey": "andrej babis"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 65,
       "birthYear": "1949",
       "deathYear": "2022",
-      "occupation": "writer",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q242351",
       "answerKey": "ivana trump"
+    },
+    {
+      "id": 11,
+      "name": "Emil Zátopek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20roe-neg%200006305%20003%20Emil%20Z%C3%A1topek-2.jpg",
+      "sitelinks": 64,
+      "birthYear": "1922",
+      "deathYear": "2000",
+      "occupation": "Olympic competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52589",
+      "answerKey": "emil zatopek"
+    },
+    {
+      "id": 12,
+      "name": "Pavel Nedvěd",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Nedv%C4%9Bd.jpg",
+      "sitelinks": 62,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171295",
+      "answerKey": "pavel nedved"
+    },
+    {
+      "id": 13,
+      "name": "Petra Kvitová",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petra%20Kvitov%C3%A1%20Maud%20Watson%20trophy%202018.jpg",
+      "sitelinks": 62,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30812",
+      "answerKey": "petra kvitova"
+    },
+    {
+      "id": 14,
+      "name": "Ernst Bloch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20183-35545-0009%2C%20Berlin%2C%20Ernst%20Bloch%20auf%2015.%20Schriftstellerkongress.jpg",
+      "sitelinks": 62,
+      "birthYear": "1885",
+      "deathYear": "1977",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57240",
+      "answerKey": "ernst bloch"
+    },
+    {
+      "id": 15,
+      "name": "Tomáš Rosický",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arsenal%20Vs%20Burnley%20%2824618630252%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "sports executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q29162",
+      "answerKey": "tomas rosicky"
+    },
+    {
+      "id": 16,
+      "name": "Milan Baroš",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Baro%C5%A13%2C%20FCB-SLAVIA%2030092018.jpg",
+      "sitelinks": 59,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180581",
+      "answerKey": "milan baros"
+    },
+    {
+      "id": 17,
+      "name": "Petr Fiala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Fiala%20%282024%29%20%28cropped%29.jpg",
+      "sitelinks": 57,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "pedagogue",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3377548",
+      "answerKey": "petr fiala"
+    },
+    {
+      "id": 18,
+      "name": "Bohumil Hrabal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bohumil%20Hrabal%201985%20%C4%8Desk%C3%BD%20spisovatel%20foto%20Hana%20Hamplov%C3%A1.jpg",
+      "sitelinks": 56,
+      "birthYear": "1914",
+      "deathYear": "1997",
+      "occupation": "prose writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242130",
+      "answerKey": "bohumil hrabal"
+    },
+    {
+      "id": 19,
+      "name": "Ewa Farna",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ewa%20Farna%20Luxor%202014.JPG",
+      "sitelinks": 54,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "television personality",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242302",
+      "answerKey": "ewa farna"
+    },
+    {
+      "id": 20,
+      "name": "Jana Novotná",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jana%20Novotna.JPG",
+      "sitelinks": 53,
+      "birthYear": "1968",
+      "deathYear": "2017",
+      "occupation": "tennis coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229121",
+      "answerKey": "jana novotna"
+    },
+    {
+      "id": 21,
+      "name": "Mirek Topolánek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mirek%20Topolanek.jpg",
+      "sitelinks": 53,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "pedagogue",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155880",
+      "answerKey": "mirek topolanek"
+    },
+    {
+      "id": 22,
+      "name": "Petr Nečas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Ne%C4%8Das%20-%20O2067168633.jpg",
+      "sitelinks": 53,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q35786",
+      "answerKey": "petr necas"
+    },
+    {
+      "id": 23,
+      "name": "Jan Železný",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Zelezny.jpg",
+      "sitelinks": 52,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "javelin thrower",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193187",
+      "answerKey": "jan zelezny"
+    },
+    {
+      "id": 24,
+      "name": "Silvia Saint",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Silvia%20Saint%20DSC%201402.JPG",
+      "sitelinks": 52,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q487141",
+      "answerKey": "silvia saint"
+    },
+    {
+      "id": 25,
+      "name": "Karolína Plíšková",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karol%C3%ADna%20Pl%C3%AD%C5%A1kov%C3%A1%20%282023%20DC%20Open%29%2003%20%28cropped%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q289365",
+      "answerKey": "karolina pliskova"
+    },
+    {
+      "id": 26,
+      "name": "Jan Koller",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Koller%202022.jpg",
+      "sitelinks": 50,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "beach soccer player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152340",
+      "answerKey": "jan koller"
+    },
+    {
+      "id": 27,
+      "name": "Ivan Hašek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IvanHasek.jpg",
+      "sitelinks": 50,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q31376",
+      "answerKey": "ivan hasek"
+    },
+    {
+      "id": 28,
+      "name": "Jaroslav Plašil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaroslav%20Pla%C5%A1il.jpg",
+      "sitelinks": 49,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193717",
+      "answerKey": "jaroslav plasil"
+    },
+    {
+      "id": 29,
+      "name": "Věra Čáslavská",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vera%20Caslavska.JPG",
+      "sitelinks": 49,
+      "birthYear": "1942",
+      "deathYear": "2016",
+      "occupation": "artistic gymnast",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229503",
+      "answerKey": "vera caslavska"
+    },
+    {
+      "id": 30,
+      "name": "Josef Masopust",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josef%20Masopust%20%282011%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1931",
+      "deathYear": "2015",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q223158",
+      "answerKey": "josef masopust"
+    },
+    {
+      "id": 31,
+      "name": "Patrik Schick",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrik%20Schick%2020180601%20AUSCZE%203910%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16910257",
+      "answerKey": "patrik schick"
+    },
+    {
+      "id": 32,
+      "name": "Tomáš Berdych",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Berdych%20MA14%20%287%29%20%2814425173984%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193665",
+      "answerKey": "tomas berdych"
+    },
+    {
+      "id": 33,
+      "name": "Jan Fischer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Fischer%20KVIFF-2.jpg",
+      "sitelinks": 48,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "statistician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193675",
+      "answerKey": "jan fischer"
+    },
+    {
+      "id": 34,
+      "name": "Karel Poborský",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Poborsk%C3%BD%20%282012%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "color commentator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q224033",
+      "answerKey": "karel poborsky"
+    },
+    {
+      "id": 35,
+      "name": "Karel Gott",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel%20Gott%202018.jpg",
+      "sitelinks": 48,
+      "birthYear": "1939",
+      "deathYear": "2019",
+      "occupation": "painter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q333187",
+      "answerKey": "karel gott"
+    },
+    {
+      "id": 36,
+      "name": "Marek Jankulovski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marek%20Jankulovski%20Jablonec-Ostrava.jpg",
+      "sitelinks": 47,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200868",
+      "answerKey": "marek jankulovski"
+    },
+    {
+      "id": 37,
+      "name": "Bohuslav Sobotka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tallinn%20Digital%20Summit.%20Arrivals%20Bohuslav%20Sobotka%20%2823536638518%29%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q890971",
+      "answerKey": "bohuslav sobotka"
+    },
+    {
+      "id": 38,
+      "name": "Antonín Panenka",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%C3%ADn%20Panenka%202019%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204978",
+      "answerKey": "antonin panenka"
+    },
+    {
+      "id": 39,
+      "name": "Eva Herzigová",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eva%20Herzigov%C3%A1%20%282019%29%20II.jpg",
+      "sitelinks": 46,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229509",
+      "answerKey": "eva herzigova"
+    },
+    {
+      "id": 40,
+      "name": "Pavel Horváth",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavel%20Horv%C3%A1th%20%282012%29.JPG",
+      "sitelinks": 46,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q31377",
+      "answerKey": "pavel horvath"
+    },
+    {
+      "id": 41,
+      "name": "Jiří Menzel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ji%C5%99%C3%AD%20Menzel%20II%20%282017%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1938",
+      "deathYear": "2020",
+      "occupation": "theatrical director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q352030",
+      "answerKey": "jiri menzel"
+    },
+    {
+      "id": 42,
+      "name": "Ivo Ulich",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivo%20Ulich%203.JPG",
+      "sitelinks": 45,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q31287",
+      "answerKey": "ivo ulich"
+    },
+    {
+      "id": 43,
+      "name": "Petr Jiráček",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petr%20Jir%C3%A1%C4%8Dek%202012%20VfL%20Wolfsburg.jpg",
+      "sitelinks": 44,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216147",
+      "answerKey": "petr jiracek"
+    },
+    {
+      "id": 44,
+      "name": "Barbora Krejčíková",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbora%20Krej%C4%8D%C3%ADkov%C3%A1%20%282023%20US%20Open%29%2003%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11052500",
+      "answerKey": "barbora krejcikova"
+    },
+    {
+      "id": 45,
+      "name": "Václav Pilař",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vaclav%20Pilar%20Euro%202012.jpg",
+      "sitelinks": 43,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215800",
+      "answerKey": "vaclav pilar"
+    },
+    {
+      "id": 46,
+      "name": "Karolína Kurková",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karolina%20Kurkova%202011%20Shankbone.JPG",
+      "sitelinks": 43,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152461",
+      "answerKey": "karolina kurkova"
+    },
+    {
+      "id": 47,
+      "name": "Michal Kadlec",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michal%20Kadlec17.jpg",
+      "sitelinks": 43,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q294990",
+      "answerKey": "michal kadlec"
+    },
+    {
+      "id": 48,
+      "name": "Vladimír Darida",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20BSC%20vs.%20West%20Ham%20United%2020190731%20%28034%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q278239",
+      "answerKey": "vladimir darida"
+    },
+    {
+      "id": 49,
+      "name": "Jaromír Jágr",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jagr%20Czech1.png",
+      "sitelinks": 43,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "ice hockey player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295345",
+      "answerKey": "jaromir jagr"
+    },
+    {
+      "id": 50,
+      "name": "Tomáš Necid",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1%C5%A1%20Necid%206586.jpg",
+      "sitelinks": 43,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299736",
+      "answerKey": "tomas necid"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+  ]
 }

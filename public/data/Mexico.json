@@ -1,7 +1,7 @@
 {
   "country": "Mexico",
   "countryCode": "Q96",
-  "generated": "2025-12-14T01:33:29.960Z",
+  "generated": "2025-12-14T20:03:02.590Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1907",
       "deathYear": "1954",
       "occupation": "visual artist",
-      "description": "Mexican painter (1907–1954)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5588",
       "answerKey": "frida kahlo"
     },
@@ -23,8 +22,7 @@
       "sitelinks": 178,
       "birthYear": "1879",
       "deathYear": "1940",
-      "occupation": "autobiographer",
-      "description": "Russian Marxist revolutionary (1879–1940)",
+      "occupation": "communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q33391",
       "answerKey": "leon trotsky"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1914",
       "deathYear": "1998",
       "occupation": "essayist",
-      "description": "Mexican writer, poet an diplomat (1914–1998)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q46739",
       "answerKey": "octavio paz"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1968",
       "deathYear": null,
       "occupation": "recording artist",
-      "description": "Mexican American singer-songwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23880",
       "answerKey": "lila downs"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1966",
       "deathYear": null,
       "occupation": "film actor",
-      "description": "Mexican and American actress (born 1966)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q125106",
       "answerKey": "salma hayek"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1879",
       "deathYear": "1919",
       "occupation": "revolutionary",
-      "description": "Mexican revolutionary (1879–1919)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41718",
       "answerKey": "emiliano zapata"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1900",
       "deathYear": "1983",
       "occupation": "film editor",
-      "description": "Spanish-Mexican filmmaker (1900–1983)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51545",
       "answerKey": "luis bunuel"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1953",
       "deathYear": null,
       "occupation": "political scientist",
-      "description": "Mexican politician. President of Mexico from 2018 to 2024",
       "wikidataUrl": "http://www.wikidata.org/entity/Q318508",
       "answerKey": "andres manuel lopez obrador"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1962",
       "deathYear": null,
       "occupation": "environmentalist",
-      "description": "president of Mexico since 2024",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5771800",
       "answerKey": "claudia sheinbaum"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1915",
       "deathYear": "2001",
       "occupation": "film actor",
-      "description": "Mexican and American actor (1915–2001)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q83484",
       "answerKey": "anthony quinn"
+    },
+    {
+      "id": 11,
+      "name": "Enrique Peña Nieto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Enrique%20Pe%C3%B1a%20Nieto%202017%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296741",
+      "answerKey": "enrique pena nieto"
+    },
+    {
+      "id": 12,
+      "name": "Enrique Peña Nieto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Enrique%20Pe%C3%B1a%20Nieto.%20Fotograf%C3%ADa%20oficial.jpg",
+      "sitelinks": 84,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296741",
+      "answerKey": "enrique pena nieto"
+    },
+    {
+      "id": 13,
+      "name": "Diego Rivera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diego%20Rivera%20-%20Google%20Art%20Project%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1886",
+      "deathYear": "1957",
+      "occupation": "draftsperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171128",
+      "answerKey": "diego rivera"
+    },
+    {
+      "id": 14,
+      "name": "Benito Juárez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benito%20Juarez%20%28cropped%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1806",
+      "deathYear": "1872",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182276",
+      "answerKey": "benito juarez"
+    },
+    {
+      "id": 15,
+      "name": "Carlos Slim",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Slim%20%2845680472234%29%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170419",
+      "answerKey": "carlos slim"
+    },
+    {
+      "id": 16,
+      "name": "Carlos Fuentes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Fuentes%201987.jpg",
+      "sitelinks": 79,
+      "birthYear": "1928",
+      "deathYear": "2012",
+      "occupation": "prose writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154691",
+      "answerKey": "carlos fuentes"
+    },
+    {
+      "id": 17,
+      "name": "Carlos Fuentes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Fuentes%20retrato.jpg",
+      "sitelinks": 79,
+      "birthYear": "1928",
+      "deathYear": "2012",
+      "occupation": "prose writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154691",
+      "answerKey": "carlos fuentes"
+    },
+    {
+      "id": 18,
+      "name": "Porfirio Díaz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Porfirio%20Diaz.jpg",
+      "sitelinks": 77,
+      "birthYear": "1830",
+      "deathYear": "1915",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q150688",
+      "answerKey": "porfirio diaz"
+    },
+    {
+      "id": 19,
+      "name": "Camila Cabello",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Camila%20Cabello%20Grammys%202017.png",
+      "sitelinks": 77,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18810940",
+      "answerKey": "camila cabello"
+    },
+    {
+      "id": 20,
+      "name": "Pancho Villa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20bandolier%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1878",
+      "deathYear": "1923",
+      "occupation": "partisan",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192278",
+      "answerKey": "pancho villa"
+    },
+    {
+      "id": 21,
+      "name": "Guillermo del Toro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guilliermo%20Del%20Toro%20at%2082nd%20Venice%20International%20Film%20Festival%20%28cropped%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "visagiste",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q219124",
+      "answerKey": "guillermo del toro"
+    },
+    {
+      "id": 22,
+      "name": "Carlos Santana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Santana%202.jpg",
+      "sitelinks": 75,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "jazz guitarist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q819016",
+      "answerKey": "carlos santana"
+    },
+    {
+      "id": 23,
+      "name": "Lupita Nyong'o",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MKr347546%20Lupita%20Nyong%27o%20%28Jury%2C%20Berlinale%202024%29%20crop.jpg",
+      "sitelinks": 75,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3840847",
+      "answerKey": "lupita nyongo"
+    },
+    {
+      "id": 24,
+      "name": "Gerónimo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Geronimo%20agn%201913.jpg",
+      "sitelinks": 75,
+      "birthYear": "1829",
+      "deathYear": "1909",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2791",
+      "answerKey": "geronimo"
+    },
+    {
+      "id": 25,
+      "name": "Felipe Calderón",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Felipe%20Calderon%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57269",
+      "answerKey": "felipe calderon"
+    },
+    {
+      "id": 26,
+      "name": "Alejandro González Iñárritu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MKr386800%20Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu%20%28Amores%20Perros%2C%20Cannes%202025%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "film editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55215",
+      "answerKey": "alejandro gonzalez inarritu"
+    },
+    {
+      "id": 27,
+      "name": "Mario Molina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Molina%201c389%208387.jpg",
+      "sitelinks": 70,
+      "birthYear": "1943",
+      "deathYear": "2020",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19045",
+      "answerKey": "mario molina"
+    },
+    {
+      "id": 28,
+      "name": "Alfonso Cuarón",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DisclaimerBFILFF101024%20%2888%20of%20113%29%20%2854062275143%29%20%28cropped%29.jpg",
+      "sitelinks": 70,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "film editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28028",
+      "answerKey": "alfonso cuaron"
+    },
+    {
+      "id": 29,
+      "name": "Javier Hernández",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20BSC%20vs.%20West%20Ham%20United%2020190731%20%28139%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q165125",
+      "answerKey": "javier hernandez"
+    },
+    {
+      "id": 30,
+      "name": "Vicente Fox Quesada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Fox%20Official%20Photo%202000.jpg",
+      "sitelinks": 69,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q190572",
+      "answerKey": "vicente fox quesada"
+    },
+    {
+      "id": 31,
+      "name": "Vicente Fox Quesada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vicente%20Fox%20WEF%202003%20cropped.jpg",
+      "sitelinks": 69,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q190572",
+      "answerKey": "vicente fox quesada"
+    },
+    {
+      "id": 32,
+      "name": "Thalía",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thal%C3%ADa%20Primera%20Fila%20cropped.jpg",
+      "sitelinks": 66,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q171235",
+      "answerKey": "thalia"
+    },
+    {
+      "id": 33,
+      "name": "Francisco I. Madero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francisco%20I%20Madero.jpg",
+      "sitelinks": 61,
+      "birthYear": "1873",
+      "deathYear": "1913",
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216766",
+      "answerKey": "francisco i madero"
+    },
+    {
+      "id": 34,
+      "name": "Fermín IV",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fermin%20IV%202021.jpg",
+      "sitelinks": 61,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "rapper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1406436",
+      "answerKey": "fermin iv"
+    },
+    {
+      "id": 35,
+      "name": "Sergio Pérez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2021%20US%20GP%20driver%20parade%20%28cropped2%29.jpg",
+      "sitelinks": 60,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82805",
+      "answerKey": "sergio perez"
+    },
+    {
+      "id": 36,
+      "name": "Antonio López de Santa Anna",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oleo%20Antonio%20Lopez%20de%20Santa%20Anna.PNG",
+      "sitelinks": 60,
+      "birthYear": "1794",
+      "deathYear": "1876",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189145",
+      "answerKey": "antonio lopez de santa anna"
+    },
+    {
+      "id": 37,
+      "name": "Rafael Márquez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rafael%20M%C3%A1rquez%202014.jpg",
+      "sitelinks": 60,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186330",
+      "answerKey": "rafael marquez"
+    },
+    {
+      "id": 38,
+      "name": "Carlos Vela",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mex-Kor%20%2821%29%20%28cropped%29.jpg",
+      "sitelinks": 59,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47950",
+      "answerKey": "carlos vela"
+    },
+    {
+      "id": 39,
+      "name": "Gael García Bernal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gael%20Garc%C3%ADa%20Bernal-7783.jpg",
+      "sitelinks": 58,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q179576",
+      "answerKey": "gael garcia bernal"
+    },
+    {
+      "id": 40,
+      "name": "Guillermo Ochoa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mex-Kor%20%281%29%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215522",
+      "answerKey": "guillermo ochoa"
+    },
+    {
+      "id": 41,
+      "name": "Lázaro Cárdenas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lazaro%20cardenas2.jpg",
+      "sitelinks": 57,
+      "birthYear": "1895",
+      "deathYear": "1970",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296718",
+      "answerKey": "lazaro cardenas"
+    },
+    {
+      "id": 42,
+      "name": "Juan Rulfo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rulfo%20por%20Lyon.jpg",
+      "sitelinks": 57,
+      "birthYear": "1917",
+      "deathYear": "1986",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200661",
+      "answerKey": "juan rulfo"
+    },
+    {
+      "id": 43,
+      "name": "Agustín I of Mexico",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agustin%20I%20of%20Mexico.jpg",
+      "sitelinks": 56,
+      "birthYear": "1783",
+      "deathYear": "1824",
+      "occupation": "vexillologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q133808",
+      "answerKey": "agustin i of mexico"
+    },
+    {
+      "id": 44,
+      "name": "Alfonso García Robles",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfonso%20Garcia%20Robles%201981.jpg",
+      "sitelinks": 55,
+      "birthYear": "1911",
+      "deathYear": "1991",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q203843",
+      "answerKey": "alfonso garcia robles"
+    },
+    {
+      "id": 45,
+      "name": "Giovani dos Santos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gio%20dos%20Santos.jpg",
+      "sitelinks": 54,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q562337",
+      "answerKey": "giovani dos santos"
+    },
+    {
+      "id": 46,
+      "name": "Giovani dos Santos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giovanni%20Dos%20Santos%202017-05-21%20%2834779601946%29%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q562337",
+      "answerKey": "giovani dos santos"
+    },
+    {
+      "id": 47,
+      "name": "Joaquín Guzmán Loera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/El%20Chapo%20Guzman%20-%20DEA%20Picture%202017.png",
+      "sitelinks": 53,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "drug trafficker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q456321",
+      "answerKey": "joaquin guzman loera"
+    },
+    {
+      "id": 48,
+      "name": "Álvaro Obregón",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Obreg%C3%B3n%20Salido%2C%20%C3%81lvaro.jpg",
+      "sitelinks": 53,
+      "birthYear": "1880",
+      "deathYear": "1928",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217498",
+      "answerKey": "alvaro obregon"
+    },
+    {
+      "id": 49,
+      "name": "Louis C.K.",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20C.K%20Peabody%20Awards%20wider%20crop%20slight%20retouching.jpg",
+      "sitelinks": 53,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "stand-up comedian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15079",
+      "answerKey": "louis ck"
+    },
+    {
+      "id": 50,
+      "name": "Edward James Olmos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20James%20Olmos%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 52,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211415",
+      "answerKey": "edward james olmos"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
+  ]
 }

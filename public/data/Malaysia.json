@@ -1,7 +1,7 @@
 {
   "country": "Malaysia",
   "countryCode": "Q833",
-  "generated": "2025-12-14T01:55:17.056Z",
+  "generated": "2025-12-14T20:15:49.425Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 162,
       "birthYear": "1925",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181383",
       "answerKey": "mahathir mohamad"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 78,
       "birthYear": "1979",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2725555",
       "answerKey": "siti nurhaliza"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 73,
       "birthYear": "1962",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "beauty pageant contestant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214289",
       "answerKey": "michelle yeoh"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 61,
       "birthYear": "1903",
       "deathYear": "1990",
-      "occupation": "lawyer",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q296317",
       "answerKey": "tunku abdul rahman"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 60,
       "birthYear": "1929",
       "deathYear": "1973",
-      "occupation": "screenwriter",
+      "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3058202",
       "answerKey": "p ramlee"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 57,
       "birthYear": "1939",
       "deathYear": "2025",
-      "occupation": "politician",
+      "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q272588",
       "answerKey": "abdullah ahmad badawi"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 57,
       "birthYear": "1977",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q108047434",
       "answerKey": "james wan"
     },
@@ -113,7 +113,446 @@
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q15467111",
       "answerKey": "abdullah of pahang"
+    },
+    {
+      "id": 11,
+      "name": "Abdul Halim of Kedah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdul%20Halim%20of%20Kedah.jpg",
+      "sitelinks": 46,
+      "birthYear": "1927",
+      "deathYear": "2017",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57550",
+      "answerKey": "abdul halim of kedah"
+    },
+    {
+      "id": 12,
+      "name": "Muhyiddin Yassin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhyiddin%20Yassin%20%2851087589446%29%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1060949",
+      "answerKey": "muhyiddin yassin"
+    },
+    {
+      "id": 13,
+      "name": "Ibrahim Iskandar of Johor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Ibrahim%20of%20Malaysia%20August%202025.jpg",
+      "sitelinks": 43,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2657043",
+      "answerKey": "ibrahim iskandar of johor"
+    },
+    {
+      "id": 14,
+      "name": "Lee Chong Wei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Badminton-lee%20chong%20wei.jpg",
+      "sitelinks": 42,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "Olympic competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q319346",
+      "answerKey": "lee chong wei"
+    },
+    {
+      "id": 15,
+      "name": "Muhammad V of Kelantan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Muhammad%20V%202017.jpg",
+      "sitelinks": 41,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5244614",
+      "answerKey": "muhammad v of kelantan"
+    },
+    {
+      "id": 16,
+      "name": "Abdul Razak Hussein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tun%20Abdul%20Razak%201968.jpg",
+      "sitelinks": 39,
+      "birthYear": "1922",
+      "deathYear": "1976",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q264516",
+      "answerKey": "abdul razak hussein"
+    },
+    {
+      "id": 17,
+      "name": "Guy Sebastian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guy%20Sebastian%202014.jpg",
+      "sitelinks": 38,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "singer-songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983452",
+      "answerKey": "guy sebastian"
+    },
+    {
+      "id": 18,
+      "name": "Mizan Zainal Abidin of Terengganu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20of%20Malaysia%2C%20Tuanku%20Mizan%20Zainal%20Abidin%20at%20Istana%20Negara%2C%20in%20Malaysia%20on%20October%2027%2C%202010.jpg",
+      "sitelinks": 38,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299530",
+      "answerKey": "mizan zainal abidin of terengganu"
+    },
+    {
+      "id": 19,
+      "name": "Ismail Sabri Yaakob",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Sabri%20Yaakob%2001042022%20%28cropped%29.jpg",
+      "sitelinks": 37,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6084858",
+      "answerKey": "ismail sabri yaakob"
+    },
+    {
+      "id": 20,
+      "name": "Sheikh Muszaphar Shukor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muszaphar%20shukor.jpg",
+      "sitelinks": 37,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "surgeon",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313957",
+      "answerKey": "sheikh muszaphar shukor"
+    },
+    {
+      "id": 21,
+      "name": "Tanita Tikaram",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Tanita%20Tikaram%20-%20by%202eight%20-%20ZSC1981.jpg",
+      "sitelinks": 35,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236114",
+      "answerKey": "tanita tikaram"
+    },
+    {
+      "id": 22,
+      "name": "Devan Nair",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Devan%20Nair%2C%201953%20%28larger%20crop%29.png",
+      "sitelinks": 35,
+      "birthYear": "1923",
+      "deathYear": "2005",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q457929",
+      "answerKey": "devan nair"
+    },
+    {
+      "id": 23,
+      "name": "Wan Zack Haikal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wzh.png",
+      "sitelinks": 35,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7967027",
+      "answerKey": "wan zack haikal"
+    },
+    {
+      "id": 24,
+      "name": "Jimmy Choo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jimmy%20Choo%202016.png",
+      "sitelinks": 32,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "shoe designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362249",
+      "answerKey": "jimmy choo"
+    },
+    {
+      "id": 25,
+      "name": "James Brooke",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20James%20Brooke%20%281847%29%20by%20Francis%20Grant.jpg",
+      "sitelinks": 32,
+      "birthYear": "1803",
+      "deathYear": "1868",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q441276",
+      "answerKey": "james brooke"
+    },
+    {
+      "id": 26,
+      "name": "Amina Wadud",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amina%20Wadud.jpg",
+      "sitelinks": 31,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "women's rights activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q265133",
+      "answerKey": "amina wadud"
+    },
+    {
+      "id": 27,
+      "name": "Sirajuddin I of Perlis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sirajuddin2.jpg",
+      "sitelinks": 30,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q460568",
+      "answerKey": "sirajuddin i of perlis"
+    },
+    {
+      "id": 28,
+      "name": "Azizulhasni Awang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UCI%20Track%20World%20Championships%202020%20043%20%28cropped%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q793910",
+      "answerKey": "azizulhasni awang"
+    },
+    {
+      "id": 29,
+      "name": "Alex Yoong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlexYoong%200028.jpg",
+      "sitelinks": 29,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "racing automobile driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q172006",
+      "answerKey": "alex yoong"
+    },
+    {
+      "id": 30,
+      "name": "Tsai Ming-liang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MJK%2072176%20Tsai%20Ming-Liang%20%28Abiding%20Nowhere%2C%20Berlinale%202020%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q698710",
+      "answerKey": "tsai mingliang"
+    },
+    {
+      "id": 31,
+      "name": "Wan Azizah Wan Ismail",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wan%20Azizah.jpg",
+      "sitelinks": 28,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "ophthalmologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q468579",
+      "answerKey": "wan azizah wan ismail"
+    },
+    {
+      "id": 32,
+      "name": "Pandelela Rinong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XIX%20Commonwealth%20Games-2010%20Delhi%20Winners%20of%20%28Women%60s%29%20Swimming%2010M%20Platform%20Diving%2C%20Pamg%20Pandelela%20Rinong%20of%20Malaysia%20%28Gold%29%2C%20Melissa%20Wu%20of%20Australia%20%28Silver%29%20and%20Alexandra%20Croak%20of%20Australia%20%28Bronze%29%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "competitive diver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q455843",
+      "answerKey": "pandelela rinong"
+    },
+    {
+      "id": 33,
+      "name": "Tony Fernandes",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Fernandes.jpg",
+      "sitelinks": 27,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173381",
+      "answerKey": "tony fernandes"
+    },
+    {
+      "id": 34,
+      "name": "Simon Russell Beale",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Russell%20Beale.jpg",
+      "sitelinks": 27,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "music historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q971782",
+      "answerKey": "simon russell beale"
+    },
+    {
+      "id": 35,
+      "name": "Iskandar I of Johor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20iskandar%20kite.jpg",
+      "sitelinks": 27,
+      "birthYear": "1932",
+      "deathYear": "2010",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q375278",
+      "answerKey": "iskandar i of johor"
+    },
+    {
+      "id": 36,
+      "name": "Natassia Malthe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natassia%20Linn%20Malthe%202024.jpg",
+      "sitelinks": 26,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q235677",
+      "answerKey": "natassia malthe"
+    },
+    {
+      "id": 37,
+      "name": "Anthony Soter Fernandez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardinal%20Fernandez.jpg",
+      "sitelinks": 26,
+      "birthYear": "1932",
+      "deathYear": "2020",
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q574007",
+      "answerKey": "anthony soter fernandez"
+    },
+    {
+      "id": 38,
+      "name": "Ahmad Shah III of Pahang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan%20Ahmad%20Shah%20Al-Musta%E2%80%99in%20Billah%20ibni%20Sultan%20Abu%20Bakar%20Ri%E2%80%99ayatuddin%20Al-Mu%E2%80%99azzam%20Shah%20pada%201994.jpg",
+      "sitelinks": 24,
+      "birthYear": "1930",
+      "deathYear": "2019",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4200571",
+      "answerKey": "ahmad shah iii of pahang"
+    },
+    {
+      "id": 39,
+      "name": "Mokhtar Dahari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20late%20Mokhtar%20Dahari%20training%20at%20the%20field%2C%20c.%201970s.jpg",
+      "sitelinks": 24,
+      "birthYear": "1953",
+      "deathYear": "1991",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1943172",
+      "answerKey": "mokhtar dahari"
+    },
+    {
+      "id": 40,
+      "name": "Siti Hasmah Mohamad Ali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahathir%20Mohamad%20and%20Siti%20Hasmah%20Mohamad%20Ali.jpg",
+      "sitelinks": 24,
+      "birthYear": "1926",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7531880",
+      "answerKey": "siti hasmah mohamad ali"
+    },
+    {
+      "id": 41,
+      "name": "Siti Hasmah Mohamad Ali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Siti%20Hasmah%20Mohamad%20Ali%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1926",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7531880",
+      "answerKey": "siti hasmah mohamad ali"
+    },
+    {
+      "id": 42,
+      "name": "Arthur Percival",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Percival.jpg",
+      "sitelinks": 24,
+      "birthYear": "1887",
+      "deathYear": "1966",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19175",
+      "answerKey": "arthur percival"
+    },
+    {
+      "id": 43,
+      "name": "Claudia Wells",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudia%20Wells%20%2852301515623%29%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51125",
+      "answerKey": "claudia wells"
+    },
+    {
+      "id": 44,
+      "name": "Wu Lien-teh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wu%20Lien-teh%20-%20c.%201910%E2%80%931915.jpg",
+      "sitelinks": 23,
+      "birthYear": "1879",
+      "deathYear": "1960",
+      "occupation": "health officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1036871",
+      "answerKey": "wu lienteh"
+    },
+    {
+      "id": 45,
+      "name": "Sebastian Francis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastian%20Francis.jpg",
+      "sitelinks": 23,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1496981",
+      "answerKey": "sebastian francis"
+    },
+    {
+      "id": 46,
+      "name": "Azlan Shah I of Perak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sultan-rajam-perak.jpg",
+      "sitelinks": 23,
+      "birthYear": "1928",
+      "deathYear": "2014",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q561319",
+      "answerKey": "azlan shah i of perak"
+    },
+    {
+      "id": 47,
+      "name": "Goh Liu Ying",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yonex%20IFB%202013%20-%20Eightfinal%20-%20Chan%20Peng%20Soon%20-%20Goh%20Liu%20Ying%20%E2%80%94%20Chris%20Langridge%20-%20Heather%20Olver%2003.jpg",
+      "sitelinks": 23,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "Olympic competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q524129",
+      "answerKey": "goh liu ying"
+    },
+    {
+      "id": 48,
+      "name": "Salahuddin of Selangor",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salahuddin%20Abdul%20Aziz%20%281965%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1926",
+      "deathYear": "2001",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q654886",
+      "answerKey": "salahuddin of selangor"
+    },
+    {
+      "id": 49,
+      "name": "Dion Cools",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dion-cools%201430506141%20cropped.jpg",
+      "sitelinks": 23,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18426129",
+      "answerKey": "dion cools"
+    },
+    {
+      "id": 50,
+      "name": "Dion Cools",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dion%20Cools%20Hong%20Kong%202022%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18426129",
+      "answerKey": "dion cools"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg"
+  ]
 }

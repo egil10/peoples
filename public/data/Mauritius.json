@@ -1,7 +1,7 @@
 {
   "country": "Mauritius",
   "countryCode": "Q1025",
-  "generated": "2025-12-14T01:59:39.901Z",
+  "generated": "2025-12-14T20:23:48.305Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -22,7 +22,7 @@
       "sitelinks": 41,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12241106",
       "answerKey": "mohamed ould ghazouani"
     },
@@ -39,25 +39,25 @@
     },
     {
       "id": 4,
-      "name": "Sidi Ould Cheikh Abdallahi",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sidi%20Mohamed%20Ould%20Cheikh%20Abdallahi.jpg",
-      "sitelinks": 33,
-      "birthYear": "1938",
-      "deathYear": "2020",
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q310203",
-      "answerKey": "sidi ould cheikh abdallahi"
-    },
-    {
-      "id": 5,
       "name": "Maaouya Ould Sid'Ahmed Taya",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maaouya%20Ould%20Sid%27Ahmed%20Taya%20%282005%29.jpg",
       "sitelinks": 33,
       "birthYear": "1941",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q313662",
       "answerKey": "maaouya ould sidahmed taya"
+    },
+    {
+      "id": 5,
+      "name": "Sidi Ould Cheikh Abdallahi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sidi%20Mohamed%20Ould%20Cheikh%20Abdallahi.jpg",
+      "sitelinks": 33,
+      "birthYear": "1938",
+      "deathYear": "2020",
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310203",
+      "answerKey": "sidi ould cheikh abdallahi"
     },
     {
       "id": 6,
@@ -66,7 +66,7 @@
       "sitelinks": 31,
       "birthYear": "1961",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "video artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q308097",
       "answerKey": "abderrahmane sissako"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 27,
       "birthYear": "1935",
       "deathYear": "2019",
-      "occupation": "screenwriter",
+      "occupation": "dub actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180886",
       "answerKey": "med hondo"
     },
@@ -99,12 +99,34 @@
       "sitelinks": 25,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "minister",
       "wikidataUrl": "http://www.wikidata.org/entity/Q98137599",
       "answerKey": "mohamed ould bilal"
     },
     {
       "id": 10,
+      "name": "Fatimata M’baye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatimata%20M%E2%80%99baye%20of%20Mauritania.jpg",
+      "sitelinks": 23,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1398156",
+      "answerKey": "fatimata mbaye"
+    },
+    {
+      "id": 11,
+      "name": "Fatimata M’baye",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatimata%20M%E2%80%99baye%20of%20Mauritania.jpg",
+      "sitelinks": 23,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1398156",
+      "answerKey": "fatimata mbaye"
+    },
+    {
+      "id": 12,
       "name": "Ely Ould Mohamed Vall",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20by%20Ely%20Ould%20Mohamed%20Vall%2C%20President%20of%20Mauritania%2C%20to%20the%20EC%20-%202006.jpg",
       "sitelinks": 23,
@@ -113,7 +135,424 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q451521",
       "answerKey": "ely ould mohamed vall"
+    },
+    {
+      "id": 13,
+      "name": "Malouma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malouma%202004-crop.jpg",
+      "sitelinks": 22,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12244275",
+      "answerKey": "malouma"
+    },
+    {
+      "id": 14,
+      "name": "Mohamed Mahmoud Ould Louly",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Mahmoud%20Ould%20Louly%20illustration.png",
+      "sitelinks": 21,
+      "birthYear": "1943",
+      "deathYear": "2019",
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q642826",
+      "answerKey": "mohamed mahmoud ould louly"
+    },
+    {
+      "id": 15,
+      "name": "Sidi Mohamed Ould Boubacar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sidi%20Mohamed%20Ould%20Boubakar.jpg",
+      "sitelinks": 19,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q712775",
+      "answerKey": "sidi mohamed ould boubacar"
+    },
+    {
+      "id": 16,
+      "name": "Mohamed Khouna Ould Haidalla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Khouna%201983%20%28profile%29.jpg",
+      "sitelinks": 19,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "dictator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q730612",
+      "answerKey": "mohamed khouna ould haidalla"
+    },
+    {
+      "id": 17,
+      "name": "Mustafa Ould Salek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ould%20Mohamed%20Saleck%2C%201978.png",
+      "sitelinks": 19,
+      "birthYear": "1936",
+      "deathYear": "2012",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q779723",
+      "answerKey": "mustafa ould salek"
+    },
+    {
+      "id": 18,
+      "name": "Mohamedou Ould Slahi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammedou%20Ould%20Salahi.jpg",
+      "sitelinks": 18,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "telecommunications engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2041688",
+      "answerKey": "mohamedou ould slahi"
+    },
+    {
+      "id": 19,
+      "name": "El Hadji Ba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/El-Hadji%20Ba%20%28cropped%29.jpg",
+      "sitelinks": 17,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q988596",
+      "answerKey": "el hadji ba"
+    },
+    {
+      "id": 20,
+      "name": "Dominique Da Silva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dominique%20Da%20Sylva%20-%20Match%20entre%20le%20Wydad%20et%20Al%20Ahly-1%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2633108",
+      "answerKey": "dominique da silva"
+    },
+    {
+      "id": 21,
+      "name": "Cheikh Moulaye Ahmed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A8%D8%B3%D8%A7%D9%85%20%28%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D8%A8%D8%B7%D9%88%D9%86%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16119926",
+      "answerKey": "cheikh moulaye ahmed"
+    },
+    {
+      "id": 22,
+      "name": "L’Malouma Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/L%E2%80%99Malouma%20Said.jpg",
+      "sitelinks": 16,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51200724",
+      "answerKey": "lmalouma said"
+    },
+    {
+      "id": 23,
+      "name": "L’Malouma Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/L%E2%80%99Malouma%20Said%20%28Mauritania%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51200724",
+      "answerKey": "lmalouma said"
+    },
+    {
+      "id": 24,
+      "name": "Biram Dah Abeid",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Biram%20Dah%20Abeid.jpg",
+      "sitelinks": 16,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "human rights defender",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14448372",
+      "answerKey": "biram dah abeid"
+    },
+    {
+      "id": 25,
+      "name": "Ismail Ould Bedde Ould Cheikh Sidiya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Ould%20Bedde%20Ould%20Cheikh%20Sidiya%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3155412",
+      "answerKey": "ismail ould bedde ould cheikh sidiya"
+    },
+    {
+      "id": 26,
+      "name": "Abdoul Ba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Entra%C3%AEnement%20RC%20Lens%20-%2031%20d%C3%A9cembre%202014%2064.jpg",
+      "sitelinks": 15,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17310109",
+      "answerKey": "abdoul ba"
+    },
+    {
+      "id": 27,
+      "name": "Aboubakary Koita",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aboubakary%20Ko%C3%AFta%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39336454",
+      "answerKey": "aboubakary koita"
+    },
+    {
+      "id": 28,
+      "name": "Moctar Ould Djay",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moctar%20Ould%20Diay%2C%20Ouagadougou%2C%204%20Feb%202019%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q66793577",
+      "answerKey": "moctar ould djay"
+    },
+    {
+      "id": 29,
+      "name": "Yoann Langlet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Langlet%20Yoann%20BenTaher%202007II.jpg",
+      "sitelinks": 14,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2153383",
+      "answerKey": "yoann langlet"
+    },
+    {
+      "id": 30,
+      "name": "Sally Sarr",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YB%20vs.%20FCL%20-%20Sarr%203.jpg",
+      "sitelinks": 14,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2214712",
+      "answerKey": "sally sarr"
+    },
+    {
+      "id": 31,
+      "name": "Noura Mint Seymali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20150705-TFF-Rudolstadt-Noura-Mint-Seymali-7456.jpg",
+      "sitelinks": 13,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24049164",
+      "answerKey": "noura mint seymali"
+    },
+    {
+      "id": 32,
+      "name": "Jamal Al Sharif",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B5%D9%88%D8%B1%D8%A9%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9%20%D8%AC%D9%85%D8%A7%D9%84%20%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81.jpg",
+      "sitelinks": 13,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q912027",
+      "answerKey": "jamal al sharif"
+    },
+    {
+      "id": 33,
+      "name": "Mounir Chouiar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20B%20-%20Sedan%20%2827-01-2018%29%203.jpg",
+      "sitelinks": 12,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26251608",
+      "answerKey": "mounir chouiar"
+    },
+    {
+      "id": 34,
+      "name": "Guessouma Fofana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guessouma%20Fofana.png",
+      "sitelinks": 12,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27671181",
+      "answerKey": "guessouma fofana"
+    },
+    {
+      "id": 35,
+      "name": "Jidou El Moctar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JidouElMoctar%202012%20Olympics.jpg",
+      "sitelinks": 12,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "sprinter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q328251",
+      "answerKey": "jidou el moctar"
+    },
+    {
+      "id": 36,
+      "name": "Yahya Ould Ahmed El Waghef",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yahya%20Ould%20Ahmed%20El%20Waghef%20mauritanie.jpg",
+      "sitelinks": 12,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1371357",
+      "answerKey": "yahya ould ahmed el waghef"
+    },
+    {
+      "id": 37,
+      "name": "Naha Mint Mouknass",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Naha%20Mint%20Mouknass.jpg",
+      "sitelinks": 12,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12194248",
+      "answerKey": "naha mint mouknass"
+    },
+    {
+      "id": 38,
+      "name": "Fatimetou Mint Abdel Malick",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatimetou%20Abdel%20Malick%20en%20el%20Foro%20Mundial%20sobre%20las%20Violencias%20Urbanas%20de%20Madrid%20%282017%29.jpg",
+      "sitelinks": 11,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28967004",
+      "answerKey": "fatimetou mint abdel malick"
+    },
+    {
+      "id": 39,
+      "name": "Abdallah Bin Bayyah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BinBayyah.jpg",
+      "sitelinks": 11,
+      "birthYear": "1935",
+      "deathYear": null,
+      "occupation": "Islamic jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4664662",
+      "answerKey": "abdallah bin bayyah"
+    },
+    {
+      "id": 40,
+      "name": "Aminetou Mint El-Moctar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aminetou%20Mint%20%28cropped%29.jpg",
+      "sitelinks": 11,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "women's rights activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q53780275",
+      "answerKey": "aminetou mint elmoctar"
+    },
+    {
+      "id": 41,
+      "name": "Mohammad Al-Hasan bin Al-Dido Al-Shanqiti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Al-Daddo.jpg",
+      "sitelinks": 11,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "Islamic jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12239678",
+      "answerKey": "mohammad alhasan bin aldido alshanqiti"
+    },
+    {
+      "id": 42,
+      "name": "Ibréhima Coulibaly",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RC%20Lens%20-%20Grenoble%20Foot%2038%20%2824-11-2018%29%20114.jpg",
+      "sitelinks": 10,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56043863",
+      "answerKey": "ibrehima coulibaly"
+    },
+    {
+      "id": 43,
+      "name": "Pape Ibnou Bâ",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pape%20Ibnou%20Ba.jpg",
+      "sitelinks": 10,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q98641253",
+      "answerKey": "pape ibnou ba"
+    },
+    {
+      "id": 44,
+      "name": "Cheick Mohamed Mkhaitir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Cheikh%20Ould%20Mkhaitir.png",
+      "sitelinks": 9,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "blogger",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20961911",
+      "answerKey": "cheick mohamed mkhaitir"
+    },
+    {
+      "id": 45,
+      "name": "Abdoullah Ba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdoullah%20Ba.jpg",
+      "sitelinks": 8,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106860208",
+      "answerKey": "abdoullah ba"
+    },
+    {
+      "id": 46,
+      "name": "Mohamed Mahmoud Ould Mohamedou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad-Mahmoud%20Ould%20Mohamedou%202020.jpg",
+      "sitelinks": 8,
+      "birthYear": "1968",
+      "deathYear": "2024",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4118153",
+      "answerKey": "mohamed mahmoud ould mohamedou"
+    },
+    {
+      "id": 47,
+      "name": "Ahmed Ould Daddah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%AD%D9%85%D8%AF%20%D9%88%D9%84%D8%AF%20%D8%AF%D8%A7%D8%AF%D8%A7%D9%87%20%282021%29.jpg",
+      "sitelinks": 7,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2827638",
+      "answerKey": "ahmed ould daddah"
+    },
+    {
+      "id": 48,
+      "name": "Mbarek Ould Beyrouk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mbarek%20Ould%20Beyrouk%20salon%20du%20livre%202012.jpg",
+      "sitelinks": 7,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24690849",
+      "answerKey": "mbarek ould beyrouk"
+    },
+    {
+      "id": 49,
+      "name": "Ahmedou Ould-Abdallah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmedou%20Ould-Abdallah%20-%20World%20Economic%20Forum%20on%20Africa%202010.jpg",
+      "sitelinks": 7,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q130523",
+      "answerKey": "ahmedou ouldabdallah"
+    },
+    {
+      "id": 50,
+      "name": "Ismail Ould Cheikh Ahmed",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20Ould%20Cheikh%20Ahmed%20cropped.jpg",
+      "sitelinks": 7,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16733931",
+      "answerKey": "ismail ould cheikh ahmed"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mauritania.svg"
+  ]
 }

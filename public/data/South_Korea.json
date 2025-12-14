@@ -1,7 +1,7 @@
 {
   "country": "South Korea",
   "countryCode": "Q884",
-  "generated": "2025-12-14T01:48:27.697Z",
+  "generated": "2025-12-14T20:03:20.360Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 188,
       "birthYear": "1967",
       "deathYear": "2013",
-      "occupation": "entrepreneur",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4688112",
       "answerKey": "sung jaegi"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 153,
       "birthYear": "1944",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1253",
       "answerKey": "ban kimoon"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 103,
       "birthYear": "1953",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "bookseller",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21001",
       "answerKey": "moon jaein"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 96,
       "birthYear": "1977",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "dancer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q20150",
       "answerKey": "psy"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 96,
       "birthYear": "1917",
       "deathYear": "1979",
-      "occupation": "politician",
+      "occupation": "army officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14356",
       "answerKey": "park chunghee"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 93,
       "birthYear": "1970",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5646626",
       "answerKey": "han kang"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 91,
       "birthYear": "1960",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "prosecutor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16090635",
       "answerKey": "yoon suk yeol"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 91,
       "birthYear": "1924",
       "deathYear": "2009",
-      "occupation": "politician",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45785",
       "answerKey": "kim daejung"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 87,
       "birthYear": "1875",
       "deathYear": "1965",
-      "occupation": "writer",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171684",
       "answerKey": "syngman rhee"
+    },
+    {
+      "id": 11,
+      "name": "Roh Moo-hyun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roh%20Moo-hyun%20presidential%20portrait.jpg",
+      "sitelinks": 83,
+      "birthYear": "1946",
+      "deathYear": "2009",
+      "occupation": "inventor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14345",
+      "answerKey": "roh moohyun"
+    },
+    {
+      "id": 12,
+      "name": "Rosé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blackpink%20Ros%C3%A9%20Rimowa%202.jpg",
+      "sitelinks": 79,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27655344",
+      "answerKey": "rose"
+    },
+    {
+      "id": 13,
+      "name": "Lee Min-ho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20220401%20Lee%20Min-ho%20%EC%9D%B4%EB%AF%BC%ED%98%B8%20ELLE%20Taiwan%20%282%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80758",
+      "answerKey": "lee minho"
+    },
+    {
+      "id": 14,
+      "name": "Lee Myung-bak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Myung-bak%20presidential%20portrait.jpg",
+      "sitelinks": 77,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14342",
+      "answerKey": "lee myungbak"
+    },
+    {
+      "id": 15,
+      "name": "Lee Myung-bak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Myung-bak%27s%20Portrait%20%282025%29.png",
+      "sitelinks": 77,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14342",
+      "answerKey": "lee myungbak"
+    },
+    {
+      "id": 16,
+      "name": "Jennie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jennie%20Kim%20in%20November%202023.jpg",
+      "sitelinks": 76,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26262599",
+      "answerKey": "jennie"
+    },
+    {
+      "id": 17,
+      "name": "Son Heung-min",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BFA%202023%20-2%20Heung-Min%20Son%20%28cropped%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q439722",
+      "answerKey": "son heungmin"
+    },
+    {
+      "id": 18,
+      "name": "Kim Young-sam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Young-sam%20presidential%20portrait.jpg",
+      "sitelinks": 69,
+      "birthYear": "1927",
+      "deathYear": "2015",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q165210",
+      "answerKey": "kim youngsam"
+    },
+    {
+      "id": 19,
+      "name": "Song Joong-ki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Song%20Joong%20Ki%20Blue%20Dragon.jpg",
+      "sitelinks": 69,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q485517",
+      "answerKey": "song joongki"
+    },
+    {
+      "id": 20,
+      "name": "Park Ji-Sung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Park%20Ji-sung%20G20%20Seoul%20Summit%20Ambassador%20%28cropped%29.jpg",
+      "sitelinks": 68,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q50603",
+      "answerKey": "park jisung"
+    },
+    {
+      "id": 21,
+      "name": "Jungkook",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeon%20Jungkook%20at%20the%20White%20House%2C%2031%20May%202022.jpg",
+      "sitelinks": 67,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22338877",
+      "answerKey": "jungkook"
+    },
+    {
+      "id": 22,
+      "name": "Chang Myon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Myun.jpg",
+      "sitelinks": 65,
+      "birthYear": "1899",
+      "deathYear": "1966",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186500",
+      "answerKey": "chang myon"
+    },
+    {
+      "id": 23,
+      "name": "Yun Posun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%EC%9C%A4%EB%B3%B4%EC%84%A0%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%EC%A1%B4%EC%98%812%20%28cropped%29.jpg",
+      "sitelinks": 65,
+      "birthYear": "1897",
+      "deathYear": "1990",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192049",
+      "answerKey": "yun posun"
+    },
+    {
+      "id": 24,
+      "name": "IU",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/250718%20Lee%20Ji-eun%20%28%EC%9D%B4%EC%A7%80%EC%9D%80%29.png",
+      "sitelinks": 65,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "voice actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20145",
+      "answerKey": "iu"
+    },
+    {
+      "id": 25,
+      "name": "Chun Doo-hwan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chun%20Doo-hwan%20%28%EC%A0%84%EB%91%90%ED%99%98%29%20Presidential%20Portrait.jpg",
+      "sitelinks": 64,
+      "birthYear": "1931",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14362",
+      "answerKey": "chun doohwan"
+    },
+    {
+      "id": 26,
+      "name": "Kim Ki-duk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Ki-duk%20at%20the%2069th%20Venice%20International%20Film%20Festival%20%28cropped%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1960",
+      "deathYear": "2020",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212990",
+      "answerKey": "kim kiduk"
+    },
+    {
+      "id": 27,
+      "name": "Moon Geun-young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moon%20Geun-young%20in%20October%202024.png",
+      "sitelinks": 62,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q102098",
+      "answerKey": "moon geunyoung"
+    },
+    {
+      "id": 28,
+      "name": "Jisoo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jisoo%20of%20Blackpink%20at%20a%20Dior%20event%2C%20April%2018%2C%202025%20%285%29.png",
+      "sitelinks": 62,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27655361",
+      "answerKey": "jisoo"
+    },
+    {
+      "id": 29,
+      "name": "Kang Seul-gi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kang%20Seul-gi%20at%20Coca-Cola%20Event%20on%20January%2018%2C%202020%2003.jpg",
+      "sitelinks": 60,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15934116",
+      "answerKey": "kang seulgi"
+    },
+    {
+      "id": 30,
+      "name": "Bong Joon-ho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bong%20Joon%20Ho%20-%20Okja.jpg",
+      "sitelinks": 60,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q495980",
+      "answerKey": "bong joonho"
+    },
+    {
+      "id": 31,
+      "name": "V",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/V%20at%20W%20Korea%20Breast%20Cancer%20Campaign%2C%2015%20October%202025.png",
+      "sitelinks": 59,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18388296",
+      "answerKey": "v"
+    },
+    {
+      "id": 32,
+      "name": "Cho Jung-seok",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jo%20Jung-suk%20in%20May%202019.jpg",
+      "sitelinks": 57,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q391965",
+      "answerKey": "cho jungseok"
+    },
+    {
+      "id": 33,
+      "name": "Chun Jung-myung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/140820%20%EC%B2%9C%EC%A0%95%EB%AA%85.jpg",
+      "sitelinks": 57,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q484942",
+      "answerKey": "chun jungmyung"
+    },
+    {
+      "id": 34,
+      "name": "Park Chan-yeol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chanyeol%20at%20a%20Dynamic%20Duo%20concert%20on%20December%208%2C%202019.jpg",
+      "sitelinks": 57,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7137681",
+      "answerKey": "park chanyeol"
+    },
+    {
+      "id": 35,
+      "name": "Lee Jae Myung",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Jae-myung%27s%20Portrait%20%282025.6.4%29%20%28cropped%202%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12612463",
+      "answerKey": "lee jae myung"
+    },
+    {
+      "id": 36,
+      "name": "Suga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Min%20Yoon-gi%20May%202018.jpg",
+      "sitelinks": 56,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "DJ producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21075020",
+      "answerKey": "suga"
+    },
+    {
+      "id": 37,
+      "name": "Roh Tae-woo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roh%20Tae-woo%20-%20cropped%2C%201989-Mar-13.jpg",
+      "sitelinks": 55,
+      "birthYear": "1932",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242651",
+      "answerKey": "roh taewoo"
+    },
+    {
+      "id": 38,
+      "name": "Jimin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jimin%20on%20the%20way%20to%20SBS%20Radio%2C%2031%20March%202023%20%282%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20947093",
+      "answerKey": "jimin"
+    },
+    {
+      "id": 39,
+      "name": "BoA",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BoA%20at%20Incheon%20Airport%20on%20May%2015%2C%202019%20%282%29.png",
+      "sitelinks": 54,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232449",
+      "answerKey": "boa"
+    },
+    {
+      "id": 40,
+      "name": "BoA",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BoA%20%283x4%20cropped%29.png",
+      "sitelinks": 54,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232449",
+      "answerKey": "boa"
+    },
+    {
+      "id": 41,
+      "name": "Kim Seok-jin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BTS%20Jin%20at%20Maison%20Fred%2C%2013%20March%202025%2004.png",
+      "sitelinks": 54,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24276424",
+      "answerKey": "kim seokjin"
+    },
+    {
+      "id": 42,
+      "name": "Ha Seok-jin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/190604%20%ED%95%98%EC%84%9D%EC%A7%84.jpg",
+      "sitelinks": 53,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q485784",
+      "answerKey": "ha seokjin"
+    },
+    {
+      "id": 43,
+      "name": "Kim Yong-sik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/After%20First%20New-year%20Commemoration%20of%20Provisional%20Government%20of%20the%20Republic%20of%20Korea%20%281st%20January%201920%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1910",
+      "deathYear": "1985",
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q496051",
+      "answerKey": "kim yongsik"
+    },
+    {
+      "id": 44,
+      "name": "RM",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RM%20at%20W%20Korea%20Love%20Your%20W%2C%20November%202023.jpg",
+      "sitelinks": 52,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "rapper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20514446",
+      "answerKey": "rm"
+    },
+    {
+      "id": 45,
+      "name": "Irene",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irene%20Bae%20at%20GMP-KIX%20Airport%20on%20January%2022%2C%202020.png",
+      "sitelinks": 52,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12605358",
+      "answerKey": "irene"
+    },
+    {
+      "id": 46,
+      "name": "Kim Soo-hyun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kim%20Soo-hyun%20in%20August%202024%20-%202.png",
+      "sitelinks": 51,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q496491",
+      "answerKey": "kim soohyun"
+    },
+    {
+      "id": 47,
+      "name": "Kim Jong-hyun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jonghyun%20at%20a%20fansigning%20in%20Busan%2C%20in%20June%202016%2001.jpg",
+      "sitelinks": 50,
+      "birthYear": "1990",
+      "deathYear": "2017",
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q484484",
+      "answerKey": "kim jonghyun"
+    },
+    {
+      "id": 48,
+      "name": "J-Hope",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J-Hope%20at%20W%20Korea%20Breast%20Cancer%20Campaign%2C%2015%20October%202025.png",
+      "sitelinks": 49,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16236223",
+      "answerKey": "jhope"
+    },
+    {
+      "id": 49,
+      "name": "Bae Suzy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20241128%20Bae%20Suzy%20CELINE%20photocall%20%28cropped%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q464645",
+      "answerKey": "bae suzy"
+    },
+    {
+      "id": 50,
+      "name": "Hwang Kyo-ahn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hwang%20Kyo-ahn.PNG",
+      "sitelinks": 48,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12625765",
+      "answerKey": "hwang kyoahn"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
+  ]
 }

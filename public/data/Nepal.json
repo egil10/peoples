@@ -1,7 +1,7 @@
 {
   "country": "Nepal",
   "countryCode": "Q837",
-  "generated": "2025-12-14T01:57:19.079Z",
+  "generated": "2025-12-14T20:20:28.145Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 94,
       "birthYear": "1914",
       "deathYear": "1986",
-      "occupation": "mountain guide",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80732",
       "answerKey": "tenzing norgay"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 63,
       "birthYear": "1967",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17150957",
       "answerKey": "suman pokhrel"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 54,
       "birthYear": "1952",
       "deathYear": null,
-      "occupation": "judge",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23842116",
       "answerKey": "sushila karki"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 53,
       "birthYear": "1947",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "regent",
       "wikidataUrl": "http://www.wikidata.org/entity/Q201327",
       "answerKey": "gyanendra of nepal"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 52,
       "birthYear": "1970",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q186606",
       "answerKey": "manisha koirala"
     },
@@ -113,7 +113,446 @@
       "occupation": "monarch",
       "wikidataUrl": "http://www.wikidata.org/entity/Q162306",
       "answerKey": "birendra of nepal"
+    },
+    {
+      "id": 11,
+      "name": "Girija Prasad Koirala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Girija%20P%20koirala.jpg",
+      "sitelinks": 50,
+      "birthYear": "1924",
+      "deathYear": "2010",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220991",
+      "answerKey": "girija prasad koirala"
+    },
+    {
+      "id": 12,
+      "name": "Sher Bahadur Deuba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%20of%20Nepal%2C%20Mr.%20Sher%20Bahadur%20Deuba%2C%20at%20Hyderabad%20House%2C%20in%20New%20Delhi%20on%20August%2024%2C%202017.jpg",
+      "sitelinks": 48,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q470903",
+      "answerKey": "sher bahadur deuba"
+    },
+    {
+      "id": 13,
+      "name": "Ram Chandra Poudel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Ram%20Chandra%20Poudel%2C%20Official%20portrait%20%28January%202024%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3183124",
+      "answerKey": "ram chandra poudel"
+    },
+    {
+      "id": 14,
+      "name": "Dipendra of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Crown%20Prince%20Dependra%20Bikram%20Shah%20Dev.jpg",
+      "sitelinks": 41,
+      "birthYear": "1971",
+      "deathYear": "2001",
+      "occupation": "king",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311235",
+      "answerKey": "dipendra of nepal"
+    },
+    {
+      "id": 15,
+      "name": "Sushil Koirala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Prime%20Minister%20of%20Nepal%2C%20Mr.%20Sushil%20Koirala%2C%20on%20the%20sidelines%20of%20the%20third%20Summit%20of%20the%20Bay%20of%20Bengal%20Initiative%20for%20Multi-Sectoral%20Technical%20and%20Economic%20Cooperation%20%28BIMSTEC%29%2C%20at%20Nay%20Pyi%20Taw.jpg",
+      "sitelinks": 40,
+      "birthYear": "1939",
+      "deathYear": "2016",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q422969",
+      "answerKey": "sushil koirala"
+    },
+    {
+      "id": 16,
+      "name": "Udit Narayan Jha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Celebs%20at%20the%20screening%20of%20the%20A.R.%20Rahman%27s%20documentary%2003.jpg",
+      "sitelinks": 39,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q469818",
+      "answerKey": "udit narayan jha"
+    },
+    {
+      "id": 17,
+      "name": "Śuddhodana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SudhodannaAndHisCourt.jpg",
+      "sitelinks": 38,
+      "birthYear": "-600",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q226488",
+      "answerKey": "suddhodana"
+    },
+    {
+      "id": 18,
+      "name": "Chandra Bahadur Dangi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chandra%2004.jpg",
+      "sitelinks": 36,
+      "birthYear": "1939",
+      "deathYear": "2015",
+      "occupation": "weaver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2265759",
+      "answerKey": "chandra bahadur dangi"
+    },
+    {
+      "id": 19,
+      "name": "Mahendra I of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahendra%20Bir%20Bikram%20Shah.jpg",
+      "sitelinks": 35,
+      "birthYear": "1920",
+      "deathYear": "1972",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313110",
+      "answerKey": "mahendra i of nepal"
+    },
+    {
+      "id": 20,
+      "name": "Mahendra I of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mahendra%20of%20Nepal%20%281967%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1920",
+      "deathYear": "1972",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313110",
+      "answerKey": "mahendra i of nepal"
+    },
+    {
+      "id": 21,
+      "name": "Madhav Kumar Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madhav%20Kumar%20Nepal2.JPG",
+      "sitelinks": 35,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332509",
+      "answerKey": "madhav kumar nepal"
+    },
+    {
+      "id": 22,
+      "name": "Baburam Bhattarai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baburam%20bhattarai.jpg",
+      "sitelinks": 34,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57816",
+      "answerKey": "baburam bhattarai"
+    },
+    {
+      "id": 23,
+      "name": "Jhala Nath Khanal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.n%20%282%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57819",
+      "answerKey": "jhala nath khanal"
+    },
+    {
+      "id": 24,
+      "name": "B. P. Koirala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BP%20Koirala.jpg",
+      "sitelinks": 33,
+      "birthYear": "1914",
+      "deathYear": "1982",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q560515",
+      "answerKey": "b p koirala"
+    },
+    {
+      "id": 25,
+      "name": "Laxmi Prasad Devkota",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laxmi%20Prasad%20Devkota%203.jpg",
+      "sitelinks": 33,
+      "birthYear": "1909",
+      "deathYear": "1959",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3629422",
+      "answerKey": "laxmi prasad devkota"
+    },
+    {
+      "id": 26,
+      "name": "Tribhuvan I of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Tribhuvan%20%28cropped%29.png",
+      "sitelinks": 32,
+      "birthYear": "1906",
+      "deathYear": "1955",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q381928",
+      "answerKey": "tribhuvan i of nepal"
+    },
+    {
+      "id": 27,
+      "name": "Nirmal Purja",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nirmal%20Purja.jpg",
+      "sitelinks": 32,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "mountaineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q64027141",
+      "answerKey": "nirmal purja"
+    },
+    {
+      "id": 28,
+      "name": "Nirmal Purja",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NIRMAL%20PURJA%20%22NIMS%22.jpg",
+      "sitelinks": 32,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "mountaineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q64027141",
+      "answerKey": "nirmal purja"
+    },
+    {
+      "id": 29,
+      "name": "Krishna Prasad Bhattarai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Krishna%20bhattarai.jpg",
+      "sitelinks": 31,
+      "birthYear": "1924",
+      "deathYear": "2011",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q380145",
+      "answerKey": "krishna prasad bhattarai"
+    },
+    {
+      "id": 30,
+      "name": "Sanu Sharma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sanu%20Sharma.jpg",
+      "sitelinks": 30,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115188865",
+      "answerKey": "sanu sharma"
+    },
+    {
+      "id": 31,
+      "name": "Amrita Acharia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amrita%20Acharia%20at%20Triforce%20SFF%20Awards%202014.jpg",
+      "sitelinks": 28,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4748667",
+      "answerKey": "amrita acharia"
+    },
+    {
+      "id": 32,
+      "name": "Surya Bahadur Thapa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Surya%20Bahadur%20Thapa%202005-11-24.jpg",
+      "sitelinks": 28,
+      "birthYear": "1928",
+      "deathYear": "2015",
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983444",
+      "answerKey": "surya bahadur thapa"
+    },
+    {
+      "id": 33,
+      "name": "Bhimsen Thapa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhimsen-thapa-portrait.jpg",
+      "sitelinks": 26,
+      "birthYear": "1775",
+      "deathYear": "1839",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4206839",
+      "answerKey": "bhimsen thapa"
+    },
+    {
+      "id": 34,
+      "name": "Bhimsen Thapa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhimsen%20Thapa%20and%20two%20wives.jpg",
+      "sitelinks": 26,
+      "birthYear": "1775",
+      "deathYear": "1839",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4206839",
+      "answerKey": "bhimsen thapa"
+    },
+    {
+      "id": 35,
+      "name": "Bhimsen Thapa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhimsen%20Thapa%20sitting.jpg",
+      "sitelinks": 26,
+      "birthYear": "1775",
+      "deathYear": "1839",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4206839",
+      "answerKey": "bhimsen thapa"
+    },
+    {
+      "id": 36,
+      "name": "Bhimsen Thapa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20bhimsen%20thapa%20standing%20beside%20a%20horse.jpg",
+      "sitelinks": 26,
+      "birthYear": "1775",
+      "deathYear": "1839",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4206839",
+      "answerKey": "bhimsen thapa"
+    },
+    {
+      "id": 37,
+      "name": "Khil Raj Regmi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khilaraj%20regmi.jpg",
+      "sitelinks": 26,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6401600",
+      "answerKey": "khil raj regmi"
+    },
+    {
+      "id": 38,
+      "name": "Bhanubhakta Acharya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aadikavi%20Bhanubhakta%20Acharya.jpg",
+      "sitelinks": 26,
+      "birthYear": "1814",
+      "deathYear": "1868",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2510589",
+      "answerKey": "bhanubhakta acharya"
+    },
+    {
+      "id": 39,
+      "name": "Bhanubhakta Acharya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhanu%20salik%20Nepal%20Academy4.JPG",
+      "sitelinks": 26,
+      "birthYear": "1814",
+      "deathYear": "1868",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2510589",
+      "answerKey": "bhanubhakta acharya"
+    },
+    {
+      "id": 40,
+      "name": "Bhanubhakta Acharya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhanubhakta%20Acharya.jpg",
+      "sitelinks": 26,
+      "birthYear": "1814",
+      "deathYear": "1868",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2510589",
+      "answerKey": "bhanubhakta acharya"
+    },
+    {
+      "id": 41,
+      "name": "Bhanubhakta Acharya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Bhanubhakta%20Acharya%20at%20Chundi%20Ramgha%20Cropped.jpg",
+      "sitelinks": 26,
+      "birthYear": "1814",
+      "deathYear": "1868",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2510589",
+      "answerKey": "bhanubhakta acharya"
+    },
+    {
+      "id": 42,
+      "name": "Anuradha Koirala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anuradha.jpg",
+      "sitelinks": 25,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "social worker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3522396",
+      "answerKey": "anuradha koirala"
+    },
+    {
+      "id": 43,
+      "name": "Khagendra Thapa Magar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khagendra%20Thapa%20Magar.jpg",
+      "sitelinks": 24,
+      "birthYear": "1992",
+      "deathYear": "2020",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q732951",
+      "answerKey": "khagendra thapa magar"
+    },
+    {
+      "id": 44,
+      "name": "Aishwarya of Nepal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aishwarya%201972.jpg",
+      "sitelinks": 24,
+      "birthYear": "1949",
+      "deathYear": "2001",
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1134162",
+      "answerKey": "aishwarya of nepal"
+    },
+    {
+      "id": 45,
+      "name": "Apa Sherpa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Apa%20Sherpa.jpg",
+      "sitelinks": 24,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "himalayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q455447",
+      "answerKey": "apa sherpa"
+    },
+    {
+      "id": 46,
+      "name": "Jung Bahadur Rana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JungBahadur-gr.jpg",
+      "sitelinks": 24,
+      "birthYear": "1817",
+      "deathYear": "1877",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2355896",
+      "answerKey": "jung bahadur rana"
+    },
+    {
+      "id": 47,
+      "name": "Gaurika Singh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaurika%20Singh.jpg",
+      "sitelinks": 22,
+      "birthYear": "2002",
+      "deathYear": null,
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23762473",
+      "answerKey": "gaurika singh"
+    },
+    {
+      "id": 48,
+      "name": "Ang Rita",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ANG%20RITA.jpg",
+      "sitelinks": 22,
+      "birthYear": "1948",
+      "deathYear": "2020",
+      "occupation": "mountaineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q596334",
+      "answerKey": "ang rita"
+    },
+    {
+      "id": 49,
+      "name": "Mira Rai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mira%20Rai%2002.JPG",
+      "sitelinks": 22,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "ultramarathon runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20685224",
+      "answerKey": "mira rai"
+    },
+    {
+      "id": 50,
+      "name": "Lokendra Bahadur Chand",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lokendra%20Bahadur%20Chand%20A%20writer%20of%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%A8.png",
+      "sitelinks": 22,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2628548",
+      "answerKey": "lokendra bahadur chand"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg"
+  ]
 }

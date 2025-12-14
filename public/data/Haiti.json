@@ -1,7 +1,7 @@
 {
   "country": "Haiti",
   "countryCode": "Q790",
-  "generated": "2025-12-14T01:58:16.996Z",
+  "generated": "2025-12-14T20:22:52.530Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 73,
       "birthYear": "1968",
       "deathYear": "2021",
-      "occupation": "businessperson",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q21294765",
       "answerKey": "jovenel moise"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 60,
       "birthYear": "1907",
       "deathYear": "1971",
-      "occupation": "physician",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q187697",
       "answerKey": "francois duvalier"
     },
@@ -40,7 +40,7 @@
     {
       "id": 4,
       "name": "Jean-Claude Duvalier",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc%20%28centr%C3%A9e%29.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc.jpg",
       "sitelinks": 54,
       "birthYear": "1951",
       "deathYear": "2014",
@@ -51,7 +51,7 @@
     {
       "id": 5,
       "name": "Jean-Claude Duvalier",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20Doc%20%28centr%C3%A9e%29.jpg",
       "sitelinks": 54,
       "birthYear": "1951",
       "deathYear": "2014",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "name": "René Préval",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Pr%C3%A9val%20on%20March%2031%2C%202010.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Preval.jpg",
       "sitelinks": 52,
       "birthYear": "1943",
       "deathYear": "2017",
@@ -73,7 +73,7 @@
     {
       "id": 7,
       "name": "René Préval",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Preval.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Pr%C3%A9val%20on%20March%2031%2C%202010.jpg",
       "sitelinks": 52,
       "birthYear": "1943",
       "deathYear": "2017",
@@ -88,7 +88,7 @@
       "sitelinks": 48,
       "birthYear": "1953",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q209617",
       "answerKey": "jeanbertrand aristide"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 46,
       "birthYear": "1957",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128933",
       "answerKey": "michaelle jean"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 46,
       "birthYear": "1969",
       "deathYear": null,
-      "occupation": "singer",
+      "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q202663",
       "answerKey": "wyclef jean"
+    },
+    {
+      "id": 11,
+      "name": "Michel Martelly",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Martelly%20on%20April%2020%2C%202011.jpg",
+      "sitelinks": 45,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57512",
+      "answerKey": "michel martelly"
+    },
+    {
+      "id": 12,
+      "name": "Henri Christophe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Christophe.jpg",
+      "sitelinks": 40,
+      "birthYear": "1767",
+      "deathYear": "1820",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353458",
+      "answerKey": "henri christophe"
+    },
+    {
+      "id": 13,
+      "name": "Boniface Alexandre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boniface%20Alexandre.jpg",
+      "sitelinks": 34,
+      "birthYear": "1936",
+      "deathYear": "2023",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q323218",
+      "answerKey": "boniface alexandre"
+    },
+    {
+      "id": 14,
+      "name": "Ariel Henry",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ariel%20Henry%20CELAC%202023.jpg",
+      "sitelinks": 33,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "neurosurgeon",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q107451258",
+      "answerKey": "ariel henry"
+    },
+    {
+      "id": 15,
+      "name": "Leslie Manigat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20President%20Leslie%20Manigat.png",
+      "sitelinks": 32,
+      "birthYear": "1930",
+      "deathYear": "2014",
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q470492",
+      "answerKey": "leslie manigat"
+    },
+    {
+      "id": 16,
+      "name": "Alejandro Petion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Petion%20pr%C3%A9sident%20de%20la%20R%C3%A9publique%20d%27Hayti%20BNF%20Gallica.jpg",
+      "sitelinks": 30,
+      "birthYear": "1770",
+      "deathYear": "1818",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
+      "answerKey": "alejandro petion"
+    },
+    {
+      "id": 17,
+      "name": "Alejandro Petion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Sab%C3%A9s%20P%C3%A9tion%20Portrait%20circa%201807-1818%20JCB.jpg",
+      "sitelinks": 30,
+      "birthYear": "1770",
+      "deathYear": "1818",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
+      "answerKey": "alejandro petion"
+    },
+    {
+      "id": 18,
+      "name": "Alejandro Petion",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20du%20pr%C3%A9sident%20Alexandre%20P%C3%A9tion.jpg",
+      "sitelinks": 30,
+      "birthYear": "1770",
+      "deathYear": "1818",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353464",
+      "answerKey": "alejandro petion"
+    },
+    {
+      "id": 19,
+      "name": "Edwidge Danticat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edwidge%20Danticat%20by%20David%20Shankbone.jpg",
+      "sitelinks": 30,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450346",
+      "answerKey": "edwidge danticat"
+    },
+    {
+      "id": 20,
+      "name": "Thomas-Alexandre Dumas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexande%20Dumad%20-detail.PNG",
+      "sitelinks": 29,
+      "birthYear": "1762",
+      "deathYear": "1806",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q572684",
+      "answerKey": "thomasalexandre dumas"
+    },
+    {
+      "id": 21,
+      "name": "Thomas-Alexandre Dumas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Dumas%20by%20Guillon%20Lethi%C3%A8re.jpg",
+      "sitelinks": 29,
+      "birthYear": "1762",
+      "deathYear": "1806",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q572684",
+      "answerKey": "thomasalexandre dumas"
+    },
+    {
+      "id": 22,
+      "name": "Michèle Pierre-Louis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20Michele%20Pierre-Louis%20of%20Haiti%20-%202009%20%28cropped%29.JPG",
+      "sitelinks": 28,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q264711",
+      "answerKey": "michele pierrelouis"
+    },
+    {
+      "id": 23,
+      "name": "Claude Joseph",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Joseph%2C%20chancelier%20ha%C3%AFtien%20en%202020%20%28cropped%204x3%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106496152",
+      "answerKey": "claude joseph"
+    },
+    {
+      "id": 24,
+      "name": "Chibly Langlois",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Ma%20and%20Chibly%20Langlois%20%2817262956123%29%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1071759",
+      "answerKey": "chibly langlois"
+    },
+    {
+      "id": 25,
+      "name": "Jean-Pierre Boyer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Jean-Pierre%20Boyer%20of%20Haiti%20%28Hispaniola%20Unification%20Regime%29%20Portrait.jpg",
+      "sitelinks": 28,
+      "birthYear": "1776",
+      "deathYear": "1850",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q449421",
+      "answerKey": "jeanpierre boyer"
+    },
+    {
+      "id": 26,
+      "name": "Bruny Surin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2024%20-%20Bruny%20Surin%20-%2002.png",
+      "sitelinks": 27,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q441217",
+      "answerKey": "bruny surin"
+    },
+    {
+      "id": 27,
+      "name": "Ertha Pascal-Trouillot",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ertha%20Pascal-Trouillot%20on%20January%207%2C%201991.png",
+      "sitelinks": 27,
+      "birthYear": "1943",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q461636",
+      "answerKey": "ertha pascaltrouillot"
+    },
+    {
+      "id": 28,
+      "name": "Gérard Latortue",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Visit%20by%20G%C3%A9rard%20Latortue%2C%20Haitian%20Prime%20Minister%2C%20to%20the%20EC%20-%202005%20%28cropped%29.jpg",
+      "sitelinks": 27,
+      "birthYear": "1934",
+      "deathYear": "2023",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q560895",
+      "answerKey": "gerard latortue"
+    },
+    {
+      "id": 29,
+      "name": "Samuel Dalembert",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Dalembert%202014-02-28.jpg",
+      "sitelinks": 25,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q371821",
+      "answerKey": "samuel dalembert"
+    },
+    {
+      "id": 30,
+      "name": "Samuel Dalembert",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Dalembert%202014-02-28.jpg",
+      "sitelinks": 25,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q371821",
+      "answerKey": "samuel dalembert"
+    },
+    {
+      "id": 31,
+      "name": "Henri Namphy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Namphy%201986%20%28cropped%29.jpg",
+      "sitelinks": 25,
+      "birthYear": "1932",
+      "deathYear": "2018",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q470500",
+      "answerKey": "henri namphy"
+    },
+    {
+      "id": 32,
+      "name": "Garcelle Beauvais",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garcelle%20Beauvais%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 25,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450219",
+      "answerKey": "garcelle beauvais"
+    },
+    {
+      "id": 33,
+      "name": "Silvio Cator",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Silvio%20Cator%20before%20attempt%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1900",
+      "deathYear": "1952",
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q301677",
+      "answerKey": "silvio cator"
+    },
+    {
+      "id": 34,
+      "name": "Jean-Max Bellerive",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bellerive%2C%20Jean-Max.jpg",
+      "sitelinks": 24,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315427",
+      "answerKey": "jeanmax bellerive"
+    },
+    {
+      "id": 35,
+      "name": "Dany Laferrière",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20coeur%20nomade%20%C3%A0%20Tunis%2C%202021%20%28%C3%A9crivain%20Dany%20Laferri%C3%A8re%20de%20l%27Acad%C3%A9mie%20fran%C3%A7aise%29.png",
+      "sitelinks": 24,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1165217",
+      "answerKey": "dany laferriere"
+    },
+    {
+      "id": 36,
+      "name": "Frankétienne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Laposte%202.jpg",
+      "sitelinks": 23,
+      "birthYear": "1936",
+      "deathYear": "2025",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q162778",
+      "answerKey": "franketienne"
+    },
+    {
+      "id": 37,
+      "name": "Faustin Soulouque",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Faustin%20I.jpg",
+      "sitelinks": 23,
+      "birthYear": "1782",
+      "deathYear": "1867",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q560853",
+      "answerKey": "faustin soulouque"
+    },
+    {
+      "id": 38,
+      "name": "Claudette Werleigh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudette%20Werleigh%201993%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450359",
+      "answerKey": "claudette werleigh"
+    },
+    {
+      "id": 39,
+      "name": "Raoul Cédras",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raoul%20C%C3%A9dras.jpg",
+      "sitelinks": 22,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q382423",
+      "answerKey": "raoul cedras"
+    },
+    {
+      "id": 40,
+      "name": "Dumarsais Estimé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dumarsais%20estime%20portrait.jpg",
+      "sitelinks": 22,
+      "birthYear": "1900",
+      "deathYear": "1953",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q738355",
+      "answerKey": "dumarsais estime"
+    },
+    {
+      "id": 41,
+      "name": "Raoul Peck",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raoul%20Peck%20Photo%20Call%20Der%20junge%20Karl%20Marx%20Berlinale%202017%2004.jpg",
+      "sitelinks": 21,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1357018",
+      "answerKey": "raoul peck"
+    },
+    {
+      "id": 42,
+      "name": "Jeanne Duval",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20Duval%20photographed%20by%20Nadar%20%281862%29%20%28cropped%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1820",
+      "deathYear": "1868",
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1982279",
+      "answerKey": "jeanne duval"
+    },
+    {
+      "id": 43,
+      "name": "René Depestre",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Depestre%20%2825-02-2017%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1926",
+      "deathYear": null,
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q59581",
+      "answerKey": "rene depestre"
+    },
+    {
+      "id": 44,
+      "name": "Duckens Nazon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Iran%20Football%20Premier%20League%20Esteghlal%20and%20Zob%20Ahan%20football%20match%203%20Mehr%20%28cropped%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16916422",
+      "answerKey": "duckens nazon"
+    },
+    {
+      "id": 45,
+      "name": "Fritz Jean",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Rubio%20Meets%20with%20Haitian%20Transitional%20Presidential%20Council%20President%20%2854412737238%29%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21809321",
+      "answerKey": "fritz jean"
+    },
+    {
+      "id": 46,
+      "name": "Jocelerme Privert",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jocelerme%20Privert%20Cine%20Triomphe%20%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6207072",
+      "answerKey": "jocelerme privert"
+    },
+    {
+      "id": 47,
+      "name": "Garry Conille",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20Minister%20of%20Haiti%20Garry%20Conille%20at%20the%20Department%20of%20State%20in%20Washington%2C%20D.C.%20on%20July%202%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q260400",
+      "answerKey": "garry conille"
+    },
+    {
+      "id": 48,
+      "name": "Laurent Lamothe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurent%20Lamothe%20in%202012.jpg",
+      "sitelinks": 20,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57854",
+      "answerKey": "laurent lamothe"
+    },
+    {
+      "id": 49,
+      "name": "Constantin Henriquez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantin%20Henriquez%20%281899%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1870",
+      "deathYear": "1942",
+      "occupation": "sports executive",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q635697",
+      "answerKey": "constantin henriquez"
+    },
+    {
+      "id": 50,
+      "name": "Jacques-Édouard Alexis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jacques-%C3%89douard%20Alexis.jpg",
+      "sitelinks": 20,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471075",
+      "answerKey": "jacquesedouard alexis"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg"
+  ]
 }

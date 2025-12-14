@@ -1,7 +1,7 @@
 {
   "country": "El Salvador",
   "countryCode": "Q792",
-  "generated": "2025-12-14T01:58:38.814Z",
+  "generated": "2025-12-14T20:23:09.429Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 76,
       "birthYear": "1981",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "influencer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17712353",
       "answerKey": "nayib bukele"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 55,
       "birthYear": "1959",
       "deathYear": "2025",
-      "occupation": "politician",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57342",
       "answerKey": "mauricio funes"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 37,
       "birthYear": "1965",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q211000",
       "answerKey": "antonio saca"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 34,
       "birthYear": "1924",
       "deathYear": "2018",
-      "occupation": "writer",
+      "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q270601",
       "answerKey": "claribel alegria vides"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 33,
       "birthYear": "1792",
       "deathYear": "1842",
-      "occupation": "writer",
+      "occupation": "soldier",
       "wikidataUrl": "http://www.wikidata.org/entity/Q332111",
       "answerKey": "francisco morazan"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 31,
       "birthYear": "1882",
       "deathYear": "1966",
-      "occupation": "politician",
+      "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319419",
       "answerKey": "maximiliano hernandez martinez"
     },
@@ -105,6 +105,39 @@
     },
     {
       "id": 10,
+      "name": "Joel Aguilar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joel%20Aguilar%202018.jpg",
+      "sitelinks": 28,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q314717",
+      "answerKey": "joel aguilar"
+    },
+    {
+      "id": 11,
+      "name": "Armando Calderón Sol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Former%20Presidents%20and%20First%20Ladies%20of%20El%20Salvador.jpg",
+      "sitelinks": 28,
+      "birthYear": "1948",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q381018",
+      "answerKey": "armando calderon sol"
+    },
+    {
+      "id": 12,
+      "name": "Armando Calderón Sol",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Former%20Presidents%20and%20First%20Ladies%20of%20El%20Salvador%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1948",
+      "deathYear": "2017",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q381018",
+      "answerKey": "armando calderon sol"
+    },
+    {
+      "id": 13,
       "name": "Alfredo Cristiani",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfredo%20Cristiani.jpg",
       "sitelinks": 28,
@@ -113,7 +146,413 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q365374",
       "answerKey": "alfredo cristiani"
+    },
+    {
+      "id": 14,
+      "name": "Gregorio Rosa Chávez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cardenal%20Gregorio%20Rosa%20Ch%C3%A1vez.jpg",
+      "sitelinks": 27,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "theologian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1545283",
+      "answerKey": "gregorio rosa chavez"
+    },
+    {
+      "id": 15,
+      "name": "Francisco Flores",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Francisco%20Flores%20El%20Salvador1.jpg",
+      "sitelinks": 26,
+      "birthYear": "1959",
+      "deathYear": "2016",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q381002",
+      "answerKey": "francisco flores"
+    },
+    {
+      "id": 16,
+      "name": "Farabundo Martí",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Farabundomarti.jpg",
+      "sitelinks": 23,
+      "birthYear": "1893",
+      "deathYear": "1932",
+      "occupation": "political activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q472486",
+      "answerKey": "farabundo marti"
+    },
+    {
+      "id": 17,
+      "name": "Karla Avelar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diversity%20in%20Adversity%20Karla%20Avelar%2C%20El%20Salvador%200-2%20screenshot%20%28cropped%29.png",
+      "sitelinks": 23,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "LGBTQ rights activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q87075411",
+      "answerKey": "karla avelar"
+    },
+    {
+      "id": 18,
+      "name": "Prudencia Ayala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prudencia%20Ayala%20Chief.jpg",
+      "sitelinks": 23,
+      "birthYear": "1886",
+      "deathYear": "1936",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3408576",
+      "answerKey": "prudencia ayala"
+    },
+    {
+      "id": 19,
+      "name": "Mágico González",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20del%20magico%20Gonzales%20en%20salvador%20el%20salvador.jpg",
+      "sitelinks": 23,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q762497",
+      "answerKey": "magico gonzalez"
+    },
+    {
+      "id": 20,
+      "name": "Marcelo Arévalo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arevalo%20WMQ16%20%2810%29%20%2828133946721%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6756491",
+      "answerKey": "marcelo arevalo"
+    },
+    {
+      "id": 21,
+      "name": "Jon Sobrino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sobrino.JPG",
+      "sitelinks": 22,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "Catholic theologian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q609326",
+      "answerKey": "jon sobrino"
+    },
+    {
+      "id": 22,
+      "name": "Carlos Humberto Romero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Humberto%20Romero%20President%20of%20the%20Republic%20of%20El%20Salvador.%20-%20NARA%20-%20176138%20%28cropped%29.tiff",
+      "sitelinks": 21,
+      "birthYear": "1924",
+      "deathYear": "2017",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q880982",
+      "answerKey": "carlos humberto romero"
+    },
+    {
+      "id": 23,
+      "name": "Hugo Pérez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugo%20P%C3%A9rez%20in%202021.png",
+      "sitelinks": 20,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q634257",
+      "answerKey": "hugo perez"
+    },
+    {
+      "id": 24,
+      "name": "Juan Lindo y Zelaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Licenciado%20Juan%20Lindo%2C%20Presidente%20de%20El%20Salvador%20y%20de%20Honduras.jpg",
+      "sitelinks": 20,
+      "birthYear": "1790",
+      "deathYear": "1857",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q718333",
+      "answerKey": "juan lindo y zelaya"
+    },
+    {
+      "id": 25,
+      "name": "Roque Dalton Garcia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roque%20Dalton%20%281969%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1935",
+      "deathYear": "1975",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q539461",
+      "answerKey": "roque dalton garcia"
+    },
+    {
+      "id": 26,
+      "name": "Consuelo de Saint Exupéry",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Consuelo%20en%201942%20%C3%A0%20Montr%C3%A9al.jpg",
+      "sitelinks": 19,
+      "birthYear": "1901",
+      "deathYear": "1979",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q445703",
+      "answerKey": "consuelo de saint exupery"
+    },
+    {
+      "id": 27,
+      "name": "Vivienne Medrano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vivienne%20Medrano%20Photo%20Op%20GalaxyCon%20Richmond%202025.jpg",
+      "sitelinks": 19,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76759194",
+      "answerKey": "vivienne medrano"
+    },
+    {
+      "id": 28,
+      "name": "Álvaro Magaña",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%81lvaro%20Maga%C3%B1a%2C%20President%20of%20El%20Salvador%20%281982%E2%80%931984%29.png",
+      "sitelinks": 17,
+      "birthYear": "1925",
+      "deathYear": "2001",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q250808",
+      "answerKey": "alvaro magana"
+    },
+    {
+      "id": 29,
+      "name": "Óscar Osorio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Osorio.jpg",
+      "sitelinks": 17,
+      "birthYear": "1910",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q293400",
+      "answerKey": "oscar osorio"
+    },
+    {
+      "id": 30,
+      "name": "Mauricio Alonso Rodríguez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pipo%20Rodr%C3%ADguez.jpg",
+      "sitelinks": 17,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q430468",
+      "answerKey": "mauricio alonso rodriguez"
+    },
+    {
+      "id": 31,
+      "name": "Ignacio Ellacuría",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignacio%20Ellacur%C3%ADa.jpg",
+      "sitelinks": 17,
+      "birthYear": "1930",
+      "deathYear": "1989",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1301166",
+      "answerKey": "ignacio ellacuria"
+    },
+    {
+      "id": 32,
+      "name": "Ignacio Ellacuría",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ignacio%20Ellacuria%20Beascoechea.jpeg",
+      "sitelinks": 17,
+      "birthYear": "1930",
+      "deathYear": "1989",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1301166",
+      "answerKey": "ignacio ellacuria"
+    },
+    {
+      "id": 33,
+      "name": "Roberto D'Aubuisson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20d%27Aubuisson.JPG",
+      "sitelinks": 17,
+      "birthYear": "1944",
+      "deathYear": "1992",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q981443",
+      "answerKey": "roberto daubuisson"
+    },
+    {
+      "id": 34,
+      "name": "Rutilio Grande",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Un%20mural%20del%20padre%20Rutilio%20Grande.jpg",
+      "sitelinks": 17,
+      "birthYear": "1928",
+      "deathYear": "1977",
+      "occupation": "Catholic priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q932501",
+      "answerKey": "rutilio grande"
+    },
+    {
+      "id": 35,
+      "name": "Rodolfo Zelaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rodolfo%20Zelaya%20.jpg",
+      "sitelinks": 16,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2562994",
+      "answerKey": "rodolfo zelaya"
+    },
+    {
+      "id": 36,
+      "name": "Pete Sandoval",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pete%20Sandoval%20practising%20the%20drums.jpg",
+      "sitelinks": 16,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "drummer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q282719",
+      "answerKey": "pete sandoval"
+    },
+    {
+      "id": 37,
+      "name": "Jaime Alas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alas21.jpg",
+      "sitelinks": 16,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2700157",
+      "answerKey": "jaime alas"
+    },
+    {
+      "id": 38,
+      "name": "Juan Ramón Martínez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Ram%C3%B3n%20Mart%C3%ADnez.jpg",
+      "sitelinks": 16,
+      "birthYear": "1948",
+      "deathYear": "2024",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3810912",
+      "answerKey": "juan ramon martinez"
+    },
+    {
+      "id": 39,
+      "name": "Arturo Álvarez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CINvCHI%202017-06-28%20-%20Arturo%20Alvarez%20%2841157597202%29%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q715094",
+      "answerKey": "arturo alvarez"
+    },
+    {
+      "id": 40,
+      "name": "Tomás Regalado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomas%20Regalado1.jpg",
+      "sitelinks": 16,
+      "birthYear": "1861",
+      "deathYear": "1906",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887447",
+      "answerKey": "tomas regalado"
+    },
+    {
+      "id": 41,
+      "name": "Schafik Handal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shafik0966.JPG",
+      "sitelinks": 16,
+      "birthYear": "1930",
+      "deathYear": "2006",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q537580",
+      "answerKey": "schafik handal"
+    },
+    {
+      "id": 42,
+      "name": "Rafael Zaldívar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zald%C3%ADvar.jpg",
+      "sitelinks": 16,
+      "birthYear": "1834",
+      "deathYear": "1903",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887758",
+      "answerKey": "rafael zaldivar"
+    },
+    {
+      "id": 43,
+      "name": "Imanol Uribe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Imanoluribe-rodajemiel.png",
+      "sitelinks": 15,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "film editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2980097",
+      "answerKey": "imanol uribe"
+    },
+    {
+      "id": 44,
+      "name": "Sergio Méndez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergio%20de%20Jesus%20Mendez%20%28Tabu-2%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1943",
+      "deathYear": "1976",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3811157",
+      "answerKey": "sergio mendez"
+    },
+    {
+      "id": 45,
+      "name": "Giuseppe Beltrami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister-president%20de%20Jong%20%28links%29%20en%20mgr.%20Beltrami%2C%20Bestanddeelnr%20920-4066.jpg",
+      "sitelinks": 15,
+      "birthYear": "1889",
+      "deathYear": "1973",
+      "occupation": "Catholic priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q371783",
+      "answerKey": "giuseppe beltrami"
+    },
+    {
+      "id": 46,
+      "name": "Mario Monge",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mario%20Monge.jpg",
+      "sitelinks": 14,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2059911",
+      "answerKey": "mario monge"
+    },
+    {
+      "id": 47,
+      "name": "Elmer Acevedo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elmer%20Acevedo.jpg",
+      "sitelinks": 14,
+      "birthYear": "1946",
+      "deathYear": "2017",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2753341",
+      "answerKey": "elmer acevedo"
+    },
+    {
+      "id": 48,
+      "name": "Elmer Acevedo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elmer%20Acevedo.jpg",
+      "sitelinks": 14,
+      "birthYear": "1949",
+      "deathYear": "2017",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2753341",
+      "answerKey": "elmer acevedo"
+    },
+    {
+      "id": 49,
+      "name": "Steve Purdy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Purdy%202012%20cropped.jpg",
+      "sitelinks": 14,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q616055",
+      "answerKey": "steve purdy"
+    },
+    {
+      "id": 50,
+      "name": "José Luis Escobar Alas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Luis%20Escobar%20Alas%20%282015%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q433299",
+      "answerKey": "jose luis escobar alas"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20El%20Salvador.svg"
+  ]
 }

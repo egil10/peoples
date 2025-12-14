@@ -1,7 +1,7 @@
 {
   "country": "Poland",
   "countryCode": "Q36",
-  "generated": "2025-12-14T01:51:48.770Z",
+  "generated": "2025-12-14T20:11:13.726Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,20 +11,20 @@
       "sitelinks": 202,
       "birthYear": "1920",
       "deathYear": "2005",
-      "occupation": "writer",
+      "occupation": "latin catholic deacon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q989",
       "answerKey": "john paul ii"
     },
     {
       "id": 2,
-      "name": "Lech Wałęsa",
+      "name": "Unknown (Q444)",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg",
       "sitelinks": 171,
       "birthYear": "1943",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "anti-communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q444",
-      "answerKey": "lech waesa"
+      "answerKey": ""
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "sitelinks": 136,
       "birthYear": "1846",
       "deathYear": "1916",
-      "occupation": "screenwriter",
+      "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41502",
       "answerKey": "henryk sienkiewicz"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 126,
       "birthYear": "1857",
       "deathYear": "1924",
-      "occupation": "screenwriter",
+      "occupation": "science fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82925",
       "answerKey": "joseph conrad"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 122,
       "birthYear": "1911",
       "deathYear": "2004",
-      "occupation": "writer",
+      "occupation": "literary historian",
       "wikidataUrl": "http://www.wikidata.org/entity/Q45970",
       "answerKey": "czesaw miosz"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 119,
       "birthYear": "1923",
       "deathYear": "2012",
-      "occupation": "writer",
+      "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42552",
       "answerKey": "wisawa szymborska"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 114,
       "birthYear": "1949",
       "deathYear": "2010",
-      "occupation": "lawyer",
+      "occupation": "legal scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2757",
       "answerKey": "lech kaczynski"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 111,
       "birthYear": "1904",
       "deathYear": "1991",
-      "occupation": "screenwriter",
+      "occupation": "Nobel Prize winner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q75612",
       "answerKey": "isaac bashevis singer"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 110,
       "birthYear": "1933",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51552",
       "answerKey": "roman polanski"
+    },
+    {
+      "id": 11,
+      "name": "Donald Tusk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20Donald%20Tusk%20KPRM.jpg",
+      "sitelinks": 107,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "head of government",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q946",
+      "answerKey": "donald tusk"
+    },
+    {
+      "id": 12,
+      "name": "Andrzej Duda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20Poland%20Andrzej%20Duda%20Full%20Resolution%20%28cropped%29.jpg",
+      "sitelinks": 106,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9151911",
+      "answerKey": "andrzej duda"
+    },
+    {
+      "id": 13,
+      "name": "Robert Lewandowski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Lewandowski%202018%20%28cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151269",
+      "answerKey": "robert lewandowski"
+    },
+    {
+      "id": 14,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "programmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 15,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "programmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 16,
+      "name": "Steve Wozniak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "programmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483382",
+      "answerKey": "steve wozniak"
+    },
+    {
+      "id": 17,
+      "name": "Stanisław Lem",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Lem%20resize.jpg",
+      "sitelinks": 101,
+      "birthYear": "1921",
+      "deathYear": "2006",
+      "occupation": "science fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6530",
+      "answerKey": "stanisaw lem"
+    },
+    {
+      "id": 18,
+      "name": "Miroslav Klose",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2016209185719%202016-07-27%20Champions%20for%20Charity%20-%20Sven%20-%201D%20X%20-%200149%20-%20DV3P4742%20mod.jpg",
+      "sitelinks": 98,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80471",
+      "answerKey": "miroslav klose"
+    },
+    {
+      "id": 19,
+      "name": "Menachem Begin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Menachem%20Begin%2C%20Andrews%20AFB%2C%201978.JPG",
+      "sitelinks": 97,
+      "birthYear": "1913",
+      "deathYear": "1992",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q130873",
+      "answerKey": "menachem begin"
+    },
+    {
+      "id": 20,
+      "name": "Olga Tokarczuk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olga%20Tokarczuk-9739.jpg",
+      "sitelinks": 96,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "librettist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q254032",
+      "answerKey": "olga tokarczuk"
+    },
+    {
+      "id": 21,
+      "name": "Horst Köhler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Horst%20K%C3%B6hler.jpg",
+      "sitelinks": 93,
+      "birthYear": "1943",
+      "deathYear": "2025",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2542",
+      "answerKey": "horst kohler"
+    },
+    {
+      "id": 22,
+      "name": "Lukas Podolski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lukas%20Podolski%202023%20%28cropped%29.jpg",
+      "sitelinks": 90,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134976",
+      "answerKey": "lukas podolski"
+    },
+    {
+      "id": 23,
+      "name": "Bronisław Komorowski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KPRP%2020130131%20WG%20222%20BRONISLAW%20KOMOROWSKI.jpg",
+      "sitelinks": 87,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42939",
+      "answerKey": "bronisaw komorowski"
+    },
+    {
+      "id": 24,
+      "name": "Wojciech Jaruzelski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen.%20Wojciech%20Jaruzelski%2013%20grudnia%201981.JPG",
+      "sitelinks": 87,
+      "birthYear": "1923",
+      "deathYear": "2014",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55834",
+      "answerKey": "wojciech jaruzelski"
+    },
+    {
+      "id": 25,
+      "name": "Leonid Kravchuk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonid%20Kravchuk%20Senate%20of%20Poland%20%28cropped%29.JPG",
+      "sitelinks": 84,
+      "birthYear": "1934",
+      "deathYear": "2022",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189732",
+      "answerKey": "leonid kravchuk"
+    },
+    {
+      "id": 26,
+      "name": "Benoit Mandelbrot",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benoit%20Mandelbrot%20mg%201804-d.jpg",
+      "sitelinks": 81,
+      "birthYear": "1924",
+      "deathYear": "2010",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q101740",
+      "answerKey": "benoit mandelbrot"
+    },
+    {
+      "id": 27,
+      "name": "Anna Maria Jopek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Maria%20Jopek%2C%20Empik%20Junior%2C%20Warszawa%2C%2016.jpg",
+      "sitelinks": 81,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40890",
+      "answerKey": "anna maria jopek"
+    },
+    {
+      "id": 28,
+      "name": "Georges Charpak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CHARPAK%20Georges-24x50-2005%20cropped.JPG",
+      "sitelinks": 80,
+      "birthYear": "1924",
+      "deathYear": "2010",
+      "occupation": "French resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153178",
+      "answerKey": "georges charpak"
+    },
+    {
+      "id": 29,
+      "name": "Nâzım Hikmet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A2z%C4%B1m%20Hikmet%2C%20Berlin%201956%20%281%29.jpg",
+      "sitelinks": 80,
+      "birthYear": "1901",
+      "deathYear": "1963",
+      "occupation": "film screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
+      "answerKey": "nazm hikmet"
+    },
+    {
+      "id": 30,
+      "name": "Nâzım Hikmet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A2z%C4%B1m%20Hikmet%2C%20Berlin%201956%20%281%29.jpg",
+      "sitelinks": 80,
+      "birthYear": "1902",
+      "deathYear": "1963",
+      "occupation": "film screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184906",
+      "answerKey": "nazm hikmet"
+    },
+    {
+      "id": 31,
+      "name": "Andrzej Wajda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Wajda%20OFF%20Plus%20Camera%202012%20%28cropped%29.jpg",
+      "sitelinks": 78,
+      "birthYear": "1926",
+      "deathYear": "2016",
+      "occupation": "theatrical director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106685",
+      "answerKey": "andrzej wajda"
+    },
+    {
+      "id": 32,
+      "name": "Unknown (Q55917)",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaros%C5%82aw%20Kaczy%C5%84ski%2C%2015%20March%202022%20%28cropped%29.jpg",
+      "sitelinks": 78,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "trade unionist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55917",
+      "answerKey": ""
+    },
+    {
+      "id": 33,
+      "name": "Aleksander Kwaśniewski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksander%20Kwa%C5%9Bniewski%202019c%20%28cropped%29%20%283x4%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55758",
+      "answerKey": "aleksander kwasniewski"
+    },
+    {
+      "id": 34,
+      "name": "Arthur Rubinstein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arthur%20Rubinstein%20%281971%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1887",
+      "deathYear": "1982",
+      "occupation": "classical pianist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183182",
+      "answerKey": "arthur rubinstein"
+    },
+    {
+      "id": 35,
+      "name": "Mateusz Morawiecki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mateusz%20Morawiecki%202023.jpg",
+      "sitelinks": 70,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "manager",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11771436",
+      "answerKey": "mateusz morawiecki"
+    },
+    {
+      "id": 36,
+      "name": "Wojciech Szczęsny",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wojciech%20Szcz%C4%99sny.png",
+      "sitelinks": 69,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188997",
+      "answerKey": "wojciech szczesny"
+    },
+    {
+      "id": 37,
+      "name": "Beata Szydło",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beata%20Szyd%C5%82o%20MEP%20%282024%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "ethnologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4877021",
+      "answerKey": "beata szydo"
+    },
+    {
+      "id": 38,
+      "name": "Tadeusz Reichstein",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thadeus%20Reichstein%20ETH-Bib%20Portr%2010137.jpg",
+      "sitelinks": 68,
+      "birthYear": "1897",
+      "deathYear": "1996",
+      "occupation": "botanist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115490",
+      "answerKey": "tadeusz reichstein"
+    },
+    {
+      "id": 39,
+      "name": "Irena Sendler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Sendlerowa%201942.jpg",
+      "sitelinks": 68,
+      "birthYear": "1910",
+      "deathYear": "2008",
+      "occupation": "resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
+      "answerKey": "irena sendler"
+    },
+    {
+      "id": 40,
+      "name": "Irena Sendler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Sendlerowa%202005-02-13%20zoom.jpg",
+      "sitelinks": 68,
+      "birthYear": "1910",
+      "deathYear": "2008",
+      "occupation": "resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
+      "answerKey": "irena sendler"
+    },
+    {
+      "id": 41,
+      "name": "Irena Sendler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Sendlerowa%201942.jpg",
+      "sitelinks": 68,
+      "birthYear": "1910",
+      "deathYear": "2010",
+      "occupation": "resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
+      "answerKey": "irena sendler"
+    },
+    {
+      "id": 42,
+      "name": "Irena Sendler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irena%20Sendlerowa%202005-02-13%20zoom.jpg",
+      "sitelinks": 68,
+      "birthYear": "1910",
+      "deathYear": "2010",
+      "occupation": "resistance fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151932",
+      "answerKey": "irena sendler"
+    },
+    {
+      "id": 43,
+      "name": "Zygmunt Bauman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zigmunt%20Bauman%20na%2020%20Forumi%20vydavciv%28Cropped%29.jpg",
+      "sitelinks": 68,
+      "birthYear": "1925",
+      "deathYear": "2017",
+      "occupation": "opinion journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q158092",
+      "answerKey": "zygmunt bauman"
+    },
+    {
+      "id": 44,
+      "name": "Krzysztof Kieślowski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Krzysztof%20Kie%C5%9Blowski%20Portrait%201994.jpg",
+      "sitelinks": 68,
+      "birthYear": "1941",
+      "deathYear": "1996",
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55165",
+      "answerKey": "krzysztof kieslowski"
+    },
+    {
+      "id": 45,
+      "name": "Doda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doda%2C%20Polsat%20Superhit%20Festival%202023%2009%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "television personality",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q199901",
+      "answerKey": "doda"
+    },
+    {
+      "id": 46,
+      "name": "Unknown (Q160359)",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kubica%20at%20Monza%202023.jpg",
+      "sitelinks": 67,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160359",
+      "answerKey": ""
+    },
+    {
+      "id": 47,
+      "name": "Wilhelm Reich",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Reich.jpg",
+      "sitelinks": 66,
+      "birthYear": "1897",
+      "deathYear": "1957",
+      "occupation": "sex educator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q84412",
+      "answerKey": "wilhelm reich"
+    },
+    {
+      "id": 48,
+      "name": "Emilia Plater",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emilia%20Plater%20%28284384%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1806",
+      "deathYear": "1831",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q294136",
+      "answerKey": "emilia plater"
+    },
+    {
+      "id": 49,
+      "name": "Juliusz Słowacki",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juliusz%20S%C5%82owacki%201.PNG",
+      "sitelinks": 65,
+      "birthYear": "1809",
+      "deathYear": "1849",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q243267",
+      "answerKey": "juliusz sowacki"
+    },
+    {
+      "id": 50,
+      "name": "Andrzej Sapkowski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrzej%20Sapkowski%20-%20Lucca%20Comics%20%26%20Games%202015.JPG",
+      "sitelinks": 65,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312101",
+      "answerKey": "andrzej sapkowski"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
+  ]
 }

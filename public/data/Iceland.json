@@ -1,7 +1,7 @@
 {
   "country": "Iceland",
   "countryCode": "Q189",
-  "generated": "2025-12-14T01:53:29.781Z",
+  "generated": "2025-12-14T20:12:49.908Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 115,
       "birthYear": "1943",
       "deathYear": "2008",
-      "occupation": "writer",
+      "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41314",
       "answerKey": "bobby fischer"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 107,
       "birthYear": "1965",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film director",
       "wikidataUrl": "http://www.wikidata.org/entity/Q42455",
       "answerKey": "bjork"
     },
@@ -33,23 +33,12 @@
       "sitelinks": 102,
       "birthYear": "1902",
       "deathYear": "1998",
-      "occupation": "writer",
+      "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80321",
       "answerKey": "halldor laxness"
     },
     {
       "id": 4,
-      "name": "Snorri Sturluson",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Snorre%20Sturluson-Christian%20Krohg.jpg",
-      "sitelinks": 77,
-      "birthYear": "1179",
-      "deathYear": "1241",
-      "occupation": "writer",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q102323",
-      "answerKey": "snorri sturluson"
-    },
-    {
-      "id": 5,
       "name": "Vigdís Finnbogadóttir",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vigdis%20Finnbogadottir%20%281985%29.jpg",
       "sitelinks": 77,
@@ -60,13 +49,24 @@
       "answerKey": "vigdis finnbogadottir"
     },
     {
+      "id": 5,
+      "name": "Snorri Sturluson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Snorre%20Sturluson-Christian%20Krohg.jpg",
+      "sitelinks": 77,
+      "birthYear": "1179",
+      "deathYear": "1241",
+      "occupation": "skald",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q102323",
+      "answerKey": "snorri sturluson"
+    },
+    {
       "id": 6,
       "name": "Jóhanna Sigurðardóttir",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johanna%20sigurdardottir%20official%20portrait.jpg",
       "sitelinks": 72,
       "birthYear": "1942",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "flight attendant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57772",
       "answerKey": "johanna sigurardottir"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 71,
       "birthYear": "1976",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q467464",
       "answerKey": "katrin jakobsdottir"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 67,
       "birthYear": "1943",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57284",
       "answerKey": "olafur ragnar grimsson"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 64,
       "birthYear": "1964",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "aerobic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529925",
       "answerKey": "magnus scheving"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 58,
       "birthYear": "1968",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q24045706",
       "answerKey": "guni johannesson"
+    },
+    {
+      "id": 11,
+      "name": "Gylfi Sigurðsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ISL-HRV%20%2821%29%20%28cropped%29.jpg",
+      "sitelinks": 54,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q59105",
+      "answerKey": "gylfi sigursson"
+    },
+    {
+      "id": 12,
+      "name": "Eiður Guðjohnsen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ei%C3%B0ur%20Gu%C3%B0johnsen%202018.jpg",
+      "sitelinks": 53,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187396",
+      "answerKey": "eiur gujohnsen"
+    },
+    {
+      "id": 13,
+      "name": "Sveinn Björnsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sveinn%20Bj%C3%B6rnsson.jpg",
+      "sitelinks": 52,
+      "birthYear": "1881",
+      "deathYear": "1952",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207206",
+      "answerKey": "sveinn bjornsson"
+    },
+    {
+      "id": 14,
+      "name": "Alfreð Finnbogason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfre%C3%B0%20Finnbogason%202018%20%28cropped%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40771",
+      "answerKey": "alfre finnbogason"
+    },
+    {
+      "id": 15,
+      "name": "Jóhanna Guðrún Jónsdóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yohanna2-2.jpg",
+      "sitelinks": 48,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q190957",
+      "answerKey": "johanna gurun jonsdottir"
+    },
+    {
+      "id": 16,
+      "name": "Sigmundur Davíð Gunnlaugsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sigmundur%20Dav%C3%AD%C3%B0%20Gunnlaugsson%20in%20Denmark%202023%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q463588",
+      "answerKey": "sigmundur davi gunnlaugsson"
+    },
+    {
+      "id": 17,
+      "name": "Damon Albarn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Damon%20Albarn%20live29.07.2013%20in%20Rome%204%20%28cropped%29.JPG",
+      "sitelinks": 47,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "multi-instrumentalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272069",
+      "answerKey": "damon albarn"
+    },
+    {
+      "id": 18,
+      "name": "Birkir Bjarnason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Birkir%20Bjarnason%202018.jpg",
+      "sitelinks": 46,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q865680",
+      "answerKey": "birkir bjarnason"
+    },
+    {
+      "id": 19,
+      "name": "Ásgeir Ásgeirsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20President%20%C3%81sgeir%20%C3%81sgeirsson.%20Jerusalem%201966%20%28D803-058%29%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1894",
+      "deathYear": "1972",
+      "occupation": "banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217848",
+      "answerKey": "asgeir asgeirsson"
+    },
+    {
+      "id": 20,
+      "name": "Kolbeinn Sigþórsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2014-05-30%20Austria%20-%20Iceland%20football%20match%2C%20Ragnar%20Sigur%C3%B0sson%200488.jpg",
+      "sitelinks": 44,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128936",
+      "answerKey": "kolbeinn sigorsson"
+    },
+    {
+      "id": 21,
+      "name": "Hannes Þór Halldórsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hannes%20%C3%9E%C3%B3r%20Halld%C3%B3rsson%202018%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2067320",
+      "answerKey": "hannes or halldorsson"
+    },
+    {
+      "id": 22,
+      "name": "Ragnar Sigurðsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ISL-HRV%20%2812%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q760734",
+      "answerKey": "ragnar sigursson"
+    },
+    {
+      "id": 23,
+      "name": "Ragnar Sigurðsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Krasnodar-Loco%20%283%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q760734",
+      "answerKey": "ragnar sigursson"
+    },
+    {
+      "id": 24,
+      "name": "Hera Björk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hera%20Bj%C3%B6rk%2001%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216979",
+      "answerKey": "hera bjork"
+    },
+    {
+      "id": 25,
+      "name": "Halldór Ásgrímsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Halldor.jpg",
+      "sitelinks": 43,
+      "birthYear": "1947",
+      "deathYear": "2015",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208879",
+      "answerKey": "halldor asgrimsson"
+    },
+    {
+      "id": 26,
+      "name": "Jón Daði Böðvarsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JonDadiBodvarsson.jpg",
+      "sitelinks": 42,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3811755",
+      "answerKey": "jon dai bovarsson"
+    },
+    {
+      "id": 27,
+      "name": "Bjarni Benediktsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bjarni%20Benediktsson%20-%202023%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q879376",
+      "answerKey": "bjarni benediktsson"
+    },
+    {
+      "id": 28,
+      "name": "Geir Haarde",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Islands%20stasminister%20Geir%20H.%20Haarde%20under%20presskonferens%20vid%20globaliseringsmotet%20i%20Riksgransen%202008-04-09.jpg",
+      "sitelinks": 42,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202032",
+      "answerKey": "geir haarde"
+    },
+    {
+      "id": 29,
+      "name": "Birkir Már Sævarsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20national%20football%20team%20World%20Cup%202018%20%28cropped%29%20S%C3%A6varsson.jpg",
+      "sitelinks": 42,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2602888",
+      "answerKey": "birkir mar svarsson"
+    },
+    {
+      "id": 30,
+      "name": "Kristján Eldjárn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristj%C3%A1n%20Eldj%C3%A1rn%20%281982%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1916",
+      "deathYear": "1982",
+      "occupation": "anthropologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310396",
+      "answerKey": "kristjan eldjarn"
+    },
+    {
+      "id": 31,
+      "name": "Halla Tómasdóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Halla%20T%C3%B3masd%C3%B3ttir%20at%20Arctic%20Circle%202024%20cropped.jpg",
+      "sitelinks": 42,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24494577",
+      "answerKey": "halla tomasdottir"
+    },
+    {
+      "id": 32,
+      "name": "Vladimir Ashkenazy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Ashkenazy.jpg",
+      "sitelinks": 41,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "classical pianist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q157785",
+      "answerKey": "vladimir ashkenazy"
+    },
+    {
+      "id": 33,
+      "name": "Arnaldur Indriðason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arnaldur%20Indridason%20%2818108659022%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "film critic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215665",
+      "answerKey": "arnaldur indriason"
+    },
+    {
+      "id": 34,
+      "name": "Aron Gunnarsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aron%20Einar%20Malmquist%20Gunnarsson.jpg",
+      "sitelinks": 41,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q781755",
+      "answerKey": "aron gunnarsson"
+    },
+    {
+      "id": 35,
+      "name": "Jóhann Berg Guðmundsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3hann%20Gu%C3%B0mundsson.jpg",
+      "sitelinks": 40,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170038",
+      "answerKey": "johann berg gumundsson"
+    },
+    {
+      "id": 36,
+      "name": "Hildur Guðnadóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hildur%20Gudnadottir%202025%20%28facecrop%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "cellist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q433734",
+      "answerKey": "hildur gunadottir"
+    },
+    {
+      "id": 37,
+      "name": "Arnór Ingvi Traustason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Red%20Bull%20Salzburg%20gegen%20SK%20Rapid%20Wien%20%2813.%20Mai%202017%29%2041.jpg",
+      "sitelinks": 38,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3623650",
+      "answerKey": "arnor ingvi traustason"
+    },
+    {
+      "id": 38,
+      "name": "Greta Salóme Stefánsdóttir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greta%20Salom%C3%A9%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "violinist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q291573",
+      "answerKey": "greta salome stefansdottir"
+    },
+    {
+      "id": 39,
+      "name": "Sverrir Ingi Ingason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20national%20football%20team%20World%20Cup%202018%20%28cropped%29%20Ingason.jpg",
+      "sitelinks": 38,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16235064",
+      "answerKey": "sverrir ingi ingason"
+    },
+    {
+      "id": 40,
+      "name": "Baltasar Kormákur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baltasar%20Korm%C3%A1kur.JPG",
+      "sitelinks": 37,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167522",
+      "answerKey": "baltasar kormakur"
+    },
+    {
+      "id": 41,
+      "name": "Davíð Oddsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilden%20ar%20tagen%20vid%20Nordiska%20radets%20session%20i%20Oslo%2C%202003.jpg",
+      "sitelinks": 37,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298030",
+      "answerKey": "davi oddsson"
+    },
+    {
+      "id": 42,
+      "name": "Emilíana Torrini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emiliana%20Torrini%20Orange%20Music%20Haifa%202005%2003.jpg",
+      "sitelinks": 36,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232907",
+      "answerKey": "emiliana torrini"
+    },
+    {
+      "id": 43,
+      "name": "Sjón",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SjonFreeLicence.jpg",
+      "sitelinks": 36,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "playwright",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362531",
+      "answerKey": "sjon"
+    },
+    {
+      "id": 44,
+      "name": "Laufey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laufey%20Lin.jpg",
+      "sitelinks": 36,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "cellist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q61973202",
+      "answerKey": "laufey"
+    },
+    {
+      "id": 45,
+      "name": "Hörður Björgvin Magnússon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B6r%C3%B0ur%20Bj%C3%B6rgvin%20Magn%C3%BAsson.jpg",
+      "sitelinks": 35,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3788202",
+      "answerKey": "horur bjorgvin magnusson"
+    },
+    {
+      "id": 46,
+      "name": "Kári Árnason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1%20K%C3%A1ri%20%C3%81rnason%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2718231",
+      "answerKey": "kari arnason"
+    },
+    {
+      "id": 47,
+      "name": "Jónsi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B3n%20%C3%9E%C3%B3r%20Birgisson%20at%20the%20Roskilde%20Festival%20in%202006.jpg",
+      "sitelinks": 35,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "vocalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315650",
+      "answerKey": "jonsi"
+    },
+    {
+      "id": 48,
+      "name": "Ari Freyr Skúlason",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2014-05-30%20Austria%20-%20Iceland%20football%20match%2C%20Ari%20Freyr%20Sk%C3%BAlason%200460.jpg",
+      "sitelinks": 35,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2861144",
+      "answerKey": "ari freyr skulason"
+    },
+    {
+      "id": 49,
+      "name": "Thorfinn Karlsefni",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thorfinn%20Karlsefni%201918.jpg",
+      "sitelinks": 34,
+      "birthYear": "980",
+      "deathYear": "1007",
+      "occupation": "explorer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q137732",
+      "answerKey": "thorfinn karlsefni"
+    },
+    {
+      "id": 50,
+      "name": "Emil Hallfreðsson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iceland%20national%20football%20team%20World%20Cup%202018%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2715111",
+      "answerKey": "emil hallfresson"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
+  ]
 }

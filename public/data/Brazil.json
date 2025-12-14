@@ -1,7 +1,7 @@
 {
   "country": "Brazil",
   "countryCode": "Q155",
-  "generated": "2025-12-14T01:39:15.370Z",
+  "generated": "2025-12-14T19:54:06.116Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1940",
       "deathYear": "2022",
       "occupation": "film actor",
-      "description": "Brazilian footballer (1940–2022)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12897",
       "answerKey": "pele"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1992",
       "deathYear": null,
       "occupation": "association football player",
-      "description": "Brazilian association football player.",
       "wikidataUrl": "http://www.wikidata.org/entity/Q142794",
       "answerKey": "neymar"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1929",
       "deathYear": "2012",
       "occupation": "recording artist",
-      "description": "Brazilian recording artist, television host, actress and singer (1929-2012)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q6105",
       "answerKey": "hebe camargo"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1955",
       "deathYear": null,
       "occupation": "politician",
-      "description": "38th President of the Federative Republic of Brazil from 2019 to 2023, Captain of the Brazilian Army, Federal Deputy of Brazil (1991-2019) and Councilman of the City of Rio de Janeiro (1989-1991)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10304982",
       "answerKey": "jair bolsonaro"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1945",
       "deathYear": null,
       "occupation": "turner",
-      "description": "President of the Federative Republic of Brazil from 2003 to 2011 and since 2023",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37181",
       "answerKey": "luiz inacio lula da silva"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1947",
       "deathYear": null,
       "occupation": "economist",
-      "description": "36th President of Brazil (2011-2016), 3rd President of the New Development Bank (BRICS), since 2023",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40722",
       "answerKey": "dilma rousseff"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1947",
       "deathYear": null,
       "occupation": "science fiction writer",
-      "description": "Brazilian lyricist and novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12881",
       "answerKey": "paulo coelho"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1976",
       "deathYear": null,
       "occupation": "association football player",
-      "description": "Brazilian association football player (born 1976)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q529207",
       "answerKey": "ronaldo"
     },
@@ -107,8 +99,7 @@
       "sitelinks": 110,
       "birthYear": "1980",
       "deathYear": null,
-      "occupation": "association football player",
-      "description": "Brazilian associaton fooball player (born 1980)",
+      "occupation": "futsal player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q39444",
       "answerKey": "ronaldinho"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1960",
       "deathYear": "1994",
       "occupation": "philanthropist",
-      "description": "Brazilian racing driver (1960-1994)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10490",
       "answerKey": "ayrton senna"
+    },
+    {
+      "id": 11,
+      "name": "Marjorie Estiano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marjorie%20Estiano%20em%202012.jpg",
+      "sitelinks": 103,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q288933",
+      "answerKey": "marjorie estiano"
+    },
+    {
+      "id": 12,
+      "name": "Kaká",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo%20Izecson%20dos%20Santos%20Leite%20%28Kak%C3%A1%29%2001.jpg",
+      "sitelinks": 99,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q531814",
+      "answerKey": "kaka"
+    },
+    {
+      "id": 13,
+      "name": "Oscar Niemeyer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Niemeyer%201968b.jpg",
+      "sitelinks": 97,
+      "birthYear": "1907",
+      "deathYear": "2012",
+      "occupation": "designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134165",
+      "answerKey": "oscar niemeyer"
+    },
+    {
+      "id": 14,
+      "name": "Oscar Niemeyer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Niemeyer%2C%20Pic%2C%209%20-%20Restoration.jpg",
+      "sitelinks": 97,
+      "birthYear": "1907",
+      "deathYear": "2012",
+      "occupation": "designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134165",
+      "answerKey": "oscar niemeyer"
+    },
+    {
+      "id": 15,
+      "name": "Nathalia Dill",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nathalia%20Dill%20em%20cena%20do%20filme%20%22Por%20Tr%C3%A1s%20Do%20C%C3%A9u%22.jpg",
+      "sitelinks": 94,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q34076",
+      "answerKey": "nathalia dill"
+    },
+    {
+      "id": 16,
+      "name": "Gisele Bündchen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gisele%20Bundchen5.jpg",
+      "sitelinks": 85,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "runway model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152208",
+      "answerKey": "gisele bundchen"
+    },
+    {
+      "id": 17,
+      "name": "Daniel Alves",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/07%2007%202019%20Final%20da%20Copa%20Am%C3%A9rica%202019%20%2848226649586%29%20%28cropped%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q172720",
+      "answerKey": "daniel alves"
+    },
+    {
+      "id": 18,
+      "name": "Roberto Carlos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LS3%201288%20%2853332367864%29%20%28cropped%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "futsal player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q429039",
+      "answerKey": "roberto carlos"
+    },
+    {
+      "id": 19,
+      "name": "Michel Temer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Presidente%20Michel%20Temer%20%28foto%20oficial%29%20-%20cortada.jpg",
+      "sitelinks": 82,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q463533",
+      "answerKey": "michel temer"
+    },
+    {
+      "id": 20,
+      "name": "Getúlio Vargas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Getulio%20Vargas%20%281930%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1882",
+      "deathYear": "1954",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156844",
+      "answerKey": "getulio vargas"
+    },
+    {
+      "id": 21,
+      "name": "Marcelo Vieira",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20Marcelo%20850%201622.jpg",
+      "sitelinks": 80,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "futsal player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38136",
+      "answerKey": "marcelo vieira"
+    },
+    {
+      "id": 22,
+      "name": "Romário",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Senadores%20da%2057%C2%AA%20Legislatura%20%2852689451805%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "beach soccer player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q178649",
+      "answerKey": "romario"
+    },
+    {
+      "id": 23,
+      "name": "Pedro II of Brazil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20II%20circa%201887b%20transparent.png",
+      "sitelinks": 79,
+      "birthYear": "1825",
+      "deathYear": "1891",
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156774",
+      "answerKey": "pedro ii of brazil"
+    },
+    {
+      "id": 24,
+      "name": "Garrincha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MFdSantos-Garrincha.jpg",
+      "sitelinks": 78,
+      "birthYear": "1933",
+      "deathYear": "1983",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q180642",
+      "answerKey": "garrincha"
+    },
+    {
+      "id": 25,
+      "name": "Jorge Amado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Amado%2C%20gtfy.00010.jpg",
+      "sitelinks": 78,
+      "birthYear": "1912",
+      "deathYear": "2001",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184440",
+      "answerKey": "jorge amado"
+    },
+    {
+      "id": 26,
+      "name": "Rivaldo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rivaldo%20bunyodkor%202010.jpg",
+      "sitelinks": 78,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483577",
+      "answerKey": "rivaldo"
+    },
+    {
+      "id": 27,
+      "name": "Robinho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robinho061115-2%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "futsal player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58441",
+      "answerKey": "robinho"
+    },
+    {
+      "id": 28,
+      "name": "Pephino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Russia-Portugal%20CC2017%20%2811%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q485697",
+      "answerKey": "pephino"
+    },
+    {
+      "id": 29,
+      "name": "Philippe Coutinho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coutinho%202018.jpg",
+      "sitelinks": 75,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311872",
+      "answerKey": "philippe coutinho"
+    },
+    {
+      "id": 30,
+      "name": "Adriana Lima",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adriana%20Lima%202019%20by%20Glenn%20Francis%20%28cropped%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151866",
+      "answerKey": "adriana lima"
+    },
+    {
+      "id": 31,
+      "name": "Casemiro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20Casemiro%20850%201575.jpg",
+      "sitelinks": 74,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q616664",
+      "answerKey": "casemiro"
+    },
+    {
+      "id": 32,
+      "name": "Vinícius Júnior",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vinicius%20Jr%202021.jpg",
+      "sitelinks": 74,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28973866",
+      "answerKey": "vinicius junior"
+    },
+    {
+      "id": 33,
+      "name": "Zico",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zico%202012.jpg",
+      "sitelinks": 74,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "beach soccer player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47526",
+      "answerKey": "zico"
+    },
+    {
+      "id": 34,
+      "name": "Thiago Silva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20Thiago%20Silva%20850%201582.jpg",
+      "sitelinks": 73,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q210453",
+      "answerKey": "thiago silva"
+    },
+    {
+      "id": 35,
+      "name": "Diego Costa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20and%20Spain%20match%20at%20the%20FIFA%20World%20Cup%2023.jpg",
+      "sitelinks": 73,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q459707",
+      "answerKey": "diego costa"
+    },
+    {
+      "id": 36,
+      "name": "David Luiz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Luiz%20at%20Baku%20before%202019%20UEFA%20Europe%20League%20Final.jpg",
+      "sitelinks": 72,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193706",
+      "answerKey": "david luiz"
+    },
+    {
+      "id": 37,
+      "name": "Felipe Massa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Massa.jpg",
+      "sitelinks": 71,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82652",
+      "answerKey": "felipe massa"
+    },
+    {
+      "id": 38,
+      "name": "Alisson Becker",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20850%201625.jpg",
+      "sitelinks": 71,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18237361",
+      "answerKey": "alisson becker"
+    },
+    {
+      "id": 39,
+      "name": "Dunga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dunga061115.jpg",
+      "sitelinks": 70,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q215890",
+      "answerKey": "dunga"
+    },
+    {
+      "id": 40,
+      "name": "Deco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deco%2021dec2006.jpg",
+      "sitelinks": 70,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q659634",
+      "answerKey": "deco"
+    },
+    {
+      "id": 41,
+      "name": "Roberto Firmino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20180610%20FIFA%20Friendly%20Match%20Austria%20vs.%20Brazil%20Roberto%20Firmino%20850%201557.jpg",
+      "sitelinks": 69,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q602525",
+      "answerKey": "roberto firmino"
+    },
+    {
+      "id": 42,
+      "name": "Juscelino Kubitschek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Juscelino.jpg",
+      "sitelinks": 68,
+      "birthYear": "1902",
+      "deathYear": "1976",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155824",
+      "answerKey": "juscelino kubitschek"
+    },
+    {
+      "id": 43,
+      "name": "Alessandra Ambrosio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alessandra%20Abrosio%20at%2082nd%20Venice%20International%20Film%20Festival-6%20%28cropped%29.jpg",
+      "sitelinks": 67,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151859",
+      "answerKey": "alessandra ambrosio"
+    },
+    {
+      "id": 44,
+      "name": "Bebeto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bebeto%20brazil%20%28cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q204825",
+      "answerKey": "bebeto"
+    },
+    {
+      "id": 45,
+      "name": "Machado de Assis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Machado%20de%20Assis%20aos%2057%20anos.jpg",
+      "sitelinks": 65,
+      "birthYear": "1839",
+      "deathYear": "1908",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311145",
+      "answerKey": "machado de assis"
+    },
+    {
+      "id": 46,
+      "name": "Thiago Alcântara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UEFA%20EURO%20qualifiers%20Sweden%20vs%20Spain%2020191015%20Thiago%20Alcantara%2013%20%28cropped%29.jpg",
+      "sitelinks": 65,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17493",
+      "answerKey": "thiago alcantara"
+    },
+    {
+      "id": 47,
+      "name": "Cafu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cafu%20no%20Olinda%20Fashion%20Week%20de%202012%2C%2001.jpg",
+      "sitelinks": 64,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q178683",
+      "answerKey": "cafu"
+    },
+    {
+      "id": 48,
+      "name": "Júlio César",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BAlio%20C%C3%A9sar%20FC%20Internazionale.jpg",
+      "sitelinks": 64,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182459",
+      "answerKey": "julio cesar"
+    },
+    {
+      "id": 49,
+      "name": "Leonardo Araújo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20Nascimento%20de%20Ara%C3%BAjo%202013-01-01%20%28cropped%29.jpg",
+      "sitelinks": 64,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46741",
+      "answerKey": "leonardo araujo"
+    },
+    {
+      "id": 50,
+      "name": "Willian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bra-Cos%20%2821%29%20%28cropped%202%29.jpg",
+      "sitelinks": 63,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q73480",
+      "answerKey": "willian"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg"
+  ]
 }

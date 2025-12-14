@@ -1,7 +1,7 @@
 {
   "country": "Iran",
   "countryCode": "Q794",
-  "generated": "2025-12-14T01:57:12.617Z",
+  "generated": "2025-12-14T20:20:20.981Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 143,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "engineer",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34448",
       "answerKey": "mahmoud ahmadinejad"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 131,
       "birthYear": "1939",
       "deathYear": null,
-      "occupation": "poet",
+      "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57336",
       "answerKey": "ali khamenei"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 127,
       "birthYear": "1902",
       "deathYear": "1989",
-      "occupation": "poet",
+      "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q38823",
       "answerKey": "ruhollah khomeini"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 123,
       "birthYear": "1948",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "cleric",
       "wikidataUrl": "http://www.wikidata.org/entity/Q348144",
       "answerKey": "hassan rouhani"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 113,
       "birthYear": "1943",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180795",
       "answerKey": "mohammad khatami"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 110,
       "birthYear": "1947",
       "deathYear": null,
-      "occupation": "judge",
+      "occupation": "women's rights activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131152",
       "answerKey": "shirin ebadi"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 95,
       "birthYear": "1960",
       "deathYear": "2024",
-      "occupation": "politician",
+      "occupation": "Islamic jurist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q5947347",
       "answerKey": "ebrahim raisi"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 93,
       "birthYear": "1977",
       "deathYear": "2017",
-      "occupation": "mathematician",
+      "occupation": "topologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1771279",
       "answerKey": "maryam mirzakhani"
     },
@@ -113,7 +113,446 @@
       "occupation": "human rights defender",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4967771",
       "answerKey": "narges mohammadi"
+    },
+    {
+      "id": 11,
+      "name": "Akbar Hashemi Rafsanjani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akbar%20Hashemi%20Rafsanjani%20by%20Fars%2002.jpg",
+      "sitelinks": 82,
+      "birthYear": "1934",
+      "deathYear": "2017",
+      "occupation": "akhoond",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q186111",
+      "answerKey": "akbar hashemi rafsanjani"
+    },
+    {
+      "id": 12,
+      "name": "Reza Shah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Reza%20shah%20uniform.jpg",
+      "sitelinks": 80,
+      "birthYear": "1878",
+      "deathYear": "1944",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182921",
+      "answerKey": "reza shah"
+    },
+    {
+      "id": 13,
+      "name": "Reza Shah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RezaShahBozorg1.jpg",
+      "sitelinks": 80,
+      "birthYear": "1878",
+      "deathYear": "1944",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q182921",
+      "answerKey": "reza shah"
+    },
+    {
+      "id": 14,
+      "name": "Masoud Pezeshkian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Masoud%20Pezeshkian%2014040616%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "general surgeon",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5933752",
+      "answerKey": "masoud pezeshkian"
+    },
+    {
+      "id": 15,
+      "name": "Abbas Kiarostami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbas%20Kiarostami-Murcia%20%28cropped%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1940",
+      "deathYear": "2016",
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55210",
+      "answerKey": "abbas kiarostami"
+    },
+    {
+      "id": 16,
+      "name": "Attar of Nishapur",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miniature%20of%20Attar%20by%20Hossein%20Behzad.jpg",
+      "sitelinks": 67,
+      "birthYear": "1145",
+      "deathYear": "1221",
+      "occupation": "mystic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194091",
+      "answerKey": "attar of nishapur"
+    },
+    {
+      "id": 17,
+      "name": "Abolhassan Banisadr",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ab%C5%AB%20l-Hasan%20Ban%C4%ABsadr%20IMG%202044%20edit%20%28cropped-01%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1933",
+      "deathYear": "2021",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q273866",
+      "answerKey": "abolhassan banisadr"
+    },
+    {
+      "id": 18,
+      "name": "Farah Pahlavi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shahbanu%20of%20Iran.jpg",
+      "sitelinks": 60,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "queen consort",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164111",
+      "answerKey": "farah pahlavi"
+    },
+    {
+      "id": 19,
+      "name": "Mohammad-Ali Rajai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rjaee.jpg",
+      "sitelinks": 59,
+      "birthYear": "1933",
+      "deathYear": "1981",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310592",
+      "answerKey": "mohammadali rajai"
+    },
+    {
+      "id": 20,
+      "name": "Asghar Farhadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asghar%20Farhadi%20in%202018-2%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "film screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334242",
+      "answerKey": "asghar farhadi"
+    },
+    {
+      "id": 21,
+      "name": "Jafar Panahi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jafar%20cannes%202025%20cropped.jpg",
+      "sitelinks": 58,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "film editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q31637",
+      "answerKey": "jafar panahi"
+    },
+    {
+      "id": 22,
+      "name": "Anousheh Ansari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anousheh%20Ansari%20at%20AI%20for%20Good%202018.jpg",
+      "sitelinks": 57,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "private astronaut",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17519",
+      "answerKey": "anousheh ansari"
+    },
+    {
+      "id": 23,
+      "name": "Marjane Satrapi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marjane%20Satrapi%20Cannes%202008%28Cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q126633",
+      "answerKey": "marjane satrapi"
+    },
+    {
+      "id": 24,
+      "name": "Arash",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arash%202009.jpg",
+      "sitelinks": 55,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236748",
+      "answerKey": "arash"
+    },
+    {
+      "id": 25,
+      "name": "Sadegh Hedayat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sadeq-Hedayat.jpg",
+      "sitelinks": 53,
+      "birthYear": "1902",
+      "deathYear": "1951",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315017",
+      "answerKey": "sadegh hedayat"
+    },
+    {
+      "id": 26,
+      "name": "Sadegh Hedayat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sadeq-Hedayat.jpg",
+      "sitelinks": 53,
+      "birthYear": "1903",
+      "deathYear": "1951",
+      "occupation": "short story writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315017",
+      "answerKey": "sadegh hedayat"
+    },
+    {
+      "id": 27,
+      "name": "Ali Shariati",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Ali%20Shariati.jpg",
+      "sitelinks": 52,
+      "birthYear": "1933",
+      "deathYear": "1977",
+      "occupation": "political activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317475",
+      "answerKey": "ali shariati"
+    },
+    {
+      "id": 28,
+      "name": "Shohreh Aghdashloo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shohreh%20Aghdashloo%20%284%29%20%2838088279786%29.jpg",
+      "sitelinks": 50,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229766",
+      "answerKey": "shohreh aghdashloo"
+    },
+    {
+      "id": 29,
+      "name": "Shohreh Aghdashloo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shohreh%20Aghdashloo%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 50,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229766",
+      "answerKey": "shohreh aghdashloo"
+    },
+    {
+      "id": 30,
+      "name": "Mir-Hossein Mousavi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zahra%20Rahnavard%2C%20Mir%20Hossein%20Mousavi%20and%20Hamed%20Saber%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217154",
+      "answerKey": "mirhossein mousavi"
+    },
+    {
+      "id": 31,
+      "name": "Nasrin Sotoudeh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nasrin%20Sotoudeh.jpg",
+      "sitelinks": 49,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242124",
+      "answerKey": "nasrin sotoudeh"
+    },
+    {
+      "id": 32,
+      "name": "Sardar Azmoun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20%20SARDAR%20AZMOUN%20IRN%2003%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5298679",
+      "answerKey": "sardar azmoun"
+    },
+    {
+      "id": 33,
+      "name": "Ahmad Shah Qajar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AhmadShahQajar2.jpg",
+      "sitelinks": 48,
+      "birthYear": "1898",
+      "deathYear": "1930",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317799",
+      "answerKey": "ahmad shah qajar"
+    },
+    {
+      "id": 34,
+      "name": "Golshifteh Farahani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Golshifteh%20Farahani%20at%20the%202024%20Toronto%20International%20Film%20Festival%204%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q464712",
+      "answerKey": "golshifteh farahani"
+    },
+    {
+      "id": 35,
+      "name": "Cassandra Clare",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassandra%20Clare%20at%20BookCon%20%2816260%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "film producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q235364",
+      "answerKey": "cassandra clare"
+    },
+    {
+      "id": 36,
+      "name": "Cassandra Clare",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cassandra%20Clare%20by%20Gage%20Skidmore%2C%202013%20b.jpg",
+      "sitelinks": 47,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "film producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q235364",
+      "answerKey": "cassandra clare"
+    },
+    {
+      "id": 37,
+      "name": "Alireza Jahanbakhsh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alireza%20Jahanbakhsh%20at%20IRNPOR%20match%202018%20FIFA%20World%20Cup%2002.jpg",
+      "sitelinks": 45,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4406552",
+      "answerKey": "alireza jahanbakhsh"
+    },
+    {
+      "id": 38,
+      "name": "Soraya Esfandiari-Bakhtiari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soraya%20Esfandiary-Bakhtiari-045.jpg",
+      "sitelinks": 44,
+      "birthYear": "1932",
+      "deathYear": "2001",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q225993",
+      "answerKey": "soraya esfandiaribakhtiari"
+    },
+    {
+      "id": 39,
+      "name": "Karim Ansarifard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20vs.%20Montenegro%202014-05-26%20%28059%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1367592",
+      "answerKey": "karim ansarifard"
+    },
+    {
+      "id": 40,
+      "name": "Ali Sistani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Sistani%20edit1.jpg",
+      "sitelinks": 43,
+      "birthYear": "1930",
+      "deathYear": null,
+      "occupation": "religious writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q337489",
+      "answerKey": "ali sistani"
+    },
+    {
+      "id": 41,
+      "name": "Mehdi Taremi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iran%20-%20Japan%2C%20AFC%20Asian%20Cup%202019%2042%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17070837",
+      "answerKey": "mehdi taremi"
+    },
+    {
+      "id": 42,
+      "name": "Alireza Firouzja",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alireza%20Firouzja%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22338182",
+      "answerKey": "alireza firouzja"
+    },
+    {
+      "id": 43,
+      "name": "Hossein Shahabi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hossein%20Shahabi.jpg",
+      "sitelinks": 43,
+      "birthYear": "1967",
+      "deathYear": "2023",
+      "occupation": "film producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16052349",
+      "answerKey": "hossein shahabi"
+    },
+    {
+      "id": 44,
+      "name": "Javad Nekounam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Javad%20Nekounam%20Introductory%20Press%20Conferences%2C%2021%20June%202023%20-%2043.jpg",
+      "sitelinks": 42,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315008",
+      "answerKey": "javad nekounam"
+    },
+    {
+      "id": 45,
+      "name": "Shirin Neshat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viennale%20talk%20%282%29%2C%20Shirin%20Neshat.jpg",
+      "sitelinks": 42,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "video installation artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q262413",
+      "answerKey": "shirin neshat"
+    },
+    {
+      "id": 46,
+      "name": "Googoosh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Googoosh%20at%20the%20Hollywood%20Bowl%2C%20May%202018%2008.jpg",
+      "sitelinks": 42,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q255233",
+      "answerKey": "googoosh"
+    },
+    {
+      "id": 47,
+      "name": "Mohammad Mokhber",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MMokhber.png",
+      "sitelinks": 42,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5703610",
+      "answerKey": "mohammad mokhber"
+    },
+    {
+      "id": 48,
+      "name": "Mohammad Javad Zarif",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20javad%20zarif%20in%202021.jpg",
+      "sitelinks": 42,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "career diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10296812",
+      "answerKey": "mohammad javad zarif"
+    },
+    {
+      "id": 49,
+      "name": "Karim Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Khan-e%20Zand.png",
+      "sitelinks": 41,
+      "birthYear": "1705",
+      "deathYear": "1779",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332583",
+      "answerKey": "karim khan"
+    },
+    {
+      "id": 50,
+      "name": "Karim Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Khan%20by%20Charles%20Heath.jpg",
+      "sitelinks": 41,
+      "birthYear": "1705",
+      "deathYear": "1779",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332583",
+      "answerKey": "karim khan"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg"
+  ]
 }

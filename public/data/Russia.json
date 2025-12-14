@@ -1,7 +1,7 @@
 {
   "country": "Russia",
   "countryCode": "Q159",
-  "generated": "2025-12-14T01:39:23.680Z",
+  "generated": "2025-12-14T19:54:31.891Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1952",
       "deathYear": null,
       "occupation": "politician",
-      "description": "2nd and 4th President of Russia (2000-2008, 2012-present), 7th and 11th Prime Minister of Russia (1999-2000, 2008-2012), Director of the Federal Security Service (1998-1999) and Deputy Mayor of Saint Petersburg (1994-1996)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7747",
       "answerKey": "vladimir putin"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1931",
       "deathYear": "2022",
       "occupation": "environmentalist",
-      "description": "leader of the Soviet Union from 1985 to 1991 (1931–2022)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30487",
       "answerKey": "mikhail gorbachev"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1965",
       "deathYear": null,
       "occupation": "jurist",
-      "description": "President of Russia from 2008 to 2012, Prime Minister of Russia (2012-2020) and Deputy Chairman of the Security Council of Russia since 2020",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23530",
       "answerKey": "dmitry medvedev"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1971",
       "deathYear": null,
       "occupation": "recording artist",
-      "description": "Russian and Austrian operatic soprano",
       "wikidataUrl": "http://www.wikidata.org/entity/Q78516",
       "answerKey": "anna netrebko"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1931",
       "deathYear": "2007",
       "occupation": "civil engineer",
-      "description": "Soviet and Russian politician, 1st President of Russia (1931–2007)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34453",
       "answerKey": "boris yeltsin"
     },
@@ -71,8 +66,7 @@
       "sitelinks": 157,
       "birthYear": "1918",
       "deathYear": "2008",
-      "occupation": "militant",
-      "description": "Russian writer, publicist, poet and politician (1918–2008)",
+      "occupation": "short story writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34474",
       "answerKey": "aleksandr solzhenitsyn"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1976",
       "deathYear": "2024",
       "occupation": "activist",
-      "description": "Russian jurist and opposition leader (1976–2024)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q155979",
       "answerKey": "alexei navalny"
     },
@@ -95,8 +88,7 @@
       "sitelinks": 130,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "television actor",
-      "description": "Russian singer",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q32927",
       "answerKey": "valery leontiev"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1952",
       "deathYear": null,
       "occupation": "karateka",
-      "description": "American actor, martial artist, and film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q82110",
       "answerKey": "steven seagal"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1937",
       "deathYear": null,
       "occupation": "member of the State Duma",
-      "description": "Russian cosmonaut and pilot, first woman to have flown in space",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44371",
       "answerKey": "valentina tereshkova"
+    },
+    {
+      "id": 11,
+      "name": "Edward Snowden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Snowden-2.jpg",
+      "sitelinks": 117,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "intelligence analyst",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13424289",
+      "answerKey": "edward snowden"
+    },
+    {
+      "id": 12,
+      "name": "Garry Kasparov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garry%20Kasparov%20European%20Union%202023%20%28cropped%29.jpg",
+      "sitelinks": 117,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28614",
+      "answerKey": "garry kasparov"
+    },
+    {
+      "id": 13,
+      "name": "Viktor Yanukovych",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viktor%20Yanukovych%20official%20portrait.jpg",
+      "sitelinks": 115,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "lecturer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1459658",
+      "answerKey": "viktor yanukovych"
+    },
+    {
+      "id": 14,
+      "name": "Maria Sharapova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sharapova2016.jpg",
+      "sitelinks": 111,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11666",
+      "answerKey": "maria sharapova"
+    },
+    {
+      "id": 15,
+      "name": "Alla Pugacheva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%BB%D0%B0%20%D0%9F%D1%83%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B0%20%D0%BD%D0%B0%20%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%BE%20%D0%9D%D0%BE%D0%B2%D0%BE%20%28cropped%29.jpg",
+      "sitelinks": 107,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "principal director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80510",
+      "answerKey": "alla pugacheva"
+    },
+    {
+      "id": 16,
+      "name": "Sergey Lavrov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%20%D0%9B%D0%B0%D0%B2%D1%80%D0%BE%D0%B2%20%2829-05-2025%29%20%28cropped%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58217",
+      "answerKey": "sergey lavrov"
+    },
+    {
+      "id": 17,
+      "name": "Gérard Depardieu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Depardieu%20%28Berlin%20Film%20Festival%202010%29.jpg",
+      "sitelinks": 99,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106508",
+      "answerKey": "gerard depardieu"
+    },
+    {
+      "id": 18,
+      "name": "Mikhail Kalashnikov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kalashnikov%20Mikhail%20%281%29.jpg",
+      "sitelinks": 98,
+      "birthYear": "1919",
+      "deathYear": "2013",
+      "occupation": "design engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q167573",
+      "answerKey": "mikhail kalashnikov"
+    },
+    {
+      "id": 19,
+      "name": "Milla Jovovich",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milla%20Jovovich%20Oct%20%28cropped%29.jpg",
+      "sitelinks": 97,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170576",
+      "answerKey": "milla jovovich"
+    },
+    {
+      "id": 20,
+      "name": "Natalia Oreiro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natalia%20Oreiro%20at%202017%20MIFF%20%28cropped%29.jpg",
+      "sitelinks": 97,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232458",
+      "answerKey": "natalia oreiro"
+    },
+    {
+      "id": 21,
+      "name": "Anna Politkovskaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Politkovskaja%20im%20Gespr%C3%A4ch%20mit%20Christhard%20L%C3%A4pple.jpg",
+      "sitelinks": 94,
+      "birthYear": "1958",
+      "deathYear": "2006",
+      "occupation": "peace activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131240",
+      "answerKey": "anna politkovskaya"
+    },
+    {
+      "id": 22,
+      "name": "Anatoly Karpov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anatoly%20Karpov%202017%20april.jpg",
+      "sitelinks": 89,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "member of the State Duma",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131674",
+      "answerKey": "anatoly karpov"
+    },
+    {
+      "id": 23,
+      "name": "Vitaly Ginzburg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9%20%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%93%D0%B8%D0%BD%D0%B7%D0%B1%D1%83%D1%80%D0%B3.jpg",
+      "sitelinks": 87,
+      "birthYear": "1916",
+      "deathYear": "2009",
+      "occupation": "theoretical physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104668",
+      "answerKey": "vitaly ginzburg"
+    },
+    {
+      "id": 24,
+      "name": "Boris Nemtsov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boris%20Nemtsov%202014.jpg",
+      "sitelinks": 87,
+      "birthYear": "1959",
+      "deathYear": "2015",
+      "occupation": "member of the State Duma",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q363846",
+      "answerKey": "boris nemtsov"
+    },
+    {
+      "id": 25,
+      "name": "Mikhail Mishustin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%20%D0%9C%D0%B8%D1%88%D1%83%D1%81%D1%82%D0%B8%D0%BD%20%2818-11-2025%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4298520",
+      "answerKey": "mikhail mishustin"
+    },
+    {
+      "id": 26,
+      "name": "Yevgeny Prigozhin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B6%D0%B8%D0%BD%20%2809-08-2016%29%20%28cropped%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1961",
+      "deathYear": "2023",
+      "occupation": "innkeeper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20850503",
+      "answerKey": "yevgeny prigozhin"
+    },
+    {
+      "id": 27,
+      "name": "Ramzan Kadyrov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramzan%20Kadyrov%20May%202024.jpg",
+      "sitelinks": 84,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217115",
+      "answerKey": "ramzan kadyrov"
+    },
+    {
+      "id": 28,
+      "name": "Alexey Leonov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexei%20Leonov.jpg",
+      "sitelinks": 83,
+      "birthYear": "1934",
+      "deathYear": "2019",
+      "occupation": "military aviator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154269",
+      "answerKey": "alexey leonov"
+    },
+    {
+      "id": 29,
+      "name": "Anna Kournikova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Kournikova-Bagram%20Airfield%202009.jpg",
+      "sitelinks": 83,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131120",
+      "answerKey": "anna kournikova"
+    },
+    {
+      "id": 30,
+      "name": "Mikhail Botvinnik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhail%20Botvinnik%201962.jpg",
+      "sitelinks": 82,
+      "birthYear": "1911",
+      "deathYear": "1995",
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q178865",
+      "answerKey": "mikhail botvinnik"
+    },
+    {
+      "id": 31,
+      "name": "Zhores Alferov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zhores%20Alferov%20April%202016.jpg",
+      "sitelinks": 82,
+      "birthYear": "1930",
+      "deathYear": "2019",
+      "occupation": "member of the State Duma",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183279",
+      "answerKey": "zhores alferov"
+    },
+    {
+      "id": 32,
+      "name": "Boris Spassky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dhr.%20Boris%20Spassky%2C%20Bestanddeelnr%20932-7320.jpg",
+      "sitelinks": 81,
+      "birthYear": "1937",
+      "deathYear": "2025",
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q177310",
+      "answerKey": "boris spassky"
+    },
+    {
+      "id": 33,
+      "name": "Alexei Abrikosov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AA%20Abrikosov%20ANL1.jpg",
+      "sitelinks": 81,
+      "birthYear": "1928",
+      "deathYear": "2017",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188128",
+      "answerKey": "alexei abrikosov"
+    },
+    {
+      "id": 34,
+      "name": "Pavel Durov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20Europe%20Berlin%202013%20%2810536888854%29%20%28cropped%29.jpg",
+      "sitelinks": 80,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q149067",
+      "answerKey": "pavel durov"
+    },
+    {
+      "id": 35,
+      "name": "Sergei Shoigu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20portrait%20of%20Sergey%20Shoigu.jpg",
+      "sitelinks": 80,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "civil engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32024",
+      "answerKey": "sergei shoigu"
+    },
+    {
+      "id": 36,
+      "name": "Dima Bilan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%2040.%20%D0%94%D0%B8%D0%BC%D0%B0%20%D0%91%D0%B8%D0%BB%D0%B0%D0%BD.%20%D0%B2%20%D0%A1%D0%9F%D0%B1%20%2815%29.jpg",
+      "sitelinks": 80,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42904",
+      "answerKey": "dima bilan"
+    },
+    {
+      "id": 37,
+      "name": "Grigori Perelman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigori%20Perelman%2C%201993%20%28re-scanned%29%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "mathematician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q117346",
+      "answerKey": "grigori perelman"
+    },
+    {
+      "id": 38,
+      "name": "Yelena Isinbayeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%98%D1%81%D0%B8%D0%BD%D0%B1%D0%B0%D0%B5%D0%B2%20%D0%B2%20%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D0%B5.jpg",
+      "sitelinks": 79,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "sports official",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6319",
+      "answerKey": "yelena isinbayeva"
+    },
+    {
+      "id": 39,
+      "name": "Nikolay Basov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Basov.jpg",
+      "sitelinks": 77,
+      "birthYear": "1922",
+      "deathYear": "2001",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83557",
+      "answerKey": "nikolay basov"
+    },
+    {
+      "id": 40,
+      "name": "Alexander Prokhorov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aleksandr%20Prokhorov.jpg",
+      "sitelinks": 77,
+      "birthYear": "1916",
+      "deathYear": "2002",
+      "occupation": "editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83552",
+      "answerKey": "alexander prokhorov"
+    },
+    {
+      "id": 41,
+      "name": "Nikolai Noskov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%9D%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%20%D0%B2%202009%20%284%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "trumpeter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1978163",
+      "answerKey": "nikolai noskov"
+    },
+    {
+      "id": 42,
+      "name": "Kirill I of Moscow",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patriarch%20Kirill%202014%20official%20portrait.jpg",
+      "sitelinks": 76,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "Eastern Orthodox priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44187",
+      "answerKey": "kirill i of moscow"
+    },
+    {
+      "id": 43,
+      "name": "Kirill I of Moscow",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patriarch%20Kirill%20in%20Baku%202025.jpg",
+      "sitelinks": 76,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "Eastern Orthodox priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44187",
+      "answerKey": "kirill i of moscow"
+    },
+    {
+      "id": 44,
+      "name": "Vladimir Zhirinovsky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Zhirinovsky%20-%20Ldpr.ru%20%28cropped%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1946",
+      "deathYear": "2022",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q200015",
+      "answerKey": "vladimir zhirinovsky"
+    },
+    {
+      "id": 45,
+      "name": "Vladimir Kramnik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vladimir%20Kramnik%202%2C%20Candidates%20Tournament%202018.jpg",
+      "sitelinks": 74,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q161092",
+      "answerKey": "vladimir kramnik"
+    },
+    {
+      "id": 46,
+      "name": "Victor Chernomyrdin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D0%95%D0%A0%D0%9D%D0%9E%D0%9C%D0%AB%D0%A0%D0%94%D0%98%D0%9D%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%20%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87.jpg",
+      "sitelinks": 74,
+      "birthYear": "1938",
+      "deathYear": "2010",
+      "occupation": "member of the State Duma",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q190884",
+      "answerKey": "victor chernomyrdin"
+    },
+    {
+      "id": 47,
+      "name": "Yevgeny Yevtushenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sobyanin%20meeting%20Evtushenko%2005.jpg",
+      "sitelinks": 73,
+      "birthYear": "1932",
+      "deathYear": "2017",
+      "occupation": "prose writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q297736",
+      "answerKey": "yevgeny yevtushenko"
+    },
+    {
+      "id": 48,
+      "name": "Nikita Mikhalkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikhalkov%202022.jpg",
+      "sitelinks": 73,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "film screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55207",
+      "answerKey": "nikita mikhalkov"
+    },
+    {
+      "id": 49,
+      "name": "Mikhail Khodorkovsky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michail%20Chodorkowski%2C%20Frankfurter%20Buchmesse%202023.jpg",
+      "sitelinks": 72,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "philanthropist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152503",
+      "answerKey": "mikhail khodorkovsky"
+    },
+    {
+      "id": 50,
+      "name": "Andrey Arshavin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrey%20Arshavin%202021.jpg",
+      "sitelinks": 71,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47230",
+      "answerKey": "andrey arshavin"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg"
+  ]
 }

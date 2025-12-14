@@ -1,7 +1,7 @@
 {
   "country": "Mongolia",
   "countryCode": "Q711",
-  "generated": "2025-12-14T01:57:05.562Z",
+  "generated": "2025-12-14T20:19:38.675Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 62,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "environmentalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57421",
       "answerKey": "tsakhiagiin elbegdorj"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 50,
       "birthYear": "1968",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q27058418",
       "answerKey": "khurelsukh ukhnaa"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 45,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "judoka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9122260",
       "answerKey": "khaltmaagiin battulga"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 44,
       "birthYear": "1958",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q54820",
       "answerKey": "nambaryn enkhbayar"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 41,
       "birthYear": "1895",
       "deathYear": "1952",
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q311488",
       "answerKey": "khorloogiin choibalsan"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 34,
       "birthYear": "1893",
       "deathYear": "1923",
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q314105",
       "answerKey": "damdin sukhbaatar"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 33,
       "birthYear": "1947",
       "deathYear": null,
-      "occupation": "astronaut",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q81129",
       "answerKey": "jugderdemidiin gurragchaa"
     },
@@ -113,7 +113,446 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q334679",
       "answerKey": "natsagiin bagabandi"
+    },
+    {
+      "id": 11,
+      "name": "Punsalmaagiin Ochirbat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ochirbat-Punsalmaa.jpg",
+      "sitelinks": 30,
+      "birthYear": "1942",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887753",
+      "answerKey": "punsalmaagiin ochirbat"
+    },
+    {
+      "id": 12,
+      "name": "Baydu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%A9gociations%20entre%20repr%C3%A9sentants%20de%20Ghazan%20et%20de%20Bayd%C3%BB.jpeg",
+      "sitelinks": 28,
+      "birthYear": "1300",
+      "deathYear": "1295",
+      "occupation": "ruler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q448033",
+      "answerKey": "baydu"
+    },
+    {
+      "id": 13,
+      "name": "Saeid Mollaei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saeid%20Mollaei%202018.jpg",
+      "sitelinks": 28,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26300210",
+      "answerKey": "saeid mollaei"
+    },
+    {
+      "id": 14,
+      "name": "Baiju",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baiju%2C%20from%20AscelinOfCremone%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1201",
+      "deathYear": "1260",
+      "occupation": "military personnel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q561440",
+      "answerKey": "baiju"
+    },
+    {
+      "id": 15,
+      "name": "Hoelun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/H%C3%B6%27el%C3%BCn%2C%20wife%20of%20Yesugei%20%28Biblioth%C3%A8que%20nationale%20de%20France%2C%20Suppl%C3%A9ment%20Persan%201113%20f.36v%29.jpg",
+      "sitelinks": 27,
+      "birthYear": "1140",
+      "deathYear": "1221",
+      "occupation": "consort",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q378676",
+      "answerKey": "hoelun"
+    },
+    {
+      "id": 16,
+      "name": "Sükhbaataryn Yanjmaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YanjmaaS%C3%BCkhbaataryn.jpg",
+      "sitelinks": 26,
+      "birthYear": "1894",
+      "deathYear": "1962",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q464346",
+      "answerKey": "sukhbaataryn yanjmaa"
+    },
+    {
+      "id": 17,
+      "name": "Enkhbatyn Badar-Uugan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Badar-Uugan-alt.jpg",
+      "sitelinks": 26,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q372223",
+      "answerKey": "enkhbatyn badaruugan"
+    },
+    {
+      "id": 18,
+      "name": "Hakuhō Shō",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hakuho%20May07.jpg",
+      "sitelinks": 26,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "rikishi",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q448054",
+      "answerKey": "hakuho sho"
+    },
+    {
+      "id": 19,
+      "name": "Urantsetseg Munkhbat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rio-2016-jud%2028808043825%20o.jpg",
+      "sitelinks": 25,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2260632",
+      "answerKey": "urantsetseg munkhbat"
+    },
+    {
+      "id": 20,
+      "name": "Peljidiin Genden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Genden.jpg",
+      "sitelinks": 24,
+      "birthYear": "1892",
+      "deathYear": "1937",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558640",
+      "answerKey": "peljidiin genden"
+    },
+    {
+      "id": 21,
+      "name": "Baraq",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Buraq%2C%20who%20usurps%20the%20throne%20of%20Mubarak%20Shah%20%28who%20was%20converted%20to%20Islam%29%2C%20and%20is%20recognized%20as%20the%20ruler%20of%20the%20Chaghatay%20tribe%20in%20664%20H.%20%281266%20CE%29%20Folio%2056%20verso.jpg",
+      "sitelinks": 24,
+      "birthYear": "1250",
+      "deathYear": "1271",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1341161",
+      "answerKey": "baraq"
+    },
+    {
+      "id": 22,
+      "name": "Jambyn Batmönkh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jambyn%20Batm%C3%B6nkh.jpg",
+      "sitelinks": 24,
+      "birthYear": "1926",
+      "deathYear": "1997",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558706",
+      "answerKey": "jambyn batmonkh"
+    },
+    {
+      "id": 23,
+      "name": "Jambyn Batmönkh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jambyn%20Batm%C3%B6nkh.jpg",
+      "sitelinks": 24,
+      "birthYear": "1927",
+      "deathYear": "1997",
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558706",
+      "answerKey": "jambyn batmonkh"
+    },
+    {
+      "id": 24,
+      "name": "Khabul Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kabul%20Khan%20enthroned%20%28Biblioth%C3%A8que%20nationale%20de%20France%2C%20Suppl%C3%A9ment%20Persan%201113%20f.22v%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1085",
+      "deathYear": "1147",
+      "occupation": "khan",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q982445",
+      "answerKey": "khabul khan"
+    },
+    {
+      "id": 25,
+      "name": "Sükhbaataryn Batbold",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%BCkhbaataryn%20Batbold%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q372202",
+      "answerKey": "sukhbaataryn batbold"
+    },
+    {
+      "id": 26,
+      "name": "Norovyn Altankhuyag",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Norovyn%20Altankhuyag%2C%202014%20%28cropped%29.jpg",
+      "sitelinks": 23,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57888",
+      "answerKey": "norovyn altankhuyag"
+    },
+    {
+      "id": 27,
+      "name": "Asashōryū Akinori",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sumo%20May09%20Asashoryu.jpg",
+      "sitelinks": 23,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "rikishi",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334601",
+      "answerKey": "asashoryu akinori"
+    },
+    {
+      "id": 28,
+      "name": "Chimediin Saikhanbileg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chimediin%20Saikhanbileg%202015.jpg",
+      "sitelinks": 22,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15934317",
+      "answerKey": "chimediin saikhanbileg"
+    },
+    {
+      "id": 29,
+      "name": "Dashdorjiin Natsagdorj",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natsagdorj.jpg",
+      "sitelinks": 21,
+      "birthYear": "1906",
+      "deathYear": "1937",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1171809",
+      "answerKey": "dashdorjiin natsagdorj"
+    },
+    {
+      "id": 30,
+      "name": "Doquz Khatun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HulaguAndDokuzKathun.JPG",
+      "sitelinks": 20,
+      "birthYear": "1210",
+      "deathYear": "1265",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154196",
+      "answerKey": "doquz khatun"
+    },
+    {
+      "id": 31,
+      "name": "Rinchen Barsbold",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rinchen%20Barsbold.jpg",
+      "sitelinks": 20,
+      "birthYear": "1935",
+      "deathYear": "2025",
+      "occupation": "paleontologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170380",
+      "answerKey": "rinchen barsbold"
+    },
+    {
+      "id": 32,
+      "name": "Sati Beg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilkhanids.%20Sati%20Beg%2C%20Queen.%20AH%20739%20AD%201338-1339%20Hamadhan%20mint.%20Dated%20AH%20739%20%28AD%201339-40%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1300",
+      "deathYear": "1345",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q454124",
+      "answerKey": "sati beg"
+    },
+    {
+      "id": 33,
+      "name": "Jargaltulga Erdenebat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JErdenebat.jpg",
+      "sitelinks": 20,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q25848773",
+      "answerKey": "jargaltulga erdenebat"
+    },
+    {
+      "id": 34,
+      "name": "Bat-Ochiryn Bolortuyaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bat-Ochiryn%20Bolortuyaa.JPG",
+      "sitelinks": 20,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q70350136",
+      "answerKey": "batochiryn bolortuyaa"
+    },
+    {
+      "id": 35,
+      "name": "Gombojavyn Zandanshatar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gombojavyn%20Zandanshatar%20%282019%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4142905",
+      "answerKey": "gombojavyn zandanshatar"
+    },
+    {
+      "id": 36,
+      "name": "Pürevdorjiin Serdamba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Serdamba-mongo.jpg",
+      "sitelinks": 20,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q735754",
+      "answerKey": "purevdorjiin serdamba"
+    },
+    {
+      "id": 37,
+      "name": "Agdanbuugyn Amar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AnandynAmar.jpg",
+      "sitelinks": 19,
+      "birthYear": "1886",
+      "deathYear": "1941",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45281",
+      "answerKey": "agdanbuugyn amar"
+    },
+    {
+      "id": 38,
+      "name": "Uranchimegiin Mönkh-Erdene",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Boxing%20men%27s%2064Kg.jpg",
+      "sitelinks": 19,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q138676",
+      "answerKey": "uranchimegiin monkherdene"
+    },
+    {
+      "id": 39,
+      "name": "Tsogtbaatar Tsend-Ochir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20medal%20bout%20of%202018%20World%20Judo%20Championships%202.jpg",
+      "sitelinks": 19,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26042352",
+      "answerKey": "tsogtbaatar tsendochir"
+    },
+    {
+      "id": 40,
+      "name": "Zanabazar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YesheDorje.jpg",
+      "sitelinks": 19,
+      "birthYear": "1635",
+      "deathYear": "1723",
+      "occupation": "sculptor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q735871",
+      "answerKey": "zanabazar"
+    },
+    {
+      "id": 41,
+      "name": "Miyeegombyn Enkhbold",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miyeegombyn%20Enkbold%20in%202017%20%28cropped%29.png",
+      "sitelinks": 19,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558683",
+      "answerKey": "miyeegombyn enkhbold"
+    },
+    {
+      "id": 42,
+      "name": "Khashbaataryn Tsagaanbaatar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Khasbaataryn%20tsagaanbaatar%202009%20world%20judo%20championships%20final.jpg",
+      "sitelinks": 19,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q735910",
+      "answerKey": "khashbaataryn tsagaanbaatar"
+    },
+    {
+      "id": 43,
+      "name": "Sanjaagiin Bayar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sanjaagiin%20Bayar%2C%20March%202009.jpeg",
+      "sitelinks": 18,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q372131",
+      "answerKey": "sanjaagiin bayar"
+    },
+    {
+      "id": 44,
+      "name": "Tsendiin Damdinsüren",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TsendiinDamdinsuren.jpg",
+      "sitelinks": 18,
+      "birthYear": "1908",
+      "deathYear": "1986",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2068149",
+      "answerKey": "tsendiin damdinsuren"
+    },
+    {
+      "id": 45,
+      "name": "Nergüin Enkhbat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nerguin%20Enkhbat%201983%20Halle.jpg",
+      "sitelinks": 17,
+      "birthYear": "1962",
+      "deathYear": "2022",
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3501239",
+      "answerKey": "nerguin enkhbat"
+    },
+    {
+      "id": 46,
+      "name": "Tsendiin Damdin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20103512%2022nd%20Olympic%20judo%20silver%20medallist%20Tsendiin%20Damdin.jpg",
+      "sitelinks": 17,
+      "birthYear": "1957",
+      "deathYear": "2018",
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3074542",
+      "answerKey": "tsendiin damdin"
+    },
+    {
+      "id": 47,
+      "name": "Byambasuren Davaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Byambasuren%20Davaa.jpg",
+      "sitelinks": 17,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q467764",
+      "answerKey": "byambasuren davaa"
+    },
+    {
+      "id": 48,
+      "name": "Muhammad Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilkhanids%2C%20Muhammad%20Khan%20%281337-1338%29%20Dinar%2C%20Al-Jazira%20mint%2C%20Dated%20AH%20737%20%281336-1337%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1350",
+      "deathYear": "1339",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5964503",
+      "answerKey": "muhammad khan"
+    },
+    {
+      "id": 49,
+      "name": "Suleiman Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gold%20Dinar%20of%20Sulayman%20Khan%2C%20Hamadan%2C%20740%20H%20%281340%29.jpg",
+      "sitelinks": 15,
+      "birthYear": "1350",
+      "deathYear": "1345",
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4825084",
+      "answerKey": "suleiman khan"
+    },
+    {
+      "id": 50,
+      "name": "Ganzorigiin Mandakhnaran",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mandakhnaran%20Ganzorig%20Tournoi%20GPSO%202014%20t213007.jpg",
+      "sitelinks": 15,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q14920401",
+      "answerKey": "ganzorigiin mandakhnaran"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg"
+  ]
 }

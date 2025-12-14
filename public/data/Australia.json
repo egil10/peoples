@@ -1,7 +1,7 @@
 {
   "country": "Australia",
   "countryCode": "Q408",
-  "generated": "2025-12-14T01:47:27.595Z",
+  "generated": "2025-12-14T20:00:24.656Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 136,
       "birthYear": "1971",
       "deathYear": null,
-      "occupation": "hacker",
+      "occupation": "Internet activist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q360",
       "answerKey": "julian assange"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 131,
       "birthYear": "1967",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q37459",
       "answerKey": "nicole kidman"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 126,
       "birthYear": "1969",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80966",
       "answerKey": "cate blanchett"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 121,
       "birthYear": "1968",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11998",
       "answerKey": "kylie minogue"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 116,
       "birthYear": "1940",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43293",
       "answerKey": "j m coetzee"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 111,
       "birthYear": "1961",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41563",
       "answerKey": "julia gillard"
     },
@@ -77,20 +77,20 @@
       "sitelinks": 109,
       "birthYear": "1979",
       "deathYear": "2008",
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q40572",
       "answerKey": "heath ledger"
     },
     {
       "id": 8,
-      "name": "Hugh Jackman",
+      "name": "Unknown (Q129591)",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugh%20Jackman%20Is%20This%20Thing%20On-68%20%28cropped%29.jpg",
       "sitelinks": 106,
       "birthYear": "1968",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129591",
-      "answerKey": "hugh jackman"
+      "answerKey": ""
     },
     {
       "id": 9,
@@ -110,10 +110,449 @@
       "sitelinks": 93,
       "birthYear": "1957",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "political scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43135",
       "answerKey": "kevin rudd"
+    },
+    {
+      "id": 11,
+      "name": "Patrick White",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patrick%20White%20writer.jpg",
+      "sitelinks": 92,
+      "birthYear": "1912",
+      "deathYear": "1990",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q129187",
+      "answerKey": "patrick white"
+    },
+    {
+      "id": 12,
+      "name": "Margot Robbie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Margot%20Robbie%20at%2029th%20Critics%27%20Choice%20Awards.jpg%20%28brightened%29.png",
+      "sitelinks": 91,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1924847",
+      "answerKey": "margot robbie"
+    },
+    {
+      "id": 13,
+      "name": "Chris Hemsworth",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Hemsworth%20by%20Gage%20Skidmore%203.jpg",
+      "sitelinks": 91,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54314",
+      "answerKey": "chris hemsworth"
+    },
+    {
+      "id": 14,
+      "name": "William Lawrence Bragg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wl-bragg.jpg",
+      "sitelinks": 90,
+      "birthYear": "1890",
+      "deathYear": "1971",
+      "occupation": "Nobel Prize winner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131729",
+      "answerKey": "william lawrence bragg"
+    },
+    {
+      "id": 15,
+      "name": "Rupert Murdoch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupert%20Murdoch%20-%20Flickr%20-%20Eva%20Rinaldi%20Celebrity%20and%20Live%20Music%20Photographer.jpg",
+      "sitelinks": 90,
+      "birthYear": "1931",
+      "deathYear": null,
+      "occupation": "publisher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q53944",
+      "answerKey": "rupert murdoch"
+    },
+    {
+      "id": 16,
+      "name": "Steve Irwin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Irwin.jpg",
+      "sitelinks": 84,
+      "birthYear": "1962",
+      "deathYear": "2006",
+      "occupation": "herpetologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q126513",
+      "answerKey": "steve irwin"
+    },
+    {
+      "id": 17,
+      "name": "Lisa Gerrard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lisa%20Gerard%202012.jpg",
+      "sitelinks": 84,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40580",
+      "answerKey": "lisa gerrard"
+    },
+    {
+      "id": 18,
+      "name": "Lisa Gerrard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LisaGerrard-Press-Image-2009.jpg",
+      "sitelinks": 84,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40580",
+      "answerKey": "lisa gerrard"
+    },
+    {
+      "id": 19,
+      "name": "Tony Abbott",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tony%20Abbott%20-%202010.jpg",
+      "sitelinks": 83,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q348577",
+      "answerKey": "tony abbott"
+    },
+    {
+      "id": 20,
+      "name": "John Howard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20John%20BANNER.jpg",
+      "sitelinks": 83,
+      "birthYear": "1939",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51330",
+      "answerKey": "john howard"
+    },
+    {
+      "id": 21,
+      "name": "Anthony Albanese",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Albanese%20portrait%20%28re-crop%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q335697",
+      "answerKey": "anthony albanese"
+    },
+    {
+      "id": 22,
+      "name": "Rosé",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blackpink%20Ros%C3%A9%20Rimowa%202.jpg",
+      "sitelinks": 79,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27655344",
+      "answerKey": "rose"
+    },
+    {
+      "id": 23,
+      "name": "Germaine Greer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Germaine%20Greer%2C%2028%20October%202013%20%28cropped%29.jpg",
+      "sitelinks": 78,
+      "birthYear": "1939",
+      "deathYear": null,
+      "occupation": "women's rights activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q103591",
+      "answerKey": "germaine greer"
+    },
+    {
+      "id": 24,
+      "name": "Sia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sia%20Seattle%20%28cropped%29.jpg",
+      "sitelinks": 78,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q181484",
+      "answerKey": "sia"
+    },
+    {
+      "id": 25,
+      "name": "Geoffrey Rush",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Geoffrey%20Rush%20Final%20Portrait%20Red%20Carpet%20Berlinale%202017%2001%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q166272",
+      "answerKey": "geoffrey rush"
+    },
+    {
+      "id": 26,
+      "name": "Malcolm Turnbull",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malcolm%20Turnbull%20PEO%20%28cropped%29.jpg",
+      "sitelinks": 77,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "investment banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q927550",
+      "answerKey": "malcolm turnbull"
+    },
+    {
+      "id": 27,
+      "name": "Elizabeth Blackburn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elizabeth%20Blackburn%20CHF%20Heritage%20Day%202012%20Rush%20001.JPG",
+      "sitelinks": 77,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "molecular biologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26321",
+      "answerKey": "elizabeth blackburn"
+    },
+    {
+      "id": 28,
+      "name": "Errol Flynn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Errol%20Flynn1.jpg",
+      "sitelinks": 76,
+      "birthYear": "1909",
+      "deathYear": "1959",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93188",
+      "answerKey": "errol flynn"
+    },
+    {
+      "id": 29,
+      "name": "Olivia Newton-John",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olivia%20Newton%20John%20%286707495311%29%20%28cropped%20to%20look%20large%29.jpg",
+      "sitelinks": 75,
+      "birthYear": "1948",
+      "deathYear": "2022",
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q185165",
+      "answerKey": "olivia newtonjohn"
+    },
+    {
+      "id": 30,
+      "name": "Sam Worthington",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avatar%20The%20Way%20of%20Water%20Tokyo%20Press%20Conference%20Sam%20Worthington%20%2852563252594%29%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82085",
+      "answerKey": "sam worthington"
+    },
+    {
+      "id": 31,
+      "name": "Miranda Kerr",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miranda%20Kerr%20-%20Abbot%20Kinney%202025.jpg",
+      "sitelinks": 69,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "Victoria's Secret Angels",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q127454",
+      "answerKey": "miranda kerr"
+    },
+    {
+      "id": 32,
+      "name": "Peter Singer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Singer%202017%20%28cropped%29.jpg",
+      "sitelinks": 69,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211539",
+      "answerKey": "peter singer"
+    },
+    {
+      "id": 33,
+      "name": "Angus Young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AngusYoung.JPG",
+      "sitelinks": 69,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "rock musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43932",
+      "answerKey": "angus young"
+    },
+    {
+      "id": 34,
+      "name": "Angus Young",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AngusYoung1.JPG",
+      "sitelinks": 69,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "rock musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43932",
+      "answerKey": "angus young"
+    },
+    {
+      "id": 35,
+      "name": "Brian Schmidt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Schmidt%20portrait%201.jpg",
+      "sitelinks": 68,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q201452",
+      "answerKey": "brian schmidt"
+    },
+    {
+      "id": 36,
+      "name": "Barry Marshall",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20J%20Marshall.jpg",
+      "sitelinks": 66,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202136",
+      "answerKey": "barry marshall"
+    },
+    {
+      "id": 37,
+      "name": "Mark Webber",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Webber%202017%20United%20States%20GP%20%28cropped%29.jpg",
+      "sitelinks": 65,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82667",
+      "answerKey": "mark webber"
+    },
+    {
+      "id": 38,
+      "name": "Howard Florey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Walter%20Florey%201945.jpg",
+      "sitelinks": 65,
+      "birthYear": "1898",
+      "deathYear": "1968",
+      "occupation": "pathologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q137106",
+      "answerKey": "howard florey"
+    },
+    {
+      "id": 39,
+      "name": "Tim Cahill",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cahill%2C%20New%20York%20Red%20Bulls%20vs%20CD%20FAS%202014.jpg",
+      "sitelinks": 64,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187238",
+      "answerKey": "tim cahill"
+    },
+    {
+      "id": 40,
+      "name": "Eric Bana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Bana%20at%20the%202009%20Tribeca%20Film%20Festival.jpg",
+      "sitelinks": 64,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "racing automobile driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4440",
+      "answerKey": "eric bana"
+    },
+    {
+      "id": 41,
+      "name": "Iggy Azalea",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iggy%20Azalea%20August%202015.jpg",
+      "sitelinks": 63,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2748803",
+      "answerKey": "iggy azalea"
+    },
+    {
+      "id": 42,
+      "name": "Frank Macfarlane Burnet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Macfarlane%20Burnet.jpg",
+      "sitelinks": 62,
+      "birthYear": "1899",
+      "deathYear": "1985",
+      "occupation": "immunologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q193550",
+      "answerKey": "frank macfarlane burnet"
+    },
+    {
+      "id": 43,
+      "name": "Natalie Imbruglia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natalie%20Imbruglia%20at%20Donauinselfest2015%2004.jpg",
+      "sitelinks": 62,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q488353",
+      "answerKey": "natalie imbruglia"
+    },
+    {
+      "id": 44,
+      "name": "Natalie Imbruglia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Natalie%20Imbruglia%202011.jpg",
+      "sitelinks": 62,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q488353",
+      "answerKey": "natalie imbruglia"
+    },
+    {
+      "id": 45,
+      "name": "Liam Hemsworth",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hemsworth%20Liam.jpg",
+      "sitelinks": 62,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q32045",
+      "answerKey": "liam hemsworth"
+    },
+    {
+      "id": 46,
+      "name": "Daniel Ricciardo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Ricciardo%20January%202024.jpg",
+      "sitelinks": 61,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "Formula One driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q82816",
+      "answerKey": "daniel ricciardo"
+    },
+    {
+      "id": 47,
+      "name": "Margaret Court",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Court.png",
+      "sitelinks": 61,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202342",
+      "answerKey": "margaret court"
+    },
+    {
+      "id": 48,
+      "name": "Margaret Court",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Court%201964.jpg",
+      "sitelinks": 61,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202342",
+      "answerKey": "margaret court"
+    },
+    {
+      "id": 49,
+      "name": "Isla Fisher",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isla%20Fisher.jpg",
+      "sitelinks": 61,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q228638",
+      "answerKey": "isla fisher"
+    },
+    {
+      "id": 50,
+      "name": "Yanis Varoufakis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019-04-13%20Yanis%20Varoufakis%20by%20Olaf%20Kosinsky-0658%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40688",
+      "answerKey": "yanis varoufakis"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
+  ]
 }

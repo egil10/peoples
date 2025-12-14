@@ -1,7 +1,7 @@
 {
   "country": "India",
   "countryCode": "Q668",
-  "generated": "2025-12-14T01:39:10.526Z",
+  "generated": "2025-12-14T19:50:37.902Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,8 +11,7 @@
       "sitelinks": 280,
       "birthYear": "1869",
       "deathYear": "1948",
-      "occupation": "freedom fighter",
-      "description": "Indian independence activist (1869–1948)",
+      "occupation": "newspaper editor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1001",
       "answerKey": "mahatma gandhi"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1910",
       "deathYear": "1997",
       "occupation": "religious sister",
-      "description": "Albanian-Indian Catholic nun and missionary (1910–1997)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q30547",
       "answerKey": "mother teresa"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1889",
       "deathYear": "1964",
       "occupation": "freedom fighter",
-      "description": "Prime Minister of India from 1947 to 1964",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1047",
       "answerKey": "jawaharlal nehru"
     },
@@ -47,8 +44,7 @@
       "sitelinks": 170,
       "birthYear": "1950",
       "deathYear": null,
-      "occupation": "bibliographer",
-      "description": "Prime Minister of India since 2014",
+      "occupation": "social worker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1058",
       "answerKey": "narendra modi"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1917",
       "deathYear": "1984",
       "occupation": "politician",
-      "description": "Prime Minister of India (1966–1977, 1980–1984)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1149",
       "answerKey": "indira gandhi"
     },
@@ -71,8 +66,7 @@
       "sitelinks": 146,
       "birthYear": "1891",
       "deathYear": "1956",
-      "occupation": "freedom fighter",
-      "description": "Indian polymath, philosopher, and social reformer (1891–1956)",
+      "occupation": "spiritual leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q231690",
       "answerKey": "b r ambedkar"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1921",
       "deathYear": "1992",
       "occupation": "film editor",
-      "description": "Indian filmmaker and writer (1921–1992)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8873",
       "answerKey": "satyajit ray"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1965",
       "deathYear": null,
       "occupation": "film actor",
-      "description": "Indian actor, producer and television personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9535",
       "answerKey": "shah rukh khan"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1947",
       "deathYear": null,
       "occupation": "essayist",
-      "description": "Indian-born British-American novelist (born 1947)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44306",
       "answerKey": "salman rushdie"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1942",
       "deathYear": null,
       "occupation": "film actor",
-      "description": "Indian film actor (born 1942)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q9570",
       "answerKey": "amitabh bachchan"
+    },
+    {
+      "id": 11,
+      "name": "Aishwarya Rai Bachchan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aishwarya%20Rai%20Cannes%202017.jpg",
+      "sitelinks": 115,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "beauty pageant contestant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47059",
+      "answerKey": "aishwarya rai bachchan"
+    },
+    {
+      "id": 12,
+      "name": "Manmohan Singh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Official%20Portrait%20of%20the%20Prime%20Minister%20Dr.%20Manmohan%20Singh.jpg",
+      "sitelinks": 113,
+      "birthYear": "1932",
+      "deathYear": "2024",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41914",
+      "answerKey": "manmohan singh"
+    },
+    {
+      "id": 13,
+      "name": "Chandrasekhara Venkata Raman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20CV%20Raman.JPG",
+      "sitelinks": 113,
+      "birthYear": "1888",
+      "deathYear": "1970",
+      "occupation": "crystallographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60429",
+      "answerKey": "chandrasekhara venkata raman"
+    },
+    {
+      "id": 14,
+      "name": "Rajiv Gandhi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20Gandhi%20%281987%29.jpg",
+      "sitelinks": 107,
+      "birthYear": "1944",
+      "deathYear": "1991",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4593",
+      "answerKey": "rajiv gandhi"
+    },
+    {
+      "id": 15,
+      "name": "Jiddu Krishnamurti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jiddu%20Krishnamurti%2001.jpg",
+      "sitelinks": 106,
+      "birthYear": "1895",
+      "deathYear": "1986",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q179266",
+      "answerKey": "jiddu krishnamurti"
+    },
+    {
+      "id": 16,
+      "name": "Priyanka Chopra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Priyanka%20Chopra%20at%20Bulgary%20launch%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 106,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "beauty pageant contestant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q158957",
+      "answerKey": "priyanka chopra"
+    },
+    {
+      "id": 17,
+      "name": "Amartya Sen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amartya%20Sen%202012.jpg",
+      "sitelinks": 105,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "Nobel Prize winner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q132489",
+      "answerKey": "amartya sen"
+    },
+    {
+      "id": 18,
+      "name": "Aamir Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aamir%20Khan%20%28Berlin%20Film%20Festival%202011%29.jpg",
+      "sitelinks": 103,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9557",
+      "answerKey": "aamir khan"
+    },
+    {
+      "id": 19,
+      "name": "Salman Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salmanrampwalk.png",
+      "sitelinks": 102,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9543",
+      "answerKey": "salman khan"
+    },
+    {
+      "id": 20,
+      "name": "Viswanathan Anand",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viswanathan%20Anand%20%282016%29.jpeg",
+      "sitelinks": 102,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45747",
+      "answerKey": "viswanathan anand"
+    },
+    {
+      "id": 21,
+      "name": "A. P. J. Abdul Kalam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A.%20P.%20J.%20Abdul%20Kalam.jpg",
+      "sitelinks": 100,
+      "birthYear": "1931",
+      "deathYear": "2015",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9513",
+      "answerKey": "a p j abdul kalam"
+    },
+    {
+      "id": 22,
+      "name": "Aurobindo Ghosh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sri%20aurobindo.jpg",
+      "sitelinks": 97,
+      "birthYear": "1872",
+      "deathYear": "1950",
+      "occupation": "Vice-principal",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192207",
+      "answerKey": "aurobindo ghosh"
+    },
+    {
+      "id": 23,
+      "name": "Pranab Mukherjee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Tim%20Geithner%20and%20Finance%20Minister%20Pranab%20Mukherjee%202010%20crop.jpg",
+      "sitelinks": 97,
+      "birthYear": "1935",
+      "deathYear": "2020",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57446",
+      "answerKey": "pranab mukherjee"
+    },
+    {
+      "id": 24,
+      "name": "Ravi Shankar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravi%20Shankar.jpg",
+      "sitelinks": 96,
+      "birthYear": "1920",
+      "deathYear": "2012",
+      "occupation": "sitarist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q103774",
+      "answerKey": "ravi shankar"
+    },
+    {
+      "id": 25,
+      "name": "Rajneesh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bhagwan%20beweging%20gekwetst%20door%20reclame-affiche%20van%20het%20NRC%20met%20de%20tekst%20profeet%2C%20Bestanddeelnr%20933-0734-cropped.jpg",
+      "sitelinks": 95,
+      "birthYear": "1931",
+      "deathYear": "1990",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q148285",
+      "answerKey": "rajneesh"
+    },
+    {
+      "id": 26,
+      "name": "Rajneesh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osho%20Rajneesh.jpg",
+      "sitelinks": 95,
+      "birthYear": "1931",
+      "deathYear": "1990",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q148285",
+      "answerKey": "rajneesh"
+    },
+    {
+      "id": 27,
+      "name": "Tenzing Norgay",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tenzing%20Norgay%2C%201953%20-%202.jpg",
+      "sitelinks": 94,
+      "birthYear": "1914",
+      "deathYear": "1986",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80732",
+      "answerKey": "tenzing norgay"
+    },
+    {
+      "id": 28,
+      "name": "Arundhati Roy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arundhati%20Roy%20W.jpg",
+      "sitelinks": 94,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "television writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q212801",
+      "answerKey": "arundhati roy"
+    },
+    {
+      "id": 29,
+      "name": "Kareena Kapoor Khan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kareena%20Kapoor%20Khan%20in%202023%20%281%29%20%28cropped%29.jpg",
+      "sitelinks": 93,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184885",
+      "answerKey": "kareena kapoor khan"
+    },
+    {
+      "id": 30,
+      "name": "Atal Bihari Vajpayee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Atal%20Bihari%20Vajpayee%20%28crop%202%29.jpg",
+      "sitelinks": 92,
+      "birthYear": "1924",
+      "deathYear": "2018",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233289",
+      "answerKey": "atal bihari vajpayee"
+    },
+    {
+      "id": 31,
+      "name": "Pratibha Patil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20President%20of%20India%2C%20Smt.%20Pratibha%20Patil.jpg",
+      "sitelinks": 92,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47854",
+      "answerKey": "pratibha patil"
+    },
+    {
+      "id": 32,
+      "name": "Subrahmanyan Chandrasekhar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandrasekhar.jpg",
+      "sitelinks": 90,
+      "birthYear": "1910",
+      "deathYear": "1995",
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q148109",
+      "answerKey": "subrahmanyan chandrasekhar"
+    },
+    {
+      "id": 33,
+      "name": "Pran",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pran%2090th%20bday.jpg",
+      "sitelinks": 90,
+      "birthYear": "1920",
+      "deathYear": "2013",
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3111264",
+      "answerKey": "pran"
+    },
+    {
+      "id": 34,
+      "name": "Sonia Gandhi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonia%20Gandhi%20%28cropped%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q163225",
+      "answerKey": "sonia gandhi"
+    },
+    {
+      "id": 35,
+      "name": "Rajnath Singh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2025%20Rajnath%20Singh%20%28cropped%29.jpg",
+      "sitelinks": 86,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3506475",
+      "answerKey": "rajnath singh"
+    },
+    {
+      "id": 36,
+      "name": "Deepika Padukone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deepika%20Padukone%202025%20%281%29.png",
+      "sitelinks": 85,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q159178",
+      "answerKey": "deepika padukone"
+    },
+    {
+      "id": 37,
+      "name": "Ram Nath Kovind",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Nath%20Kovind%20official%20portrait.jpg",
+      "sitelinks": 85,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16845347",
+      "answerKey": "ram nath kovind"
+    },
+    {
+      "id": 38,
+      "name": "Droupadi Murmu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20of%20India%20Droupadi%20Murmu%20official%20portrait%20%28cropped%29.jpg",
+      "sitelinks": 85,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "school teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19901232",
+      "answerKey": "droupadi murmu"
+    },
+    {
+      "id": 39,
+      "name": "Sarvepalli Radhakrishnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Photograph%20of%20Sarvepalli%20Radhakrishnan%20presented%20to%20First%20Lady%20Jacqueline%20Kennedy%20in%201962.jpg",
+      "sitelinks": 84,
+      "birthYear": "1888",
+      "deathYear": "1975",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156349",
+      "answerKey": "sarvepalli radhakrishnan"
+    },
+    {
+      "id": 40,
+      "name": "Sarvepalli Radhakrishnan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Radhakrishnan.jpg",
+      "sitelinks": 84,
+      "birthYear": "1888",
+      "deathYear": "1975",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156349",
+      "answerKey": "sarvepalli radhakrishnan"
+    },
+    {
+      "id": 41,
+      "name": "Lata Mangeshkar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lata%20Mangeshkar%20-%20still%2029065%20crop.jpg",
+      "sitelinks": 83,
+      "birthYear": "1929",
+      "deathYear": "2022",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156347",
+      "answerKey": "lata mangeshkar"
+    },
+    {
+      "id": 42,
+      "name": "Rani Mukerji",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rani%20Mukerji%20promoting%20Hichki%202%20%28cropped%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q485557",
+      "answerKey": "rani mukerji"
+    },
+    {
+      "id": 43,
+      "name": "Sardar Vallabhbhai Patel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sardar%20patel%20%28cropped%29.jpg",
+      "sitelinks": 83,
+      "birthYear": "1875",
+      "deathYear": "1950",
+      "occupation": "freedom fighter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9455",
+      "answerKey": "sardar vallabhbhai patel"
+    },
+    {
+      "id": 44,
+      "name": "Satyendra Nath Bose",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SatyenBose1925.jpg",
+      "sitelinks": 83,
+      "birthYear": "1894",
+      "deathYear": "1974",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45789",
+      "answerKey": "satyendra nath bose"
+    },
+    {
+      "id": 45,
+      "name": "Preity Zinta",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Preity%20Zinta%20snapped%20during%20the%20promotion%20of%20Bhiaaji%20Superhit%20at%20JW%20Marriott%20%28cropped%29.jpg",
+      "sitelinks": 82,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188671",
+      "answerKey": "preity zinta"
+    },
+    {
+      "id": 46,
+      "name": "Sachin Tendulkar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sachin%20at%20Castrol%20Golden%20Spanner%20Awards%20%28crop%29.jpg",
+      "sitelinks": 82,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "cricketer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q9488",
+      "answerKey": "sachin tendulkar"
+    },
+    {
+      "id": 47,
+      "name": "Rajendra Prasad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajendra%20Prasad%20%28Indian%20President%29%2C%20signed%20image%20for%20Walter%20Nash%20%28NZ%20Prime%20Minister%29%2C%201958%20%2816017609534%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1884",
+      "deathYear": "1963",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q197736",
+      "answerKey": "rajendra prasad"
+    },
+    {
+      "id": 48,
+      "name": "Ram Narayan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ram%20Narayan%20in%20Delhi%202010.jpg",
+      "sitelinks": 81,
+      "birthYear": "1927",
+      "deathYear": "2024",
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41074",
+      "answerKey": "ram narayan"
+    },
+    {
+      "id": 49,
+      "name": "Mukesh Ambani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akshay%20Kumar%20at%20the%2021st%20Screen%20Awards.jpg",
+      "sitelinks": 80,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "graphic designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298547",
+      "answerKey": "mukesh ambani"
+    },
+    {
+      "id": 50,
+      "name": "Paramahansa Yogananda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paramahansa%20Yogananda.jpg",
+      "sitelinks": 80,
+      "birthYear": "1893",
+      "deathYear": "1952",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312549",
+      "answerKey": "paramahansa yogananda"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Sweden",
   "countryCode": "Q34",
-  "generated": "2025-12-14T01:33:16.193Z",
+  "generated": "2025-12-14T20:09:05.464Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1984",
       "deathYear": null,
       "occupation": "songwriter",
-      "description": "Swedish singer, record producer, and DJ",
       "wikidataUrl": "http://www.wikidata.org/entity/Q383541",
       "answerKey": "basshunter"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1707",
       "deathYear": "1778",
       "occupation": "scientific collector",
-      "description": "Swedish botanist, physician, and zoologist (1707–1778)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1043",
       "answerKey": "carl linnaeus"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1833",
       "deathYear": "1896",
       "occupation": "weapons manufacturer",
-      "description": "Swedish chemist and inventor (1833–1896)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
       "answerKey": "alfred nobel"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1833",
       "deathYear": "1896",
       "occupation": "weapons manufacturer",
-      "description": "Swedish chemist and inventor (1833–1896)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23810",
       "answerKey": "alfred nobel"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1918",
       "deathYear": "2007",
       "occupation": "autobiographer",
-      "description": "Swedish director and screenwriter (1918–2007)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7546",
       "answerKey": "ingmar bergman"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1858",
       "deathYear": "1940",
       "occupation": "autobiographer",
-      "description": "Swedish writer (1858–1940)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q44519",
       "answerKey": "selma lagerlof"
     },
@@ -84,7 +78,6 @@
       "birthYear": "2003",
       "deathYear": null,
       "occupation": "environmentalist",
-      "description": "Swedish climate protection activist (born 2003)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q56434717",
       "answerKey": "greta thunberg"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1905",
       "deathYear": "1961",
       "occupation": "philosopher",
-      "description": "Swedish diplomat, economist, and author (1905-1961)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1267",
       "answerKey": "dag hammarskjold"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1913",
       "deathYear": "1992",
       "occupation": "social democrat",
-      "description": "German politician (SPD), chancellor of West Germany (1969–1974) and Nobel Peace Prize laureate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2514",
       "answerKey": "willy brandt"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1915",
       "deathYear": "1982",
       "occupation": "autobiographer",
-      "description": "Swedish actress (1915–1982)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
       "answerKey": "ingrid bergman"
+    },
+    {
+      "id": 11,
+      "name": "Ingrid Bergman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20studio%20portrait%20photo.jpg",
+      "sitelinks": 120,
+      "birthYear": "1915",
+      "deathYear": "1982",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
+      "answerKey": "ingrid bergman"
+    },
+    {
+      "id": 12,
+      "name": "Ingrid Bergman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ingrid%20Bergman%20The%20Constant%20Wife%201975%20%28cropped%29.JPG",
+      "sitelinks": 120,
+      "birthYear": "1915",
+      "deathYear": "1982",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43247",
+      "answerKey": "ingrid bergman"
+    },
+    {
+      "id": 13,
+      "name": "Zlatan Ibrahimović",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zlatan%20Ibrahimovi%C4%87%20June%202018.jpg",
+      "sitelinks": 119,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46896",
+      "answerKey": "zlatan ibrahimovic"
+    },
+    {
+      "id": 14,
+      "name": "Unknown (Q55767)",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lindgren%20%28cropped%29.jpg",
+      "sitelinks": 116,
+      "birthYear": "1907",
+      "deathYear": "2002",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55767",
+      "answerKey": ""
+    },
+    {
+      "id": 15,
+      "name": "Unknown (Q7724)",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Strindberg%20%28Bj%C3%B6rkman%201912%29.jpg",
+      "sitelinks": 115,
+      "birthYear": "1849",
+      "deathYear": "1912",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7724",
+      "answerKey": ""
+    },
+    {
+      "id": 16,
+      "name": "Hermann Görin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20G%C3%B6ring%20-%20R%C3%B6hr.jpg",
+      "sitelinks": 111,
+      "birthYear": "1893",
+      "deathYear": "1946",
+      "occupation": "Holocaust perpetrator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47906",
+      "answerKey": "hermann gorin"
+    },
+    {
+      "id": 17,
+      "name": "Greta Garbo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Garbo%20in%20Inspiration.jpg",
+      "sitelinks": 110,
+      "birthYear": "1905",
+      "deathYear": "1990",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5443",
+      "answerKey": "greta garbo"
+    },
+    {
+      "id": 18,
+      "name": "Nelly Sachs",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelly%20Sachs%201966.jpg",
+      "sitelinks": 109,
+      "birthYear": "1891",
+      "deathYear": "1970",
+      "occupation": "translator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57074",
+      "answerKey": "nelly sachs"
+    },
+    {
+      "id": 19,
+      "name": "Svante August Arrhenius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arrhenius2.jpg",
+      "sitelinks": 105,
+      "birthYear": "1859",
+      "deathYear": "1927",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80956",
+      "answerKey": "svante august arrhenius"
+    },
+    {
+      "id": 20,
+      "name": "Tomas Tranströmer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tomas%20Transtr%C3%B6mer%202012-05-04%20001%20%28cropped%29.jpg",
+      "sitelinks": 104,
+      "birthYear": "1931",
+      "deathYear": "2015",
+      "occupation": "linguist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42122",
+      "answerKey": "tomas transtromer"
+    },
+    {
+      "id": 21,
+      "name": "Carl XVI Gustaf of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/06.11.2025%20%E2%80%93%20Recep%C3%A7%C3%A3o%20Oficial%20dos%20Chefes%20de%20Delega%C3%A7%C3%A3o%20da%20C%C3%BApula%20do%20Clima%20%2854906269035%29%20%28Carlos%20XVI%20Gustavo%29.jpg",
+      "sitelinks": 102,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q45068",
+      "answerKey": "carl xvi gustaf of sweden"
+    },
+    {
+      "id": 22,
+      "name": "Anders Celsius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anders-Celsius-Head.jpg",
+      "sitelinks": 97,
+      "birthYear": "1701",
+      "deathYear": "1744",
+      "occupation": "meteorologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81130",
+      "answerKey": "anders celsius"
+    },
+    {
+      "id": 23,
+      "name": "Verner von Heidenstam",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Krouth%C3%A9n%20-%20Portr%C3%A4tt%20av%20Verner%20von%20Heidenstam.jpg",
+      "sitelinks": 95,
+      "birthYear": "1859",
+      "deathYear": "1940",
+      "occupation": "painter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q129173",
+      "answerKey": "verner von heidenstam"
+    },
+    {
+      "id": 24,
+      "name": "Pär Lagerkvist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lagerkvist.jpg",
+      "sitelinks": 94,
+      "birthYear": "1891",
+      "deathYear": "1974",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q93137",
+      "answerKey": "par lagerkvist"
+    },
+    {
+      "id": 25,
+      "name": "Lise Meitner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lise%20Meitner%20%281878-1968%29%2C%20lecturing%20at%20Catholic%20University%2C%20Washington%2C%20D.C.%2C%201946.jpg",
+      "sitelinks": 92,
+      "birthYear": "1878",
+      "deathYear": "1968",
+      "occupation": "nuclear physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56189",
+      "answerKey": "lise meitner"
+    },
+    {
+      "id": 26,
+      "name": "Sofia Kovalevskaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofja%20Wassiljewna%20Kowalewskaja%201.jpg",
+      "sitelinks": 90,
+      "birthYear": "1850",
+      "deathYear": "1891",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q184535",
+      "answerKey": "sofia kovalevskaya"
+    },
+    {
+      "id": 27,
+      "name": "Olof Palme",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Olof%20Palme%201974%20%28cropped%29.jpg",
+      "sitelinks": 89,
+      "birthYear": "1927",
+      "deathYear": "1986",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q53713",
+      "answerKey": "olof palme"
+    },
+    {
+      "id": 28,
+      "name": "Jöns Jacob Berzelius",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6ns%20Jacob%20Berzelius%20from%20Familj-Journalen1873.png",
+      "sitelinks": 88,
+      "birthYear": "1779",
+      "deathYear": "1848",
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151911",
+      "answerKey": "jons jacob berzelius"
+    },
+    {
+      "id": 29,
+      "name": "Caspar David Friedrich",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caspar%20David%20Friedrich%2C%20Selvportr%C3%A6t%2C%201800%2C%20KKSgb5006%2C%20Statens%20Museum%20for%20Kunst.jpg",
+      "sitelinks": 88,
+      "birthYear": "1774",
+      "deathYear": "1840",
+      "occupation": "landscape painter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104884",
+      "answerKey": "caspar david friedrich"
+    },
+    {
+      "id": 30,
+      "name": "Erik Axel Karlfeldt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anders%20Zorn%20-%20Erik%20Axel%20Karlfeldt%20i%20Zorng%C3%A5rdens%20matsal%20%281906%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1864",
+      "deathYear": "1931",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134641",
+      "answerKey": "erik axel karlfeldt"
+    },
+    {
+      "id": 31,
+      "name": "Avicii",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Avicii%202014%20003cr.jpg",
+      "sitelinks": 87,
+      "birthYear": "1989",
+      "deathYear": "2018",
+      "occupation": "remixer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q505476",
+      "answerKey": "avicii"
+    },
+    {
+      "id": 32,
+      "name": "Eyvind Johnson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eyvind.JPG",
+      "sitelinks": 86,
+      "birthYear": "1900",
+      "deathYear": "1976",
+      "occupation": "film screenwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q131326",
+      "answerKey": "eyvind johnson"
+    },
+    {
+      "id": 33,
+      "name": "Emmanuel Swedenborg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emanuel%20Swedenborg%2C%201688-1772%2C%20%C3%A4mbetsman%20%28Per%20Krafft%20d.%C3%A4.%29%20-%20Nationalmuseum%20-%2015710.tif",
+      "sitelinks": 86,
+      "birthYear": "1688",
+      "deathYear": "1772",
+      "occupation": "mystic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q185832",
+      "answerKey": "emmanuel swedenborg"
+    },
+    {
+      "id": 34,
+      "name": "Gustaf Dalén",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nils%20Gustaf%20Dal%C3%A9n.jpg",
+      "sitelinks": 85,
+      "birthYear": "1869",
+      "deathYear": "1937",
+      "occupation": "industrialist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160518",
+      "answerKey": "gustaf dalen"
+    },
+    {
+      "id": 35,
+      "name": "PewDiePie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pewdiepie%20head%20shot.jpg",
+      "sitelinks": 85,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "Japan Enthusiast",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13423853",
+      "answerKey": "pewdiepie"
+    },
+    {
+      "id": 36,
+      "name": "Christina of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Swedish%20queen%20Drottning%20Kristina%20portrait%20by%20S%C3%A9bastien%20Bourdon%20stor.jpg",
+      "sitelinks": 85,
+      "birthYear": "1626",
+      "deathYear": "1689",
+      "occupation": "art collector",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52937",
+      "answerKey": "christina of sweden"
+    },
+    {
+      "id": 37,
+      "name": "Harry Martinson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harry%20Martinson.jpg",
+      "sitelinks": 84,
+      "birthYear": "1904",
+      "deathYear": "1978",
+      "occupation": "science fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q132695",
+      "answerKey": "harry martinson"
+    },
+    {
+      "id": 38,
+      "name": "Gustavus Adolphus of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Jacob%20Hoefnagel%20-%20Gustavus%20Adolphus%2C%20King%20of%20Sweden%201611-1632%20-%20Google%20Art%20Project.jpg",
+      "sitelinks": 84,
+      "birthYear": "1594",
+      "deathYear": "1632",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52938",
+      "answerKey": "gustavus adolphus of sweden"
+    },
+    {
+      "id": 39,
+      "name": "Hannes Alfvén",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YoungAlfven.jpg",
+      "sitelinks": 83,
+      "birthYear": "1908",
+      "deathYear": "1995",
+      "occupation": "science fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54945",
+      "answerKey": "hannes alfven"
+    },
+    {
+      "id": 40,
+      "name": "Agnetha Fältskog",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnetha%20at%20Edmonton%201979.jpg",
+      "sitelinks": 82,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "disco singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173144",
+      "answerKey": "agnetha faltskog"
+    },
+    {
+      "id": 41,
+      "name": "Agnetha Fältskog",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnetha%20F%C3%A4ltskog%202013-07-22%20002%20%28cropped%29.jpg",
+      "sitelinks": 82,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "disco singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q173144",
+      "answerKey": "agnetha faltskog"
+    },
+    {
+      "id": 42,
+      "name": "Björn Borg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bjorn%20Borg%20en%202014.jpg",
+      "sitelinks": 82,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q104506",
+      "answerKey": "bjorn borg"
+    },
+    {
+      "id": 43,
+      "name": "Gunnar Myrdal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gunnar%20Myrdal%201964%20002%20%28cropped%29.jpg",
+      "sitelinks": 79,
+      "birthYear": "1898",
+      "deathYear": "1987",
+      "occupation": "sociologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152452",
+      "answerKey": "gunnar myrdal"
+    },
+    {
+      "id": 44,
+      "name": "Carl XII of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20XII%201706.jpg",
+      "sitelinks": 79,
+      "birthYear": "1682",
+      "deathYear": "1718",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52934",
+      "answerKey": "carl xii of sweden"
+    },
+    {
+      "id": 45,
+      "name": "Manne Siegbahn",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1924%20Karl%20Manne%20Siegbahn.jpg",
+      "sitelinks": 78,
+      "birthYear": "1886",
+      "deathYear": "1978",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170741",
+      "answerKey": "manne siegbahn"
+    },
+    {
+      "id": 46,
+      "name": "Carl Wilhelm Scheele",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Wilhelm%20Scheele.jpg",
+      "sitelinks": 78,
+      "birthYear": "1742",
+      "deathYear": "1786",
+      "occupation": "pharmacologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q70538",
+      "answerKey": "carl wilhelm scheele"
+    },
+    {
+      "id": 47,
+      "name": "Stefan Löfven",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefan%20L%C3%B6fven%20efter%20slutdebatten%20i%20SVT%202014%20%28cropped%29.jpg",
+      "sitelinks": 78,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2740012",
+      "answerKey": "stefan lofven"
+    },
+    {
+      "id": 48,
+      "name": "Charles XIV John of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20XIV%20Johan%2C%201763-1844%2C%20kung%20av%20Sverige%20och%20Norge%20%28Fredric%20Westin%29%20-%20Nationalmuseum%20-%2039758.tif",
+      "sitelinks": 78,
+      "birthYear": "1763",
+      "deathYear": "1844",
+      "occupation": "military commander",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52927",
+      "answerKey": "charles xiv john of sweden"
+    },
+    {
+      "id": 49,
+      "name": "Charles XIV John of Sweden",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CarlXIVJohnSweden.jpg",
+      "sitelinks": 78,
+      "birthYear": "1763",
+      "deathYear": "1844",
+      "occupation": "military commander",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q52927",
+      "answerKey": "charles xiv john of sweden"
+    },
+    {
+      "id": 50,
+      "name": "Elias Lönnrot",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elias%20L%C3%B6nnrot%20portrait.jpg",
+      "sitelinks": 77,
+      "birthYear": "1802",
+      "deathYear": "1884",
+      "occupation": "lexicographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153159",
+      "answerKey": "elias lonnrot"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+  ]
 }

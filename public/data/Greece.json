@@ -1,7 +1,7 @@
 {
   "country": "Greece",
   "countryCode": "Q41",
-  "generated": "2025-12-14T01:53:47.199Z",
+  "generated": "2025-12-14T20:12:53.799Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 132,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "narrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2263",
       "answerKey": "tom hanks"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 94,
       "birthYear": "1900",
       "deathYear": "1971",
-      "occupation": "writer",
+      "occupation": "translator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q165823",
       "answerKey": "giorgos seferis"
     },
@@ -33,31 +33,31 @@
       "sitelinks": 94,
       "birthYear": "1974",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "civil engineer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q312015",
       "answerKey": "alexis tsipras"
     },
     {
       "id": 4,
-      "name": "Maria Callas",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201958.jpg",
-      "sitelinks": 89,
-      "birthYear": "1923",
-      "deathYear": "1977",
-      "occupation": "actor",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
-      "answerKey": "maria callas"
-    },
-    {
-      "id": 5,
-      "name": "Maria Callas",
+      "name": "Unknown (Q128297)",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201959%20Amsterdam.jpg",
       "sitelinks": 89,
       "birthYear": "1923",
       "deathYear": "1977",
-      "occupation": "actor",
+      "occupation": "opera singer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
-      "answerKey": "maria callas"
+      "answerKey": ""
+    },
+    {
+      "id": 5,
+      "name": "Unknown (Q128297)",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Callas%201958.jpg",
+      "sitelinks": 89,
+      "birthYear": "1923",
+      "deathYear": "1977",
+      "occupation": "opera singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q128297",
+      "answerKey": ""
     },
     {
       "id": 6,
@@ -66,7 +66,7 @@
       "sitelinks": 86,
       "birthYear": "1911",
       "deathYear": "1996",
-      "occupation": "writer",
+      "occupation": "art critic",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160478",
       "answerKey": "odysseas elytis"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 84,
       "birthYear": "1883",
       "deathYear": "1957",
-      "occupation": "writer",
+      "occupation": "lexicographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q214622",
       "answerKey": "nikos kazantzakis"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 82,
       "birthYear": "1906",
       "deathYear": "1975",
-      "occupation": "businessperson",
+      "occupation": "ship-owner",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180455",
       "answerKey": "aristotle onassis"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 80,
       "birthYear": "1909",
       "deathYear": "2003",
-      "occupation": "screenwriter",
+      "occupation": "film screenwriter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q72717",
       "answerKey": "elia kazan"
     },
@@ -113,7 +113,446 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q552751",
       "answerKey": "kyriakos mitsotakis"
+    },
+    {
+      "id": 11,
+      "name": "Constantine II of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantine%20II%20of%20Greece%20%28cropped%29.jpg",
+      "sitelinks": 74,
+      "birthYear": "1940",
+      "deathYear": "2023",
+      "occupation": "sailor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151773",
+      "answerKey": "constantine ii of greece"
+    },
+    {
+      "id": 12,
+      "name": "Vangelis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vangelis%2C%2026%20July%202012.jpg",
+      "sitelinks": 74,
+      "birthYear": "1943",
+      "deathYear": "2022",
+      "occupation": "film score composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153172",
+      "answerKey": "vangelis"
+    },
+    {
+      "id": 13,
+      "name": "Katerina Sakellaropoulou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Katerina%20Sakellaropoulou%2C%20October%202022%20%28cropped%29.jpg",
+      "sitelinks": 73,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57415743",
+      "answerKey": "katerina sakellaropoulou"
+    },
+    {
+      "id": 14,
+      "name": "Konstantinos P. Cavafy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstantinos%20Kavafis.jpg",
+      "sitelinks": 72,
+      "birthYear": "1863",
+      "deathYear": "1933",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216980",
+      "answerKey": "konstantinos p cavafy"
+    },
+    {
+      "id": 15,
+      "name": "Patriarch Bartholomew of Constantinople",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%85%20%D0%92%D0%B0%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%B9%20%28cropped%29.jpg",
+      "sitelinks": 71,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "Greek Orthodox bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44501",
+      "answerKey": "patriarch bartholomew of constantinople"
+    },
+    {
+      "id": 16,
+      "name": "Nana Mouskouri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nana%20Mouskouri%201966.jpg",
+      "sitelinks": 70,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154662",
+      "answerKey": "nana mouskouri"
+    },
+    {
+      "id": 17,
+      "name": "George I of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20I%20of%20Hellenes%201870.jpg",
+      "sitelinks": 66,
+      "birthYear": "1845",
+      "deathYear": "1913",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
+      "answerKey": "george i of greece"
+    },
+    {
+      "id": 18,
+      "name": "George I of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/George%20I%20of%20Greece%2C%20c.1912%20%283x4%20cropped%29.jpg",
+      "sitelinks": 66,
+      "birthYear": "1845",
+      "deathYear": "1913",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
+      "answerKey": "george i of greece"
+    },
+    {
+      "id": 19,
+      "name": "George I of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20George%20of%20Hellenes.jpg",
+      "sitelinks": 66,
+      "birthYear": "1845",
+      "deathYear": "1913",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17142",
+      "answerKey": "george i of greece"
+    },
+    {
+      "id": 20,
+      "name": "Giorgos Papandreou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papandreou%20handover%20cropped.jpg",
+      "sitelinks": 65,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "sociologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151917",
+      "answerKey": "giorgos papandreou"
+    },
+    {
+      "id": 21,
+      "name": "Eleftherios Venizelos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eleftherios%20Venizelos%2C%20portrait%201935.jpg",
+      "sitelinks": 65,
+      "birthYear": "1864",
+      "deathYear": "1936",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q205545",
+      "answerKey": "eleftherios venizelos"
+    },
+    {
+      "id": 22,
+      "name": "Karolos Papoulias",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karolos%20Papoulias.jpg",
+      "sitelinks": 65,
+      "birthYear": "1929",
+      "deathYear": "2021",
+      "occupation": "legal counselor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57303",
+      "answerKey": "karolos papoulias"
+    },
+    {
+      "id": 23,
+      "name": "Prokopis Pavlopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prokopis%20Pavlopoulos%202016-01-15.jpg",
+      "sitelinks": 65,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3407316",
+      "answerKey": "prokopis pavlopoulos"
+    },
+    {
+      "id": 24,
+      "name": "Demis Roussos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Demis%20Roussos%20in%20Baku%202-cropped.jpg",
+      "sitelinks": 64,
+      "birthYear": "1946",
+      "deathYear": "2015",
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q487882",
+      "answerKey": "demis roussos"
+    },
+    {
+      "id": 25,
+      "name": "Giannis Antetokounmpo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giannis%20Antetokounmpo%20%2851915153421%29%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q8991894",
+      "answerKey": "giannis antetokounmpo"
+    },
+    {
+      "id": 26,
+      "name": "Mikis Theodorakis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mikis%20Theodorakis%20Fabrik%20070004.jpg",
+      "sitelinks": 61,
+      "birthYear": "1925",
+      "deathYear": "2021",
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151976",
+      "answerKey": "mikis theodorakis"
+    },
+    {
+      "id": 27,
+      "name": "Yanis Varoufakis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019-04-13%20Yanis%20Varoufakis%20by%20Olaf%20Kosinsky-0658%20%28cropped%29.jpg",
+      "sitelinks": 61,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40688",
+      "answerKey": "yanis varoufakis"
+    },
+    {
+      "id": 28,
+      "name": "Melina Mercouri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melina%20Mercouri.JPG",
+      "sitelinks": 59,
+      "birthYear": "1920",
+      "deathYear": "1994",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q228611",
+      "answerKey": "melina mercouri"
+    },
+    {
+      "id": 29,
+      "name": "Loukas Papademos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/LucasPapademos.jpg",
+      "sitelinks": 59,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q164281",
+      "answerKey": "loukas papademos"
+    },
+    {
+      "id": 30,
+      "name": "Constantine I of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BASA-237K-1-361-4-Constantine%20I%20of%20Greece.jpg",
+      "sitelinks": 58,
+      "birthYear": "1868",
+      "deathYear": "1923",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152099",
+      "answerKey": "constantine i of greece"
+    },
+    {
+      "id": 31,
+      "name": "Constantine I of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Constantine%20I%20of%20Greece.jpg",
+      "sitelinks": 58,
+      "birthYear": "1868",
+      "deathYear": "1923",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152099",
+      "answerKey": "constantine i of greece"
+    },
+    {
+      "id": 32,
+      "name": "George II of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgeiiofgreece.jpg",
+      "sitelinks": 58,
+      "birthYear": "1890",
+      "deathYear": "1947",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152935",
+      "answerKey": "george ii of greece"
+    },
+    {
+      "id": 33,
+      "name": "Helena Paparizou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marinella%20-%20Gia%20panda...%20mithos%20%28Herodion%2C%2029-08-2022%29%20%2805%29%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183008",
+      "answerKey": "helena paparizou"
+    },
+    {
+      "id": 34,
+      "name": "Helena Paparizou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paparizou%20HBH%20Fruitea.jpg",
+      "sitelinks": 56,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q183008",
+      "answerKey": "helena paparizou"
+    },
+    {
+      "id": 35,
+      "name": "Irene Papas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Irene%20Papas%20%22The%20Trojan%20Women%22.jpg",
+      "sitelinks": 55,
+      "birthYear": "1929",
+      "deathYear": "2022",
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230563",
+      "answerKey": "irene papas"
+    },
+    {
+      "id": 36,
+      "name": "Paul of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20I%20of%20Greece.jpg",
+      "sitelinks": 55,
+      "birthYear": "1901",
+      "deathYear": "1964",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q155394",
+      "answerKey": "paul of greece"
+    },
+    {
+      "id": 37,
+      "name": "Giorgos Karagounis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgios%20Karagounis%202010.jpg",
+      "sitelinks": 55,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q188983",
+      "answerKey": "giorgos karagounis"
+    },
+    {
+      "id": 38,
+      "name": "Sokratis Papastathopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1%20Sokratis%20Papastathopoulos%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192923",
+      "answerKey": "sokratis papastathopoulos"
+    },
+    {
+      "id": 39,
+      "name": "Antonis Samaras",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonis%20Samaras%202014%20%28cropped%29.jpg",
+      "sitelinks": 55,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57806",
+      "answerKey": "antonis samaras"
+    },
+    {
+      "id": 40,
+      "name": "Ioannis Kapodistrias",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapodistrias2.jpg",
+      "sitelinks": 54,
+      "birthYear": "1776",
+      "deathYear": "1831",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q220430",
+      "answerKey": "ioannis kapodistrias"
+    },
+    {
+      "id": 41,
+      "name": "Konstantinos Karamanlis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bezoek%20premier%20Karamanlis%20van%20Griekenland%20Van%20Agt%20in%20gesprek%20met%20Karamanlis%2C%20Bestanddeelnr%20929-6548%20%28cropped%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1907",
+      "deathYear": "1998",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156806",
+      "answerKey": "konstantinos karamanlis"
+    },
+    {
+      "id": 42,
+      "name": "Giorgos Samaras",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgios%20Samaras%20%28cropped2%29.jpg",
+      "sitelinks": 53,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202404",
+      "answerKey": "giorgos samaras"
+    },
+    {
+      "id": 43,
+      "name": "Avraam Papadopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Papadopoulosavraam.JPG",
+      "sitelinks": 52,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295002",
+      "answerKey": "avraam papadopoulos"
+    },
+    {
+      "id": 44,
+      "name": "Andreas Papandreou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andreas%20Papandreou%20%281968%29%202%20crop.jpg",
+      "sitelinks": 52,
+      "birthYear": "1919",
+      "deathYear": "1996",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q219256",
+      "answerKey": "andreas papandreou"
+    },
+    {
+      "id": 45,
+      "name": "Sakis Rouvas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakis%20Rouvas%20in%20Moscow.jpg",
+      "sitelinks": 52,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "nightclub owner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60970",
+      "answerKey": "sakis rouvas"
+    },
+    {
+      "id": 46,
+      "name": "Thodoros Angelopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodoros%20Angelopoulos%20Athens%2026-4-2009-2.jpg",
+      "sitelinks": 52,
+      "birthYear": "1935",
+      "deathYear": "2012",
+      "occupation": "film critic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55168",
+      "answerKey": "thodoros angelopoulos"
+    },
+    {
+      "id": 47,
+      "name": "Alexander of Greece",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/King%20Alexander%20of%20Greece.jpg",
+      "sitelinks": 51,
+      "birthYear": "1893",
+      "deathYear": "1920",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151742",
+      "answerKey": "alexander of greece"
+    },
+    {
+      "id": 48,
+      "name": "Costa-Gavras",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Costa-Gavras%20C%C3%A9sar%202018.jpg",
+      "sitelinks": 51,
+      "birthYear": "1933",
+      "deathYear": null,
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296698",
+      "answerKey": "costagavras"
+    },
+    {
+      "id": 49,
+      "name": "Ioannis Metaxas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ioannis%20Metaxas%201937%20cropped.jpg",
+      "sitelinks": 51,
+      "birthYear": "1871",
+      "deathYear": "1941",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q189139",
+      "answerKey": "ioannis metaxas"
+    },
+    {
+      "id": 50,
+      "name": "Konstantinos Stephanopoulos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostis%20stephanopoulos.jpg",
+      "sitelinks": 50,
+      "birthYear": "1926",
+      "deathYear": "2016",
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q206421",
+      "answerKey": "konstantinos stephanopoulos"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
+  ]
 }

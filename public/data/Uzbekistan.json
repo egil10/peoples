@@ -1,7 +1,7 @@
 {
   "country": "Uzbekistan",
   "countryCode": "Q265",
-  "generated": "2025-12-14T01:56:52.903Z",
+  "generated": "2025-12-14T20:19:24.674Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 95,
       "birthYear": "1938",
       "deathYear": "2016",
-      "occupation": "politician",
+      "occupation": "statesperson",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57558",
       "answerKey": "islam karimov"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 95,
       "birthYear": "1957",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57808",
       "answerKey": "shavkat mirziyoyev"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 48,
       "birthYear": "1974",
       "deathYear": null,
-      "occupation": "association football coach",
+      "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181101",
       "answerKey": "oleg pashinin"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 48,
       "birthYear": "1979",
       "deathYear": null,
-      "occupation": "chess player",
+      "occupation": "non-fiction writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q489015",
       "answerKey": "rustam kasimdzhanov"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 46,
       "birthYear": "1983",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "rhythmic gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q254220",
       "answerKey": "alina kabaeva"
     },
@@ -72,25 +72,25 @@
     },
     {
       "id": 7,
-      "name": "Gulnara Karimova",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulnora%20I.%20Karimova%20-%20World%20Economic%20Forum%20on%20the%20Middle%20East%202009%20%28cropped%29.jpg",
-      "sitelinks": 40,
-      "birthYear": "1972",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q541680",
-      "answerKey": "gulnara karimova"
-    },
-    {
-      "id": 8,
       "name": "Ravshan Irmatov",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ravshan%20Irmatov%202%20%28cropped%29.jpg",
       "sitelinks": 40,
       "birthYear": "1977",
       "deathYear": null,
-      "occupation": "association football referee",
+      "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q488893",
       "answerKey": "ravshan irmatov"
+    },
+    {
+      "id": 8,
+      "name": "Gulnara Karimova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gulnora%20I.%20Karimova%20-%20World%20Economic%20Forum%20on%20the%20Middle%20East%202009%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q541680",
+      "answerKey": "gulnara karimova"
     },
     {
       "id": 9,
@@ -113,7 +113,446 @@
       "occupation": "fencer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q17388702",
       "answerKey": "timur safin"
+    },
+    {
+      "id": 11,
+      "name": "Abdukodir Khusanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lens%20-%20Torino%20FC%20%2802-08-2023%29%2058.jpg",
+      "sitelinks": 37,
+      "birthYear": "2004",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q111479885",
+      "answerKey": "abdukodir khusanov"
+    },
+    {
+      "id": 12,
+      "name": "Eldor Shomurodov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rostov-DM18%20%282%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20641483",
+      "answerKey": "eldor shomurodov"
+    },
+    {
+      "id": 13,
+      "name": "Maksim Shatskikh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maksim%20Shatskikh%202014.jpg",
+      "sitelinks": 34,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317058",
+      "answerKey": "maksim shatskikh"
+    },
+    {
+      "id": 14,
+      "name": "Nodirbek Abdusattorov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AbduTata2025%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "2004",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20908925",
+      "answerKey": "nodirbek abdusattorov"
+    },
+    {
+      "id": 15,
+      "name": "Oksana Chusovitina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Oksana%20Chusovitina%20%28vault%29%2004-2011.JPG",
+      "sitelinks": 33,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "artistic gymnast",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60557",
+      "answerKey": "oksana chusovitina"
+    },
+    {
+      "id": 16,
+      "name": "Diyora Keldiyorova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Diyora%20Keldiyorova%20at%20the%202024%20Summer%20Olympics%2002.jpg",
+      "sitelinks": 32,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q31299452",
+      "answerKey": "diyora keldiyorova"
+    },
+    {
+      "id": 17,
+      "name": "Djamolidine Abdoujaparov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Djamolidine%20ABDOUJAPAROV.jpg",
+      "sitelinks": 31,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q454564",
+      "answerKey": "djamolidine abdoujaparov"
+    },
+    {
+      "id": 18,
+      "name": "Server Djeparov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Server%20Djeparov%20playing%20for%20Esteghlal%20against%20Tractor%20Sazi%2001.jpg",
+      "sitelinks": 30,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q495418",
+      "answerKey": "server djeparov"
+    },
+    {
+      "id": 19,
+      "name": "Artur Taymazov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Artur%20Taymazov%202018.jpg",
+      "sitelinks": 30,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "member of the State Duma",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q503151",
+      "answerKey": "artur taymazov"
+    },
+    {
+      "id": 20,
+      "name": "Nigmatilla Yuldashev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuldashev%20in%20State%20Duma%202%20%2807-11-2018%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "magistrate",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20533811",
+      "answerKey": "nigmatilla yuldashev"
+    },
+    {
+      "id": 21,
+      "name": "Varvara Lepchenko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lepchenko%20WM17%20%287%29%20%2835347343424%29%20%28cropped%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54532",
+      "answerKey": "varvara lepchenko"
+    },
+    {
+      "id": 22,
+      "name": "Hasanboy Dusmatov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hasanboy%20Dusmatov%20%282023-05-12%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26238031",
+      "answerKey": "hasanboy dusmatov"
+    },
+    {
+      "id": 23,
+      "name": "Denis Istomin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denis%20Istomin%20Aegon%20Open%20Nottingham%202015.jpg",
+      "sitelinks": 29,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317961",
+      "answerKey": "denis istomin"
+    },
+    {
+      "id": 24,
+      "name": "Odil Ahmedov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Odil%20Ahmedov%20Anzhi.jpg",
+      "sitelinks": 29,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q559470",
+      "answerKey": "odil ahmedov"
+    },
+    {
+      "id": 25,
+      "name": "Shahzoda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shahzoda%20in%202012.jpg",
+      "sitelinks": 29,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1092624",
+      "answerKey": "shahzoda"
+    },
+    {
+      "id": 26,
+      "name": "Leilia Adzhametova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leilia%20Adzhametova%20-%202016-10-05%20-%201.jpg",
+      "sitelinks": 28,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "Paralympic athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26899801",
+      "answerKey": "leilia adzhametova"
+    },
+    {
+      "id": 27,
+      "name": "Bakhodir Jalolov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakhodir%20Jalolov%20%282023-05-12%29%20%28cropped%29.jpg",
+      "sitelinks": 28,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23060341",
+      "answerKey": "bakhodir jalolov"
+    },
+    {
+      "id": 28,
+      "name": "Abbosbek Fayzullaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abbosbek%20Fayzullaev%20Cska%20Moscow%20player.png",
+      "sitelinks": 28,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q117280421",
+      "answerKey": "abbosbek fayzullaev"
+    },
+    {
+      "id": 29,
+      "name": "Akgul Amanmuradova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AKGUL%20AMANMURADOVA.jpg",
+      "sitelinks": 27,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236858",
+      "answerKey": "akgul amanmuradova"
+    },
+    {
+      "id": 30,
+      "name": "Olga Zabelinskaya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UCI%20Track%20World%20Championships%202020%20025.jpg",
+      "sitelinks": 27,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q266686",
+      "answerKey": "olga zabelinskaya"
+    },
+    {
+      "id": 31,
+      "name": "Ruslan Chagaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RuslanChagaev.jpg",
+      "sitelinks": 27,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q559172",
+      "answerKey": "ruslan chagaev"
+    },
+    {
+      "id": 32,
+      "name": "Ulugbek Rashitov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulugbek%20Rashitov%20at%20the%202024%20Summer%20Olympics%2001.jpg",
+      "sitelinks": 26,
+      "birthYear": "2002",
+      "deathYear": null,
+      "occupation": "taekwondo athlete",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83445888",
+      "answerKey": "ulugbek rashitov"
+    },
+    {
+      "id": 33,
+      "name": "Alexander Geynrikh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexander%20Geynrikh.jpg",
+      "sitelinks": 26,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q494864",
+      "answerKey": "alexander geynrikh"
+    },
+    {
+      "id": 34,
+      "name": "Lina Cheryazova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lina%20Cheryazova.%20Stamp%20of%20Uzbekistan%2C%202001.jpg",
+      "sitelinks": 25,
+      "birthYear": "1968",
+      "deathYear": "2019",
+      "occupation": "freestyle skier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2506188",
+      "answerKey": "lina cheryazova"
+    },
+    {
+      "id": 35,
+      "name": "Bekzod Abdurahmonov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wrestling%20at%20the%202016%20Summer%20Olympics%2C%20Hasanov%20vs%20Abdurakhmonov%2012.jpg",
+      "sitelinks": 24,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19834228",
+      "answerKey": "bekzod abdurahmonov"
+    },
+    {
+      "id": 36,
+      "name": "Igor Sergeev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Igor%20Sergeyev%20Uzbekistani%20footballer.jpg",
+      "sitelinks": 23,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10549264",
+      "answerKey": "igor sergeev"
+    },
+    {
+      "id": 37,
+      "name": "Timur Kapadze",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Timur%20Kapadze.jpg",
+      "sitelinks": 23,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q969355",
+      "answerKey": "timur kapadze"
+    },
+    {
+      "id": 38,
+      "name": "Akbar Djuraev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Akbar%20Juraev%20at%20the%202024%20Summer%20Olympics%2001.jpg",
+      "sitelinks": 23,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "weightlifter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60286768",
+      "answerKey": "akbar djuraev"
+    },
+    {
+      "id": 39,
+      "name": "Xasiyyat Rustamova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Xosiyat%20Rustamova.jpg",
+      "sitelinks": 23,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q63993413",
+      "answerKey": "xasiyyat rustamova"
+    },
+    {
+      "id": 40,
+      "name": "Jaloliddin Masharipov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaloliddin%20Masharipov%202020.jpg",
+      "sitelinks": 22,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19831829",
+      "answerKey": "jaloliddin masharipov"
+    },
+    {
+      "id": 41,
+      "name": "Halima Nosirova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Halima%20Nosirova.jpg",
+      "sitelinks": 22,
+      "birthYear": "1913",
+      "deathYear": "2003",
+      "occupation": "music educator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4314091",
+      "answerKey": "halima nosirova"
+    },
+    {
+      "id": 42,
+      "name": "Shakhobidin Zoirov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shahobiddin%20Zoirov%20%282021-10-31%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26263129",
+      "answerKey": "shakhobidin zoirov"
+    },
+    {
+      "id": 43,
+      "name": "Mirjalol Qosimov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fayzullaev%20Kasymov%20Fayziev%20%28Mirjalol%20Qosimov%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q622183",
+      "answerKey": "mirjalol qosimov"
+    },
+    {
+      "id": 44,
+      "name": "Sardor Rashidov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sardor%20rashidov-1510559544.JPG",
+      "sitelinks": 21,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16234158",
+      "answerKey": "sardor rashidov"
+    },
+    {
+      "id": 45,
+      "name": "Aleksandr Dokturishvili",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stamps%20of%20Uzbekistan%2C%202006-009.jpg",
+      "sitelinks": 21,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q740650",
+      "answerKey": "aleksandr dokturishvili"
+    },
+    {
+      "id": 46,
+      "name": "Mahammatkodir Abdullaev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Abdullaev%202001%20stamp%20of%20Uzbekistan.jpg",
+      "sitelinks": 21,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "boxer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q389359",
+      "answerKey": "mahammatkodir abdullaev"
+    },
+    {
+      "id": 47,
+      "name": "Sergey Lagutin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergue%C3%AF%20Lagoutine.JPG",
+      "sitelinks": 21,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q373300",
+      "answerKey": "sergey lagutin"
+    },
+    {
+      "id": 48,
+      "name": "Anzur Ismailov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anzur%20Ismailov%202020.jpg",
+      "sitelinks": 21,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1085244",
+      "answerKey": "anzur ismailov"
+    },
+    {
+      "id": 49,
+      "name": "Ikhtiyor Navruzov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2016%20Summer%20Olympics%2C%20Men%27s%20Freestyle%20Wrestling%2065%20kg%20awarding%20ceremony%202%20%28Ikhtiyor%20Navruzov%20cropped%29.jpg",
+      "sitelinks": 21,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6580016",
+      "answerKey": "ikhtiyor navruzov"
+    },
+    {
+      "id": 50,
+      "name": "Ikhtiyor Navruzov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wrestling%20at%20the%202016%20Summer%20Olympics%2C%20Navruzov%20vs%20Mandakhnaran%202.jpg",
+      "sitelinks": 21,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "amateur wrestler",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6580016",
+      "answerKey": "ikhtiyor navruzov"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uzbekistan.svg"
+  ]
 }

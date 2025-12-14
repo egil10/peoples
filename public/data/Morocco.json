@@ -1,7 +1,7 @@
 {
   "country": "Morocco",
   "countryCode": "Q1028",
-  "generated": "2025-12-14T01:58:52.889Z",
+  "generated": "2025-12-14T20:23:32.371Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 103,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "monarch",
+      "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57553",
       "answerKey": "mohammed vi of morocco"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 76,
       "birthYear": "1898",
       "deathYear": "1988",
-      "occupation": "entrepreneur",
+      "occupation": "racing automobile driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181282",
       "answerKey": "enzo ferrari"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 71,
       "birthYear": "1929",
       "deathYear": "1999",
-      "occupation": "monarch",
+      "occupation": "military leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q69103",
       "answerKey": "hassan ii"
     },
@@ -50,17 +50,6 @@
     },
     {
       "id": 5,
-      "name": "Hakim Ziyech",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hakim%20Ziyech%202021.jpg",
-      "sitelinks": 58,
-      "birthYear": "1993",
-      "deathYear": null,
-      "occupation": "association football player",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q327456",
-      "answerKey": "hakim ziyech"
-    },
-    {
-      "id": 6,
       "name": "Adil Rami",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adil%20Rami%2020120611.jpg",
       "sitelinks": 58,
@@ -69,6 +58,17 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1909",
       "answerKey": "adil rami"
+    },
+    {
+      "id": 6,
+      "name": "Hakim Ziyech",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hakim%20Ziyech%202021.jpg",
+      "sitelinks": 58,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q327456",
+      "answerKey": "hakim ziyech"
     },
     {
       "id": 7,
@@ -83,17 +83,6 @@
     },
     {
       "id": 8,
-      "name": "Fatema Mernissi",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Al%20Azm%20Mernissi%20Soroush%20Mernissi%20cropped.tif",
-      "sitelinks": 53,
-      "birthYear": "1940",
-      "deathYear": "2015",
-      "occupation": "writer",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q242376",
-      "answerKey": "fatema mernissi"
-    },
-    {
-      "id": 9,
       "name": "Mohammed V of Morocco",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D9%8A%D9%88%D8%B3%D9%81%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%8A.jpg",
       "sitelinks": 53,
@@ -104,7 +93,29 @@
       "answerKey": "mohammed v of morocco"
     },
     {
+      "id": 9,
+      "name": "Fatema Mernissi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Al%20Azm%20Mernissi%20Soroush%20Mernissi%20cropped.tif",
+      "sitelinks": 53,
+      "birthYear": "1940",
+      "deathYear": "2015",
+      "occupation": "feminist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q242376",
+      "answerKey": "fatema mernissi"
+    },
+    {
       "id": 10,
+      "name": "Nacer Chadli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nacer%20Chadli%202018%20%28cropped%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q795451",
+      "answerKey": "nacer chadli"
+    },
+    {
+      "id": 11,
       "name": "Brahim Abdelkader Díaz",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brahim%20Diaz%203%20vs%20Niger%20%28cropped%29%20%28cropped%29.jpg",
       "sitelinks": 48,
@@ -113,7 +124,435 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26973015",
       "answerKey": "brahim abdelkader diaz"
+    },
+    {
+      "id": 12,
+      "name": "Leo Africanus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastiano%20del%20Piombo%20Portrait%20of%20a%20Humanist.jpg",
+      "sitelinks": 47,
+      "birthYear": "1494",
+      "deathYear": "1600",
+      "occupation": "explorer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q332790",
+      "answerKey": "leo africanus"
+    },
+    {
+      "id": 13,
+      "name": "Hicham El Guerrouj",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hicham%20El%20Guerrouj%20cropped.jpg",
+      "sitelinks": 46,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83905",
+      "answerKey": "hicham el guerrouj"
+    },
+    {
+      "id": 14,
+      "name": "Yassine Bounou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yassine%20bounou%20Interview%202023.jpg",
+      "sitelinks": 46,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3571952",
+      "answerKey": "yassine bounou"
+    },
+    {
+      "id": 15,
+      "name": "Sofyan Amrabat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sofyan%20Amrabat%20vs%20Niger%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18428483",
+      "answerKey": "sofyan amrabat"
+    },
+    {
+      "id": 16,
+      "name": "Nora Fatehi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nora-Fatehi-snapped-in-Bandra-2%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "belly dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18720168",
+      "answerKey": "nora fatehi"
+    },
+    {
+      "id": 17,
+      "name": "Youssef En-Nesyri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ennesyri.jpg",
+      "sitelinks": 45,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26262219",
+      "answerKey": "youssef ennesyri"
+    },
+    {
+      "id": 18,
+      "name": "Rachida Dati",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Festival%20automobile%20international%202016%20-%20Photocall%20-%20043%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27182",
+      "answerKey": "rachida dati"
+    },
+    {
+      "id": 19,
+      "name": "Marouane Chamakh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chamakh%20Emirates%20Cup%20cropped.jpg",
+      "sitelinks": 44,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q42010",
+      "answerKey": "marouane chamakh"
+    },
+    {
+      "id": 20,
+      "name": "Munir El Haddadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Munir%20El%20Haddadi%20-%2031%20Oct%202025.jpg",
+      "sitelinks": 44,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15963931",
+      "answerKey": "munir el haddadi"
+    },
+    {
+      "id": 21,
+      "name": "Aziz Akhannouch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fumio%20Kishida%20and%20Aziz%20Akhannouch%20before%20the%20funeral%20of%20Shinzo%20Abe%20%281%29%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1638114",
+      "answerKey": "aziz akhannouch"
+    },
+    {
+      "id": 22,
+      "name": "Tahar Ben Jelloun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tahar%20Ben%20Jelloun%20par%20Claude%20Truong-Ngoc%20sept%202013.jpg",
+      "sitelinks": 43,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334989",
+      "answerKey": "tahar ben jelloun"
+    },
+    {
+      "id": 23,
+      "name": "Romain Saïss",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RomainSaiss.jpg",
+      "sitelinks": 43,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3440768",
+      "answerKey": "romain saiss"
+    },
+    {
+      "id": 24,
+      "name": "Younès Belhanda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adana%20Demirspor%20vs%20Antalyaspor%2020220225%204%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q348266",
+      "answerKey": "younes belhanda"
+    },
+    {
+      "id": 25,
+      "name": "Mordechai Vanunu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mordechai%20Vanunu%2C%202005%20%28cropped%29.JPG",
+      "sitelinks": 43,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q48775",
+      "answerKey": "mordechai vanunu"
+    },
+    {
+      "id": 26,
+      "name": "Nawal El Moutawakel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PortraitNawalElMoutawakelJune2016.jpg",
+      "sitelinks": 42,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q239993",
+      "answerKey": "nawal el moutawakel"
+    },
+    {
+      "id": 27,
+      "name": "Noussair Mazraoui",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazraoui.jpg",
+      "sitelinks": 42,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26266244",
+      "answerKey": "noussair mazraoui"
+    },
+    {
+      "id": 28,
+      "name": "Najat Vallaud-Belkacem",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20Najat%20Vallaud-Belkacem-crop.jpg",
+      "sitelinks": 41,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q268529",
+      "answerKey": "najat vallaudbelkacem"
+    },
+    {
+      "id": 29,
+      "name": "RedOne",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RedOne%202017%20press%20image.jpg",
+      "sitelinks": 41,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "songwriter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q323470",
+      "answerKey": "redone"
+    },
+    {
+      "id": 30,
+      "name": "Jamel Debbouze",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamel%20Debbouze%20AVP%202016.jpg",
+      "sitelinks": 40,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "manufacturer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312661",
+      "answerKey": "jamel debbouze"
+    },
+    {
+      "id": 31,
+      "name": "Leïla Slimani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%C3%AFla%20Slimani%20at%20the%202025%20Cannes%20Film%20Festival%2014.jpg",
+      "sitelinks": 40,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18173445",
+      "answerKey": "leila slimani"
+    },
+    {
+      "id": 32,
+      "name": "Ismaël Bennacer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BennacerLeB2022.jpg",
+      "sitelinks": 40,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20740627",
+      "answerKey": "ismael bennacer"
+    },
+    {
+      "id": 33,
+      "name": "Nayef Aguerd",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nayef%20Aguerd%20vs%20Niger%2C%205%20Sept%202025.jpg",
+      "sitelinks": 40,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28872567",
+      "answerKey": "nayef aguerd"
+    },
+    {
+      "id": 34,
+      "name": "Samira Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beirut%20International%20Awards%20Festivals%20%28BIAF%29%20honored%20Samira%20Said%20in%202011.jpg",
+      "sitelinks": 39,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q578416",
+      "answerKey": "samira said"
+    },
+    {
+      "id": 35,
+      "name": "Abdelilah Benkirane",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdelilah%20Benkirane%202014-08-05.jpg",
+      "sitelinks": 38,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q307921",
+      "answerKey": "abdelilah benkirane"
+    },
+    {
+      "id": 36,
+      "name": "Gad Elmaleh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gad%20Elmaleh%20Cannes%202019.jpg",
+      "sitelinks": 38,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "cabaret performer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318991",
+      "answerKey": "gad elmaleh"
+    },
+    {
+      "id": 37,
+      "name": "Mustapha Hadji",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mustapha%20Hadji.jpg",
+      "sitelinks": 38,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311344",
+      "answerKey": "mustapha hadji"
+    },
+    {
+      "id": 38,
+      "name": "Sofiane Boufal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XXIII%20Memorial%20Quinocho%20%28RC%20Celta%20vs%20Mainz%2005%29%20-%2023%20%28cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18637185",
+      "answerKey": "sofiane boufal"
+    },
+    {
+      "id": 39,
+      "name": "Nordin Amrabat",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nordin%20Amrabat%20%28cropped%29.jpg",
+      "sitelinks": 37,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q374523",
+      "answerKey": "nordin amrabat"
+    },
+    {
+      "id": 40,
+      "name": "Frida Boccara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Gala%20du%20Disque%20in%20RAI%20Amsterdam.%20Frida%20Boccara%2C%20Bestanddeelnr%20923-3017.jpg",
+      "sitelinks": 36,
+      "birthYear": "1940",
+      "deathYear": "1996",
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233968",
+      "answerKey": "frida boccara"
+    },
+    {
+      "id": 41,
+      "name": "Saadeddine Othmani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saadeddine%20Othmani%20no%20Brasil.jpg",
+      "sitelinks": 36,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "Islamic jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2033385",
+      "answerKey": "saadeddine othmani"
+    },
+    {
+      "id": 42,
+      "name": "Karim El Ahmadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KElAhmadi1.jpg",
+      "sitelinks": 35,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q113246",
+      "answerKey": "karim el ahmadi"
+    },
+    {
+      "id": 43,
+      "name": "Prince Moulay Rachid of Morocco",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince%20Moulay%20Rachid%20of%20Morocco%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q175176",
+      "answerKey": "prince moulay rachid of morocco"
+    },
+    {
+      "id": 44,
+      "name": "Saïd Aouita",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Said%20Aouita.jpg",
+      "sitelinks": 35,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311364",
+      "answerKey": "said aouita"
+    },
+    {
+      "id": 45,
+      "name": "Saïd Taghmaoui",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sa%C3%AFd%20Taghmaoui%202014.jpg",
+      "sitelinks": 35,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q373034",
+      "answerKey": "said taghmaoui"
+    },
+    {
+      "id": 46,
+      "name": "Zakaria Aboukhlal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aboukhlal%20asse%20tfc%202425.png",
+      "sitelinks": 35,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q56257819",
+      "answerKey": "zakaria aboukhlal"
+    },
+    {
+      "id": 47,
+      "name": "Nabil Dirar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nebil%20Dirar%207%20A%C4%9Fustos%202017%20%28kesilmi%C5%9F%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q727417",
+      "answerKey": "nabil dirar"
+    },
+    {
+      "id": 48,
+      "name": "Tarik Elyounoussi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tarik%20Elyounoussi%202018%20-%20cropped.jpg",
+      "sitelinks": 34,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q609141",
+      "answerKey": "tarik elyounoussi"
+    },
+    {
+      "id": 49,
+      "name": "Karim Bellarabi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karim%20Bellarabi%202012.jpg",
+      "sitelinks": 34,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q701241",
+      "answerKey": "karim bellarabi"
+    },
+    {
+      "id": 50,
+      "name": "Munir Mohand Mohamedi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Munir%20Mohand%20Mohamedi%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18062338",
+      "answerKey": "munir mohand mohamedi"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Morocco.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Slovenia",
   "countryCode": "Q215",
-  "generated": "2025-12-14T01:32:54.775Z",
+  "generated": "2025-12-14T20:13:08.664Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1970",
       "deathYear": null,
       "occupation": "model",
-      "description": "First Lady of the United States (2017–2021; since 2025)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q432473",
       "answerKey": "melania trump"
     },
@@ -24,7 +23,6 @@
       "birthYear": "1949",
       "deathYear": null,
       "occupation": "cultural critic",
-      "description": "Slovenian philosopher (born 1949)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q184750",
       "answerKey": "slavoj zizek"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1963",
       "deathYear": null,
       "occupation": "political scientist",
-      "description": "Slovenian Politician, former Prime Minister and President, born 1963",
       "wikidataUrl": "http://www.wikidata.org/entity/Q206471",
       "answerKey": "borut pahor"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1958",
       "deathYear": null,
       "occupation": "politician",
-      "description": "Slovenian politician (born 1958)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57627",
       "answerKey": "janez jansa"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1950",
       "deathYear": "2008",
       "occupation": "banker",
-      "description": "Slovenian politician (1950–2008)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q171228",
       "answerKey": "janez drnovsek"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1951",
       "deathYear": null,
       "occupation": "university teacher",
-      "description": "professor of physics at Princeton University",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1002250",
       "answerKey": "duncan haldane"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1993",
       "deathYear": null,
       "occupation": "association football player",
-      "description": "Slovenian association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2058682",
       "answerKey": "jan oblak"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1952",
       "deathYear": null,
       "occupation": "agitator",
-      "description": "President of Slovenia from 2007 to 2012",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57329",
       "answerKey": "danilo turk"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1999",
       "deathYear": null,
       "occupation": "basketball player",
-      "description": "Slovenian basketball player (born 1999)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19844712",
       "answerKey": "luka doncic"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1984",
       "deathYear": null,
       "occupation": "association football player",
-      "description": "Slovenian association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q213002",
       "answerKey": "samir handanovic"
+    },
+    {
+      "id": 11,
+      "name": "Robert Golob",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Novinarska%20konferenca%20ob%20tretji%20obletnici%20dela%20vlade%20-%20Robert%20Golob%20%28cropped%29%20%28cropped%29.jpg",
+      "sitelinks": 56,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "electrical engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18645045",
+      "answerKey": "robert golob"
+    },
+    {
+      "id": 12,
+      "name": "Milivoje Novaković",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MilivojeNovakovic.jpg",
+      "sitelinks": 52,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213085",
+      "answerKey": "milivoje novakovic"
+    },
+    {
+      "id": 13,
+      "name": "Tadej Pogačar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Tour%20of%20Slovenia%20%28Stage%203%2C%20Tadej%20Poga%C4%8Dar%20celebrating%20victory%20on%20Celje%20Castle%20v2%29.jpg",
+      "sitelinks": 52,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26904312",
+      "answerKey": "tadej pogacar"
+    },
+    {
+      "id": 14,
+      "name": "Nataša Pirc Musar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nata%C5%A1a%20Pirc%20Musar%20%282023-05-19%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "public relations officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12797332",
+      "answerKey": "natasa pirc musar"
+    },
+    {
+      "id": 15,
+      "name": "Tina Maze",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Internationale%20Sportnacht%20Davos%202014.jpg",
+      "sitelinks": 50,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "alpine skier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10085",
+      "answerKey": "tina maze"
+    },
+    {
+      "id": 16,
+      "name": "Milan Kučan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milan%20Ku%C4%8Dan%20EP%20%28cropped%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "political commissar",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q194443",
+      "answerKey": "milan kucan"
+    },
+    {
+      "id": 17,
+      "name": "Zlatan Ljubijankič",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zlatan%20Ljubijanki%C4%87%202009.jpg",
+      "sitelinks": 49,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207127",
+      "answerKey": "zlatan ljubijankic"
+    },
+    {
+      "id": 18,
+      "name": "Alenka Bratušek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sre%C4%8Danje%20z%20%C5%BEupanjami%20in%20%C5%BEupani%20na%20Brdu%20-%205.%206.%202023%20-%20Alenka%20Bratu%C5%A1ek.jpg",
+      "sitelinks": 49,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3739767",
+      "answerKey": "alenka bratusek"
+    },
+    {
+      "id": 19,
+      "name": "Nejc Pečnik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nejc%20Pe%C4%8Dnik%202009.jpg",
+      "sitelinks": 48,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q350345",
+      "answerKey": "nejc pecnik"
+    },
+    {
+      "id": 20,
+      "name": "Branko Ilić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ukr-Slov%20%284%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q361024",
+      "answerKey": "branko ilic"
+    },
+    {
+      "id": 21,
+      "name": "Anna Muzychuk",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%90%D0%BD%D0%BD%D0%B5%20%D0%9C%D1%83%D0%B7%D1%8B%D1%87%D1%83%D0%BA%20%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%9E%D1%81%D0%BA%D0%B0%D1%80%D0%B0%20%C2%AB%D0%9A%D0%B0%D0%B8%D1%81%D1%81%D0%B0%C2%BB%20%28cropped%29.jpg",
+      "sitelinks": 47,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q241258",
+      "answerKey": "anna muzychuk"
+    },
+    {
+      "id": 22,
+      "name": "Aleksander Čeferin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Aleksander%20%C4%8Ceferin%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "sports official",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26819142",
+      "answerKey": "aleksander ceferin"
+    },
+    {
+      "id": 23,
+      "name": "Miro Cerar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miro%20Cerar%202018.jpg",
+      "sitelinks": 46,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "accordionist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17117413",
+      "answerKey": "miro cerar"
+    },
+    {
+      "id": 24,
+      "name": "Benjamin Šeško",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20RB%20Salzburg%20gegen%20SK%20Austria%20Klagenfurt%20%282023-05-28%29%2038%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "2003",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q65950315",
+      "answerKey": "benjamin sesko"
+    },
+    {
+      "id": 25,
+      "name": "Klemen Lavrič",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Klemen%20Lavric.jpg",
+      "sitelinks": 45,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26276",
+      "answerKey": "klemen lavric"
+    },
+    {
+      "id": 26,
+      "name": "Josip Iličić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josip%20Ilicic%202021.jpg",
+      "sitelinks": 43,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q510462",
+      "answerKey": "josip ilicic"
+    },
+    {
+      "id": 27,
+      "name": "Primož Roglič",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sprejem%20v%20%C4%8Dast%20slovenskim%20in%20francoskim%20kolesarjem%20ob%20zaklju%C4%8Dku%20Dirke%20po%20Franciji%20-%2054683392137%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "ski jumper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2110167",
+      "answerKey": "primoz roglic"
+    },
+    {
+      "id": 28,
+      "name": "Marjan Šarec",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marjan%20%C5%A0arec%20-%2052113669487%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12795878",
+      "answerKey": "marjan sarec"
+    },
+    {
+      "id": 29,
+      "name": "Peter Prevc",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Prevc%20-%20Planici%202024%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "ski jumper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q456136",
+      "answerKey": "peter prevc"
+    },
+    {
+      "id": 30,
+      "name": "Valter Birsa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valter%20Birsa%202009.jpg",
+      "sitelinks": 40,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213112",
+      "answerKey": "valter birsa"
+    },
+    {
+      "id": 31,
+      "name": "Damir Skomina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Damir%20Skomina%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315246",
+      "answerKey": "damir skomina"
+    },
+    {
+      "id": 32,
+      "name": "Srečko Katanec",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sre%C4%8Dko%20Katanec%202015%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q177511",
+      "answerKey": "srecko katanec"
+    },
+    {
+      "id": 33,
+      "name": "Robert Koren",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert-Koren-Hull-City%202684877.jpg",
+      "sitelinks": 39,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213032",
+      "answerKey": "robert koren"
+    },
+    {
+      "id": 34,
+      "name": "Rene Krhin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Krhin%20-%20Inter%20Mailand%20%281%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q298491",
+      "answerKey": "rene krhin"
+    },
+    {
+      "id": 35,
+      "name": "Goran Dragić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EuroBasket%202017%20Finland%20vs%20Slovenia%2037%20%28Goran%20Dragi%C4%87%20cropped%29.jpg",
+      "sitelinks": 38,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q369532",
+      "answerKey": "goran dragic"
+    },
+    {
+      "id": 36,
+      "name": "Rade Šerbedžija",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rade%C5%A0erbed%C5%BEija07TIFF.jpg",
+      "sitelinks": 37,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q434291",
+      "answerKey": "rade serbedzija"
+    },
+    {
+      "id": 37,
+      "name": "Kevin Kampl",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-04-20%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20DFB-Pokal%2C%20RB%20Leipzig%20-%201.%20FC%20Union%20Berlin%201DX%208279%20by%20Stepro.jpg",
+      "sitelinks": 37,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1740190",
+      "answerKey": "kevin kampl"
+    },
+    {
+      "id": 38,
+      "name": "Primož Gliha",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Primo%C5%BE%20Gliha%202015.jpg",
+      "sitelinks": 37,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2256514",
+      "answerKey": "primoz gliha"
+    },
+    {
+      "id": 39,
+      "name": "Boštjan Cesar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Slovenia%202009-11.png",
+      "sitelinks": 37,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q346712",
+      "answerKey": "bostjan cesar"
+    },
+    {
+      "id": 40,
+      "name": "Primož Kozmus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Primo%C5%BE%20Kozmus%20in%20military%20uniform%20in%202009.jpg",
+      "sitelinks": 37,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "hammer thrower",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1783",
+      "answerKey": "primoz kozmus"
+    },
+    {
+      "id": 41,
+      "name": "Merlene Ottey",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ottey.jpg",
+      "sitelinks": 36,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q217358",
+      "answerKey": "merlene ottey"
+    },
+    {
+      "id": 42,
+      "name": "Bojan Jokić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rostov-Ufa18%20%2813%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q314736",
+      "answerKey": "bojan jokic"
+    },
+    {
+      "id": 43,
+      "name": "Tina Trstenjak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sprejem%20za%20olimpijce%202021%20%2852131371006%29%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "judoka",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17641420",
+      "answerKey": "tina trstenjak"
+    },
+    {
+      "id": 44,
+      "name": "Drago Jančar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drago%20Jan%C4%8Dar%2C%20Frankfurter%20Buchmesse%202023%20Ausschnitt.jpg",
+      "sitelinks": 33,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q384991",
+      "answerKey": "drago jancar"
+    },
+    {
+      "id": 45,
+      "name": "Katarina Srebotnik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Srebotnik%20WM15%20%285%29%20%2820009840693%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229116",
+      "answerKey": "katarina srebotnik"
+    },
+    {
+      "id": 46,
+      "name": "Tinkara Kovač",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tinkara%20Kova%C4%8D%20mirror%20resize.jpg",
+      "sitelinks": 32,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "flautist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q543053",
+      "answerKey": "tinkara kovac"
+    },
+    {
+      "id": 47,
+      "name": "Zlatko Dedić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SC%20Wiener%20Neustadt%20vs.%20FC%20Wacker%20Innsbruck%202018-05-21%20%28031%29.jpg",
+      "sitelinks": 32,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207158",
+      "answerKey": "zlatko dedic"
+    },
+    {
+      "id": 48,
+      "name": "Polona Hercog",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hercog%20WMQ23%20%2853061703966%29.jpg",
+      "sitelinks": 32,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229079",
+      "answerKey": "polona hercog"
+    },
+    {
+      "id": 49,
+      "name": "Mišo Brečko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Empfang%20f%C3%BCr%20den%201.%20FC%20K%C3%B6ln%20im%20Rathaus-9043.jpg",
+      "sitelinks": 32,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311328",
+      "answerKey": "miso brecko"
+    },
+    {
+      "id": 50,
+      "name": "Sasha Vujačić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sasha%20Vujacic%202017.jpg",
+      "sitelinks": 32,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318926",
+      "answerKey": "sasha vujacic"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg"
+  ]
 }

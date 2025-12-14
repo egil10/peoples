@@ -1,7 +1,7 @@
 {
   "country": "Bulgaria",
   "countryCode": "Q219",
-  "generated": "2025-12-14T01:54:48.331Z",
+  "generated": "2025-12-14T20:15:18.321Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 112,
       "birthYear": "1905",
       "deathYear": "1994",
-      "occupation": "writer",
+      "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80064",
       "answerKey": "elias canetti"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 79,
       "birthYear": "1989",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "gymnast",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183439",
       "answerKey": "nina dobrev"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 77,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "military personnel",
+      "occupation": "aircraft pilot",
       "wikidataUrl": "http://www.wikidata.org/entity/Q26257557",
       "answerKey": "rumen radev"
     },
@@ -44,31 +44,31 @@
       "sitelinks": 74,
       "birthYear": "1959",
       "deathYear": null,
-      "occupation": "military personnel",
+      "occupation": "karateka",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57775",
       "answerKey": "boyko borissov"
     },
     {
       "id": 5,
-      "name": "Hristo Stoichkov",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stoichkov%20in%202016.jpg",
-      "sitelinks": 71,
-      "birthYear": "1966",
-      "deathYear": null,
-      "occupation": "association football coach",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q187125",
-      "answerKey": "hristo stoichkov"
-    },
-    {
-      "id": 6,
       "name": "Julia Kristeva",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Julia%20Kristeva%20%C3%A0%20Paris%20en%202008.jpg",
       "sitelinks": 71,
       "birthYear": "1941",
       "deathYear": null,
-      "occupation": "university teacher",
+      "occupation": "linguist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q159876",
       "answerKey": "julia kristeva"
+    },
+    {
+      "id": 6,
+      "name": "Hristo Stoichkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stoichkov%20in%202016.jpg",
+      "sitelinks": 71,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q187125",
+      "answerKey": "hristo stoichkov"
     },
     {
       "id": 7,
@@ -88,7 +88,7 @@
       "sitelinks": 67,
       "birthYear": "1850",
       "deathYear": "1921",
-      "occupation": "judge",
+      "occupation": "prose writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310630",
       "answerKey": "ivan vazov"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 67,
       "birthYear": "1911",
       "deathYear": "1998",
-      "occupation": "politician",
+      "occupation": "resistance fighter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q28517",
       "answerKey": "todor zhivkov"
     },
@@ -113,7 +113,446 @@
       "occupation": "chess player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q172798",
       "answerKey": "veselin topalov"
+    },
+    {
+      "id": 11,
+      "name": "Georgi Parvanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgi%20Parvanov%20Senate%20of%20Poland%2001.jpg",
+      "sitelinks": 65,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57261",
+      "answerKey": "georgi parvanov"
+    },
+    {
+      "id": 12,
+      "name": "Dimitar Berbatov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mitko%20Berbatov.jpg",
+      "sitelinks": 62,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q170235",
+      "answerKey": "dimitar berbatov"
+    },
+    {
+      "id": 13,
+      "name": "Simeon II of Bulgaria",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simeon%20Borisov%20Sakskoburggotski%20%28Saxe-Coburg-Gotha%2C%20Simeon%20II%29%20in%202017.jpg",
+      "sitelinks": 62,
+      "birthYear": "1937",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1060355",
+      "answerKey": "simeon ii of bulgaria"
+    },
+    {
+      "id": 14,
+      "name": "Ferdinand I of Bulgaria",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zar%20Ferdinand%20Bulgarien.jpg",
+      "sitelinks": 60,
+      "birthYear": "1861",
+      "deathYear": "1948",
+      "occupation": "zoological collector",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151667",
+      "answerKey": "ferdinand i of bulgaria"
+    },
+    {
+      "id": 15,
+      "name": "Boris III of Bulgaria",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BASA-3K-7-342-28-Boris%20III%20of%20Bulgaria.jpeg",
+      "sitelinks": 58,
+      "birthYear": "1894",
+      "deathYear": "1943",
+      "occupation": "train driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q159585",
+      "answerKey": "boris iii of bulgaria"
+    },
+    {
+      "id": 16,
+      "name": "Irina Bokova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blue-Shield%20Vienna%203431.JPG",
+      "sitelinks": 55,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230850",
+      "answerKey": "irina bokova"
+    },
+    {
+      "id": 17,
+      "name": "Rosen Plevneliev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BG%20President%20Rosen%20Plevneliev.JPG",
+      "sitelinks": 55,
+      "birthYear": "1964",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295212",
+      "answerKey": "rosen plevneliev"
+    },
+    {
+      "id": 18,
+      "name": "Anna-Maria Ravnopolska-Dean",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna-Maria%20Ravnopolska-Dean.JPG",
+      "sitelinks": 54,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "composer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q107467",
+      "answerKey": "annamaria ravnopolskadean"
+    },
+    {
+      "id": 19,
+      "name": "Stefka Kostadinova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefka%20Kostadinova.JPG",
+      "sitelinks": 53,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "high jumper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232008",
+      "answerKey": "stefka kostadinova"
+    },
+    {
+      "id": 20,
+      "name": "Tzvetan Todorov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tzvetan%20Todorov%20no%20Fronteiras%20do%20Pensamento%20Porto%20Alegre%202012%20%287938086378%29.jpg",
+      "sitelinks": 48,
+      "birthYear": "1939",
+      "deathYear": "2017",
+      "occupation": "semiologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313852",
+      "answerKey": "tzvetan todorov"
+    },
+    {
+      "id": 21,
+      "name": "Boris Christoff",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D1%80%D0%B8%D1%81%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2.%20crop.jpg",
+      "sitelinks": 48,
+      "birthYear": "1914",
+      "deathYear": "1993",
+      "occupation": "opera singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362106",
+      "answerKey": "boris christoff"
+    },
+    {
+      "id": 22,
+      "name": "Boris Christoff",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BE%D1%80%D0%B8%D1%81%20%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2.%20crop.jpg",
+      "sitelinks": 48,
+      "birthYear": "1918",
+      "deathYear": "1993",
+      "occupation": "opera singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362106",
+      "answerKey": "boris christoff"
+    },
+    {
+      "id": 23,
+      "name": "Kristalina Georgieva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristalina%20Georgieva%20Headshot.jpg",
+      "sitelinks": 48,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q265277",
+      "answerKey": "kristalina georgieva"
+    },
+    {
+      "id": 24,
+      "name": "Ilian Stoyanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kapfenberg-sanfrecce%20hiroshima-20100620-ilian-stoyanov-5.jpg",
+      "sitelinks": 46,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1190731",
+      "answerKey": "ilian stoyanov"
+    },
+    {
+      "id": 25,
+      "name": "Zhelyu Zhelev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%96%D0%B5%D0%BB%D1%8E%20%D0%96%D0%B5%D0%BB%D0%B5%D0%B2.jpg",
+      "sitelinks": 46,
+      "birthYear": "1935",
+      "deathYear": "2015",
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q276567",
+      "answerKey": "zhelyu zhelev"
+    },
+    {
+      "id": 26,
+      "name": "Maria Bakalova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bakalova%20Paris%20Fashion%20Week%20%28cropped%202%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q100740782",
+      "answerKey": "maria bakalova"
+    },
+    {
+      "id": 27,
+      "name": "Stiliyan Petrov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stiliyan%20Petrov%20-%202011%20%282%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q166263",
+      "answerKey": "stiliyan petrov"
+    },
+    {
+      "id": 28,
+      "name": "Antoaneta Stefanova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022-Antoaneta-Stefanova.JPG",
+      "sitelinks": 45,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q238810",
+      "answerKey": "antoaneta stefanova"
+    },
+    {
+      "id": 29,
+      "name": "Antoaneta Stefanova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antoaneta%20Stefanova%20%2845NS%29.png",
+      "sitelinks": 45,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "chess player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q238810",
+      "answerKey": "antoaneta stefanova"
+    },
+    {
+      "id": 30,
+      "name": "Kiril Metkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Metkov.jpg",
+      "sitelinks": 45,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47765",
+      "answerKey": "kiril metkov"
+    },
+    {
+      "id": 31,
+      "name": "Boris I of Bulgaria",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TzarBorisDidacticGospelConstantinePreslavski.jpg",
+      "sitelinks": 44,
+      "birthYear": "828",
+      "deathYear": "907",
+      "occupation": "monk",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311057",
+      "answerKey": "boris i of bulgaria"
+    },
+    {
+      "id": 32,
+      "name": "Sergei Stanishev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergei%20Stanishev%20%2841NS%29.png",
+      "sitelinks": 44,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202117",
+      "answerKey": "sergei stanishev"
+    },
+    {
+      "id": 33,
+      "name": "Sergei Stanishev",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sergey%20Stanishev%202009%20elections%20diff%20crop.jpg",
+      "sitelinks": 44,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q202117",
+      "answerKey": "sergei stanishev"
+    },
+    {
+      "id": 34,
+      "name": "Martin Petrov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Petrov%20August%202011.jpg",
+      "sitelinks": 44,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q206644",
+      "answerKey": "martin petrov"
+    },
+    {
+      "id": 35,
+      "name": "Petar Stoyanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petar%20Stoyanov%20%2840NS%29.png",
+      "sitelinks": 43,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81215",
+      "answerKey": "petar stoyanov"
+    },
+    {
+      "id": 36,
+      "name": "Petar Stoyanov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Petar%20Stoyanov%202006.jpg",
+      "sitelinks": 43,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "jurist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81215",
+      "answerKey": "petar stoyanov"
+    },
+    {
+      "id": 37,
+      "name": "Poli Genova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ESC2016%20-%20Bulgaria%20Meet%20%26%20Greet%2028.jpg",
+      "sitelinks": 43,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "television presenter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q236491",
+      "answerKey": "poli genova"
+    },
+    {
+      "id": 38,
+      "name": "Kristian Kostov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Kostov%20Kyiv%202017%20interview.jpg",
+      "sitelinks": 43,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "model",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21932286",
+      "answerKey": "kristian kostov"
+    },
+    {
+      "id": 39,
+      "name": "Kiril Petkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kiril%20Petkov%20%2848NS%29.png",
+      "sitelinks": 43,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106928258",
+      "answerKey": "kiril petkov"
+    },
+    {
+      "id": 40,
+      "name": "Grigor Dimitrov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grigor%20Dimitrov%20%282023%20DC%20Open%29%2001.jpg",
+      "sitelinks": 42,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q337681",
+      "answerKey": "grigor dimitrov"
+    },
+    {
+      "id": 41,
+      "name": "Sylvie Vartan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vartan-Quaisse0847.jpg",
+      "sitelinks": 41,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "chansonnier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q240885",
+      "answerKey": "sylvie vartan"
+    },
+    {
+      "id": 42,
+      "name": "Naim Süleymanoğlu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Naim%20S%C3%BCleymano%C4%9Flu%20mezar.jpg",
+      "sitelinks": 39,
+      "birthYear": "1967",
+      "deathYear": "2017",
+      "occupation": "weightlifter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q311259",
+      "answerKey": "naim suleymanoglu"
+    },
+    {
+      "id": 43,
+      "name": "Omurtag of Bulgaria",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omurtag1.jpg",
+      "sitelinks": 39,
+      "birthYear": null,
+      "deathYear": "831",
+      "occupation": "sovereign",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q276527",
+      "answerKey": "omurtag of bulgaria"
+    },
+    {
+      "id": 44,
+      "name": "Krasimir Balakov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Krasimir%20Balakov%202015%20%28cropped%29.JPG",
+      "sitelinks": 38,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313380",
+      "answerKey": "krasimir balakov"
+    },
+    {
+      "id": 45,
+      "name": "Pancho Vladigerov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BASA-1271K-1-161-60-Pancho%20Vladigerov.JPG",
+      "sitelinks": 37,
+      "birthYear": "1899",
+      "deathYear": "1978",
+      "occupation": "music educator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q528781",
+      "answerKey": "pancho vladigerov"
+    },
+    {
+      "id": 46,
+      "name": "Tsvetana Pironkova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsvetana%20Pironkova%202011-06-14%20B%20portrait.jpg",
+      "sitelinks": 37,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229460",
+      "answerKey": "tsvetana pironkova"
+    },
+    {
+      "id": 47,
+      "name": "Victoria Georgieva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Viktoria%20georgieva-1621716776%20%28cropped%29.JPG",
+      "sitelinks": 37,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21621351",
+      "answerKey": "victoria georgieva"
+    },
+    {
+      "id": 48,
+      "name": "Emil Kostadinov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emil%20Kostadinov%20new.JPG",
+      "sitelinks": 36,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q342411",
+      "answerKey": "emil kostadinov"
+    },
+    {
+      "id": 49,
+      "name": "Petar Mladenov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgaarse%20minister%20buitenlandse%20zaken%20Petar%20Mladenof%20in%20Nederland%20gearriveerd%20i%2C%20Bestanddeelnr%20928-5307%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1936",
+      "deathYear": "2000",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81144",
+      "answerKey": "petar mladenov"
+    },
+    {
+      "id": 50,
+      "name": "Nikolai Denkov",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Denkov%20official%20portrait.jpg",
+      "sitelinks": 36,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "physical chemist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28536878",
+      "answerKey": "nikolai denkov"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
   "countryCode": "Q804",
-  "generated": "2025-12-14T01:58:39.674Z",
+  "generated": "2025-12-14T20:23:09.486Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 65,
       "birthYear": "1934",
       "deathYear": "2017",
-      "occupation": "military personnel",
+      "occupation": "drug lord",
       "wikidataUrl": "http://www.wikidata.org/entity/Q192667",
       "answerKey": "manuel noriega"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 55,
       "birthYear": "1980",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q230827",
       "answerKey": "jordana brewster"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 49,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1134096",
       "answerKey": "juan carlos varela"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 46,
       "birthYear": "1952",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "entrepreneur",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57491",
       "answerKey": "ricardo martinelli"
     },
@@ -66,23 +66,12 @@
       "sitelinks": 45,
       "birthYear": "1929",
       "deathYear": "1981",
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q332055",
       "answerKey": "omar torrijos"
     },
     {
       "id": 7,
-      "name": "Laurentino Cortizo",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurentino%20Cortizo%20%2852134360482%29%20%28cropped%29.jpg",
-      "sitelinks": 39,
-      "birthYear": "1953",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q28122455",
-      "answerKey": "laurentino cortizo"
-    },
-    {
-      "id": 8,
       "name": "Mireya Moscoso",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mireya%20Moscoso.jpg",
       "sitelinks": 39,
@@ -93,13 +82,24 @@
       "answerKey": "mireya moscoso"
     },
     {
+      "id": 8,
+      "name": "Laurentino Cortizo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laurentino%20Cortizo%20%2852134360482%29%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28122455",
+      "answerKey": "laurentino cortizo"
+    },
+    {
       "id": 9,
       "name": "Miguel Bosé",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miguel%20Bos%C3%A9%20en%20la%20Presentaci%C3%B3n%20de%20la%20Gala%20Sida%20de%202017.jpg",
       "sitelinks": 36,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q356762",
       "answerKey": "miguel bose"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 36,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q276283",
       "answerKey": "martin torrijos"
+    },
+    {
+      "id": 11,
+      "name": "Jaime Penedo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaime%20Penedo1%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2714776",
+      "answerKey": "jaime penedo"
+    },
+    {
+      "id": 12,
+      "name": "Felipe Baloy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Baloy%20%282008%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2499879",
+      "answerKey": "felipe baloy"
+    },
+    {
+      "id": 13,
+      "name": "Irving Saladino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Osaka07%20D5M%20Irving%20Saladino.jpg",
+      "sitelinks": 33,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "long jumper",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310417",
+      "answerKey": "irving saladino"
+    },
+    {
+      "id": 14,
+      "name": "José Raúl Mulino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Ra%C3%BAl%20Mulino%202025.jpg",
+      "sitelinks": 32,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q108454869",
+      "answerKey": "jose raul mulino"
+    },
+    {
+      "id": 15,
+      "name": "Rubén Blades",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruben%20Blades%20by%20Gage%20Skidmore.jpg",
+      "sitelinks": 32,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q474980",
+      "answerKey": "ruben blades"
+    },
+    {
+      "id": 16,
+      "name": "Eric Davis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erick%20Davis%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3731469",
+      "answerKey": "eric davis"
+    },
+    {
+      "id": 17,
+      "name": "Aníbal Godoy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ENG-PAN%20%2815%29%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2759958",
+      "answerKey": "anibal godoy"
+    },
+    {
+      "id": 18,
+      "name": "Luis Tejada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PAN-TUN%20%2828%29%20%28cropped%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1982",
+      "deathYear": "2024",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1457192",
+      "answerKey": "luis tejada"
+    },
+    {
+      "id": 19,
+      "name": "Billy Cobham",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Billy%20Cobham%20Kongsberg%20Jazzfestival%202024%20%28140927%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "jazz musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q338786",
+      "answerKey": "billy cobham"
+    },
+    {
+      "id": 20,
+      "name": "Román Torres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecu-Panama%20%281%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2565181",
+      "answerKey": "roman torres"
+    },
+    {
+      "id": 21,
+      "name": "Manuel Amador Guerrero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Manuel%20Amador%20Guerrero.jpg",
+      "sitelinks": 28,
+      "birthYear": "1833",
+      "deathYear": "1909",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558309",
+      "answerKey": "manuel amador guerrero"
+    },
+    {
+      "id": 22,
+      "name": "Gabriel Gómez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ENG-PAN%20%2813%29%202018-6-29%20Gabriel%20Enrique%20G%C3%B3mez.jpg",
+      "sitelinks": 28,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q981799",
+      "answerKey": "gabriel gomez"
+    },
+    {
+      "id": 23,
+      "name": "Blas Pérez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Blas%20P%C3%A9rez%20FC%20Dallas.jpg",
+      "sitelinks": 28,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2528573",
+      "answerKey": "blas perez"
+    },
+    {
+      "id": 24,
+      "name": "Michael Amir Murillo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Partido%20Galicia%20-%20Panam%C3%A1%20en%20Bala%C3%ADdos%2063.jpg",
+      "sitelinks": 27,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q27805413",
+      "answerKey": "michael amir murillo"
+    },
+    {
+      "id": 25,
+      "name": "Arnulfo Arias",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A.%20Arias%20President%20of%20Panama%20%28cropped%29.jpg",
+      "sitelinks": 27,
+      "birthYear": "1901",
+      "deathYear": "1988",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q603836",
+      "answerKey": "arnulfo arias"
+    },
+    {
+      "id": 26,
+      "name": "Armando Cooper",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ENG-PAN%20%285%29%20%28cropped%29.jpg",
+      "sitelinks": 27,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2053749",
+      "answerKey": "armando cooper"
+    },
+    {
+      "id": 27,
+      "name": "Guillermo Endara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillermo%20Endara%201993.jpg",
+      "sitelinks": 26,
+      "birthYear": "1936",
+      "deathYear": "2009",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q443831",
+      "answerKey": "guillermo endara"
+    },
+    {
+      "id": 28,
+      "name": "Harold Cummings",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uni%C3%B3n%20Espa%C3%B1ola%20v%20Deportes%20Iquique%2020200126%2010.jpg",
+      "sitelinks": 26,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5660408",
+      "answerKey": "harold cummings"
+    },
+    {
+      "id": 29,
+      "name": "Ricardo Ávila",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo%20%C3%81vila%202018.jpg",
+      "sitelinks": 25,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28935645",
+      "answerKey": "ricardo avila"
+    },
+    {
+      "id": 30,
+      "name": "Fidel Escobar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ENG-PAN%20%2813%29%202018-6-29%20Fidel%20Escobar.jpg",
+      "sitelinks": 25,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20090660",
+      "answerKey": "fidel escobar"
+    },
+    {
+      "id": 31,
+      "name": "Édgar Joel Bárcenas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Partido%20Galicia%20-%20Panam%C3%A1%20en%20Bala%C3%ADdos%2068.jpg",
+      "sitelinks": 25,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21072120",
+      "answerKey": "edgar joel barcenas"
+    },
+    {
+      "id": 32,
+      "name": "José Luis Lacunza Maestrojuán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lacunza%20Maestroju%C3%A1n.jpg",
+      "sitelinks": 25,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "Catholic missionary",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1674361",
+      "answerKey": "jose luis lacunza maestrojuan"
+    },
+    {
+      "id": 33,
+      "name": "Justine Pasek",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Justine%20Pasek%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "concept artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2273546",
+      "answerKey": "justine pasek"
+    },
+    {
+      "id": 34,
+      "name": "Gabriel Torres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Arturo%20Torres%20%28cropped%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5515888",
+      "answerKey": "gabriel torres"
+    },
+    {
+      "id": 35,
+      "name": "Abdiel Arroyo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DC%20United%20vs.%20Deportivo%20%C3%81rabe%20Unido%20%2816%29.jpg",
+      "sitelinks": 24,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20675902",
+      "answerKey": "abdiel arroyo"
+    },
+    {
+      "id": 36,
+      "name": "Mariano Rivera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mariano%20Rivera%20allison%207%2029%2007.jpg",
+      "sitelinks": 22,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "baseball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q382303",
+      "answerKey": "mariano rivera"
+    },
+    {
+      "id": 37,
+      "name": "José Luis Rodríguez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Rodr%C3%ADguez.jpg",
+      "sitelinks": 22,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q54512527",
+      "answerKey": "jose luis rodriguez"
+    },
+    {
+      "id": 38,
+      "name": "Adolfo Machado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolfo%20Machado.jpg",
+      "sitelinks": 22,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3605454",
+      "answerKey": "adolfo machado"
+    },
+    {
+      "id": 39,
+      "name": "Alberto Quintero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alberto-Quintero.jpg",
+      "sitelinks": 22,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q766988",
+      "answerKey": "alberto quintero"
+    },
+    {
+      "id": 40,
+      "name": "Ernesto Pérez Balladares",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Ernesto%20Perez%20Balladares%20%28cropped%29.jpg",
+      "sitelinks": 22,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q887699",
+      "answerKey": "ernesto perez balladares"
+    },
+    {
+      "id": 41,
+      "name": "Alonso Edward",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alonso%20Edward%202012%20Olympics.jpg",
+      "sitelinks": 21,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q438929",
+      "answerKey": "alonso edward"
+    },
+    {
+      "id": 42,
+      "name": "Eric Arturo Delvalle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eric%20Arturo%20Delvalle.png",
+      "sitelinks": 20,
+      "birthYear": "1937",
+      "deathYear": "2015",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q739390",
+      "answerKey": "eric arturo delvalle"
+    },
+    {
+      "id": 43,
+      "name": "Julio Dely Valdés",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dely%20valdes.jpg",
+      "sitelinks": 20,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q553353",
+      "answerKey": "julio dely valdes"
+    },
+    {
+      "id": 44,
+      "name": "Roberto Chen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20chen%20en%20su%20presentacion%20al%20malaga%20CF..jpg",
+      "sitelinks": 20,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6109658",
+      "answerKey": "roberto chen"
+    },
+    {
+      "id": 45,
+      "name": "Jorge Illueca",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jorge%20Enrique%20Illueca%20Sibauste%2C%20presidente%20de%20Panam%C3%A1.png",
+      "sitelinks": 20,
+      "birthYear": "1918",
+      "deathYear": "2012",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q685368",
+      "answerKey": "jorge illueca"
+    },
+    {
+      "id": 46,
+      "name": "Valentín Pimentel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valent%C3%ADn%20Pimentel%20%28cropped%29.jpg",
+      "sitelinks": 20,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20826255",
+      "answerKey": "valentin pimentel"
+    },
+    {
+      "id": 47,
+      "name": "Belisario Porras Barahona",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Belisario%20Porras%20Barahona.jpg",
+      "sitelinks": 19,
+      "birthYear": "1856",
+      "deathYear": "1942",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q322239",
+      "answerKey": "belisario porras barahona"
+    },
+    {
+      "id": 48,
+      "name": "Luis Ovalle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PAN-TUN%20%2817%29%20%28cropped%29.jpg",
+      "sitelinks": 19,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3840399",
+      "answerKey": "luis ovalle"
+    },
+    {
+      "id": 49,
+      "name": "Rosa María Britton",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RosaMariaBritton.jpg",
+      "sitelinks": 18,
+      "birthYear": "1936",
+      "deathYear": "2019",
+      "occupation": "physician writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q261065",
+      "answerKey": "rosa maria britton"
+    },
+    {
+      "id": 50,
+      "name": "Luis Mejía",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Concacaf%20Gold%20Cup%20%2848248588296%29%20%28cropped%29.jpg",
+      "sitelinks": 18,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2465298",
+      "answerKey": "luis mejia"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg"
+  ]
 }

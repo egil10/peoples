@@ -1,7 +1,7 @@
 {
   "country": "Oman",
   "countryCode": "Q842",
-  "generated": "2025-12-14T01:56:32.276Z",
+  "generated": "2025-12-14T20:19:04.036Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -22,7 +22,7 @@
       "sitelinks": 58,
       "birthYear": "1955",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "sovereign",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12250314",
       "answerKey": "haitham bin tarik al said"
     },
@@ -105,6 +105,17 @@
     },
     {
       "id": 10,
+      "name": "Amad Al Hosni",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Imad%20Ali%20Suleiman%20Al-Hosni.jpg",
+      "sitelinks": 18,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1190421",
+      "answerKey": "amad al hosni"
+    },
+    {
+      "id": 11,
       "name": "Theyazin bin Haitham Al Said",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theyazin%20bin%20Haitham%202%20%28cropped%29%20%28cropped%29.jpg",
       "sitelinks": 18,
@@ -113,7 +124,435 @@
       "occupation": "civil servant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q104828519",
       "answerKey": "theyazin bin haitham al said"
+    },
+    {
+      "id": 12,
+      "name": "Ahmed Mubarak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20mubarak.jpg",
+      "sitelinks": 17,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4166528",
+      "answerKey": "ahmed mubarak"
+    },
+    {
+      "id": 13,
+      "name": "Ahmed Al-Kaf",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Al-Kaf%201%20%28cropped%29.jpg",
+      "sitelinks": 17,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20641050",
+      "answerKey": "ahmed alkaf"
+    },
+    {
+      "id": 14,
+      "name": "Muhsen Al-Ghassani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Muhsen%20Al-Ghassani.jpg",
+      "sitelinks": 17,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60522285",
+      "answerKey": "muhsen alghassani"
+    },
+    {
+      "id": 15,
+      "name": "Ahad bint Abdullah Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84%D8%A9%20%D8%8C%20%D8%B9%D9%87%D8%AF%20%D8%A8%D9%86%D8%AA%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%A8%D9%88%D8%B3%D8%B9%D9%8A%D8%AF%D9%8A%D8%8C%20%D8%B2%D9%88%D8%AC%D8%A9%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%87%D9%8A%D8%AB%D9%85%20%D8%A8%D9%86%20%D8%B7%D8%A7%D8%B1%D9%82%20%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D8%B9%D9%85%D8%A7%D9%86%20%283x4%20cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q97933143",
+      "answerKey": "ahad bint abdullah al busaidi"
+    },
+    {
+      "id": 16,
+      "name": "Fatma Al-Nabhani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fatma-al-nabinha-oman-tennis-player.jpg",
+      "sitelinks": 15,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5437905",
+      "answerKey": "fatma alnabhani"
+    },
+    {
+      "id": 17,
+      "name": "Barakat Al-Harthi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barakat%20Al-Harthi%202013%20World%20Championships%20in%20Athletics%20%28cropped%29.jpg",
+      "sitelinks": 14,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2883786",
+      "answerKey": "barakat alharthi"
+    },
+    {
+      "id": 18,
+      "name": "Rumaitha Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rumaitha%20Al%20Busaidi%20at%20Sustainable%20Development%20Impact%20Summit%202021.png",
+      "sitelinks": 14,
+      "birthYear": "1901",
+      "deathYear": null,
+      "occupation": "activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q106923101",
+      "answerKey": "rumaitha al busaidi"
+    },
+    {
+      "id": 19,
+      "name": "Hani Al-Dhabit",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hani%20Al-Dhabit.png",
+      "sitelinks": 13,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13501",
+      "answerKey": "hani aldhabit"
+    },
+    {
+      "id": 20,
+      "name": "Ali Al-Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AlBusaidiAliOman.jpg",
+      "sitelinks": 13,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15984087",
+      "answerKey": "ali albusaidi"
+    },
+    {
+      "id": 21,
+      "name": "Mohsin Al-Khaldi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohsin%20Al-Khaldi.jpg",
+      "sitelinks": 12,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18758120",
+      "answerKey": "mohsin alkhaldi"
+    },
+    {
+      "id": 22,
+      "name": "Abdullah Al Hilali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdullah%20Al%20Hilali.jpg",
+      "sitelinks": 11,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317571",
+      "answerKey": "abdullah al hilali"
+    },
+    {
+      "id": 23,
+      "name": "Saad Al-Mukhaini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Saad%20Al%20Mukhaini%2020191301.jpg",
+      "sitelinks": 11,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3944164",
+      "answerKey": "saad almukhaini"
+    },
+    {
+      "id": 24,
+      "name": "Raed Ibrahim Saleh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Raed%20Ibrahim%20Saleh%2020191301.jpg",
+      "sitelinks": 11,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7281956",
+      "answerKey": "raed ibrahim saleh"
+    },
+    {
+      "id": 25,
+      "name": "Salaah Al-Yahyaei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salaah%20Al%20Yahyaei%2020191301.jpg",
+      "sitelinks": 11,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60646511",
+      "answerKey": "salaah alyahyaei"
+    },
+    {
+      "id": 26,
+      "name": "Yusuf bin Alawi bin Abdullah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20Responsible%20for%20Foreign%20Affairs%2C%20Sultanate%20of%20Oman%20%288657089041%29%20%28cropped%29.jpg",
+      "sitelinks": 10,
+      "birthYear": "1945",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58267",
+      "answerKey": "yusuf bin alawi bin abdullah"
+    },
+    {
+      "id": 27,
+      "name": "Munib al-Masri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MunibCastle.jpg",
+      "sitelinks": 10,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1888870",
+      "answerKey": "munib almasri"
+    },
+    {
+      "id": 28,
+      "name": "Faiz Al-Rushaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Faiz%20Al%20Rushaidi%2020191301.jpg",
+      "sitelinks": 10,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5431328",
+      "answerKey": "faiz alrushaidi"
+    },
+    {
+      "id": 29,
+      "name": "Aḥmad ibn Ḥamad Khalīlī",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A%20Ahmed%20bin%20Hamad%20al-Khalili%2001%20%28cropped%29.jpg",
+      "sitelinks": 9,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "qadi",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4072997",
+      "answerKey": "ahmad ibn hamad khalili"
+    },
+    {
+      "id": 30,
+      "name": "Harib Al-Saadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Harib%20Al-Saadi.jpg",
+      "sitelinks": 9,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17180639",
+      "answerKey": "harib alsaadi"
+    },
+    {
+      "id": 31,
+      "name": "Fahd bin Mahmoud Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sayyid%20Fahd%20bin%20Mahmoud%20al%20Said%20%28cropped%29.png",
+      "sitelinks": 8,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5429529",
+      "answerKey": "fahd bin mahmoud al said"
+    },
+    {
+      "id": 32,
+      "name": "Asa'ad bin Tariq Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Asa%27ad%20bin%20Tariq%20Al%20Said%20at%20the%20Enthronement%20of%20Naruhito%20%281%29.jpg",
+      "sitelinks": 8,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q59660242",
+      "answerKey": "asaad bin tariq al said"
+    },
+    {
+      "id": 33,
+      "name": "Ahmed Al-Rawahi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Rawahi%20Goalie.jpg",
+      "sitelinks": 8,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60194903",
+      "answerKey": "ahmed alrawahi"
+    },
+    {
+      "id": 34,
+      "name": "Ahmad Al Harthy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20al%20harthy%20brandshatch2014.JPG",
+      "sitelinks": 7,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "racing driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4695244",
+      "answerKey": "ahmad al harthy"
+    },
+    {
+      "id": 35,
+      "name": "Badar Jumaa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Badr%20Jumaa%20%28c%29%20Salalah4life.png",
+      "sitelinks": 7,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4840600",
+      "answerKey": "badar jumaa"
+    },
+    {
+      "id": 36,
+      "name": "Hunaina al-Mughairy",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hunaina%20Sultan%20Al-Mughairy%20%28cropped%29.jpg",
+      "sitelinks": 7,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q19374923",
+      "answerKey": "hunaina almughairy"
+    },
+    {
+      "id": 37,
+      "name": "Mazoon Al-Alawi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mazoon%20Al-Alawi%202022%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26262336",
+      "answerKey": "mazoon alalawi"
+    },
+    {
+      "id": 38,
+      "name": "Ibrahim Al-Mukhaini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Mukhaini%20USMNT%20vs%20Oman%2012%209%2023.jpg",
+      "sitelinks": 6,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q110051766",
+      "answerKey": "ibrahim almukhaini"
+    },
+    {
+      "id": 39,
+      "name": "Shihab bin Tariq Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shihab%20bin%20Tariq%20Al%20Said%202008.jpg",
+      "sitelinks": 6,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q81686943",
+      "answerKey": "shihab bin tariq al said"
+    },
+    {
+      "id": 40,
+      "name": "Badr bin Hamad Al Busaidi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/UK-Oman%20Joint%20Working%20Group%20%2810154028623%29%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q98456849",
+      "answerKey": "badr bin hamad al busaidi"
+    },
+    {
+      "id": 41,
+      "name": "Bilarab bin Haitham Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bilarab%20bin%20Haitham%20Al%20Said%202023.jpg",
+      "sitelinks": 6,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": null,
+      "wikidataUrl": "http://www.wikidata.org/entity/Q105924906",
+      "answerKey": "bilarab bin haitham al said"
+    },
+    {
+      "id": 42,
+      "name": "Madeeha bint Ahmed bin Nassir al Shibaniyah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/26-11-2013%20Ministra%20da%20educa%C3%A7%C3%A3o%20do%20Sultanato%20de%20Om%C3%A3%2C%20Madeeha%20bint%20Ahmed%20al%20Shivaniyia%20%C3%A9%20recebida%20pelo%20vice-presidente%20Michel%20Temer%20-%2011067460114.jpg",
+      "sitelinks": 5,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q43287478",
+      "answerKey": "madeeha bint ahmed bin nassir al shibaniyah"
+    },
+    {
+      "id": 43,
+      "name": "Ghalib Bin Ali",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ghalib%20Alhinai%20-%201962.jpg",
+      "sitelinks": 5,
+      "birthYear": "1912",
+      "deathYear": "2009",
+      "occupation": "imam",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3497798",
+      "answerKey": "ghalib bin ali"
+    },
+    {
+      "id": 44,
+      "name": "Taimur bin Asa’ad Al Said",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/His-Highness-Sayyid-Taimur-bin-Asaad-bin-Tariq-Al-Said.jpg",
+      "sitelinks": 5,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16120011",
+      "answerKey": "taimur bin asaad al said"
+    },
+    {
+      "id": 45,
+      "name": "Mohamed Obaid Al-Saadi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mohamed%20Obaid%20Al-Saadi%202017.jpg",
+      "sitelinks": 5,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q40924702",
+      "answerKey": "mohamed obaid alsaadi"
+    },
+    {
+      "id": 46,
+      "name": "Hilda Al-Hinai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hilda%20Al-Hinai%2C%20December%202014%20%2816035423782%29%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21293507",
+      "answerKey": "hilda alhinai"
+    },
+    {
+      "id": 47,
+      "name": "Qais Mohammed Al Yousef",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Qais%20Mohammed%20Al%20Yousef%20of%20Oman%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q114586610",
+      "answerKey": "qais mohammed al yousef"
+    },
+    {
+      "id": 48,
+      "name": "Salim bin Nasir bin Said Al Aufi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salim%20bin%20Nasser%20Al%20Aufi%2C%20Omani%20Minister%20for%20Energy%20and%20Minerals%20-%202025%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q114587560",
+      "answerKey": "salim bin nasir bin said al aufi"
+    },
+    {
+      "id": 49,
+      "name": "Ahmed Mubarak Salah",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ahmed%20Mubarak%20Salah%202017.jpg",
+      "sitelinks": 4,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q39658310",
+      "answerKey": "ahmed mubarak salah"
+    },
+    {
+      "id": 50,
+      "name": "Badria al-Badri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omani%20poet%20Badria%20al-Badri%2C%20Alrafidain%20TV%20-%20Aug%2019%2C%202019%2002.jpg",
+      "sitelinks": 4,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q110141431",
+      "answerKey": "badria albadri"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg"
+  ]
 }

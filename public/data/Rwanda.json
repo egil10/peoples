@@ -1,7 +1,7 @@
 {
   "country": "Rwanda",
   "countryCode": "Q1037",
-  "generated": "2025-12-14T01:59:55.607Z",
+  "generated": "2025-12-14T20:23:49.068Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -33,12 +33,34 @@
       "sitelinks": 41,
       "birthYear": "1992",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q60618349",
       "answerKey": "ncuti gatwa"
     },
     {
       "id": 4,
+      "name": "Édouard Ngirente",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Ngirente%20-%202023%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
+      "answerKey": "edouard ngirente"
+    },
+    {
+      "id": 5,
+      "name": "Édouard Ngirente",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rt.Hon.%20Dr.%20Edouard%20Ngirente%20-%20Prime%20Minister%20of%20the%20Republic%20of%20Rwanda.jpg",
+      "sitelinks": 35,
+      "birthYear": "1973",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
+      "answerKey": "edouard ngirente"
+    },
+    {
+      "id": 6,
       "name": "Pasteur Bizimungu",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pasteur%20Bizimungu%201998%20%28cropped%29.jpg",
       "sitelinks": 35,
@@ -49,29 +71,18 @@
       "answerKey": "pasteur bizimungu"
     },
     {
-      "id": 5,
-      "name": "Édouard Ngirente",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rt.Hon.%20Dr.%20Edouard%20Ngirente%20-%20Prime%20Minister%20of%20the%20Republic%20of%20Rwanda.jpg",
-      "sitelinks": 35,
-      "birthYear": "1973",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
-      "answerKey": "edouard ngirente"
-    },
-    {
-      "id": 6,
-      "name": "Édouard Ngirente",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89douard%20Ngirente%20-%202023%20%28cropped%29.jpg",
-      "sitelinks": 35,
-      "birthYear": "1973",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q38188115",
-      "answerKey": "edouard ngirente"
-    },
-    {
       "id": 7,
+      "name": "Paul Rusesabagin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Rusesabagina.jpg",
+      "sitelinks": 31,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q432712",
+      "answerKey": "paul rusesabagin"
+    },
+    {
+      "id": 8,
       "name": "Grégoire Kayibanda",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1649592763733%2019650300%20RWANDA%2045.jpg",
       "sitelinks": 31,
@@ -82,24 +93,13 @@
       "answerKey": "gregoire kayibanda"
     },
     {
-      "id": 8,
-      "name": "Paul Rusesabagin",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Rusesabagina.jpg",
-      "sitelinks": 31,
-      "birthYear": "1954",
-      "deathYear": null,
-      "occupation": "entrepreneur",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q432712",
-      "answerKey": "paul rusesabagin"
-    },
-    {
       "id": 9,
       "name": "Bernard Makuza",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Makuza.JPG",
       "sitelinks": 29,
       "birthYear": "1962",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q319916",
       "answerKey": "bernard makuza"
     },
@@ -113,7 +113,446 @@
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3475485",
       "answerKey": "scholastique mukasonga"
+    },
+    {
+      "id": 11,
+      "name": "Frank Ntilikina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Ntilikina%20Dec21.jpg",
+      "sitelinks": 27,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22959154",
+      "answerKey": "frank ntilikina"
+    },
+    {
+      "id": 12,
+      "name": "Antoine Kambanda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/His%20Eminence%20Antoine%20cardinal%20Kambanda%2C%20GCLJ.jpg",
+      "sitelinks": 25,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "Catholic bishop",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q586530",
+      "answerKey": "antoine kambanda"
+    },
+    {
+      "id": 13,
+      "name": "Salima Mukansanga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Salima%20Rhadia%20Mukansanga.jpg",
+      "sitelinks": 25,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football referee",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q64027148",
+      "answerKey": "salima mukansanga"
+    },
+    {
+      "id": 14,
+      "name": "Louise Mushikiwabo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louise%20Mushikiwabo.jpg",
+      "sitelinks": 24,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q514051",
+      "answerKey": "louise mushikiwabo"
+    },
+    {
+      "id": 15,
+      "name": "Anastase Murekezi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Anastase%20Murekezi.jpg",
+      "sitelinks": 22,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q17417622",
+      "answerKey": "anastase murekezi"
+    },
+    {
+      "id": 16,
+      "name": "Godeliève Mukasarasi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Godelieve%20Mukasarasi%20%28Rwanda%29%20square.jpg",
+      "sitelinks": 20,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "social worker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5576318",
+      "answerKey": "godelieve mukasarasi"
+    },
+    {
+      "id": 17,
+      "name": "Godeliève Mukasarasi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Godelieve%20Mukasarasi%20speaks%20at%20IWOC%202018.jpg",
+      "sitelinks": 20,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "social worker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5576318",
+      "answerKey": "godelieve mukasarasi"
+    },
+    {
+      "id": 18,
+      "name": "Sonia Rolland",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sonia%20Rolland%20Pick.jpg",
+      "sitelinks": 20,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "beauty pageant contestant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1986254",
+      "answerKey": "sonia rolland"
+    },
+    {
+      "id": 19,
+      "name": "Agnes Binagwaho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Agnes%20Binagwaho.jpg",
+      "sitelinks": 18,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "vice-chancellor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4693015",
+      "answerKey": "agnes binagwaho"
+    },
+    {
+      "id": 20,
+      "name": "Carole Karemera",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carole%20Karemera%2007762.JPG",
+      "sitelinks": 18,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2939896",
+      "answerKey": "carole karemera"
+    },
+    {
+      "id": 21,
+      "name": "Immaculée Ilibagiza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Immacule%20Illibagiza%202007.jpg",
+      "sitelinks": 17,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "motivational speaker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q437786",
+      "answerKey": "immaculee ilibagiza"
+    },
+    {
+      "id": 22,
+      "name": "Zura Karuhimbi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giardino%20dei%20Giusti%20del%20Mondo%20di%20Padova%20062.jpg",
+      "sitelinks": 17,
+      "birthYear": "1925",
+      "deathYear": "2018",
+      "occupation": "healer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60400648",
+      "answerKey": "zura karuhimbi"
+    },
+    {
+      "id": 23,
+      "name": "Pierre Habumuremyi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pierre%20Damien%20Habumuremyi.jpg",
+      "sitelinks": 16,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57853",
+      "answerKey": "pierre habumuremyi"
+    },
+    {
+      "id": 24,
+      "name": "Faustin Twagiramungu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Twagiramungu%20Faustin.jpg",
+      "sitelinks": 16,
+      "birthYear": "1945",
+      "deathYear": "2023",
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q709692",
+      "answerKey": "faustin twagiramungu"
+    },
+    {
+      "id": 25,
+      "name": "Jeannette Kagame",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JeannetteKagame.jpg",
+      "sitelinks": 15,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6172288",
+      "answerKey": "jeannette kagame"
+    },
+    {
+      "id": 26,
+      "name": "Agnes Kalibata",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agnes%20Kalibata%20-%202019%20%28cropped%29.jpg",
+      "sitelinks": 15,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "policymaker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16602142",
+      "answerKey": "agnes kalibata"
+    },
+    {
+      "id": 27,
+      "name": "Gerard Bi Goua Gohou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9rard%20Bi%20Goua%20Gohou%2C%202017-09-09.jpg",
+      "sitelinks": 15,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q510355",
+      "answerKey": "gerard bi goua gohou"
+    },
+    {
+      "id": 28,
+      "name": "Olivier Karekezi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/OlivierKarekezi%20110723GIFS-%C3%96ster%202-1%206892.jpg",
+      "sitelinks": 15,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2421411",
+      "answerKey": "olivier karekezi"
+    },
+    {
+      "id": 29,
+      "name": "Haruna Niyonzima",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Niyonzima%20haruna.jpg",
+      "sitelinks": 15,
+      "birthYear": "1990",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16929735",
+      "answerKey": "haruna niyonzima"
+    },
+    {
+      "id": 30,
+      "name": "Victoire Ingabire Umuhoza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victoire%20Ingabire%20Umuhoza.jpg",
+      "sitelinks": 15,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3557036",
+      "answerKey": "victoire ingabire umuhoza"
+    },
+    {
+      "id": 31,
+      "name": "Adrien Niyonshuti",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adrien%20Niyonshuti%20La%20Bresse%202012.jpg",
+      "sitelinks": 14,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q377133",
+      "answerKey": "adrien niyonshuti"
+    },
+    {
+      "id": 32,
+      "name": "Yolande Mukagasana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/XVIII%20FdPdM%20Mukagasana%20%26%20Falkner.JPG",
+      "sitelinks": 14,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3572494",
+      "answerKey": "yolande mukagasana"
+    },
+    {
+      "id": 33,
+      "name": "Yolande Mukagasana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yolande%20Mukagasana%20close-up%20%28cropped%29.JPG",
+      "sitelinks": 14,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3572494",
+      "answerKey": "yolande mukagasana"
+    },
+    {
+      "id": 34,
+      "name": "Rosalie Gicanda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tutsi%20princess.jpg",
+      "sitelinks": 14,
+      "birthYear": "1928",
+      "deathYear": "1994",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7367192",
+      "answerKey": "rosalie gicanda"
+    },
+    {
+      "id": 35,
+      "name": "Jeanne d'Arc Mujawamariya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeanne%20d%E2%80%99Arc%20Mujawamariya%202014.jpg",
+      "sitelinks": 14,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3176134",
+      "answerKey": "jeanne darc mujawamariya"
+    },
+    {
+      "id": 36,
+      "name": "Valentine Rugwabiza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valentine%20Rugwabiza%2C%20Deputy%20Director%20General%20of%20the%20World%20Trade%20Organisation%20%28WTO%29.jpg",
+      "sitelinks": 13,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30610466",
+      "answerKey": "valentine rugwabiza"
+    },
+    {
+      "id": 37,
+      "name": "Monique Nsanzabaganwa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EU2024BE%20240205%20Team%20Europe%20mission%20on%20Health%20Addis%20Ababa%20JNZT%200135%20%2853509541177%29.jpg",
+      "sitelinks": 13,
+      "birthYear": "1971",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q41438061",
+      "answerKey": "monique nsanzabaganwa"
+    },
+    {
+      "id": 38,
+      "name": "Claudette Mukasakindi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudette%20Mukasakindi%20-%202012%20Olympics%20marathon.jpg",
+      "sitelinks": 13,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12780113",
+      "answerKey": "claudette mukasakindi"
+    },
+    {
+      "id": 39,
+      "name": "Claudette Mukasakindi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudette%20Mukasakindi%20-%202012%20Olympics%20marathon.jpg",
+      "sitelinks": 13,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "long-distance runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12780113",
+      "answerKey": "claudette mukasakindi"
+    },
+    {
+      "id": 40,
+      "name": "Monique Mujawamariya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monique%20Mujawamariya.jpg",
+      "sitelinks": 13,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "human rights defender",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3320890",
+      "answerKey": "monique mujawamariya"
+    },
+    {
+      "id": 41,
+      "name": "Clare Akamanzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clare%20Kamanzi.jpg",
+      "sitelinks": 12,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38525495",
+      "answerKey": "clare akamanzi"
+    },
+    {
+      "id": 42,
+      "name": "Dorothée Munyaneza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doroth%C3%A9e%20Munyaneza%20dancing%20to%20Yitwa%20Mandela.jpg",
+      "sitelinks": 12,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "dancer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q33077569",
+      "answerKey": "dorothee munyaneza"
+    },
+    {
+      "id": 43,
+      "name": "Esther Mujawayo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Esther%20Mujawayo-Keiner%2C%20Women%27s%20World%20Awards%202009%20b.jpg",
+      "sitelinks": 12,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "psychotherapist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1370094",
+      "answerKey": "esther mujawayo"
+    },
+    {
+      "id": 44,
+      "name": "Paula Ingabire",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paula%20Ingabire%20%28cropped%29.jpg",
+      "sitelinks": 12,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57531804",
+      "answerKey": "paula ingabire"
+    },
+    {
+      "id": 45,
+      "name": "Donatille Mukabalisa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donatila%20Mukabalisa%2C%20December%202017%20%285122%29%20%28cropped2%29.jpg",
+      "sitelinks": 12,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28868753",
+      "answerKey": "donatille mukabalisa"
+    },
+    {
+      "id": 46,
+      "name": "Aloisea Inyumba",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aloisea%20Inyumba.png",
+      "sitelinks": 12,
+      "birthYear": "1964",
+      "deathYear": "2012",
+      "occupation": "minister",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13125467",
+      "answerKey": "aloisea inyumba"
+    },
+    {
+      "id": 47,
+      "name": "Djihad Bizimana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D0%9F%D0%9B.%20%C2%AB%D0%9A%D1%80%D0%B8%D0%B2%D0%B1%D0%B0%D1%81%C2%BB%20%E2%80%94%20%C2%AB%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B8%C2%BB%20%E2%80%94%202-0%20%E2%80%94%204447%20%28cropped%29.jpg",
+      "sitelinks": 12,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q55596662",
+      "answerKey": "djihad bizimana"
+    },
+    {
+      "id": 48,
+      "name": "Gaspard Musabyimana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gaspard%20Musabyimana.JPG",
+      "sitelinks": 12,
+      "birthYear": "1955",
+      "deathYear": null,
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3098786",
+      "answerKey": "gaspard musabyimana"
+    },
+    {
+      "id": 49,
+      "name": "Bernard Munyagishari",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Munyagishari.jpg",
+      "sitelinks": 12,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "investigated",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q822622",
+      "answerKey": "bernard munyagishari"
+    },
+    {
+      "id": 50,
+      "name": "Naomi Schiff",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Brands%20Hatch%20W%20Series%20round%2028.jpg",
+      "sitelinks": 11,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "racing automobile driver",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q30121860",
+      "answerKey": "naomi schiff"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
+  ]
 }

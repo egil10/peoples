@@ -1,7 +1,7 @@
 {
   "country": "Samoa",
   "countryCode": "Q683",
-  "generated": "2025-12-14T02:00:54.201Z",
+  "generated": "2025-12-14T20:26:02.337Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,12 +11,23 @@
       "sitelinks": 42,
       "birthYear": "1945",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "archer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57723",
       "answerKey": "tuilaepa sailele malielegaoi"
     },
     {
       "id": 2,
+      "name": "Fiamē Naomi Mataʻafa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiam%C4%93%20Naomi%20Mata%CA%BBafa%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5446290",
+      "answerKey": "fiame naomi mataafa"
+    },
+    {
+      "id": 3,
       "name": "Malietoa Tanumafili II",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malietoa%20Tanumafili%20II%20%28cropped%29.jpg",
       "sitelinks": 36,
@@ -27,7 +38,7 @@
       "answerKey": "malietoa tanumafili ii"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Tufuga Efi",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupua%20Tamasese%20Tupuola%20Tufuga%20Efi%2000%20%28cropped%29.jpg",
       "sitelinks": 36,
@@ -36,17 +47,6 @@
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57523",
       "answerKey": "tufuga efi"
-    },
-    {
-      "id": 4,
-      "name": "Fiamē Naomi Mataʻafa",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiam%C4%93%20Naomi%20Mata%CA%BBafa%20in%202024%20%28cropped%29.jpg",
-      "sitelinks": 36,
-      "birthYear": "1957",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q5446290",
-      "answerKey": "fiame naomi mataafa"
     },
     {
       "id": 5,
@@ -77,7 +77,7 @@
       "sitelinks": 18,
       "birthYear": "1994",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "boxer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q23879973",
       "answerKey": "frankie adams"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 15,
       "birthYear": "1939",
       "deathYear": null,
-      "occupation": "writer",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1235864",
       "answerKey": "albert wendt"
+    },
+    {
+      "id": 11,
+      "name": "Manu Tuilagi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manu%20Tuilagi%20cropped.jpg",
+      "sitelinks": 13,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q72185",
+      "answerKey": "manu tuilagi"
+    },
+    {
+      "id": 12,
+      "name": "Fiame Mata'afa Faumuina Mulinu'u II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiame%20Mata%27afa%20Faumuina%20Mulinu%27u%20II%20%28cropped%29.jpg",
+      "sitelinks": 12,
+      "birthYear": "1921",
+      "deathYear": "1975",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1281047",
+      "answerKey": "fiame mataafa faumuina mulinuu ii"
+    },
+    {
+      "id": 13,
+      "name": "Alesana Tuilagi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alesana%20Tuilagi.jpg",
+      "sitelinks": 12,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2296866",
+      "answerKey": "alesana tuilagi"
+    },
+    {
+      "id": 14,
+      "name": "Jeremy Dodson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nickel%20Ashmeade%20Daegu%202011.jpg",
+      "sitelinks": 12,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11724253",
+      "answerKey": "jeremy dodson"
+    },
+    {
+      "id": 15,
+      "name": "Tofilau Eti Alesana",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tofilau%20Eti%20Alesana%201983%20%28cropped%29.jpg",
+      "sitelinks": 11,
+      "birthYear": "1924",
+      "deathYear": "1999",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1281027",
+      "answerKey": "tofilau eti alesana"
+    },
+    {
+      "id": 16,
+      "name": "Mils Muliaina",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mils%20Muliaina%202016.jpg",
+      "sitelinks": 11,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1125154",
+      "answerKey": "mils muliaina"
+    },
+    {
+      "id": 17,
+      "name": "Laʻauli Leuatea Schmidt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%CA%BBauli%20Leuatea%20Schmidt%20in%202023.jpg",
+      "sitelinks": 10,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16734600",
+      "answerKey": "laauli leuatea schmidt"
+    },
+    {
+      "id": 18,
+      "name": "Malietoa Tanumafili I",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Malietoa%20Tanumafili%20I.jpg",
+      "sitelinks": 9,
+      "birthYear": "1879",
+      "deathYear": "1939",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3024732",
+      "answerKey": "malietoa tanumafili i"
+    },
+    {
+      "id": 19,
+      "name": "Tupua Tamasese Lealofi IV",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupua%20Tamasese%20Lealofi%20IV.jpg",
+      "sitelinks": 9,
+      "birthYear": "1922",
+      "deathYear": "1983",
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1255575",
+      "answerKey": "tupua tamasese lealofi iv"
+    },
+    {
+      "id": 20,
+      "name": "Isaia Toeava",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IsaiaToeava.jpg",
+      "sitelinks": 9,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q723836",
+      "answerKey": "isaia toeava"
+    },
+    {
+      "id": 21,
+      "name": "Brandon Schuster",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brandon%20Schuster.jpg",
+      "sitelinks": 9,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "swimmer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q26704921",
+      "answerKey": "brandon schuster"
+    },
+    {
+      "id": 22,
+      "name": "Va'aiga Tuigamala",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Va%27aiga%20Tuigamala%20MNZM%20%28cropped%29.jpg",
+      "sitelinks": 8,
+      "birthYear": "1969",
+      "deathYear": "2022",
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3553044",
+      "answerKey": "vaaiga tuigamala"
+    },
+    {
+      "id": 23,
+      "name": "Tusi Pisi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tusi%20Pisi%202011.jpg",
+      "sitelinks": 8,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2371608",
+      "answerKey": "tusi pisi"
+    },
+    {
+      "id": 24,
+      "name": "Emma Forsayth",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20and%20Paul%20Kolbe%2C%20illustration%20from%20The%20Boston%20Globe%2C%201896.jpg",
+      "sitelinks": 7,
+      "birthYear": "1850",
+      "deathYear": "1913",
+      "occupation": "plantation owner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1338025",
+      "answerKey": "emma forsayth"
+    },
+    {
+      "id": 25,
+      "name": "Mata'afa Iosefo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samoan%20Paramount%20chief%20Mataafa%20Iosefa%2C%201896.jpg",
+      "sitelinks": 7,
+      "birthYear": "1832",
+      "deathYear": "1912",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1340618",
+      "answerKey": "mataafa iosefo"
+    },
+    {
+      "id": 26,
+      "name": "Chris Masoe",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Masoe%202015.jpg",
+      "sitelinks": 7,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q609538",
+      "answerKey": "chris masoe"
+    },
+    {
+      "id": 27,
+      "name": "Misa Telefoni Retzlaff",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MisaTelefoni%20640.jpg",
+      "sitelinks": 7,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q969868",
+      "answerKey": "misa telefoni retzlaff"
+    },
+    {
+      "id": 28,
+      "name": "Tuiloma Neroni Slade",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuiloma%20Neroni%20Slade.jpg",
+      "sitelinks": 7,
+      "birthYear": "1941",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1538566",
+      "answerKey": "tuiloma neroni slade"
+    },
+    {
+      "id": 29,
+      "name": "Margaret Satupai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Satupai.jpg",
+      "sitelinks": 7,
+      "birthYear": "1992",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11768652",
+      "answerKey": "margaret satupai"
+    },
+    {
+      "id": 30,
+      "name": "Brianna Fruean",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brianna%20Fruean%2C%202018%20%28cropped%29.jpg",
+      "sitelinks": 7,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q4965746",
+      "answerKey": "brianna fruean"
+    },
+    {
+      "id": 31,
+      "name": "Malietoa Laupepa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Laupepa.jpg",
+      "sitelinks": 6,
+      "birthYear": "1841",
+      "deathYear": "1898",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2893054",
+      "answerKey": "malietoa laupepa"
+    },
+    {
+      "id": 32,
+      "name": "Laulu Fetauimalemau Mata'afa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%27ulu%20Fetauimalemau%20Mata%27afa%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1928",
+      "deathYear": "2007",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16017839",
+      "answerKey": "laulu fetauimalemau mataafa"
+    },
+    {
+      "id": 33,
+      "name": "Albert Steinberger",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Barnes%20Steinberger.jpg",
+      "sitelinks": 6,
+      "birthYear": "1840",
+      "deathYear": "1894",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16527037",
+      "answerKey": "albert steinberger"
+    },
+    {
+      "id": 34,
+      "name": "Sia Figiel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sia%20Figiel.jpg",
+      "sitelinks": 6,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1217640",
+      "answerKey": "sia figiel"
+    },
+    {
+      "id": 35,
+      "name": "Joe Tekori",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iosefa%20Tekori%200258.JPG",
+      "sitelinks": 6,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3154134",
+      "answerKey": "joe tekori"
+    },
+    {
+      "id": 36,
+      "name": "David Lemi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Lemi%202011%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3018291",
+      "answerKey": "david lemi"
+    },
+    {
+      "id": 37,
+      "name": "Fealofani Bruun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fealofani%20Bruun%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "ship captain",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q58915099",
+      "answerKey": "fealofani bruun"
+    },
+    {
+      "id": 38,
+      "name": "Ofisa Treviranus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ofisa%20Treviranus%202011.jpg",
+      "sitelinks": 6,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "rugby sevens player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7079738",
+      "answerKey": "ofisa treviranus"
+    },
+    {
+      "id": 39,
+      "name": "Rey Lee-Lo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rey%20Lee-Lo.jpg",
+      "sitelinks": 6,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7319417",
+      "answerKey": "rey leelo"
+    },
+    {
+      "id": 40,
+      "name": "Seilala Mapusua",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seilala%20Mapusua%202022.jpg",
+      "sitelinks": 6,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3477909",
+      "answerKey": "seilala mapusua"
+    },
+    {
+      "id": 41,
+      "name": "Yanni Wetzell",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2024-12-31%20ALBA%20Berlin%20gegen%20Rostock%20Seawolves%20%28Basketball-Bundesliga%202024-25%29%20by%20Sandro%20Halank%E2%80%93086.jpg",
+      "sitelinks": 6,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q98076921",
+      "answerKey": "yanni wetzell"
+    },
+    {
+      "id": 42,
+      "name": "Fritz Lee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/USO%20-%20ASM%20-%2020150905%20-%20Fritz%20Lee.jpg",
+      "sitelinks": 5,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "rugby sevens player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5504964",
+      "answerKey": "fritz lee"
+    },
+    {
+      "id": 43,
+      "name": "Lemi Ponifasio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lemi%20Ponifasio%20portrait.jpg",
+      "sitelinks": 5,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "choreographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6521147",
+      "answerKey": "lemi ponifasio"
+    },
+    {
+      "id": 44,
+      "name": "George Pisi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/South%20Africa%20vs%20Samoa%202011%20RWC%20%285%29.jpg",
+      "sitelinks": 5,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q80607",
+      "answerKey": "george pisi"
+    },
+    {
+      "id": 45,
+      "name": "Maurie Fa'asavalu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/USO-SFP%20-%2020140830%20-%20Maurie%20Fa%27asavalu.jpg",
+      "sitelinks": 5,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3301636",
+      "answerKey": "maurie faasavalu"
+    },
+    {
+      "id": 46,
+      "name": "Duncan Paia'aua",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DuncanPaia%27aua2023%28cropped%29.jpg",
+      "sitelinks": 5,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18637850",
+      "answerKey": "duncan paiaaua"
+    },
+    {
+      "id": 47,
+      "name": "Michael Mika",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Mika%20of%20the%20Southland%20Licensing%20Trust%20%28cropped%29.jpg",
+      "sitelinks": 5,
+      "birthYear": "1968",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3313449",
+      "answerKey": "michael mika"
+    },
+    {
+      "id": 48,
+      "name": "Semo Sititi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Semo%20Sititi.jpg",
+      "sitelinks": 5,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3478461",
+      "answerKey": "semo sititi"
+    },
+    {
+      "id": 49,
+      "name": "David Smith",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Castres%20Olympique%20-%20Pr%C3%A9sentation%20de%20l%27%C3%A9quipe%202015-2016%20-%20David%20Smith%202.jpg",
+      "sitelinks": 5,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "rugby union player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5239883",
+      "answerKey": "david smith"
+    },
+    {
+      "id": 50,
+      "name": "Olaf Frederick Nelson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WS%20-Olaf%20Frederick%20Nelson.jpg",
+      "sitelinks": 4,
+      "birthYear": "1883",
+      "deathYear": "1944",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6005106",
+      "answerKey": "olaf frederick nelson"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg"
+  ]
 }

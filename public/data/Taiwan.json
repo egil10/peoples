@@ -1,7 +1,7 @@
 {
   "country": "Taiwan",
   "countryCode": "Q865",
-  "generated": "2025-12-14T01:55:09.436Z",
+  "generated": "2025-12-14T20:15:38.483Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 137,
       "birthYear": "1887",
       "deathYear": "1975",
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16574",
       "answerKey": "chiang kaishek"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 112,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "university teacher",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233984",
       "answerKey": "tsai ingwen"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 86,
       "birthYear": "1980",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q51101",
       "answerKey": "jolin tsai"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 85,
       "birthYear": "1922",
       "deathYear": "2025",
-      "occupation": "physicist",
+      "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q181369",
       "answerKey": "chenning yang"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 83,
       "birthYear": "1954",
       "deathYear": null,
-      "occupation": "screenwriter",
+      "occupation": "film producer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160726",
       "answerKey": "ang lee"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 79,
       "birthYear": "1953",
       "deathYear": "1995",
-      "occupation": "actor",
+      "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q463945",
       "answerKey": "teresa teng"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 77,
       "birthYear": "1926",
       "deathYear": "2024",
-      "occupation": "physicist",
+      "occupation": "theoretical physicist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q183679",
       "answerKey": "tsungdao lee"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 68,
       "birthYear": "1950",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "interpreter",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19216",
       "answerKey": "ma yingjeou"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 66,
       "birthYear": "1959",
       "deathYear": null,
-      "occupation": "physician",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q3847080",
       "answerKey": "lai chingte"
+    },
+    {
+      "id": 11,
+      "name": "Chien-Shiung Wu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chien-shiung%20Wu%20%281912-1997%29%20%28cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1912",
+      "deathYear": "1997",
+      "occupation": "nuclear physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450317",
+      "answerKey": "chienshiung wu"
+    },
+    {
+      "id": 12,
+      "name": "Chen Shui-bian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chen%20Shui%20Bian%20MOD.jpg",
+      "sitelinks": 58,
+      "birthYear": "1950",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22368",
+      "answerKey": "chen shuibian"
+    },
+    {
+      "id": 13,
+      "name": "Lee Teng-hui",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lee%20Teng-hui%20official%20portrait.png",
+      "sitelinks": 57,
+      "birthYear": "1923",
+      "deathYear": "2020",
+      "occupation": "agricultural economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q315528",
+      "answerKey": "lee tenghui"
+    },
+    {
+      "id": 14,
+      "name": "Yuan T. Lee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuan%20Tseh%20Lee%20HD2008%20Othmer%20Gold%20Medal%20portrait.JPG",
+      "sitelinks": 53,
+      "birthYear": "1936",
+      "deathYear": null,
+      "occupation": "Nobel Prize winner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q243190",
+      "answerKey": "yuan t lee"
+    },
+    {
+      "id": 15,
+      "name": "Chiang Ching-kuo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E7%AC%AC7%E4%BB%BB%E7%B8%BD%E7%B5%B1%E8%94%A3%E7%B6%93%E5%9C%8B%E5%85%88%E7%94%9F%E7%8E%89%E7%85%A7.jpg",
+      "sitelinks": 52,
+      "birthYear": "1910",
+      "deathYear": "1988",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313598",
+      "answerKey": "chiang chingkuo"
+    },
+    {
+      "id": 16,
+      "name": "Lin Yutang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Linyutang.jpg",
+      "sitelinks": 50,
+      "birthYear": "1895",
+      "deathYear": "1976",
+      "occupation": "scholar of English",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334086",
+      "answerKey": "lin yutang"
+    },
+    {
+      "id": 17,
+      "name": "Jeremy Lin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeremy%20Lin%20with%20the%20Knicks%20and%20reporters%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q309590",
+      "answerKey": "jeremy lin"
+    },
+    {
+      "id": 18,
+      "name": "Shu Qi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shu%20Qi%20at%20the%202025%20Cannes%20Film%20Festival%2008%20%28cropped2%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233859",
+      "answerKey": "shu qi"
+    },
+    {
+      "id": 19,
+      "name": "Chou Tzu-yu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/20240305%20Chou%20Tzuyu%20%E5%91%A8%E5%AD%90%E7%91%9C%2003.jpg",
+      "sitelinks": 45,
+      "birthYear": "1999",
+      "deathYear": null,
+      "occupation": "pop singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20688219",
+      "answerKey": "chou tzuyu"
+    },
+    {
+      "id": 20,
+      "name": "Jensen Huang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
+      "sitelinks": 43,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "tech VIP",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q305177",
+      "answerKey": "jensen huang"
+    },
+    {
+      "id": 21,
+      "name": "Jay Chou",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1203%E5%92%AA%E5%92%95%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%20%EF%BC%888%EF%BC%89.jpg",
+      "sitelinks": 42,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q238819",
+      "answerKey": "jay chou"
+    },
+    {
+      "id": 22,
+      "name": "Elaine Chao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elaine%20Chao%20official%20portrait%202.jpg",
+      "sitelinks": 42,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q263322",
+      "answerKey": "elaine chao"
+    },
+    {
+      "id": 23,
+      "name": "Hsieh Su-Wei",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hsieh%20Su-wei%20%282023%20French%20Open%29%2005%20%28cropped%29.jpg",
+      "sitelinks": 41,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q232566",
+      "answerKey": "hsieh suwei"
+    },
+    {
+      "id": 24,
+      "name": "Steve Chen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20TaiwanVersionLaunch%20SteveChen-1.jpg",
+      "sitelinks": 41,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "designer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379396",
+      "answerKey": "steve chen"
+    },
+    {
+      "id": 25,
+      "name": "Wellington Koo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wellington%20Koo%201945.jpg",
+      "sitelinks": 40,
+      "birthYear": "1888",
+      "deathYear": "1985",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317462",
+      "answerKey": "wellington koo"
+    },
+    {
+      "id": 26,
+      "name": "Hu Shih",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hu%20Shih%201960%20color.jpg",
+      "sitelinks": 38,
+      "birthYear": "1891",
+      "deathYear": "1962",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q47667",
+      "answerKey": "hu shih"
+    },
+    {
+      "id": 27,
+      "name": "Momofuku Ando",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E8%82%96%E5%83%8F.jpg",
+      "sitelinks": 37,
+      "birthYear": "1910",
+      "deathYear": "2007",
+      "occupation": "inventor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317858",
+      "answerKey": "momofuku ando"
+    },
+    {
+      "id": 28,
+      "name": "Momofuku Ando",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20statue%20of%20Momofuku%20Ando.jpg",
+      "sitelinks": 37,
+      "birthYear": "1910",
+      "deathYear": "2007",
+      "occupation": "inventor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317858",
+      "answerKey": "momofuku ando"
+    },
+    {
+      "id": 29,
+      "name": "Audrey Tang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Audrey%20Tang%20at%20SXSW%202025%2002%20%28cropped%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "1981",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15025",
+      "answerKey": "audrey tang"
+    },
+    {
+      "id": 30,
+      "name": "Ruby Lin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ruby%20Lin%20at%20the%2057th%20Golden%20Bell%20Awards%20in%20October%202022.png",
+      "sitelinks": 34,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q270674",
+      "answerKey": "ruby lin"
+    },
+    {
+      "id": 31,
+      "name": "Su Tseng-chang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Su-DPP-Cropped.png",
+      "sitelinks": 34,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q551904",
+      "answerKey": "su tsengchang"
+    },
+    {
+      "id": 32,
+      "name": "Lee Yi-hsiu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E6%AD%B7%E5%8F%B2%E5%93%A5.jpg",
+      "sitelinks": 34,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "YouTuber",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q109342850",
+      "answerKey": "lee yihsiu"
+    },
+    {
+      "id": 33,
+      "name": "Jimmy Lai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%99%BA%E5%BA%93%20%281%29%20%28cropped%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "entrepreneur",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1447095",
+      "answerKey": "jimmy lai"
+    },
+    {
+      "id": 34,
+      "name": "Wang Leehom",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wang%20Lee%20Hom%20MTV%20Asia%20Awards%202006.jpg",
+      "sitelinks": 32,
+      "birthYear": "1976",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q251068",
+      "answerKey": "wang leehom"
+    },
+    {
+      "id": 35,
+      "name": "Hou Hsiao-Hsien",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%BE%AF%E5%AD%9D%E8%B3%A2%E7%8D%B2%E7%AC%AC42%E5%B1%86%E9%87%91%E9%A6%AC%E3%80%8C%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1%E5%B7%A5%E4%BD%9C%E8%80%85%E7%8D%8E%E3%80%8D.jpg",
+      "sitelinks": 32,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q435626",
+      "answerKey": "hou hsiaohsien"
+    },
+    {
+      "id": 36,
+      "name": "Zhang Xueliang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chang%20Shueliang.jpg",
+      "sitelinks": 32,
+      "birthYear": "1901",
+      "deathYear": "2001",
+      "occupation": "statesperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20148",
+      "answerKey": "zhang xueliang"
+    },
+    {
+      "id": 37,
+      "name": "T. V. Soong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.%20V.%20Soong.jpg",
+      "sitelinks": 31,
+      "birthYear": "1891",
+      "deathYear": "1971",
+      "occupation": "banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716051",
+      "answerKey": "t v soong"
+    },
+    {
+      "id": 38,
+      "name": "T. V. Soong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.%20V.%20Soong%20in%201945%20face%20detail%2C%20from-%20T.V.%20%28Tse-Ven%29%20Soong%2C%20minister-president%20van%20China%2C%20Bestanddeelnr%20900-8980%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1891",
+      "deathYear": "1971",
+      "occupation": "banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716051",
+      "answerKey": "t v soong"
+    },
+    {
+      "id": 39,
+      "name": "T. V. Soong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.%20V.%20Soong.jpg",
+      "sitelinks": 31,
+      "birthYear": "1893",
+      "deathYear": "1971",
+      "occupation": "banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716051",
+      "answerKey": "t v soong"
+    },
+    {
+      "id": 40,
+      "name": "T. V. Soong",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T.%20V.%20Soong%20in%201945%20face%20detail%2C%20from-%20T.V.%20%28Tse-Ven%29%20Soong%2C%20minister-president%20van%20China%2C%20Bestanddeelnr%20900-8980%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1893",
+      "deathYear": "1971",
+      "occupation": "banker",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q716051",
+      "answerKey": "t v soong"
+    },
+    {
+      "id": 41,
+      "name": "Godfrey Gao",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%80%E4%BA%BA%C2%B7%E4%B8%80%E5%BC%A0%20NO.146%20%E9%AB%98%E4%BB%A5%E7%BF%94.jpg",
+      "sitelinks": 31,
+      "birthYear": "1984",
+      "deathYear": "2019",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5576440",
+      "answerKey": "godfrey gao"
+    },
+    {
+      "id": 42,
+      "name": "Sheng Shicai",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheng%20Shi-tsai.jpg",
+      "sitelinks": 31,
+      "birthYear": "1897",
+      "deathYear": "1970",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466972",
+      "answerKey": "sheng shicai"
+    },
+    {
+      "id": 43,
+      "name": "Kuo Hsing-chun",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kuo%20Hsing-Chun%2020170907%20%28cropped%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "weightlifter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6445214",
+      "answerKey": "kuo hsingchun"
+    },
+    {
+      "id": 44,
+      "name": "Li Tsung-jen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Zongren4.jpg",
+      "sitelinks": 31,
+      "birthYear": "1889",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20297",
+      "answerKey": "li tsungjen"
+    },
+    {
+      "id": 45,
+      "name": "Li Tsung-jen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Zongren4.jpg",
+      "sitelinks": 31,
+      "birthYear": "1890",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20297",
+      "answerKey": "li tsungjen"
+    },
+    {
+      "id": 46,
+      "name": "Li Tsung-jen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Li%20Zongren4.jpg",
+      "sitelinks": 31,
+      "birthYear": "1891",
+      "deathYear": "1969",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20297",
+      "answerKey": "li tsungjen"
+    },
+    {
+      "id": 47,
+      "name": "Chen Cheng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chen%20Cheng%20in%201940%27s.jpg",
+      "sitelinks": 30,
+      "birthYear": "1897",
+      "deathYear": "1965",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q701313",
+      "answerKey": "chen cheng"
+    },
+    {
+      "id": 48,
+      "name": "Barbie Hsu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbie%20Hsu%20%28cropped%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1976",
+      "deathYear": "2025",
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q465248",
+      "answerKey": "barbie hsu"
+    },
+    {
+      "id": 49,
+      "name": "Latisha Chan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chan%20YJ.%20WM17%20%282%29%20%2836016691142%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q234624",
+      "answerKey": "latisha chan"
+    },
+    {
+      "id": 50,
+      "name": "Tsai Ming-liang",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MJK%2072176%20Tsai%20Ming-Liang%20%28Abiding%20Nowhere%2C%20Berlinale%202020%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q698710",
+      "answerKey": "tsai mingliang"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Estonia",
   "countryCode": "Q191",
-  "generated": "2025-12-14T01:53:09.498Z",
+  "generated": "2025-12-14T20:12:33.831Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 109,
       "birthYear": "1867",
       "deathYear": "1948",
-      "occupation": "teacher",
+      "occupation": "Idist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q327195",
       "answerKey": "edgar de wahl"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 100,
       "birthYear": "1977",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "business undergraduate",
       "wikidataUrl": "http://www.wikidata.org/entity/Q11869065",
       "answerKey": "kaja kallas"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 95,
       "birthYear": "1969",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "consultant",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12366816",
       "answerKey": "kersti kaljulaid"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 75,
       "birthYear": "1953",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57289",
       "answerKey": "toomas hendrik ilves"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 67,
       "birthYear": "1935",
       "deathYear": null,
-      "occupation": "composer",
+      "occupation": "classical composer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q189534",
       "answerKey": "arvo part"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 63,
       "birthYear": "1988",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "recording artist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q433003",
       "answerKey": "birgit sarrap"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 61,
       "birthYear": "1978",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "basketball player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2621730",
       "answerKey": "juri ratas"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 60,
       "birthYear": "1928",
       "deathYear": "2024",
-      "occupation": "politician",
+      "occupation": "agricultural scientist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q194000",
       "answerKey": "arnold ruutel"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 60,
       "birthYear": "1958",
       "deathYear": null,
-      "occupation": "civil servant",
+      "occupation": "molecular geneticist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12358575",
       "answerKey": "alar karis"
     },
@@ -110,10 +110,449 @@
       "sitelinks": 59,
       "birthYear": "1956",
       "deathYear": null,
-      "occupation": "businessperson",
+      "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57640",
       "answerKey": "andrus ansip"
+    },
+    {
+      "id": 11,
+      "name": "Konstantin Päts",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Konstantin%20P%C3%A4ts.jpg",
+      "sitelinks": 56,
+      "birthYear": "1874",
+      "deathYear": "1956",
+      "occupation": "sportsperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q299114",
+      "answerKey": "konstantin pats"
+    },
+    {
+      "id": 12,
+      "name": "Lennart Meri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lennart%20Meri%2C%20Raekoja%20platsil%2099.jpg",
+      "sitelinks": 54,
+      "birthYear": "1929",
+      "deathYear": "2006",
+      "occupation": "philologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153149",
+      "answerKey": "lennart meri"
+    },
+    {
+      "id": 13,
+      "name": "Patriarch Alexius II",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PatriarchAlexy2.jpg",
+      "sitelinks": 54,
+      "birthYear": "1929",
+      "deathYear": "2008",
+      "occupation": "patriarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q151040",
+      "answerKey": "patriarch alexius ii"
+    },
+    {
+      "id": 14,
+      "name": "Paul Keres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hoogoven%20Schaaktoernooi%20Keres%2C%20Bestanddeelnr%20922-0145.jpg",
+      "sitelinks": 54,
+      "birthYear": "1916",
+      "deathYear": "1975",
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207727",
+      "answerKey": "paul keres"
+    },
+    {
+      "id": 15,
+      "name": "Paul Keres",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Keres.jpg",
+      "sitelinks": 54,
+      "birthYear": "1916",
+      "deathYear": "1975",
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q207727",
+      "answerKey": "paul keres"
+    },
+    {
+      "id": 16,
+      "name": "Marie Under",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Under%20circa%201903%20by%20Max%20Meixner%20of%20Reval%20%28Tallinn%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1883",
+      "deathYear": "1980",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154410",
+      "answerKey": "marie under"
+    },
+    {
+      "id": 17,
+      "name": "Taavi Rõivas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Taavi%20R%C3%B5ivas.jpg",
+      "sitelinks": 49,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "economist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3785077",
+      "answerKey": "taavi roivas"
+    },
+    {
+      "id": 18,
+      "name": "Valeri Karpin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valery%20Karpin%20in%20Rostov.jpg",
+      "sitelinks": 46,
+      "birthYear": "1969",
+      "deathYear": null,
+      "occupation": "beach soccer player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310571",
+      "answerKey": "valeri karpin"
+    },
+    {
+      "id": 19,
+      "name": "Juri Lotman",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yuri%20Lotman.%20Portrait.%201980.jpg",
+      "sitelinks": 45,
+      "birthYear": "1922",
+      "deathYear": "1993",
+      "occupation": "semiotician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360084",
+      "answerKey": "juri lotman"
+    },
+    {
+      "id": 20,
+      "name": "Betti Alver",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Betti%20Alver.jpg",
+      "sitelinks": 45,
+      "birthYear": "1906",
+      "deathYear": "1989",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q253998",
+      "answerKey": "betti alver"
+    },
+    {
+      "id": 21,
+      "name": "Kristen Michal",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristen%20Michal%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 45,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1789192",
+      "answerKey": "kristen michal"
+    },
+    {
+      "id": 22,
+      "name": "Carmen Kass",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carmen%20Kass%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1978",
+      "deathYear": null,
+      "occupation": "sportsperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q229566",
+      "answerKey": "carmen kass"
+    },
+    {
+      "id": 23,
+      "name": "A. H. Tammsaare",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anton%20Hansen%20Tammsaare%2C%20000290.jpg",
+      "sitelinks": 42,
+      "birthYear": "1878",
+      "deathYear": "1940",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353637",
+      "answerKey": "a h tammsaare"
+    },
+    {
+      "id": 24,
+      "name": "Ernst Öpik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ErnstJuliusOpik.jpg",
+      "sitelinks": 42,
+      "birthYear": "1893",
+      "deathYear": "1985",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q318126",
+      "answerKey": "ernst opik"
+    },
+    {
+      "id": 25,
+      "name": "Mart Laar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mart%20Laar.png",
+      "sitelinks": 40,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "historian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q307473",
+      "answerKey": "mart laar"
+    },
+    {
+      "id": 26,
+      "name": "Kaia Kanepi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kanepi%20WM13-005%20%289489757960%29%20%28cropped%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q211428",
+      "answerKey": "kaia kanepi"
+    },
+    {
+      "id": 27,
+      "name": "Ragnar Klavan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Liverpool%20team%20line-up%20before%20the%20game%20v%20Spartak%20Moskva%2C%20December%202017%20%28crop%29.png",
+      "sitelinks": 39,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q458302",
+      "answerKey": "ragnar klavan"
+    },
+    {
+      "id": 28,
+      "name": "Kerli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kerli%203%20by%20marvah.jpg",
+      "sitelinks": 38,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "music artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q233944",
+      "answerKey": "kerli"
+    },
+    {
+      "id": 29,
+      "name": "Ene Ergma",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Ene%20Ergma.jpg",
+      "sitelinks": 38,
+      "birthYear": "1944",
+      "deathYear": null,
+      "occupation": "academician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q439102",
+      "answerKey": "ene ergma"
+    },
+    {
+      "id": 30,
+      "name": "Johannes Aavik",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johannes%20Aavik.jpg",
+      "sitelinks": 38,
+      "birthYear": "1880",
+      "deathYear": "1973",
+      "occupation": "philologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q558166",
+      "answerKey": "johannes aavik"
+    },
+    {
+      "id": 31,
+      "name": "Erki Nool",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Erki%20Nool.jpg",
+      "sitelinks": 38,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "track and field coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334700",
+      "answerKey": "erki nool"
+    },
+    {
+      "id": 32,
+      "name": "Tanel Padar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Padar%2C%20Tanel%202011%20240.jpg",
+      "sitelinks": 38,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q343318",
+      "answerKey": "tanel padar"
+    },
+    {
+      "id": 33,
+      "name": "Dave Benton",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dave%20Benton.jpg",
+      "sitelinks": 37,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "musician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q359345",
+      "answerKey": "dave benton"
+    },
+    {
+      "id": 34,
+      "name": "Jaan Kross",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaan%20Kross%20%281987%29%20by%20Guenter%20Prust.jpg",
+      "sitelinks": 37,
+      "birthYear": "1920",
+      "deathYear": "2007",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q161842",
+      "answerKey": "jaan kross"
+    },
+    {
+      "id": 35,
+      "name": "Jaan Kaplinski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kaplinski%2C%20Jaan.IMG%209426%20%28cropped%29.JPG",
+      "sitelinks": 37,
+      "birthYear": "1941",
+      "deathYear": "2021",
+      "occupation": "science fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q467482",
+      "answerKey": "jaan kaplinski"
+    },
+    {
+      "id": 36,
+      "name": "Siim Kallas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kallas%20EC%20Portrait%202010.jpg",
+      "sitelinks": 37,
+      "birthYear": "1948",
+      "deathYear": null,
+      "occupation": "sportsperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q156469",
+      "answerKey": "siim kallas"
+    },
+    {
+      "id": 37,
+      "name": "Mart Poom",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2019-06-11%20Fu%C3%9Fball%2C%20M%C3%A4nner%2C%20L%C3%A4nderspiel%2C%20Deutschland-Estland%20StP%202036%20LR10%20by%20Stepro.jpg",
+      "sitelinks": 37,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295452",
+      "answerKey": "mart poom"
+    },
+    {
+      "id": 38,
+      "name": "Juhan Parts",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Juhan%20Parts.jpg",
+      "sitelinks": 36,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312894",
+      "answerKey": "juhan parts"
+    },
+    {
+      "id": 39,
+      "name": "Andres Oper",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AOper1.jpg",
+      "sitelinks": 36,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312412",
+      "answerKey": "andres oper"
+    },
+    {
+      "id": 40,
+      "name": "Getter Jaani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Getter%20Jaani%2020120515%20by%20Ahsoous.jpg",
+      "sitelinks": 35,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q237061",
+      "answerKey": "getter jaani"
+    },
+    {
+      "id": 41,
+      "name": "Tommy Cash",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tommy%20Cash%20at%20ESC2025%20for%20Estonia%2010%20%28cropped%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "table hockey player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28498299",
+      "answerKey": "tommy cash"
+    },
+    {
+      "id": 42,
+      "name": "Elina Nechayeva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/BlueCarpet2018-014-Estonia2-EuroVisionary.jpg",
+      "sitelinks": 35,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "opera singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q46366625",
+      "answerKey": "elina nechayeva"
+    },
+    {
+      "id": 43,
+      "name": "Gerd Kanter",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kanter%2C%20Gerd.IMG%208513.JPG",
+      "sitelinks": 35,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1776",
+      "answerKey": "gerd kanter"
+    },
+    {
+      "id": 44,
+      "name": "Anett Kontaveit",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kontaveit%20RG19%20%2829%29%20%2848199186817%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q639366",
+      "answerKey": "anett kontaveit"
+    },
+    {
+      "id": 45,
+      "name": "Jüri Lossmann",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Lossmann%201920.jpg",
+      "sitelinks": 34,
+      "birthYear": "1891",
+      "deathYear": "1984",
+      "occupation": "marathon runner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q127347",
+      "answerKey": "juri lossmann"
+    },
+    {
+      "id": 46,
+      "name": "Jaan Tõnisson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaan%20Tonisson1928.jpg",
+      "sitelinks": 34,
+      "birthYear": "1868",
+      "deathYear": "1941",
+      "occupation": "sportsperson",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q710956",
+      "answerKey": "jaan tonisson"
+    },
+    {
+      "id": 47,
+      "name": "Anne Veski",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Estraadilaulja%20Anne%20Veski.JPG",
+      "sitelinks": 34,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q450134",
+      "answerKey": "anne veski"
+    },
+    {
+      "id": 48,
+      "name": "Elina Born",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elina%20Born%202015%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16403201",
+      "answerKey": "elina born"
+    },
+    {
+      "id": 49,
+      "name": "Edgar Savisaar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Edgar%20Savisaar.jpg",
+      "sitelinks": 33,
+      "birthYear": "1950",
+      "deathYear": "2022",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q355241",
+      "answerKey": "edgar savisaar"
+    },
+    {
+      "id": 50,
+      "name": "Tanya Mikhailova",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanja%2C%20ESC2014%20Meet%20%26%20Greet%2009%20%28crop%202%29%20%28cropped%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7688162",
+      "answerKey": "tanya mikhailova"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Vietnam",
   "countryCode": "Q881",
-  "generated": "2025-12-14T01:55:38.174Z",
+  "generated": "2025-12-14T20:17:15.068Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 84,
       "birthYear": "1911",
       "deathYear": "2013",
-      "occupation": "writer",
+      "occupation": "journalist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q179910",
       "answerKey": "vo nguyen giap"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 63,
       "birthYear": "1926",
       "deathYear": "2022",
-      "occupation": "writer",
+      "occupation": "religious studies scholar",
       "wikidataUrl": "http://www.wikidata.org/entity/Q310913",
       "answerKey": "thich nhat hanh"
     },
@@ -66,7 +66,7 @@
       "sitelinks": 60,
       "birthYear": "1911",
       "deathYear": "1990",
-      "occupation": "military personnel",
+      "occupation": "revolutionary",
       "wikidataUrl": "http://www.wikidata.org/entity/Q233969",
       "answerKey": "le duc tho"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 55,
       "birthYear": "1954",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q10800073",
       "answerKey": "nguyen xuan phuc"
     },
@@ -88,7 +88,7 @@
       "sitelinks": 52,
       "birthYear": "1942",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "mathematician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57400",
       "answerKey": "nguyen minh triet"
     },
@@ -99,7 +99,7 @@
       "sitelinks": 51,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q57600",
       "answerKey": "nguyen tan dung"
     },
@@ -113,7 +113,446 @@
       "occupation": "Buddhist monk",
       "wikidataUrl": "http://www.wikidata.org/entity/Q271847",
       "answerKey": "thich quang uc"
+    },
+    {
+      "id": 11,
+      "name": "Lê Công Vinh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cong%20Vinh.png",
+      "sitelinks": 48,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q460346",
+      "answerKey": "le cong vinh"
+    },
+    {
+      "id": 12,
+      "name": "Trần Đức Lương",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tran%20Duc%20Luong%2C%20Nov%2017%2C%202004.jpg",
+      "sitelinks": 47,
+      "birthYear": "1937",
+      "deathYear": "2025",
+      "occupation": "cartographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q139324",
+      "answerKey": "tran uc luong"
+    },
+    {
+      "id": 13,
+      "name": "Le Duan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20duan.png",
+      "sitelinks": 44,
+      "birthYear": "1907",
+      "deathYear": "1986",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466001",
+      "answerKey": "le duan"
+    },
+    {
+      "id": 14,
+      "name": "Ngô Bảo Châu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ng%C3%B4%20B%E1%BA%A3o%20Ch%C3%A2u.JPG",
+      "sitelinks": 43,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "mathematician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q216350",
+      "answerKey": "ngo bao chau"
+    },
+    {
+      "id": 15,
+      "name": "Nguyễn Công Phượng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguy%E1%BB%85n%20C%C3%B4ng%20Ph%C6%B0%E1%BB%A3ng%2020191201%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18045362",
+      "answerKey": "nguyen cong phuong"
+    },
+    {
+      "id": 16,
+      "name": "Tô Lâm",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/To%20Lam%20on%20May%2010%2C%202025%20%28cropped%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10831196",
+      "answerKey": "to lam"
+    },
+    {
+      "id": 17,
+      "name": "Phạm Minh Chính",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pham%20Minh%20Chinh%202021.jpg",
+      "sitelinks": 40,
+      "birthYear": "1958",
+      "deathYear": null,
+      "occupation": "police officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10806940",
+      "answerKey": "pham minh chinh"
+    },
+    {
+      "id": 18,
+      "name": "Gia Long",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Gia%20Long.jpg",
+      "sitelinks": 39,
+      "birthYear": "1762",
+      "deathYear": "1820",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q210417",
+      "answerKey": "gia long"
+    },
+    {
+      "id": 19,
+      "name": "Nguyễn Huệ",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20portrait%20painting%20depicting%20Annam%20King%2C%20Ruan%20Guangping.jpg",
+      "sitelinks": 39,
+      "birthYear": "1752",
+      "deathYear": "1792",
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379775",
+      "answerKey": "nguyen hue"
+    },
+    {
+      "id": 20,
+      "name": "Võ Văn Thưởng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vo%20Van%20Thuong%2020230724.jpg",
+      "sitelinks": 38,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10833302",
+      "answerKey": "vo van thuong"
+    },
+    {
+      "id": 21,
+      "name": "Nguyễn Du",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/T%C6%B0%E1%BB%A3ng%20%C4%91%C3%A0i%20c%E1%BB%A5%20Nguy%E1%BB%85n%20Du.jpg",
+      "sitelinks": 37,
+      "birthYear": "1766",
+      "deathYear": "1820",
+      "occupation": "poet",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313322",
+      "answerKey": "nguyen du"
+    },
+    {
+      "id": 22,
+      "name": "Phạm Văn Đồng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ph%E1%BA%A1m%20V%C4%83n%20%C4%90%E1%BB%93ng%201972.jpg",
+      "sitelinks": 36,
+      "birthYear": "1906",
+      "deathYear": "2000",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q358051",
+      "answerKey": "pham van ong"
+    },
+    {
+      "id": 23,
+      "name": "Duong Van Minh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20D%C6%B0%C6%A1ng%20V%C4%83n%20Minh%2C%20Vietnam%20Fights%20and%20Builds%20No.1%2C%20July%201964.jpg",
+      "sitelinks": 36,
+      "birthYear": "1916",
+      "deathYear": "2001",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334419",
+      "answerKey": "duong van minh"
+    },
+    {
+      "id": 24,
+      "name": "Minh Mạng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Minh%20Mang.jpg",
+      "sitelinks": 36,
+      "birthYear": "1791",
+      "deathYear": "1841",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q434419",
+      "answerKey": "minh mang"
+    },
+    {
+      "id": 25,
+      "name": "Trường Chinh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TruongChinh1955.jpg",
+      "sitelinks": 36,
+      "birthYear": "1907",
+      "deathYear": "1988",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q545539",
+      "answerKey": "truong chinh"
+    },
+    {
+      "id": 26,
+      "name": "Nguyễn Tuấn Anh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuan%20Anh%20interview.png",
+      "sitelinks": 36,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16158166",
+      "answerKey": "nguyen tuan anh"
+    },
+    {
+      "id": 27,
+      "name": "Pham Tuan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TU%C3%82N%20PHAM.JPG",
+      "sitelinks": 35,
+      "birthYear": "1947",
+      "deathYear": null,
+      "occupation": "airman",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353687",
+      "answerKey": "pham tuan"
+    },
+    {
+      "id": 28,
+      "name": "Le Duc Anh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leducanh2.jpg",
+      "sitelinks": 35,
+      "birthYear": "1920",
+      "deathYear": "2019",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q470920",
+      "answerKey": "le duc anh"
+    },
+    {
+      "id": 29,
+      "name": "Tôn Đức Thắng",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Ton%20Duc%20Thang.jpg",
+      "sitelinks": 35,
+      "birthYear": "1888",
+      "deathYear": "1980",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q724317",
+      "answerKey": "ton uc thang"
+    },
+    {
+      "id": 30,
+      "name": "Tsui Hark",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsui%20Hark2011%20%28cropped%29.jpg",
+      "sitelinks": 34,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q317814",
+      "answerKey": "tsui hark"
+    },
+    {
+      "id": 31,
+      "name": "Tự Đức",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Vua%20Tu%20Duc.jpg",
+      "sitelinks": 34,
+      "birthYear": "1829",
+      "deathYear": "1883",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q466976",
+      "answerKey": "tu uc"
+    },
+    {
+      "id": 32,
+      "name": "Amee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Amee%202024%20%28cropped%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "singer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q96700223",
+      "answerKey": "amee"
+    },
+    {
+      "id": 33,
+      "name": "Phan Văn Khải",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Phan%20V%C4%83n%20Kh%E1%BA%A3i.jpg",
+      "sitelinks": 32,
+      "birthYear": "1933",
+      "deathYear": "2018",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q379489",
+      "answerKey": "phan van khai"
+    },
+    {
+      "id": 34,
+      "name": "Đặng Thị Ngọc Thịnh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mrs.%20Dang%20Thi%20Ngoc%20Thinh.jpg",
+      "sitelinks": 32,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10841571",
+      "answerKey": "ang thi ngoc thinh"
+    },
+    {
+      "id": 35,
+      "name": "Lương Cường",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luong%20Cuong%2011112024.jpg",
+      "sitelinks": 32,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "military leader",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q18459548",
+      "answerKey": "luong cuong"
+    },
+    {
+      "id": 36,
+      "name": "Jane Luu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20Luu.jpg",
+      "sitelinks": 31,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "astronomer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q197941",
+      "answerKey": "jane luu"
+    },
+    {
+      "id": 37,
+      "name": "Do Muoi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Do%20Muoi.jpg",
+      "sitelinks": 31,
+      "birthYear": "1917",
+      "deathYear": "2018",
+      "occupation": "communist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q342600",
+      "answerKey": "do muoi"
+    },
+    {
+      "id": 38,
+      "name": "Nguyen Huu Tho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguy%E1%BB%85n%20H%E1%BB%AFu%20Th%E1%BB%8D.jpg",
+      "sitelinks": 30,
+      "birthYear": "1910",
+      "deathYear": "1996",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q983839",
+      "answerKey": "nguyen huu tho"
+    },
+    {
+      "id": 39,
+      "name": "Hong Chau",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hong%20Chau%2C%20MTV%202018%20%28cropped%29.png",
+      "sitelinks": 30,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q38195662",
+      "answerKey": "hong chau"
+    },
+    {
+      "id": 40,
+      "name": "Hoang Xuan Vinh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hoang%20Xuan%20Vinh.jpg",
+      "sitelinks": 29,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "sport shooter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2019283",
+      "answerKey": "hoang xuan vinh"
+    },
+    {
+      "id": 41,
+      "name": "Thiệu Trị",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thieu%20tri%20imperial%20edict01.jpg",
+      "sitelinks": 29,
+      "birthYear": "1807",
+      "deathYear": "1847",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q540994",
+      "answerKey": "thieu tri"
+    },
+    {
+      "id": 42,
+      "name": "Vo Van Kiet",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Vo%20Van%20Kiet.jpg",
+      "sitelinks": 28,
+      "birthYear": "1922",
+      "deathYear": "2008",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q336319",
+      "answerKey": "vo van kiet"
+    },
+    {
+      "id": 43,
+      "name": "Nguyễn Thị Kim Ngân",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguy%E1%BB%85n%20Th%E1%BB%8B%20Kim%20Ng%C3%A2n%2020191211.jpg",
+      "sitelinks": 27,
+      "birthYear": "1954",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q10799637",
+      "answerKey": "nguyen thi kim ngan"
+    },
+    {
+      "id": 44,
+      "name": "Nguyen Khanh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguy%E1%BB%85n%20Kh%C3%A1nh%201964.jpg",
+      "sitelinks": 27,
+      "birthYear": "1927",
+      "deathYear": "2013",
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q504362",
+      "answerKey": "nguyen khanh"
+    },
+    {
+      "id": 45,
+      "name": "Võ Thị Ánh Xuân",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Secretary%20of%20Agriculture%20Tom%20Vilsack%20met%20Vietnam%20Vice%20President%20Vo%20Thi%20Anh%20Xuan%20at%20the%20St.%20Regis%20Hotel%20in%20Washington%2C%20D.C.%20on%20March%2014%2C%202024%20-%2020.jpg",
+      "sitelinks": 26,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24957799",
+      "answerKey": "vo thi anh xuan"
+    },
+    {
+      "id": 46,
+      "name": "Nguyễn Quang Hải",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nguy%E1%BB%85n%20Quang%20H%E1%BA%A3i.jpg",
+      "sitelinks": 26,
+      "birthYear": "1997",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q24689101",
+      "answerKey": "nguyen quang hai"
+    },
+    {
+      "id": 47,
+      "name": "Bà Triệu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ba%20trieu%20cuoi%20voi.jpg",
+      "sitelinks": 25,
+      "birthYear": "225",
+      "deathYear": "248",
+      "occupation": "rebel",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q269989",
+      "answerKey": "ba trieu"
+    },
+    {
+      "id": 48,
+      "name": "Nick Ut",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nick%20Ut%20speaks%20with%20the%20press%20%28cropped%29.jpg",
+      "sitelinks": 25,
+      "birthYear": "1951",
+      "deathYear": null,
+      "occupation": "war photographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362337",
+      "answerKey": "nick ut"
+    },
+    {
+      "id": 49,
+      "name": "Nong Duc Manh",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nong%20Duc%20Manh%202010.jpg",
+      "sitelinks": 25,
+      "birthYear": "1940",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q369596",
+      "answerKey": "nong duc manh"
+    },
+    {
+      "id": 50,
+      "name": "Hiệp Hòa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hiep%20Hoa.jpg",
+      "sitelinks": 25,
+      "birthYear": "1847",
+      "deathYear": "1883",
+      "occupation": "monarch",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q465598",
+      "answerKey": "hiep hoa"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg"
+  ]
 }

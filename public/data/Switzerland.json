@@ -1,7 +1,7 @@
 {
   "country": "Switzerland",
   "countryCode": "Q39",
-  "generated": "2025-12-14T01:33:33.551Z",
+  "generated": "2025-12-14T20:11:35.047Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -12,7 +12,6 @@
       "birthYear": "1879",
       "deathYear": "1955",
       "occupation": "physicist",
-      "description": "German-born theoretical physicist (1879–1955)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q937",
       "answerKey": "albert einstein"
     },
@@ -20,11 +19,10 @@
       "id": 2,
       "name": "Le Corbusier",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Corbusier%20%281964%29.jpg",
-      "sitelinks": 194,
+      "sitelinks": 195,
       "birthYear": "1887",
       "deathYear": "1965",
       "occupation": "carpets designer",
-      "description": "Swiss-French architect, designer, urbanist, and writer (1886–1965)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4724",
       "answerKey": "le corbusier"
     },
@@ -36,7 +34,6 @@
       "birthYear": "1877",
       "deathYear": "1962",
       "occupation": "Nobel Prize winner",
-      "description": "Nobel Prize winning German-Swiss poet, novelist and painter (1877–1962)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q25973",
       "answerKey": "hermann hesse"
     },
@@ -48,7 +45,6 @@
       "birthYear": "1981",
       "deathYear": null,
       "occupation": "tennis player",
-      "description": "Swiss tennis player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q1426",
       "answerKey": "roger federer"
     },
@@ -60,7 +56,6 @@
       "birthYear": "1882",
       "deathYear": "1971",
       "occupation": "librettist",
-      "description": "Russian composer (1882–1971)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7314",
       "answerKey": "igor stravinsky"
     },
@@ -72,7 +67,6 @@
       "birthYear": "1875",
       "deathYear": "1961",
       "occupation": "essayist",
-      "description": "Swiss psychiatrist and psychotherapist (1875–1961)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q41532",
       "answerKey": "carl jung"
     },
@@ -84,7 +78,6 @@
       "birthYear": "1792",
       "deathYear": "1822",
       "occupation": "linguist",
-      "description": "British Romantic poet (1792–1822)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q93343",
       "answerKey": "percy bysshe shelley"
     },
@@ -96,7 +89,6 @@
       "birthYear": "1935",
       "deathYear": "2024",
       "occupation": "producer",
-      "description": "French actor (1935–2024)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q106529",
       "answerKey": "alain delon"
     },
@@ -108,7 +100,6 @@
       "birthYear": "1939",
       "deathYear": "2023",
       "occupation": "recording artist",
-      "description": "American-born Swiss singer and songwriter (1939–2023)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q131814",
       "answerKey": "tina turner"
     },
@@ -120,10 +111,448 @@
       "birthYear": "1828",
       "deathYear": "1910",
       "occupation": "founder",
-      "description": "Swiss businessman and co-founder of the Red Cross (1828-1910)",
       "wikidataUrl": "http://www.wikidata.org/entity/Q12091",
       "answerKey": "henry dunant"
+    },
+    {
+      "id": 11,
+      "name": "Paracelsus",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paracelsus.jpg",
+      "sitelinks": 106,
+      "birthYear": "1493",
+      "deathYear": "1541",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q83428",
+      "answerKey": "paracelsus"
+    },
+    {
+      "id": 12,
+      "name": "Ferdinand de Saussure",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20de%20Saussure%20by%20Jullien%20Restored.png",
+      "sitelinks": 106,
+      "birthYear": "1857",
+      "deathYear": "1913",
+      "occupation": "linguist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13230",
+      "answerKey": "ferdinand de saussure"
+    },
+    {
+      "id": 13,
+      "name": "Wolfgang Pauli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Pauli%2C%20Wolfgang.tif",
+      "sitelinks": 105,
+      "birthYear": "1900",
+      "deathYear": "1958",
+      "occupation": "theoretical physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q65989",
+      "answerKey": "wolfgang pauli"
+    },
+    {
+      "id": 14,
+      "name": "Erich Fromm",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erich%20Fromm%201974%20%28cropped%292.jpg",
+      "sitelinks": 105,
+      "birthYear": "1900",
+      "deathYear": "1980",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q57085",
+      "answerKey": "erich fromm"
+    },
+    {
+      "id": 15,
+      "name": "Jean Piaget",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Piaget%20in%20Ann%20Arbor%20%28cropped%29.png",
+      "sitelinks": 102,
+      "birthYear": "1896",
+      "deathYear": "1980",
+      "occupation": "malacologist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123190",
+      "answerKey": "jean piaget"
+    },
+    {
+      "id": 16,
+      "name": "Theodor W. Adorno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20W.%20Adorno.jpg",
+      "sitelinks": 102,
+      "birthYear": "1903",
+      "deathYear": "1969",
+      "occupation": "aesthetician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q152388",
+      "answerKey": "theodor w adorno"
+    },
+    {
+      "id": 17,
+      "name": "Karl Jaspers",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Jaspers%201946.jpg",
+      "sitelinks": 97,
+      "birthYear": "1883",
+      "deathYear": "1969",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q76509",
+      "answerKey": "karl jaspers"
+    },
+    {
+      "id": 18,
+      "name": "Paul Klee",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Klee%201911.jpg",
+      "sitelinks": 97,
+      "birthYear": "1879",
+      "deathYear": "1940",
+      "occupation": "lithographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q44007",
+      "answerKey": "paul klee"
+    },
+    {
+      "id": 19,
+      "name": "Jean-Luc Godard",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Luc%20Godard%20at%20Berkeley%2C%201968.jpg",
+      "sitelinks": 96,
+      "birthYear": "1930",
+      "deathYear": "2022",
+      "occupation": "film director",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q53001",
+      "answerKey": "jeanluc godard"
+    },
+    {
+      "id": 20,
+      "name": "Carl Spitteler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Spitteler%201919.jpg",
+      "sitelinks": 95,
+      "birthYear": "1845",
+      "deathYear": "1924",
+      "occupation": "theologian",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q226525",
+      "answerKey": "carl spitteler"
+    },
+    {
+      "id": 21,
+      "name": "Isabelle de Charrière",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabelle%20Agneta%20van%20Tuyll%20van%20Serooskerken%2C%20by%20Maurice%20Quentin%20de%20La%20Tour.jpg",
+      "sitelinks": 94,
+      "birthYear": "1740",
+      "deathYear": "1805",
+      "occupation": "essayist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123386",
+      "answerKey": "isabelle de charriere"
+    },
+    {
+      "id": 22,
+      "name": "Sepp Blatter",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%99%D0%BE%D0%B7%D0%B5%D1%84%20%D0%91%D0%BB%D0%B0%D1%82%D1%82%D0%B5%D1%80.jpg",
+      "sitelinks": 92,
+      "birthYear": "1936",
+      "deathYear": null,
+      "occupation": "sports official",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q483437",
+      "answerKey": "sepp blatter"
+    },
+    {
+      "id": 23,
+      "name": "Friedrich Wilhelm Joseph Schelling",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20Wilhelm%20Joseph%20Schelling%2C%201848%20daguerreotype%20-%20cropped.jpg",
+      "sitelinks": 90,
+      "birthYear": "1775",
+      "deathYear": "1854",
+      "occupation": "librettist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60070",
+      "answerKey": "friedrich wilhelm joseph schelling"
+    },
+    {
+      "id": 24,
+      "name": "Johann Heinrich Pestalozzi",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Heinrich%20Pestalozzi%20%28Real%20Academia%20de%20Bellas%20Artes%20de%20San%20Fernando%2C%20Madrid%29.jpg",
+      "sitelinks": 87,
+      "birthYear": "1746",
+      "deathYear": "1827",
+      "occupation": "pedagogue",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q105428",
+      "answerKey": "johann heinrich pestalozzi"
+    },
+    {
+      "id": 25,
+      "name": "Daniel Bernoulli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Bernoulli%20by%20Grooth.jpg",
+      "sitelinks": 87,
+      "birthYear": "1700",
+      "deathYear": "1782",
+      "occupation": "statistician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q122366",
+      "answerKey": "daniel bernoulli"
+    },
+    {
+      "id": 26,
+      "name": "Charles Édouard Guillaume",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%201920.jpg",
+      "sitelinks": 86,
+      "birthYear": "1861",
+      "deathYear": "1938",
+      "occupation": "researcher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123026",
+      "answerKey": "charles edouard guillaume"
+    },
+    {
+      "id": 27,
+      "name": "Herbert Marcuse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert%20Marcuse%20in%20Newton%2C%20Massachusetts%201955.jpeg",
+      "sitelinks": 86,
+      "birthYear": "1898",
+      "deathYear": "1979",
+      "occupation": "political theorist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q60030",
+      "answerKey": "herbert marcuse"
+    },
+    {
+      "id": 28,
+      "name": "Rudolf Steiner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steiner%20um%201905.jpg",
+      "sitelinks": 84,
+      "birthYear": "1861",
+      "deathYear": "1925",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q78484",
+      "answerKey": "rudolf steiner"
+    },
+    {
+      "id": 29,
+      "name": "Martina Hingis",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hingis%20RG16%20%2810%29%20%2827331857371%29.jpg",
+      "sitelinks": 84,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "tennis coach",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q134720",
+      "answerKey": "martina hingis"
+    },
+    {
+      "id": 30,
+      "name": "Friedrich Dürrenmatt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20duerrenmatt%2019890427.jpg",
+      "sitelinks": 84,
+      "birthYear": "1921",
+      "deathYear": "1990",
+      "occupation": "television writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23481",
+      "answerKey": "friedrich durrenmatt"
+    },
+    {
+      "id": 31,
+      "name": "Friedrich Dürrenmatt",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Frisch%20und%20Friedrich%20D%C3%BCrrenmatt%20-%20Com%20L12-0059-8021.jpg",
+      "sitelinks": 84,
+      "birthYear": "1921",
+      "deathYear": "1990",
+      "occupation": "television writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23481",
+      "answerKey": "friedrich durrenmatt"
+    },
+    {
+      "id": 32,
+      "name": "Alexander Herzen",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Personnalit%C3%A9s%20des%20arts%20et%20des%20lettres%20-%20Alexandre%20Herzen.jpg",
+      "sitelinks": 83,
+      "birthYear": "1812",
+      "deathYear": "1870",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q201221",
+      "answerKey": "alexander herzen"
+    },
+    {
+      "id": 33,
+      "name": "Ivan Rakitić",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Rakiti%C4%87%202020%20%28cropped%29.jpg",
+      "sitelinks": 81,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115453",
+      "answerKey": "ivan rakitic"
+    },
+    {
+      "id": 34,
+      "name": "Felix Bloch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Bloch%2C%20Felix%20%281905-1983%29-Portr%2003540.tif",
+      "sitelinks": 81,
+      "birthYear": "1905",
+      "deathYear": "1983",
+      "occupation": "nuclear physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123022",
+      "answerKey": "felix bloch"
+    },
+    {
+      "id": 35,
+      "name": "Felix Bloch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felix%20Bloch%2C%20Stanford%20University.jpg",
+      "sitelinks": 81,
+      "birthYear": "1905",
+      "deathYear": "1983",
+      "occupation": "nuclear physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123022",
+      "answerKey": "felix bloch"
+    },
+    {
+      "id": 36,
+      "name": "Jacob Bernoulli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Bernoulli.jpg",
+      "sitelinks": 78,
+      "birthYear": "1654",
+      "deathYear": "1705",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q122392",
+      "answerKey": "jacob bernoulli"
+    },
+    {
+      "id": 37,
+      "name": "Jacob Bernoulli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Bernoulli.jpg",
+      "sitelinks": 78,
+      "birthYear": "1655",
+      "deathYear": "1705",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q122392",
+      "answerKey": "jacob bernoulli"
+    },
+    {
+      "id": 38,
+      "name": "Hermann Weyl",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20Weyl%20ETH-Bib%20Portr%2000890.jpg",
+      "sitelinks": 77,
+      "birthYear": "1885",
+      "deathYear": "1955",
+      "occupation": "philosopher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q71029",
+      "answerKey": "hermann weyl"
+    },
+    {
+      "id": 39,
+      "name": "Gianni Infantino",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gianni%20Infantino%20%282020%29%20%28cropped%29.jpg",
+      "sitelinks": 76,
+      "birthYear": "1970",
+      "deathYear": null,
+      "occupation": "sports official",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q124138",
+      "answerKey": "gianni infantino"
+    },
+    {
+      "id": 40,
+      "name": "Albert Hofmann",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Hofmann%20Oct%201993.jpg",
+      "sitelinks": 76,
+      "birthYear": "1906",
+      "deathYear": "2008",
+      "occupation": "non-fiction writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q122338",
+      "answerKey": "albert hofmann"
+    },
+    {
+      "id": 41,
+      "name": "Karl Barth",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20Barth%20Bundesarchiv%20Bild.png",
+      "sitelinks": 75,
+      "birthYear": "1886",
+      "deathYear": "1968",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q107473",
+      "answerKey": "karl barth"
+    },
+    {
+      "id": 42,
+      "name": "Maximilian Schell",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maximilian%20Schell%20-%201970-1.jpg",
+      "sitelinks": 75,
+      "birthYear": "1930",
+      "deathYear": "2014",
+      "occupation": "autobiographer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q153018",
+      "answerKey": "maximilian schell"
+    },
+    {
+      "id": 43,
+      "name": "Alfred Werner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/%28UAZ%29%20AB.1.1093%20Werner.tif",
+      "sitelinks": 74,
+      "birthYear": "1866",
+      "deathYear": "1919",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123014",
+      "answerKey": "alfred werner"
+    },
+    {
+      "id": 44,
+      "name": "Max Frisch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ETH-BIB-Max%20Frisch-Com%20C20-015-023-001.tif",
+      "sitelinks": 73,
+      "birthYear": "1911",
+      "deathYear": "1991",
+      "occupation": "diarist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q115483",
+      "answerKey": "max frisch"
+    },
+    {
+      "id": 45,
+      "name": "Yul Brynner",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yul%20Brynner%20Anna%20and%20the%20King%20television%201972.JPG",
+      "sitelinks": 72,
+      "birthYear": "1920",
+      "deathYear": "1985",
+      "occupation": "acrobat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q102813",
+      "answerKey": "yul brynner"
+    },
+    {
+      "id": 46,
+      "name": "Tadeusz Kościuszko",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tadevu%C5%A1%20Ka%C5%9Bciu%C5%A1ka.%20%D0%A2%D0%B0%D0%B4%D1%8D%D0%B2%D1%83%D1%88%20%D0%9A%D0%B0%D1%81%D1%8C%D1%86%D1%8E%D1%88%D0%BA%D0%B0%20%28J.%20Grassi%2C%201792%29.jpg",
+      "sitelinks": 72,
+      "birthYear": "1746",
+      "deathYear": "1817",
+      "occupation": "soldier",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q191479",
+      "answerKey": "tadeusz kosciuszko"
+    },
+    {
+      "id": 47,
+      "name": "Johann Bernoulli",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Bernoulli2.jpg",
+      "sitelinks": 72,
+      "birthYear": "1667",
+      "deathYear": "1748",
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q227897",
+      "answerKey": "johann bernoulli"
+    },
+    {
+      "id": 48,
+      "name": "William Wyler",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Wyler%20portrait.jpg",
+      "sitelinks": 71,
+      "birthYear": "1902",
+      "deathYear": "1981",
+      "occupation": "film actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q51495",
+      "answerKey": "william wyler"
+    },
+    {
+      "id": 49,
+      "name": "Johanna Spyri",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Zentralbibliothek%20Z%C3%BCrich%20-%20Johanna%20Spyri%20-%20000006279%202.tif",
+      "sitelinks": 70,
+      "birthYear": "1827",
+      "deathYear": "1901",
+      "occupation": "novelist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123053",
+      "answerKey": "johanna spyri"
+    },
+    {
+      "id": 50,
+      "name": "Heinrich Rohrer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rohrer.jpg",
+      "sitelinks": 70,
+      "birthYear": "1933",
+      "deathYear": "2013",
+      "occupation": "physicist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q123029",
+      "answerKey": "heinrich rohrer"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+  ]
 }

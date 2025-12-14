@@ -1,7 +1,7 @@
 {
   "country": "Ecuador",
   "countryCode": "Q736",
-  "generated": "2025-12-14T01:57:39.566Z",
+  "generated": "2025-12-14T20:22:32.825Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 174,
       "birthYear": "1963",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "economist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q19581",
       "answerKey": "rafael correa"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 173,
       "birthYear": "1783",
       "deathYear": "1830",
-      "occupation": "politician",
+      "occupation": "military officer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q8605",
       "answerKey": "simon bolivar"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 160,
       "birthYear": "1955",
       "deathYear": null,
-      "occupation": "president",
+      "occupation": "banker",
       "wikidataUrl": "http://www.wikidata.org/entity/Q4414537",
       "answerKey": "guillermo lasso"
     },
@@ -44,23 +44,12 @@
       "sitelinks": 67,
       "birthYear": "1975",
       "deathYear": null,
-      "occupation": "actor",
+      "occupation": "film actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q14752155",
       "answerKey": "pedro pascal"
     },
     {
       "id": 5,
-      "name": "Lenín Moreno",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lenin%20Moreno%2C%20president%20of%20Ecuador.jpg",
-      "sitelinks": 65,
-      "birthYear": "1953",
-      "deathYear": null,
-      "occupation": "writer",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q518626",
-      "answerKey": "lenin moreno"
-    },
-    {
-      "id": 6,
       "name": "Antonio Valencia",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Valencia%20cropped.jpg",
       "sitelinks": 65,
@@ -69,6 +58,17 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q174486",
       "answerKey": "antonio valencia"
+    },
+    {
+      "id": 6,
+      "name": "Lenín Moreno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lenin%20Moreno%2C%20president%20of%20Ecuador.jpg",
+      "sitelinks": 65,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q518626",
+      "answerKey": "lenin moreno"
     },
     {
       "id": 7,
@@ -84,22 +84,22 @@
     {
       "id": 8,
       "name": "Daniel Noboa",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Daniel%20Noboa%20May%202025.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Noboa%20en%20marzo%20de%202025.jpg",
       "sitelinks": 54,
       "birthYear": "1987",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "administrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112075625",
       "answerKey": "daniel noboa"
     },
     {
       "id": 9,
       "name": "Daniel Noboa",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Noboa%20en%20marzo%20de%202025.jpg",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Daniel%20Noboa%20May%202025.jpg",
       "sitelinks": 54,
       "birthYear": "1987",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "administrator",
       "wikidataUrl": "http://www.wikidata.org/entity/Q112075625",
       "answerKey": "daniel noboa"
     },
@@ -113,7 +113,446 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q87715532",
       "answerKey": "moises caicedo"
+    },
+    {
+      "id": 11,
+      "name": "Sixto Durán-Ballén",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sixto%20Dur%C3%A1n%20Ball%C3%A9n%202011%20%283x4%20crop%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1921",
+      "deathYear": "2016",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q177182",
+      "answerKey": "sixto duranballen"
+    },
+    {
+      "id": 12,
+      "name": "Christian",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Noboa%202019%20Sochi.jpg",
+      "sitelinks": 38,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q468083",
+      "answerKey": "christian"
+    },
+    {
+      "id": 13,
+      "name": "Felipe Caicedo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Felipe%20Caicedo%202015.jpg",
+      "sitelinks": 36,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q351473",
+      "answerKey": "felipe caicedo"
+    },
+    {
+      "id": 14,
+      "name": "Pervis Estupiñán",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pervis%20Estupi%C3%B1%C3%A1n%20WC2022.jpg",
+      "sitelinks": 36,
+      "birthYear": "1998",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q20994068",
+      "answerKey": "pervis estupinan"
+    },
+    {
+      "id": 15,
+      "name": "Piero Hincapié",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Piero%20Hincapi%C3%A9%2C%202022-07-31%2C%20Saisoner%C3%B6ffnung%20Bayer%2004%2C%20Leverkusen%20%281%29.jpg",
+      "sitelinks": 36,
+      "birthYear": "2002",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q101053044",
+      "answerKey": "piero hincapie"
+    },
+    {
+      "id": 16,
+      "name": "Mike Judge",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0780-Office%20Space%20Mike%20Judge.jpg",
+      "sitelinks": 35,
+      "birthYear": "1962",
+      "deathYear": null,
+      "occupation": "film producer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q434585",
+      "answerKey": "mike judge"
+    },
+    {
+      "id": 17,
+      "name": "Juan José Flores",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fl%C3%B3rez%2C%20Juan%20Jos%C3%A9.jpg",
+      "sitelinks": 35,
+      "birthYear": "1800",
+      "deathYear": "1864",
+      "occupation": "land owner",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q554933",
+      "answerKey": "juan jose flores"
+    },
+    {
+      "id": 18,
+      "name": "León Febres-Cordero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%C3%B3n%20Febres%20Cordero.jpg",
+      "sitelinks": 35,
+      "birthYear": "1931",
+      "deathYear": "2008",
+      "occupation": "mechanical engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471324",
+      "answerKey": "leon febrescordero"
+    },
+    {
+      "id": 19,
+      "name": "Richard Carapaz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Strade%20Bianche-4%20%2851964440683%29.jpg",
+      "sitelinks": 35,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "sport cyclist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q16298132",
+      "answerKey": "richard carapaz"
+    },
+    {
+      "id": 20,
+      "name": "Iván Hurtado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iv%C3%A1n%20Hurtado%20en%202017.jpg",
+      "sitelinks": 34,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q363069",
+      "answerKey": "ivan hurtado"
+    },
+    {
+      "id": 21,
+      "name": "Rosalía Arteaga Serrano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DRA.%20ROSALIA%20ARTEAGA%20%2825654658468%29%20%28cropped%29.jpg",
+      "sitelinks": 33,
+      "birthYear": "1956",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q291543",
+      "answerKey": "rosalia arteaga serrano"
+    },
+    {
+      "id": 22,
+      "name": "Édison Méndez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Edison%20Mendez%20photo.jpg",
+      "sitelinks": 33,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q346789",
+      "answerKey": "edison mendez"
+    },
+    {
+      "id": 23,
+      "name": "Gustavo Noboa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustavo%20Noboa%20Bejarano%20en%202000.jpg",
+      "sitelinks": 33,
+      "birthYear": "1937",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471291",
+      "answerKey": "gustavo noboa"
+    },
+    {
+      "id": 24,
+      "name": "José María Velasco Ibarra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jos%C3%A9%20Mar%C3%ADa%20Velasco%20Ibarra.jpg",
+      "sitelinks": 33,
+      "birthYear": "1893",
+      "deathYear": "1979",
+      "occupation": "professor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q707171",
+      "answerKey": "jose maria velasco ibarra"
+    },
+    {
+      "id": 25,
+      "name": "Iván Kaviedes Toaquiza",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Kaviedes%20Aucas%202012.jpg",
+      "sitelinks": 32,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312418",
+      "answerKey": "ivan kaviedes toaquiza"
+    },
+    {
+      "id": 26,
+      "name": "Agustín Delgado",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Agust%C3%ADn%20Delgado%202016.jpg",
+      "sitelinks": 32,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313147",
+      "answerKey": "agustin delgado"
+    },
+    {
+      "id": 27,
+      "name": "Christian Benítez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benitez-America.jpg",
+      "sitelinks": 32,
+      "birthYear": "1986",
+      "deathYear": "2013",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q362315",
+      "answerKey": "christian benitez"
+    },
+    {
+      "id": 28,
+      "name": "Manuela Sáenz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manuela%20S%C3%A1enz.jpg",
+      "sitelinks": 32,
+      "birthYear": "1797",
+      "deathYear": "1856",
+      "occupation": "political activist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q372074",
+      "answerKey": "manuela saenz"
+    },
+    {
+      "id": 29,
+      "name": "Willian Pacho",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacho%20asse%20psg%202425.png",
+      "sitelinks": 32,
+      "birthYear": "2001",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q87767569",
+      "answerKey": "willian pacho"
+    },
+    {
+      "id": 30,
+      "name": "Alexánder Domínguez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ecuador%20tren2015%20%283%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2667325",
+      "answerKey": "alexander dominguez"
+    },
+    {
+      "id": 31,
+      "name": "Segundo Castillo De Barberan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Segundo%20Castillo.png",
+      "sitelinks": 31,
+      "birthYear": "1982",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q316926",
+      "answerKey": "segundo castillo de barberan"
+    },
+    {
+      "id": 32,
+      "name": "Jefferson Montero",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/PRESENTACI%C3%93N%20JEFFERSON%20MONTERO%20%2826670049648%29.jpg",
+      "sitelinks": 31,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2300455",
+      "answerKey": "jefferson montero"
+    },
+    {
+      "id": 33,
+      "name": "Carlos Tenorio",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20Tenorio.jpg",
+      "sitelinks": 30,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313361",
+      "answerKey": "carlos tenorio"
+    },
+    {
+      "id": 34,
+      "name": "Alberto Spencer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spencer%20el%20grafico.jpg",
+      "sitelinks": 30,
+      "birthYear": "1937",
+      "deathYear": "2006",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q918388",
+      "answerKey": "alberto spencer"
+    },
+    {
+      "id": 35,
+      "name": "Lucio Gutiérrez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lucio%20Guti%C3%A9rrez-Asamble%C3%ADsta%20%2812-12-2023%29.jpg",
+      "sitelinks": 30,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "civil engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q336234",
+      "answerKey": "lucio gutierrez"
+    },
+    {
+      "id": 36,
+      "name": "Ulises Cruz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulises%20de%20la%20Cruz%202016.jpg",
+      "sitelinks": 30,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q353013",
+      "answerKey": "ulises cruz"
+    },
+    {
+      "id": 37,
+      "name": "Jefferson Pérez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jefferson-Perez.jpg",
+      "sitelinks": 30,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q15542",
+      "answerKey": "jefferson perez"
+    },
+    {
+      "id": 38,
+      "name": "Michael Estrada",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Estrada.jpg",
+      "sitelinks": 30,
+      "birthYear": "1996",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q21573004",
+      "answerKey": "michael estrada"
+    },
+    {
+      "id": 39,
+      "name": "Abdalá Bucaram Ortiz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abdala%20Bucaram%20%28cropped%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "1952",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q307701",
+      "answerKey": "abdala bucaram ortiz"
+    },
+    {
+      "id": 40,
+      "name": "María Capovilla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa%20Capovilla.JPG",
+      "sitelinks": 29,
+      "birthYear": "1889",
+      "deathYear": "2006",
+      "occupation": "housewife",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q1622748",
+      "answerKey": "maria capovilla"
+    },
+    {
+      "id": 41,
+      "name": "Gabriel García Moreno",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriel%20Garc%C3%ADa%20Moreno.jpg",
+      "sitelinks": 29,
+      "birthYear": "1821",
+      "deathYear": "1875",
+      "occupation": "journalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q434730",
+      "answerKey": "gabriel garcia moreno"
+    },
+    {
+      "id": 42,
+      "name": "Renato Ibarra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Renato%20Ibarra%202.png",
+      "sitelinks": 29,
+      "birthYear": "1991",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q654903",
+      "answerKey": "renato ibarra"
+    },
+    {
+      "id": 43,
+      "name": "Jamil Mahuad",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamil%20Mahuad%2001%20corte.png",
+      "sitelinks": 29,
+      "birthYear": "1949",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q471248",
+      "answerKey": "jamil mahuad"
+    },
+    {
+      "id": 44,
+      "name": "Romario Ibarra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ROMARIO%20IBARRA.jpg",
+      "sitelinks": 29,
+      "birthYear": "1994",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q22082699",
+      "answerKey": "romario ibarra"
+    },
+    {
+      "id": 45,
+      "name": "Helena Gualinga",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helena%20Gualinga%2C%202024%20%28cropped%29.jpg",
+      "sitelinks": 29,
+      "birthYear": "2002",
+      "deathYear": null,
+      "occupation": "environmentalist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q78185644",
+      "answerKey": "helena gualinga"
+    },
+    {
+      "id": 46,
+      "name": "Andrés Gómez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andr%C3%A9s%20G%C3%B3mez%20Roland%20Garros%202012.JPG",
+      "sitelinks": 28,
+      "birthYear": "1960",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q335350",
+      "answerKey": "andres gomez"
+    },
+    {
+      "id": 47,
+      "name": "Eloy Alfaro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eloy%20Alfaro2.jpg",
+      "sitelinks": 28,
+      "birthYear": "1842",
+      "deathYear": "1912",
+      "occupation": "merchant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q378158",
+      "answerKey": "eloy alfaro"
+    },
+    {
+      "id": 48,
+      "name": "Carlos Gruezo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20gruezo.jpg",
+      "sitelinks": 28,
+      "birthYear": "1995",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q12156405",
+      "answerKey": "carlos gruezo"
+    },
+    {
+      "id": 49,
+      "name": "Rodrigo Borja Cevallos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RodrigoBorja-Harvard2016.png",
+      "sitelinks": 28,
+      "birthYear": "1935",
+      "deathYear": null,
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q743354",
+      "answerKey": "rodrigo borja cevallos"
+    },
+    {
+      "id": 50,
+      "name": "Hernán Galíndez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/HERN%C3%81N%20GAL%C3%8DNDEZ.jpg",
+      "sitelinks": 27,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5742434",
+      "answerKey": "hernan galindez"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg"
+  ]
 }

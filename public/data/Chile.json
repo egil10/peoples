@@ -1,7 +1,7 @@
 {
   "country": "Chile",
   "countryCode": "Q298",
-  "generated": "2025-12-14T01:50:04.858Z",
+  "generated": "2025-12-14T20:07:24.427Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 164,
       "birthYear": "1904",
       "deathYear": "1973",
-      "occupation": "writer",
+      "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q34189",
       "answerKey": "pablo neruda"
     },
@@ -22,7 +22,7 @@
       "sitelinks": 124,
       "birthYear": "1908",
       "deathYear": "1973",
-      "occupation": "physician",
+      "occupation": "surgeon",
       "wikidataUrl": "http://www.wikidata.org/entity/Q440",
       "answerKey": "salvador allende"
     },
@@ -33,7 +33,7 @@
       "sitelinks": 121,
       "birthYear": "1889",
       "deathYear": "1957",
-      "occupation": "writer",
+      "occupation": "diplomat",
       "wikidataUrl": "http://www.wikidata.org/entity/Q80871",
       "answerKey": "gabriela mistral"
     },
@@ -44,7 +44,7 @@
       "sitelinks": 120,
       "birthYear": "1915",
       "deathYear": "2006",
-      "occupation": "military personnel",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q368",
       "answerKey": "augusto pinochet"
     },
@@ -55,7 +55,7 @@
       "sitelinks": 118,
       "birthYear": "1951",
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "epidemiologist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q320",
       "answerKey": "michelle bachelet"
     },
@@ -77,7 +77,7 @@
       "sitelinks": 95,
       "birthYear": "1949",
       "deathYear": "2024",
-      "occupation": "businessperson",
+      "occupation": "sports executive",
       "wikidataUrl": "http://www.wikidata.org/entity/Q306",
       "answerKey": "sebastian pinera"
     },
@@ -113,7 +113,446 @@
       "occupation": "association football player",
       "wikidataUrl": "http://www.wikidata.org/entity/Q180553",
       "answerKey": "alexis sanchez chileno"
+    },
+    {
+      "id": 11,
+      "name": "Claudio Bravo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20VS.%20Australia%20%281cropped%29.jpg",
+      "sitelinks": 62,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313161",
+      "answerKey": "claudio bravo"
+    },
+    {
+      "id": 12,
+      "name": "Bernardo O'Higgins",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/WLM%202013%20-%20Monumento%20a%20Bernardo%20O%27Higgins%205.jpg",
+      "sitelinks": 60,
+      "birthYear": "1778",
+      "deathYear": "1842",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28930",
+      "answerKey": "bernardo ohiggins"
+    },
+    {
+      "id": 13,
+      "name": "Bernardo O'Higgins",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ohiggins.jpg",
+      "sitelinks": 60,
+      "birthYear": "1778",
+      "deathYear": "1842",
+      "occupation": "military officer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28930",
+      "answerKey": "bernardo ohiggins"
+    },
+    {
+      "id": 14,
+      "name": "Víctor Jara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Victor-Jara-in-Helsinki-1969%20%28cropped%292.jpg",
+      "sitelinks": 58,
+      "birthYear": "1932",
+      "deathYear": "1973",
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q125133",
+      "answerKey": "victor jara"
+    },
+    {
+      "id": 15,
+      "name": "Alejandro Jodorowsky",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Utopiales%202011%20Alejandro%20Jodorowsky%2016%20%28cropped%29.jpg",
+      "sitelinks": 58,
+      "birthYear": "1929",
+      "deathYear": null,
+      "occupation": "comics creator",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q263730",
+      "answerKey": "alejandro jodorowsky"
+    },
+    {
+      "id": 16,
+      "name": "Roberto Bolaño",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roberto%20Bola%C3%B1o%20%C3%81valos.jpg",
+      "sitelinks": 52,
+      "birthYear": "1953",
+      "deathYear": "2003",
+      "occupation": "literary critic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q297532",
+      "answerKey": "roberto bolano"
+    },
+    {
+      "id": 17,
+      "name": "Gary Medel",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gary%20Medel%20CHI2011.jpg",
+      "sitelinks": 52,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q329524",
+      "answerKey": "gary medel"
+    },
+    {
+      "id": 18,
+      "name": "Ricardo Lagos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ricardo%20Lagos%20in%202024%20%28cropped%29.jpg",
+      "sitelinks": 51,
+      "birthYear": "1938",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q331",
+      "answerKey": "ricardo lagos"
+    },
+    {
+      "id": 19,
+      "name": "Iván Zamorano",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Iv%C3%A1n%20Zamorano.jpg",
+      "sitelinks": 50,
+      "birthYear": "1967",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q192035",
+      "answerKey": "ivan zamorano"
+    },
+    {
+      "id": 20,
+      "name": "Violeta Parra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Parra01f.PNG",
+      "sitelinks": 49,
+      "birthYear": "1917",
+      "deathYear": "1967",
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230499",
+      "answerKey": "violeta parra"
+    },
+    {
+      "id": 21,
+      "name": "Mauricio Isla",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Nordsj%C3%A6lland%20-%20Juventus%20FC%2C%2023%20October%202012%20%28Mauricio%20Isla%29.jpg",
+      "sitelinks": 49,
+      "birthYear": "1988",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296222",
+      "answerKey": "mauricio isla"
+    },
+    {
+      "id": 22,
+      "name": "Eduardo Vargas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20-%20Chile%20-%2010-09-2013%20-%20Geneva%20-%20E.%20Vargas.jpg",
+      "sitelinks": 48,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2268949",
+      "answerKey": "eduardo vargas"
+    },
+    {
+      "id": 23,
+      "name": "Jean Beausejour",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Beausejour%202018.jpg",
+      "sitelinks": 47,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q313307",
+      "answerKey": "jean beausejour"
+    },
+    {
+      "id": 24,
+      "name": "Chris Watson",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20C.%20Watson%20-%20T.%20Humphrey%20%26%20Co%20%28cropped%29.jpg",
+      "sitelinks": 46,
+      "birthYear": "1867",
+      "deathYear": "1941",
+      "occupation": "trade unionist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q23347",
+      "answerKey": "chris watson"
+    },
+    {
+      "id": 25,
+      "name": "Marcelo Salas",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Salas.jpg",
+      "sitelinks": 45,
+      "birthYear": "1974",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295438",
+      "answerKey": "marcelo salas"
+    },
+    {
+      "id": 26,
+      "name": "Luis Sepúlveda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Luis%20Sep%C3%BAlveda%202014.jpg",
+      "sitelinks": 45,
+      "birthYear": "1949",
+      "deathYear": "2020",
+      "occupation": "writer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q334126",
+      "answerKey": "luis sepulveda"
+    },
+    {
+      "id": 27,
+      "name": "Hugo Gunckel Lüer",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gunckel%20crop.JPG",
+      "sitelinks": 44,
+      "birthYear": "1901",
+      "deathYear": "1997",
+      "occupation": "scientific collector",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q158476",
+      "answerKey": "hugo gunckel luer"
+    },
+    {
+      "id": 28,
+      "name": "Manuel Pellegrini",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hertha%20BSC%20vs.%20West%20Ham%20United%2020190731%20%28117%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q296036",
+      "answerKey": "manuel pellegrini"
+    },
+    {
+      "id": 29,
+      "name": "Nicanor Parra",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicanor%20Parra%20%28cropped%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1914",
+      "deathYear": "2018",
+      "occupation": "academic",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360832",
+      "answerKey": "nicanor parra"
+    },
+    {
+      "id": 30,
+      "name": "Patricio Aylwin",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricio%20Aylwin%20%281990%29.jpg",
+      "sitelinks": 44,
+      "birthYear": "1918",
+      "deathYear": "2016",
+      "occupation": "university teacher",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q335",
+      "answerKey": "patricio aylwin"
+    },
+    {
+      "id": 31,
+      "name": "Fernando González",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Despedida%20deportistas%20Panamericanos%202019%2001.jpg",
+      "sitelinks": 43,
+      "birthYear": "1980",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q208517",
+      "answerKey": "fernando gonzalez"
+    },
+    {
+      "id": 32,
+      "name": "Alejandro Amenábar",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Goyas%202025%20-Alejandro%20Amen%C3%A1bar%20%28cropped%29.jpg",
+      "sitelinks": 43,
+      "birthYear": "1972",
+      "deathYear": null,
+      "occupation": "film editor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q274070",
+      "answerKey": "alejandro amenabar"
+    },
+    {
+      "id": 33,
+      "name": "Marcelo Ríos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Rios.jpg",
+      "sitelinks": 43,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272532",
+      "answerKey": "marcelo rios"
+    },
+    {
+      "id": 34,
+      "name": "Marcelo Ríos",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcelo%20Rios%202004.jpg",
+      "sitelinks": 43,
+      "birthYear": "1975",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q272532",
+      "answerKey": "marcelo rios"
+    },
+    {
+      "id": 35,
+      "name": "Eduardo Frei Montalva",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/FreiMontalva.jpg",
+      "sitelinks": 43,
+      "birthYear": "1911",
+      "deathYear": "1982",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q475",
+      "answerKey": "eduardo frei montalva"
+    },
+    {
+      "id": 36,
+      "name": "Tom Araya",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Araya%20Slayer%20M%C3%BCnchen%202016%20%286%20von%206%29.jpg",
+      "sitelinks": 42,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "bass guitarist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q312292",
+      "answerKey": "tom araya"
+    },
+    {
+      "id": 37,
+      "name": "Eduardo Frei Ruiz-Tagle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eduardo%20Frei%20Chiledebate.jpg",
+      "sitelinks": 41,
+      "birthYear": "1942",
+      "deathYear": null,
+      "occupation": "civil engineer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q326",
+      "answerKey": "eduardo frei ruiztagle"
+    },
+    {
+      "id": 38,
+      "name": "David Pizarro",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Universidad%20de%20Chile%20-%20Deportes%20Antofagasta%2C%202018-03-04%20-%20David%20Pizarro%20-%2002.jpg",
+      "sitelinks": 40,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q70567",
+      "answerKey": "david pizarro"
+    },
+    {
+      "id": 39,
+      "name": "Matías Fernandez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matias%20Fernandez%202015.jpg",
+      "sitelinks": 40,
+      "birthYear": "1986",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310657",
+      "answerKey": "matias fernandez"
+    },
+    {
+      "id": 40,
+      "name": "Gonzalo Jara",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chile%20VS.%20Australia%20%2818%29%20%28cropped%29.jpg",
+      "sitelinks": 40,
+      "birthYear": "1985",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q349172",
+      "answerKey": "gonzalo jara"
+    },
+    {
+      "id": 41,
+      "name": "Jorge Valdivia",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Universidad%20de%20Chile%20-%20Colo-Colo%2C%202018-04-15%20-%20Jorge%20Valdivia%20-%2002.jpg",
+      "sitelinks": 40,
+      "birthYear": "1983",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q360782",
+      "answerKey": "jorge valdivia"
+    },
+    {
+      "id": 42,
+      "name": "Cote de Pablo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cote%20de%20Pablo%20retouch.jpg",
+      "sitelinks": 39,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "television actor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q230647",
+      "answerKey": "cote de pablo"
+    },
+    {
+      "id": 43,
+      "name": "Nicolás Massú",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicol%C3%A1s%20Mass%C3%BA-2012.jpg",
+      "sitelinks": 39,
+      "birthYear": "1979",
+      "deathYear": null,
+      "occupation": "tennis player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q295858",
+      "answerKey": "nicolas massu"
+    },
+    {
+      "id": 44,
+      "name": "Charles Aránguiz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles-Aranguiz-2018-08-19.jpg",
+      "sitelinks": 39,
+      "birthYear": "1989",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q797945",
+      "answerKey": "charles aranguiz"
+    },
+    {
+      "id": 45,
+      "name": "Leonel Sánchez",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leonel%20S%C3%A1nchez%20%282%29.jpg",
+      "sitelinks": 39,
+      "birthYear": "1936",
+      "deathYear": "2022",
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q314630",
+      "answerKey": "leonel sanchez"
+    },
+    {
+      "id": 46,
+      "name": "Nicole",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicole%20cantante%202.jpg",
+      "sitelinks": 38,
+      "birthYear": "1977",
+      "deathYear": null,
+      "occupation": "recording artist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q69474",
+      "answerKey": "nicole"
+    },
+    {
+      "id": 47,
+      "name": "Mark González",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Gonz%C3%A1lez%2011.jpg",
+      "sitelinks": 38,
+      "birthYear": "1984",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q213124",
+      "answerKey": "mark gonzalez"
+    },
+    {
+      "id": 48,
+      "name": "Claudio Arrau",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claudio%20Arrau%203%20Allan%20Warren.jpg",
+      "sitelinks": 38,
+      "birthYear": "1903",
+      "deathYear": "1991",
+      "occupation": "pianist",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q160223",
+      "answerKey": "claudio arrau"
+    },
+    {
+      "id": 49,
+      "name": "Don Elías Figueroa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Don%20El%C3%ADas%20Figueroa.jpg",
+      "sitelinks": 38,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310981",
+      "answerKey": "don elias figueroa"
+    },
+    {
+      "id": 50,
+      "name": "Don Elías Figueroa",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/El%C3%ADas%20Figueroa.jpg",
+      "sitelinks": 38,
+      "birthYear": "1946",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q310981",
+      "answerKey": "don elias figueroa"
     }
-  ],
-  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg"
+  ]
 }
