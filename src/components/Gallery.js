@@ -7,6 +7,8 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     const [displayedPeople, setDisplayedPeople] = useState([]);
     const [selectedCountry, setSelectedCountry] = useState('all');
     const [showCountryFilter, setShowCountryFilter] = useState(false);
+    const [loadedCount, setLoadedCount] = useState(30); // 3 rows × 10 people
+    const [shuffledPeople, setShuffledPeople] = useState([]);
 
     // Flatten people data once on mount
     useEffect(() => {
@@ -30,10 +32,38 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
         
         // Shuffle array
         filtered = filtered.sort(() => Math.random() - 0.5);
+        setShuffledPeople(filtered);
         
-        // Take first 10
-        setDisplayedPeople(filtered.slice(0, 10));
+        // Reset loaded count when filter changes
+        setLoadedCount(30);
+        
+        // Take first 30 (3 rows × 10 people)
+        setDisplayedPeople(filtered.slice(0, 30));
     }, [selectedCountry, allPeople]);
+
+    // Load more people when scrolling
+    useEffect(() => {
+        let isLoading = false;
+        
+        const handleScroll = () => {
+            if (isLoading || shuffledPeople.length === 0) return;
+            
+            if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 500) {
+                isLoading = true;
+                
+                const newCount = loadedCount + 30;
+                setLoadedCount(newCount);
+                setDisplayedPeople(shuffledPeople.slice(0, newCount));
+                
+                setTimeout(() => {
+                    isLoading = false;
+                }, 500);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, [loadedCount, shuffledPeople]);
 
     const countries = useMemo(() =>
         [...new Set(allPeople.map(p => p.country))].sort(),

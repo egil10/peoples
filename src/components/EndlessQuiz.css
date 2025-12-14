@@ -61,7 +61,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 24px;
+    padding: 12px 24px;
     border-bottom: 1px solid #F0F0F0;
     background: #FFF;
     position: sticky;
@@ -70,6 +70,7 @@ body {
     contain: layout style;
     transition: transform 0.3s ease;
     gap: 16px;
+    min-height: 56px;
 }
 
 .header.sidebar-open {
@@ -90,21 +91,17 @@ body {
     font-weight: 700;
     color: #000;
     margin: 0;
-    transition: opacity 0.15s ease;
-}
-
-.logo-button:hover h1 {
-    opacity: 0.7;
 }
 
 .stats {
     display: flex;
     gap: 8px;
     align-items: center;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 600;
     flex: 1;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .stats .dim {
@@ -135,21 +132,17 @@ body {
     flex-shrink: 0;
 }
 
+.gallery-button,
 .stats-button {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 8px;
-    background: #F9F9F9;
-    border: 1px solid #E0E0E0;
+    background: transparent;
+    border: none;
     border-radius: 6px;
     cursor: pointer;
-    transition: background 0.15s ease;
     color: #000;
-}
-
-.stats-button:hover {
-    background: #F0F0F0;
 }
 
 /* Game Mode Toggle - Rounded Switch Style */
@@ -161,8 +154,10 @@ body {
     background: #E8E8E8;
     margin: 0;
     position: relative;
-    width: 80px;
+    width: 76px;
     height: 36px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .game-mode-toggle legend {
@@ -184,13 +179,12 @@ body {
     padding: 0;
     cursor: pointer;
     border-radius: 50%;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     position: relative;
     z-index: 2;
-    width: 28px;
-    height: 28px;
+    width: 36px;
+    height: 36px;
     background: transparent;
-    flex: 1;
+    flex: 0 0 36px;
 }
 
 .game-mode-option input[type="radio"] {
@@ -210,13 +204,13 @@ body {
     height: 28px;
     background: #FFF;
     border-radius: 50%;
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 0.2s ease;
     z-index: 1;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .game-mode-toggle[data-mode="name-to-image"]::after {
-    transform: translateX(44px);
+    transform: translateX(40px);
 }
 
 .game-mode-option.active {
@@ -236,9 +230,9 @@ body {
     height: 28px;
     border-radius: 50%;
     background: transparent;
-    transition: background 0.2s ease;
     z-index: 3;
     position: relative;
+    margin: 0 auto;
 }
 
 .game-mode-option.active .game-mode-icon {
@@ -261,16 +255,7 @@ body {
     cursor: pointer;
     font-size: 13px;
     color: #000;
-    transition: background 0.15s ease;
     border-radius: 4px;
-}
-
-.controls button:hover {
-    background: #F5F5F5;
-}
-
-.controls button:active {
-    background: #E5E5E5;
 }
 
 .sidebar-toggle {
@@ -326,11 +311,6 @@ body {
     align-items: center;
     justify-content: center;
     border-radius: 4px;
-    transition: background 0.15s ease;
-}
-
-.sidebar-close:hover {
-    background: #F5F5F5;
 }
 
 .sidebar-content {
@@ -348,13 +328,8 @@ body {
     cursor: pointer;
     font-size: 14px;
     color: #000;
-    transition: background 0.15s ease;
     border-radius: 6px;
     margin-bottom: 4px;
-}
-
-.sidebar-item:hover {
-    background: #F5F5F5;
 }
 
 .sidebar-item.active {
@@ -429,13 +404,8 @@ body {
     text-align: left;
     font-size: 18px;
     color: #000;
-    transition: background 0.15s ease;
     border-radius: 6px;
     contain: layout style paint;
-}
-
-.opt:hover:not(:disabled) {
-    background: #F9F9F9;
 }
 
 .opt.correct {
@@ -529,12 +499,7 @@ body {
     cursor: pointer;
     padding: 0;
     border-radius: 8px;
-    transition: border-color 0.15s ease;
     contain: layout style paint;
-}
-
-.img-opt:hover:not(:disabled) {
-    border-color: #000;
 }
 
 .img-opt.correct {

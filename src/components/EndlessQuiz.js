@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart } from 'lucide-react';
+import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3 } from 'lucide-react';
 import './EndlessQuiz.css';
 
 // Simplified ELO calculation - fixed difficulty at 1500, simpler scoring
@@ -91,7 +91,7 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
            prevProps.isAnswered === nextProps.isAnswered;
 });
 
-function EndlessQuiz({ allPeopleData, onNavigateToStatistics }) {
+function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGallery }) {
     const [allPeople, setAllPeople] = useState([]);
     const [filteredPeople, setFilteredPeople] = useState([]);
     const [selectedCountry, setSelectedCountry] = useState('all');
@@ -365,6 +365,15 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics }) {
                 </div>
 
                 <div className="controls">
+                    {onNavigateToGallery && (
+                        <button 
+                            onClick={onNavigateToGallery} 
+                            className="gallery-button"
+                            title="View Gallery"
+                        >
+                            <Grid3x3 size={16} />
+                        </button>
+                    )}
                     {onNavigateToStatistics && (
                         <button 
                             onClick={onNavigateToStatistics} 
