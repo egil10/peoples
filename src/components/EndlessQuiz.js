@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { Image, User, Award, Check, X, PanelLeft, Timer } from 'lucide-react';
 import './EndlessQuiz.css';
 
@@ -58,6 +58,53 @@ const PersonOption = React.memo(({ person, index, isSelected, isCorrect, isAnswe
 });
 
 const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswered, onSelect }) => {
+    const imageRef = useRef(null);
+    const [imageSrc, setImageSrc] = useState(null);
+    const [isInView, setIsInView] = useState(false);
+
+    // Reset state when person changes
+    useEffect(() => {
+        setImageSrc(null);
+        setIsInView(false);
+    }, [person.wikidataUrl]);
+
+    // Intersection Observer for true lazy loading
+    useEffect(() => {
+        if (!imageRef.current) return;
+
+        const observer = new IntersectionObserver(
+            (entries) => {
+                entries.forEach((entry) => {
+                    if (entry.isIntersecting) {
+                        setIsInView(true);
+                        observer.disconnect();
+                    }
+                });
+            },
+            {
+                rootMargin: '50px', // Start loading 50px before image enters viewport
+                threshold: 0.01
+            }
+        );
+
+        observer.observe(imageRef.current);
+
+        return () => {
+            observer.disconnect();
+        };
+    }, []);
+
+    // Load image when in view
+    useEffect(() => {
+        if (isInView && !imageSrc && person.image) {
+            // Preload image
+            const img = new Image();
+            img.onload = () => setImageSrc(person.image);
+            img.onerror = () => setImageSrc(person.image); // Fallback to direct load
+            img.src = person.image;
+        }
+    }, [isInView, person.image, imageSrc]);
+
     const cls = useMemo(() => {
         let c = 'img-opt';
         if (isAnswered) {
@@ -70,15 +117,20 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
 
     return (
         <button className={cls} onClick={onSelect} disabled={isAnswered}>
-            <img
-                src={person.image}
-                alt=""
-                loading="lazy"
-                decoding="async"
-                width="200"
-                height="267"
-                fetchpriority="low"
-            />
+            <div className="img-wrapper" ref={imageRef}>
+                {imageSrc ? (
+                    <img
+                        src={imageSrc}
+                        alt=""
+                        decoding="async"
+                        width="150"
+                        height="200"
+                        fetchpriority={index < 2 ? "high" : "low"}
+                    />
+                ) : (
+                    <div className="img-placeholder" />
+                )}
+            </div>
             <span className="letter">{String.fromCharCode(65 + index)}</span>
             {isAnswered && isCorrect && <Check size={24} className="result" />}
             {isAnswered && isSelected && !isCorrect && <X size={24} className="result" />}
@@ -159,22 +211,33 @@ function EndlessQuiz({ allPeopleData }) {
         return { correct: correctPerson, options: shuffled };
     }, [filteredPeople]);
 
-    const preloadQuestionImages = useCallback(async (question) => {
+    const preloadQuestionImages = useCallback(async (question, priority = false) => {
+        if (!question) return;
+        
+        // Only preload if priority (current question) or if we have bandwidth
         const imagesToLoad = question.options
             .map(p => p.image)
             .filter(img => img && !preloadedImages.has(img));
 
         if (imagesToLoad.length === 0) return;
 
-        const promises = imagesToLoad.map(src => preloadImage(src));
-        await Promise.all(promises);
+        // For name-to-image mode, only preload current question (priority)
+        // This reduces initial load time since we're loading 4 images per question
+        if (gameMode === 'name-to-image' && !priority) {
+            return; // Skip preloading for queued questions in name-to-image mode
+        }
 
-        setPreloadedImages(prev => {
-            const next = new Set(prev);
-            imagesToLoad.forEach(img => next.add(img));
-            return next;
+        // Load images - don't await, let them load in background
+        const promises = imagesToLoad.map(src => preloadImage(src));
+        
+        Promise.all(promises).then(() => {
+            setPreloadedImages(prev => {
+                const next = new Set(prev);
+                imagesToLoad.forEach(img => next.add(img));
+                return next;
+            });
         });
-    }, [preloadedImages]);
+    }, [preloadedImages, gameMode]);
 
     // Fill question queue
     useEffect(() => {
@@ -182,11 +245,15 @@ function EndlessQuiz({ allPeopleData }) {
 
         const fillQueue = async () => {
             const newQueue = [];
-            // Reduce queue size from 5 to 3 for better performance
-            for (let i = 0; i < 3; i++) {
+            // Reduce queue size from 5 to 2 for name-to-image mode (less images to preload)
+            const queueSize = gameMode === 'name-to-image' ? 2 : 3;
+            for (let i = 0; i < queueSize; i++) {
                 const q = generateQuestion();
                 if (q) {
-                    await preloadQuestionImages(q);
+                    // Only preload if not name-to-image mode (those load on-demand)
+                    if (gameMode !== 'name-to-image') {
+                        await preloadQuestionImages(q, false);
+                    }
                     newQueue.push(q);
                 }
             }
@@ -196,7 +263,7 @@ function EndlessQuiz({ allPeopleData }) {
         if (questionQueue.length === 0) {
             fillQueue();
         }
-    }, [filteredPeople, questionQueue.length, generateQuestion, preloadQuestionImages]);
+    }, [filteredPeople, questionQueue.length, generateQuestion, preloadQuestionImages, gameMode]);
 
     useEffect(() => {
         if (!currentQuestion && questionQueue.length > 0) {
@@ -204,13 +271,23 @@ function EndlessQuiz({ allPeopleData }) {
         }
     }, [questionQueue, currentQuestion]);
 
+    // Preload current question images when it changes (especially for name-to-image mode)
+    useEffect(() => {
+        if (currentQuestion && gameMode === 'name-to-image') {
+            preloadQuestionImages(currentQuestion, true); // Priority preload
+        }
+    }, [currentQuestion, gameMode, preloadQuestionImages]);
+
     const handleNext = useCallback(async () => {
         // Use requestAnimationFrame for smooth transitions
         requestAnimationFrame(async () => {
             const remainingQueue = questionQueue.slice(1);
             const newQuestion = generateQuestion();
             if (newQuestion) {
-                await preloadQuestionImages(newQuestion);
+                // Only preload if not name-to-image mode
+                if (gameMode !== 'name-to-image') {
+                    await preloadQuestionImages(newQuestion, false);
+                }
                 setQuestionQueue([...remainingQueue, newQuestion]);
             } else {
                 setQuestionQueue(remainingQueue);
@@ -221,7 +298,7 @@ function EndlessQuiz({ allPeopleData }) {
             setSelectedAnswer(null);
             setIsAnswered(false);
         });
-    }, [questionQueue, generateQuestion, preloadQuestionImages]);
+    }, [questionQueue, generateQuestion, preloadQuestionImages, gameMode]);
 
     const handleAnswerSelect = useCallback((person) => {
         if (isAnswered) return;
@@ -290,7 +367,7 @@ function EndlessQuiz({ allPeopleData }) {
 
     return (
         <div className="quiz-container">
-            <header className="header">
+            <header className={`header ${showCountryFilter ? 'sidebar-open' : ''}`}>
                 <div className="stats">
                     {selectedCountry !== 'all' && (
                         <>
@@ -350,36 +427,31 @@ function EndlessQuiz({ allPeopleData }) {
             </header>
 
             {/* Sidebar */}
-            {showCountryFilter && (
-                <>
-                    <div className="sidebar-overlay" onClick={() => setShowCountryFilter(false)}></div>
-                    <aside className="sidebar">
-                        <div className="sidebar-header">
-                            <h3>Select Country</h3>
-                            <button onClick={() => setShowCountryFilter(false)} className="sidebar-close">×</button>
-                        </div>
-                        <div className="sidebar-content">
-                            <button 
-                                className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`} 
-                                onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}
-                            >
-                                All ({allPeople.length})
-                            </button>
-                            {countries.map(c => (
-                                <button 
-                                    key={c} 
-                                    className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`} 
-                                    onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}
-                                >
-                                    {c}
-                                </button>
-                            ))}
-                        </div>
-                    </aside>
-                </>
-            )}
+            <aside className={`sidebar ${showCountryFilter ? 'open' : ''}`}>
+                <div className="sidebar-header">
+                    <h3>Select Country</h3>
+                    <button onClick={() => setShowCountryFilter(false)} className="sidebar-close">×</button>
+                </div>
+                <div className="sidebar-content">
+                    <button 
+                        className={`sidebar-item ${selectedCountry === 'all' ? 'active' : ''}`} 
+                        onClick={() => { setSelectedCountry('all'); setShowCountryFilter(false); }}
+                    >
+                        All ({allPeople.length})
+                    </button>
+                    {countries.map(c => (
+                        <button 
+                            key={c} 
+                            className={`sidebar-item ${selectedCountry === c ? 'active' : ''}`} 
+                            onClick={() => { setSelectedCountry(c); setShowCountryFilter(false); }}
+                        >
+                            {c}
+                        </button>
+                    ))}
+                </div>
+            </aside>
 
-            <main className="content">
+            <main className={`content ${showCountryFilter ? 'sidebar-open' : ''}`}>
                 {!currentQuestion ? (
                     <div className="loading">
                         <div className="spinner"></div>
@@ -487,7 +559,7 @@ function EndlessQuiz({ allPeopleData }) {
                         </div>
 
                         {isAnswered && (
-                            <div className="feedback-popup">
+                            <div className="feedback-popup feedback-popup-name-mode">
                                 <div className="feedback-content">
                                     {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
                                         <div className="feedback-correct">

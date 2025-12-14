@@ -83,14 +83,14 @@
     },
     {
       "id": 8,
-      "name": "Q129591",
+      "name": "Hugh Jackman",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hugh%20Jackman%20Is%20This%20Thing%20On-68%20%28cropped%29.jpg",
       "sitelinks": 106,
       "birthYear": "1968",
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q129591",
-      "answerKey": "q129591"
+      "answerKey": "hugh jackman"
     },
     {
       "id": 9,

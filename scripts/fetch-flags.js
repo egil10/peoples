@@ -117,7 +117,7 @@ const COUNTRY_CODES = {
     'Nigeria': 'Q1033',
     'Morocco': 'Q1028',
     'Cameroon': 'Q1029',
-    'Angola': 'Q1042',
+    'Angola': 'Q916',
     'Kenya': 'Q114',
     'Rwanda': 'Q1037',
     'Mauritius': 'Q1025',

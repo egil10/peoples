@@ -118,7 +118,7 @@ const COUNTRIES = [
   { code: 'Q1033', name: 'Nigeria' },
   { code: 'Q1028', name: 'Morocco' },
   { code: 'Q1029', name: 'Cameroon' },
-  { code: 'Q1042', name: 'Angola' },
+  { code: 'Q916', name: 'Angola' },
   { code: 'Q115', name: 'Kenya' },
   { code: 'Q1037', name: 'Rwanda' },
   { code: 'Q1025', name: 'Mauritius' },
@@ -159,11 +159,15 @@ function buildQuery(countryCode) {
         ?occupationItem rdfs:label ?occupationLabel.
         FILTER(LANG(?occupationLabel) = "en")
       }
+      OPTIONAL {
+        ?person rdfs:label ?personLabelFallback.
+        FILTER(LANG(?personLabelFallback) = "en")
+      }
       BIND(YEAR(?birthDate) AS ?birthYear)
       BIND(YEAR(?deathDate) AS ?deathYear)
       SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
     }
-    GROUP BY ?person ?personLabel ?image ?sitelinks ?birthYear ?deathYear
+    GROUP BY ?person ?personLabel ?personLabelFallback ?image ?sitelinks ?birthYear ?deathYear
     ORDER BY DESC(?sitelinks)
     LIMIT 10
   `;
@@ -224,17 +228,37 @@ async function fetchWithTimeout(query, countryName, retries = RETRY_LIMIT) {
 
 function transformResults(sparqlResults) {
   const bindings = sparqlResults.results.bindings;
-  return bindings.map((binding, index) => ({
-    id: index + 1,
-    name: binding.personLabel?.value || 'Unknown',
-    image: binding.image?.value || '',
-    sitelinks: parseInt(binding.sitelinks?.value || '0', 10),
-    birthYear: binding.birthYear?.value || null,
-    deathYear: binding.deathYear?.value || null,
-    occupation: binding.occupation?.value || null,
-    wikidataUrl: binding.person?.value || '',
-    answerKey: binding.personLabel?.value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim()
-  }));
+  return bindings.map((binding, index) => {
+    // Extract name, handling cases where personLabel might be a Q code
+    let name = binding.personLabel?.value || binding.personLabelFallback?.value || 'Unknown';
+    
+    // If name is a Wikidata Q code (starts with Q followed by numbers), use fallback
+    if (name && name.match(/^Q\d+$/)) {
+      name = binding.personLabelFallback?.value || `Unknown (${name})`;
+    }
+    
+    // If still a Q code, we need to fetch it separately - for now mark as needing fix
+    if (name && name.match(/^Q\d+$/)) {
+      name = `Unknown (${name})`;
+    }
+    
+    const nameForAnswerKey = name.replace(/^Unknown \(Q\d+\)$/, '').toLowerCase();
+    const answerKey = nameForAnswerKey && !nameForAnswerKey.startsWith('unknown')
+      ? nameForAnswerKey.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim()
+      : '';
+    
+    return {
+      id: index + 1,
+      name: name,
+      image: binding.image?.value || '',
+      sitelinks: parseInt(binding.sitelinks?.value || '0', 10),
+      birthYear: binding.birthYear?.value || null,
+      deathYear: binding.deathYear?.value || null,
+      occupation: binding.occupation?.value || null,
+      wikidataUrl: binding.person?.value || '',
+      answerKey: answerKey
+    };
+  });
 }
 
 async function generateCountryData(country, index, total) {

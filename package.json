@@ -4,6 +4,7 @@
   "description": "A minimalist quiz application testing knowledge of notable people from different countries using Wikidata",
   "homepage": ".",
   "scripts": {
+    "dev": "react-scripts start",
     "generate-data": "node scripts/data-pipeline.js",
     "fetch-flags": "node scripts/fetch-flags.js",
     "start": "react-scripts start",

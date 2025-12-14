@@ -6,14 +6,14 @@
   "people": [
     {
       "id": 1,
-      "name": "Q49747",
+      "name": "Maurice Maeterlinck",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Maurice%20Maeterlinck.jpg",
       "sitelinks": 132,
       "birthYear": "1862",
       "deathYear": "1949",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49747",
-      "answerKey": "q49747"
+      "answerKey": "maurice maeterlinck"
     },
     {
       "id": 2,
@@ -50,14 +50,14 @@
     },
     {
       "id": 5,
-      "name": "Q7836",
+      "name": "เรอเน มากริต",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "sitelinks": 96,
       "birthYear": "1898",
       "deathYear": "1967",
       "occupation": "photographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7836",
-      "answerKey": "q7836"
+      "answerKey": ""
     },
     {
       "id": 6,

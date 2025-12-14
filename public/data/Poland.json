@@ -17,14 +17,14 @@
     },
     {
       "id": 2,
-      "name": "Q444",
+      "name": "Lech Wałęsa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg",
       "sitelinks": 171,
       "birthYear": "1943",
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q444",
-      "answerKey": "q444"
+      "answerKey": "lech waesa"
     },
     {
       "id": 3,

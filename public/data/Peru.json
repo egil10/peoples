@@ -17,14 +17,14 @@
     },
     {
       "id": 2,
-      "name": "Q539",
+      "name": "Giuseppe Garibaldi",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Garibaldi%201861.jpg",
       "sitelinks": 129,
       "birthYear": "1807",
       "deathYear": "1882",
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q539",
-      "answerKey": "q539"
+      "answerKey": "giuseppe garibaldi"
     },
     {
       "id": 3,
