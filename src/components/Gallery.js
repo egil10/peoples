@@ -107,8 +107,8 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                         <h1>Famous Nationals</h1>
                     </button>
                     {selectedCountry !== 'all' && (
-                        <div className="gallery-country-info">
-                            <span className="dim">|</span>
+                        <div className="stats-capsule">
+                            <span className="capsule-divider"></span>
                             {countryData?.flag && (
                                 <img src={countryData.flag} alt="" className="country-flag-mini" />
                             )}
@@ -160,11 +160,6 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
             </aside>
 
             <main className={`gallery-content ${showCountryFilter ? 'sidebar-open' : ''}`}>
-                {selectedCountry !== 'all' && (
-                    <div className="gallery-filter-badge">
-                        Showing people from: <strong>{selectedCountry}</strong>
-                    </div>
-                )}
                 <div className="gallery-grid">
                     {displayedPeople.map((person) => {
                         const ItemWrapper = person.wikipediaUrl ? 'a' : 'div';

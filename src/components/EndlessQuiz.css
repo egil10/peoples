@@ -148,6 +148,20 @@ html {
     justify-content: flex-start;
 }
 
+.stats-capsule {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-right: 12px;
+}
+
+.capsule-divider {
+    width: 1px;
+    height: 14px;
+    background: #DDD;
+    margin-right: 4px;
+}
+
 .hint-toggle-btn {
     display: flex;
     align-items: center;
@@ -481,6 +495,11 @@ html {
     width: 320px;
     min-height: 480px;
     flex-shrink: 0;
+    border: 2px dashed #EEE;
+    border-radius: 16px;
+    padding: 4px;
+    position: relative;
+    background: #FAFAFA;
 }
 
 .img-box {
@@ -765,7 +784,7 @@ html {
     width: 100%;
     margin: 0;
     max-width: none;
-    animation: fadeIn 0.1s ease;
+    animation: fadeIn 0.15s ease-out;
 }
 
 .feedback-placeholder {
@@ -840,13 +859,13 @@ html {
 .feedback-content {
     background: #FFF;
     border-radius: 12px;
-    padding: 16px;
-    width: 360px;
+    padding: 20px;
+    width: 100%;
     min-height: 200px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border: 1px solid #E0E0E0;
     contain: layout style paint;
-    max-height: calc(100vh - 140px);
+    max-height: calc(100vh - 160px);
     overflow-y: auto;
 }
 
@@ -962,18 +981,20 @@ html {
 .detail-item {
     font-size: 13px;
     line-height: 1.4;
-    color: #000;
+    color: #444;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 .detail-item strong {
-    font-weight: 600;
+    font-weight: 700;
     color: #000;
 }
 
 .detail-item.desc {
-    font-style: italic;
+    font-size: 13px;
     color: #666;
-    font-size: 12px;
+    line-height: 1.5;
 }
 
 .country-flag-large {

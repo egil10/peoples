@@ -368,13 +368,13 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 </button>
                 <div className="stats">
                     {selectedCountry !== 'all' && (
-                        <>
+                        <div className="stats-capsule">
+                            <span className="capsule-divider"></span>
                             {selectedCountryData?.flag && (
                                 <img src={selectedCountryData.flag} alt="" className="country-flag-mini" />
                             )}
                             <span className="country-badge">{selectedCountry}</span>
-                            <span className="dim">|</span>
-                        </>
+                        </div>
                     )}
                     <span>{elo}</span>
                     <span className="dim">{rank}</span>
