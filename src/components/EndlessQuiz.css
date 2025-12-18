@@ -469,6 +469,7 @@ html {
 
 .quiz-side-panel {
     width: 260px;
+    min-height: 500px;
     flex-shrink: 0;
     border: 2px dashed #EEE;
     border-radius: 16px;
@@ -596,8 +597,9 @@ html {
     flex-direction: column;
     align-items: center;
     gap: 28px;
-    max-width: 900px;
+    max-width: 1200px;
     width: 100%;
+    margin: 0 auto;
     contain: layout style;
 }
 
@@ -609,12 +611,11 @@ html {
 
 .imgs-wrapper {
     display: flex;
-    gap: 24px;
+    gap: 40px;
     align-items: flex-start;
     justify-content: center;
     width: 100%;
     margin-top: 20px;
-    max-width: 1400px;
 }
 
 .imgs-with-hint {
@@ -626,10 +627,11 @@ html {
 
 .imgs {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
     width: 100%;
-    flex: 1;
+    max-width: 700px;
+    flex: none;
 }
 
 .img-opt {

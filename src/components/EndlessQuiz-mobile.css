@@ -89,11 +89,24 @@
         font-size: 15px !important;
     }
 
+    .imgs-wrapper {
+        flex-direction: column !important;
+        align-items: center !important;
+        gap: 20px !important;
+        margin-top: 10px !important;
+    }
+
     .imgs {
         grid-template-columns: repeat(2, 1fr) !important;
         gap: 12px !important;
         width: 100% !important;
         max-width: 100% !important;
+        flex: none !important;
+    }
+
+    .quiz-side-panel {
+        width: 100% !important;
+        min-height: 0 !important;
     }
 
     .img-opt {
