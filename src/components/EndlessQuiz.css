@@ -18,13 +18,25 @@ html {
 }
 
 .quiz-container {
+    height: 100vh;
     min-height: 100vh;
     background: #FFF;
     display: flex;
     flex-direction: column;
     contain: layout style paint;
     position: relative;
-    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 20px;
 }
 
 /* LOADING */
@@ -561,11 +573,13 @@ html {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 28px;
+    gap: 16px;
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
     contain: layout style;
+    justify-content: center;
+    flex: 1;
 }
 
 .name-top h2 {
@@ -576,11 +590,13 @@ html {
 
 .imgs-wrapper {
     display: flex;
-    gap: 40px;
-    align-items: flex-start;
+    gap: 24px;
+    align-items: center;
     justify-content: center;
     width: 100%;
-    margin-top: 20px;
+    margin-top: 12px;
+    flex: 1;
+    min-height: 0;
 }
 
 .imgs-with-hint {
@@ -592,11 +608,102 @@ html {
 
 .imgs {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
     width: 100%;
-    max-width: 700px;
-    flex: none;
+    max-width: 100%;
+    flex: 1;
+    align-content: center;
+}
+
+/* Feedback Overlay */
+.feedback-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    padding: 20px;
+    backdrop-filter: blur(4px);
+    animation: fadeIn 0.2s ease;
+}
+
+.feedback-modal {
+    background: #FFF;
+    border-radius: 16px;
+    padding: 24px;
+    width: 100%;
+    max-width: 480px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    position: relative;
+    max-height: 90vh;
+    overflow-y: auto;
+    animation: scaleIn 0.2s ease;
+}
+
+@keyframes scaleIn {
+    from {
+        transform: scale(0.95);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.close-feedback {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: #F5F5F5;
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: #666;
+    transition: all 0.2s ease;
+}
+
+.close-feedback:hover {
+    background: #E0E0E0;
+    color: #000;
+}
+
+.name-header-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.name-header-row h2 {
+    margin: 0;
+    text-align: center;
+}
+
+.hint-action-container {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.hint-icon {
+    font-weight: 800;
+    font-size: 16px;
 }
 
 .img-opt {
