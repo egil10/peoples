@@ -23,7 +23,7 @@
     cursor: pointer;
     padding: 0;
     text-align: left;
-    color: #000;
+    color: #444;
     text-decoration: none;
 }
 
@@ -34,7 +34,7 @@
 .logo-button:active,
 .logo-button:focus,
 .logo-button:focus-visible {
-    color: #000 !important;
+    color: #444 !important;
     text-decoration: none !important;
     outline: none !important;
     background: none !important;
@@ -45,7 +45,7 @@
 .logo-button h1 {
     font-size: 20px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     margin: 0;
     background: none !important;
     background-color: transparent !important;
@@ -74,7 +74,7 @@
 .statistics-title h2 {
     font-size: 24px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     margin: 0 0 6px 0;
 }
 
@@ -115,13 +115,13 @@
     background: #F9F9F9;
     border-radius: 8px;
     margin-bottom: 12px;
-    color: #000;
+    color: #444;
 }
 
 .stat-value {
     font-size: 28px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     margin-bottom: 6px;
 }
 
@@ -133,7 +133,7 @@
 
 .stat-rank {
     font-size: 16px;
-    color: #000;
+    color: #444;
     font-weight: 600;
     margin-top: 8px;
 }
@@ -159,13 +159,12 @@
     .statistics-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .stat-card-large {
         grid-column: span 1;
     }
-    
+
     .statistics-content {
         padding: 24px 16px;
     }
 }
-

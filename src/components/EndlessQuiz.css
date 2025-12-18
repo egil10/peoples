@@ -107,19 +107,14 @@ html {
 .logo-button h1 {
     font-size: 20px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     margin: 0;
     background: none !important;
     background-color: transparent !important;
-    transition: opacity 0.15s ease;
 }
 
 .logo-button:hover h1 {
-    opacity: 0.7;
-}
-
-.logo-button:active h1 {
-    opacity: 0.5;
+    color: #000;
 }
 
 .stats {
@@ -144,7 +139,7 @@ html {
 }
 
 .country-badge {
-    background: #000;
+    background: #666;
     color: #FFF;
     padding: 4px 10px;
     border-radius: 4px;
@@ -179,14 +174,13 @@ html {
 .gallery-button:hover,
 .stats-button:hover {
     background: #F5F5F5;
-    color: #000;
+    color: #444;
 }
 
 .gallery-button:active,
 .stats-button:active {
     background: #E8E8E8;
-    color: #000;
-    transform: scale(0.95);
+    color: #444;
 }
 
 .gallery-button svg,
@@ -264,7 +258,7 @@ html {
 
 .game-mode-option.active {
     background: transparent;
-    color: #000;
+    color: #444;
 }
 
 .game-mode-option:not(.active) {
@@ -279,7 +273,7 @@ html {
 }
 
 .game-mode-option.active .game-mode-icon {
-    color: #000;
+    color: #444;
 }
 
 .game-mode-option:not(.active) .game-mode-icon {
@@ -310,13 +304,12 @@ html {
 
 .controls button:hover {
     background: #F5F5F5;
-    color: #000;
+    color: #444;
 }
 
 .controls button:active {
     background: #E8E8E8;
-    color: #000;
-    transform: scale(0.95);
+    color: #444;
 }
 
 .controls button svg {
@@ -381,7 +374,7 @@ html {
 .sidebar-header h3 {
     font-size: 16px;
     font-weight: 600;
-    color: #000;
+    color: #444;
 }
 
 .sidebar-close {
@@ -403,12 +396,11 @@ html {
 
 .sidebar-close:hover {
     background: #F5F5F5;
-    color: #000;
+    color: #444;
 }
 
 .sidebar-close:active {
     background: #E8E8E8;
-    transform: scale(0.9);
 }
 
 .sidebar-close:focus-visible {
@@ -451,10 +443,10 @@ html {
     text-align: left;
     cursor: pointer;
     font-size: 14px;
-    color: #000;
+    color: #444;
     border-radius: 6px;
     margin-bottom: 4px;
-    transition: all 0.15s ease;
+    transition: all 0.1s ease;
     outline: none;
 }
 
@@ -464,11 +456,10 @@ html {
 
 .sidebar-item:active:not(.active) {
     background: #E8E8E8;
-    transform: scale(0.98);
 }
 
 .sidebar-item.active {
-    background: #000;
+    background: #666;
     color: #FFF;
 }
 
@@ -551,20 +542,18 @@ html {
     cursor: pointer;
     text-align: left;
     font-size: 18px;
-    color: #000;
+    color: #444;
     border-radius: 6px;
     contain: layout style paint;
-    transition: all 0.15s ease;
 }
 
 .opt:hover:not(.correct):not(.wrong):not(.dim) {
     background: #F9F9F9;
     border-color: #BDBDBD;
-    transform: translateX(4px);
 }
 
 .opt:active:not(.correct):not(.wrong):not(.dim) {
-    transform: translateX(2px);
+    background: #F0F0F0;
 }
 
 .opt:focus-visible {
@@ -598,7 +587,7 @@ html {
     background: #F5F5F5;
     font-size: 14px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     flex-shrink: 0;
     border-radius: 6px;
 }
@@ -642,7 +631,7 @@ html {
 .name-top h2 {
     font-size: 36px;
     font-weight: 700;
-    color: #000;
+    color: #444;
 }
 
 .imgs-wrapper {
@@ -678,13 +667,10 @@ html {
 
 .img-opt:hover:not(.correct):not(.wrong):not(.dim) {
     border-color: #BDBDBD;
-    transform: translateY(-4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .img-opt:active:not(.correct):not(.wrong):not(.dim) {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-color: #999;
 }
 
 .img-opt:focus-visible {
@@ -988,12 +974,10 @@ html {
 
 .wikipedia-link:hover {
     background: #F9F9F9;
-    border-color: #000;
-    transform: translateX(4px);
+    border-color: #666;
 }
 
 .wikipedia-link:active {
-    transform: translateX(2px);
     background: #F0F0F0;
 }
 
@@ -1135,8 +1119,6 @@ html {
 .split,
 .name-top {
     will-change: auto;
-    transform: translateZ(0);
-    backface-visibility: hidden;
     -webkit-font-smoothing: antialiased;
 }
 

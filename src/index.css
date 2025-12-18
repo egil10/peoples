@@ -17,24 +17,24 @@
   /* Color Palette - Neutral, High Contrast, Calm */
   --color-bg: #ffffff;
   --color-bg-secondary: #f8f9fa;
-  --color-text: #1a1a1a;
+  --color-text: #444;
   --color-text-secondary: #6c757d;
   --color-border: #dee2e6;
   --color-accent: #0066cc;
   --color-accent-hover: #0052a3;
-  
+
   /* Feedback Colors */
   --color-correct: #28a745;
   --color-incorrect: #dc3545;
   --color-hint: #ffc107;
-  
+
   /* Spacing System */
   --spacing-xs: 0.5rem;
   --spacing-sm: 1rem;
   --spacing-md: 1.5rem;
   --spacing-lg: 2rem;
   --spacing-xl: 3rem;
-  
+
   /* Typography */
   --font-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
   --font-size-sm: 0.875rem;
@@ -42,12 +42,12 @@
   --font-size-lg: 1.125rem;
   --font-size-xl: 1.5rem;
   --font-size-2xl: 2rem;
-  
+
   /* Layout */
   --max-width: 600px;
   --border-radius: 12px;
   --border-radius-sm: 8px;
-  
+
   /* Transitions */
   --transition-fast: 150ms ease;
   --transition-base: 250ms ease;
@@ -82,15 +82,28 @@ body {
    Typography
    ======================================== */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 600;
   line-height: 1.2;
   margin-bottom: var(--spacing-sm);
 }
 
-h1 { font-size: var(--font-size-2xl); }
-h2 { font-size: var(--font-size-xl); }
-h3 { font-size: var(--font-size-lg); }
+h1 {
+  font-size: var(--font-size-2xl);
+}
+
+h2 {
+  font-size: var(--font-size-xl);
+}
+
+h3 {
+  font-size: var(--font-size-lg);
+}
 
 p {
   margin-bottom: var(--spacing-sm);
@@ -141,11 +154,10 @@ button {
 
 button:hover {
   background: var(--color-accent-hover);
-  transform: translateY(-1px);
 }
 
 button:active {
-  transform: translateY(0);
+  opacity: 0.8;
 }
 
 button:disabled {
@@ -230,16 +242,37 @@ input[type="text"]:focus {
   justify-content: space-between;
 }
 
-.gap-sm { gap: var(--spacing-sm); }
-.gap-md { gap: var(--spacing-md); }
+.gap-sm {
+  gap: var(--spacing-sm);
+}
 
-.mt-sm { margin-top: var(--spacing-sm); }
-.mt-md { margin-top: var(--spacing-md); }
-.mt-lg { margin-top: var(--spacing-lg); }
+.gap-md {
+  gap: var(--spacing-md);
+}
 
-.mb-sm { margin-bottom: var(--spacing-sm); }
-.mb-md { margin-bottom: var(--spacing-md); }
-.mb-lg { margin-bottom: var(--spacing-lg); }
+.mt-sm {
+  margin-top: var(--spacing-sm);
+}
+
+.mt-md {
+  margin-top: var(--spacing-md);
+}
+
+.mt-lg {
+  margin-top: var(--spacing-lg);
+}
+
+.mb-sm {
+  margin-bottom: var(--spacing-sm);
+}
+
+.mb-md {
+  margin-bottom: var(--spacing-md);
+}
+
+.mb-lg {
+  margin-bottom: var(--spacing-lg);
+}
 
 /* ========================================
    Feedback States
@@ -296,7 +329,9 @@ input[type="text"]:focus {
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 /* ========================================
@@ -308,11 +343,11 @@ input[type="text"]:focus {
     --font-size-2xl: 1.75rem;
     --font-size-xl: 1.25rem;
   }
-  
+
   .app-container {
     padding: var(--spacing-sm);
   }
-  
+
   .card {
     padding: var(--spacing-md);
   }
@@ -323,6 +358,7 @@ input[type="text"]:focus {
    ======================================== */
 
 @media (prefers-reduced-motion: reduce) {
+
   *,
   *::before,
   *::after {

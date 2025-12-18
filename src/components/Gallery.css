@@ -51,19 +51,10 @@
 .logo-button h1 {
     font-size: 20px;
     font-weight: 700;
-    color: #000;
+    color: #444;
     margin: 0;
     background: none !important;
     background-color: transparent !important;
-    transition: opacity 0.15s ease;
-}
-
-.logo-button:hover h1 {
-    opacity: 0.7;
-}
-
-.logo-button:active h1 {
-    opacity: 0.5;
 }
 
 .gallery-controls {
@@ -90,13 +81,12 @@
 
 .filter-button:hover {
     background: #F5F5F5;
-    color: #000;
+    color: #444;
 }
 
 .filter-button:active {
     background: #E8E8E8;
-    color: #000;
-    transform: scale(0.95);
+    color: #444;
 }
 
 .filter-button svg {
@@ -171,7 +161,7 @@
 .sidebar-header h3 {
     font-size: 16px;
     font-weight: 600;
-    color: #000;
+    color: #444;
 }
 
 .sidebar-close {
@@ -193,12 +183,11 @@
 
 .sidebar-close:hover {
     background: #F5F5F5;
-    color: #000;
+    color: #444;
 }
 
 .sidebar-close:active {
     background: #E8E8E8;
-    transform: scale(0.9);
 }
 
 .sidebar-content {
@@ -236,10 +225,10 @@
     text-align: left;
     cursor: pointer;
     font-size: 14px;
-    color: #000;
+    color: #444;
     border-radius: 6px;
     margin-bottom: 4px;
-    transition: all 0.15s ease;
+    transition: all 0.1s ease;
     outline: none;
 }
 
@@ -249,11 +238,10 @@
 
 .sidebar-item:active:not(.active) {
     background: #E8E8E8;
-    transform: scale(0.98);
 }
 
 .sidebar-item.active {
-    background: #000;
+    background: #666;
     color: #FFF;
 }
 
@@ -268,7 +256,7 @@
 }
 
 .gallery-filter-badge strong {
-    color: #000;
+    color: #444;
     font-weight: 600;
 }
 
@@ -288,8 +276,6 @@
     border-radius: 8px;
     overflow: hidden;
     contain: layout style paint;
-    transition: all 0.2s ease;
-    cursor: pointer;
 }
 
 .gallery-item-link {
@@ -300,13 +286,10 @@
 
 .gallery-item:hover {
     border-color: #BDBDBD;
-    transform: translateY(-4px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .gallery-item:active {
-    transform: translateY(-2px);
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border-color: #999;
 }
 
 .gallery-image {
@@ -335,7 +318,7 @@
 .gallery-name {
     font-size: 11px;
     font-weight: 600;
-    color: #000;
+    color: #444;
     margin: 0;
     line-height: 1.2;
     overflow: hidden;
@@ -381,20 +364,18 @@
     padding: 12px 32px;
     font-size: 14px;
     font-weight: 500;
-    color: #000;
+    color: #444;
     cursor: pointer;
     outline: none;
-    transition: all 0.15s ease;
 }
 
 .load-more-button:hover {
-    border-color: #000;
+    border-color: #666;
     background: #F9F9F9;
 }
 
 .load-more-button:active {
     background: #F0F0F0;
-    transform: scale(0.98);
 }
 
 /* Responsive */

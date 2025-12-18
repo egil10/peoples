@@ -75,8 +75,7 @@
 }
 
 .start-quiz-button:hover {
-    box-shadow: 0 6px 20px rgba(0, 102, 204, 0.4);
-    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 102, 204, 0.3);
 }
 
 .country-grid {
@@ -104,8 +103,6 @@
 .country-card:hover {
     border-color: var(--color-accent);
     background: var(--color-bg-secondary);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .country-name {

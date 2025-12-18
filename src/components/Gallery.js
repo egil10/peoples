@@ -7,7 +7,7 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     const [displayedPeople, setDisplayedPeople] = useState([]);
     const [selectedCountry, setSelectedCountry] = useState('all');
     const [showCountryFilter, setShowCountryFilter] = useState(false);
-    const [loadedCount, setLoadedCount] = useState(100); // Start with 100 people (10 rows × 10 per row)
+    const [loadedCount, setLoadedCount] = useState(24); // Start with 24 people (3 rows of 8)
     const [shuffledPeople, setShuffledPeople] = useState([]);
 
     // Proper Fisher-Yates shuffle algorithm
@@ -52,11 +52,11 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
         const shuffled = shuffleArray(filtered);
         setShuffledPeople(shuffled);
 
-        // When filtering by country, show ALL people from that country
-        // When showing all, start with 100 people (10 rows)
+        // When filtering by country, show ALL people from that country (max rows)
+        // When showing all, start with 24 people (3 rows of 8)
         if (selectedCountry === 'all') {
-            setLoadedCount(100);
-            setDisplayedPeople(shuffled.slice(0, Math.min(100, shuffled.length)));
+            setLoadedCount(24);
+            setDisplayedPeople(shuffled.slice(0, Math.min(24, shuffled.length)));
         } else {
             // Show all people from the filtered country
             setLoadedCount(shuffled.length);
@@ -68,7 +68,7 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     const handleLoadMore = () => {
         if (shuffledPeople.length === 0) return;
 
-        const newCount = loadedCount + 100;
+        const newCount = loadedCount + 24;
         setLoadedCount(newCount);
         setDisplayedPeople(shuffledPeople.slice(0, newCount));
     };
