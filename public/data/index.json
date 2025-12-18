@@ -1,5 +1,5 @@
 {
-  "generated": "2025-12-14T21:22:29.220Z",
+  "generated": "2025-12-18T02:04:41.862Z",
   "countries": [
     {
       "name": "USA",
@@ -413,7 +413,7 @@
     },
     {
       "name": "Bhutan",
-      "code": "Q967",
+      "code": "Q917",
       "file": "Bhutan.json"
     },
     {
@@ -518,7 +518,7 @@
     },
     {
       "name": "Paraguay",
-      "code": "Q299",
+      "code": "Q733",
       "file": "Paraguay.json"
     },
     {
@@ -538,7 +538,7 @@
     },
     {
       "name": "Jamaica",
-      "code": "Q754",
+      "code": "Q766",
       "file": "Jamaica.json"
     },
     {
@@ -583,7 +583,7 @@
     },
     {
       "name": "Trinidad and Tobago",
-      "code": "Q734",
+      "code": "Q754",
       "file": "Trinidad_and_Tobago.json"
     },
     {
@@ -623,7 +623,7 @@
     },
     {
       "name": "Dominica",
-      "code": "Q766",
+      "code": "Q784",
       "file": "Dominica.json"
     },
     {
@@ -633,7 +633,7 @@
     },
     {
       "name": "Guyana",
-      "code": "Q733",
+      "code": "Q734",
       "file": "Guyana.json"
     },
     {
@@ -653,7 +653,7 @@
     },
     {
       "name": "Ethiopia",
-      "code": "Q231",
+      "code": "Q115",
       "file": "Ethiopia.json"
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "name": "Cameroon",
-      "code": "Q1029",
+      "code": "Q1009",
       "file": "Cameroon.json"
     },
     {
@@ -673,7 +673,7 @@
     },
     {
       "name": "Kenya",
-      "code": "Q115",
+      "code": "Q114",
       "file": "Kenya.json"
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "name": "Mauritius",
-      "code": "Q1025",
+      "code": "Q1027",
       "file": "Mauritius.json"
     },
     {
@@ -738,37 +738,37 @@
     },
     {
       "name": "Mozambique",
-      "code": "Q1027",
+      "code": "Q1029",
       "file": "Mozambique.json"
     },
     {
       "name": "Ghana",
-      "code": "Q1030",
+      "code": "Q117",
       "file": "Ghana.json"
     },
     {
       "name": "Senegal",
-      "code": "Q1032",
+      "code": "Q1041",
       "file": "Senegal.json"
     },
     {
       "name": "Zimbabwe",
-      "code": "Q1039",
+      "code": "Q954",
       "file": "Zimbabwe.json"
     },
     {
       "name": "Zambia",
-      "code": "Q1041",
+      "code": "Q953",
       "file": "Zambia.json"
     },
     {
       "name": "Botswana",
-      "code": "Q1042",
+      "code": "Q963",
       "file": "Botswana.json"
     },
     {
       "name": "Namibia",
-      "code": "Q1044",
+      "code": "Q1030",
       "file": "Namibia.json"
     },
     {
@@ -788,32 +788,32 @@
     },
     {
       "name": "Niger",
-      "code": "Q1006",
+      "code": "Q1032",
       "file": "Niger.json"
     },
     {
       "name": "Guinea",
-      "code": "Q1005",
+      "code": "Q1006",
       "file": "Guinea.json"
     },
     {
       "name": "Benin",
-      "code": "Q1004",
+      "code": "Q962",
       "file": "Benin.json"
     },
     {
       "name": "Togo",
-      "code": "Q1003",
+      "code": "Q945",
       "file": "Togo.json"
     },
     {
       "name": "Sierra Leone",
-      "code": "Q1002",
+      "code": "Q1044",
       "file": "Sierra_Leone.json"
     },
     {
       "name": "Liberia",
-      "code": "Q1001",
+      "code": "Q1014",
       "file": "Liberia.json"
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "name": "Burundi",
-      "code": "Q1038",
+      "code": "Q967",
       "file": "Burundi.json"
     },
     {
@@ -833,52 +833,52 @@
     },
     {
       "name": "Equatorial Guinea",
-      "code": "Q1013",
+      "code": "Q983",
       "file": "Equatorial_Guinea.json"
     },
     {
       "name": "Gabon",
-      "code": "Q1014",
+      "code": "Q1000",
       "file": "Gabon.json"
     },
     {
       "name": "Republic of the Congo",
-      "code": "Q1015",
+      "code": "Q971",
       "file": "Republic_of_the_Congo.json"
     },
     {
       "name": "Central African Republic",
-      "code": "Q1017",
+      "code": "Q929",
       "file": "Central_African_Republic.json"
     },
     {
       "name": "São Tomé and Príncipe",
-      "code": "Q1018",
+      "code": "Q1039",
       "file": "São_Tomé_and_Príncipe.json"
     },
     {
       "name": "Lesotho",
-      "code": "Q1009",
+      "code": "Q1013",
       "file": "Lesotho.json"
     },
     {
       "name": "Mali",
-      "code": "Q1021",
+      "code": "Q912",
       "file": "Mali.json"
     },
     {
       "name": "Eswatini",
-      "code": "Q1023",
+      "code": "Q1050",
       "file": "Eswatini.json"
     },
     {
       "name": "Comoros",
-      "code": "Q1024",
+      "code": "Q970",
       "file": "Comoros.json"
     },
     {
       "name": "Djibouti",
-      "code": "Q1026",
+      "code": "Q977",
       "file": "Djibouti.json"
     },
     {
@@ -888,22 +888,22 @@
     },
     {
       "name": "Cape Verde",
-      "code": "Q1034",
+      "code": "Q1011",
       "file": "Cape_Verde.json"
     },
     {
       "name": "Mauritania",
-      "code": "Q1035",
+      "code": "Q1025",
       "file": "Mauritania.json"
     },
     {
       "name": "South Sudan",
-      "code": "Q1040",
+      "code": "Q958",
       "file": "South_Sudan.json"
     },
     {
       "name": "Seychelles",
-      "code": "Q1043",
+      "code": "Q1042",
       "file": "Seychelles.json"
     },
     {

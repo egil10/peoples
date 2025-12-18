@@ -1,7 +1,7 @@
 {
   "country": "Palau",
   "countryCode": "Q695",
-  "generated": "2025-12-14T21:22:01.340Z",
+  "generated": "2025-12-18T02:04:15.972Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -234,6 +234,18 @@
     },
     {
       "id": 20,
+      "name": "Ilana Seid",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilana%20Seid%20in%20Beit%20HaNassi%2C%20October%202022%20%28KBG%20GPO3182%29%20%28cropped%29.jpg",
+      "sitelinks": 3,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q125585782",
+      "answerKey": "ilana seid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilana_Seid"
+    },
+    {
+      "id": 21,
       "name": "Abba Thulle",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Abba%20Thulle%2C%20King%20of%20Pelew%20cph.3b32617.jpg",
       "sitelinks": 3,
@@ -245,7 +257,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Abba_Thulle"
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Valerie Whipps",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/05.20%20%E7%B8%BD%E7%B5%B1%E8%88%87%E5%B8%9B%E7%90%89%E5%85%B1%E5%92%8C%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%83%A0%E6%81%95%E4%BB%81%E9%9B%99%E9%82%8A%E6%9C%83%E6%99%A4%20-%2054531571382.jpg",
       "sitelinks": 3,
@@ -255,18 +267,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q113499366",
       "answerKey": "valerie whipps",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Valerie_Whipps"
-    },
-    {
-      "id": 22,
-      "name": "Ilana Seid",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ilana%20Seid%20in%20Beit%20HaNassi%2C%20October%202022%20%28KBG%20GPO3182%29%20%28cropped%29.jpg",
-      "sitelinks": 3,
-      "birthYear": null,
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q125585782",
-      "answerKey": "ilana seid",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ilana_Seid"
     },
     {
       "id": 23,
@@ -287,37 +287,25 @@
       "sitelinks": 2,
       "birthYear": null,
       "deathYear": null,
-      "occupation": "politician",
+      "occupation": "physician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q123907808",
       "answerKey": "emais roberts",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Emais_Roberts"
     },
     {
       "id": 25,
-      "name": "Eyos Rudimch",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eyos%20Rudimch%202024%20%28cropped%29.jpg",
-      "sitelinks": 1,
-      "birthYear": null,
+      "name": "Kaleb Udui Jr.",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/10.06%20%E7%B8%BD%E7%B5%B1%E5%9C%8B%E5%AE%B4%E5%AE%B4%E8%AB%8B%E5%B8%9B%E7%90%89%E5%85%B1%E5%92%8C%E5%9C%8B%E7%B8%BD%E7%B5%B1%E6%83%A0%E6%81%95%E4%BB%81%20%2852408192854%29.jpg",
+      "sitelinks": 2,
+      "birthYear": "1966",
       "deathYear": null,
       "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q114457457",
-      "answerKey": "eyos rudimch",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyos_Rudimch"
+      "wikidataUrl": "http://www.wikidata.org/entity/Q114457574",
+      "answerKey": "kaleb udui jr",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaleb_Udui_Jr."
     },
     {
       "id": 26,
-      "name": "David Adams Orrukem",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Adams%20Orrukem%20%28profile%29.jpg",
-      "sitelinks": 1,
-      "birthYear": null,
-      "deathYear": null,
-      "occupation": "civil servant",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q117225212",
-      "answerKey": "david adams orrukem",
-      "wikipediaUrl": null
-    },
-    {
-      "id": 27,
       "name": "Elbuchel Sadang",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elbuchel%20Sadang%202020%20%28cropped%29.jpg",
       "sitelinks": 1,
@@ -329,7 +317,31 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Elbuchel_Sadang"
     },
     {
+      "id": 27,
+      "name": "Eyos Rudimch",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eyos%20Rudimch%202024%20%28cropped%29.jpg",
+      "sitelinks": 1,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q114457457",
+      "answerKey": "eyos rudimch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eyos_Rudimch"
+    },
+    {
       "id": 28,
+      "name": "David Adams Orrukem",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Adams%20Orrukem%20%28profile%29.jpg",
+      "sitelinks": 1,
+      "birthYear": null,
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q117225212",
+      "answerKey": "david adams orrukem",
+      "wikipediaUrl": null
+    },
+    {
+      "id": 29,
       "name": "John O. Ngiraked",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20O%20Ngiraked.jpg",
       "sitelinks": 1,
@@ -341,7 +353,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Ngiraked"
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Francis Matsutaro",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Mariur%20Matsutaro%202013%20%28cropped%29.jpg",
       "sitelinks": 1,
@@ -353,6 +365,7 @@
       "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:20:12.925Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg",
+  "updated": "2025-12-18T02:10:20.616Z",
   "wikipediaLinksAdded": true
 }

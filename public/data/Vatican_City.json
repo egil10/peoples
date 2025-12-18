@@ -1,7 +1,7 @@
 {
   "country": "Vatican City",
   "countryCode": "Q237",
-  "generated": "2025-12-14T21:15:05.174Z",
+  "generated": "2025-12-18T02:00:55.592Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 198,
       "birthYear": "1927",
       "deathYear": "2022",
-      "occupation": "Catholic theologian",
+      "occupation": "Latin Catholic bishop",
       "wikidataUrl": "http://www.wikidata.org/entity/Q2494",
       "answerKey": "benedict xvi",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI"
@@ -138,6 +138,18 @@
     },
     {
       "id": 12,
+      "name": "Giuseppe Beltrami",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister-president%20de%20Jong%20%28links%29%20en%20mgr.%20Beltrami%2C%20Bestanddeelnr%20920-4066.jpg",
+      "sitelinks": 15,
+      "birthYear": "1889",
+      "deathYear": "1973",
+      "occupation": "lawyer",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q371783",
+      "answerKey": "giuseppe beltrami",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Beltrami"
+    },
+    {
+      "id": 13,
       "name": "Gabriele Giordano Caccia",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabriele%20Giordano%20Caccia%20-%202018%20%28cropped%29.jpg",
       "sitelinks": 15,
@@ -149,7 +161,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabriele_Giordano_Caccia"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Francis Chullikatt",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Archb.%20francis.jpg",
       "sitelinks": 15,
@@ -161,7 +173,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Chullikatt"
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "Celestino Migliore",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Celestino%20Migliore%20%28cropped%29.jpg",
       "sitelinks": 15,
@@ -171,18 +183,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q962293",
       "answerKey": "celestino migliore",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Celestino_Migliore"
-    },
-    {
-      "id": 15,
-      "name": "Giuseppe Beltrami",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister-president%20de%20Jong%20%28links%29%20en%20mgr.%20Beltrami%2C%20Bestanddeelnr%20920-4066.jpg",
-      "sitelinks": 15,
-      "birthYear": "1889",
-      "deathYear": "1973",
-      "occupation": "Catholic priest",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q371783",
-      "answerKey": "giuseppe beltrami",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Beltrami"
     },
     {
       "id": 16,
@@ -198,18 +198,6 @@
     },
     {
       "id": 17,
-      "name": "Andrzej Józwowicz",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mons%20andrzej.jpg",
-      "sitelinks": 10,
-      "birthYear": "1965",
-      "deathYear": null,
-      "occupation": "Catholic priest",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q28961836",
-      "answerKey": "andrzej jozwowicz",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_J%C3%B3zwowicz"
-    },
-    {
-      "id": 18,
       "name": "Henryk Jagodziński",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ks.%20Henryk%20Jagodzi%C5%84ski.jpg",
       "sitelinks": 10,
@@ -219,6 +207,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q9288231",
       "answerKey": "henryk jagodzinski",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Henryk_Jagodzi%C5%84ski_(nuncio)"
+    },
+    {
+      "id": 18,
+      "name": "Andrzej Józwowicz",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mons%20andrzej.jpg",
+      "sitelinks": 10,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "Catholic priest",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28961836",
+      "answerKey": "andrzej jozwowicz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrzej_J%C3%B3zwowicz"
     },
     {
       "id": 19,
@@ -246,18 +246,6 @@
     },
     {
       "id": 21,
-      "name": "Melchor Sánchez de Toca Alameda",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melchor%20S%C3%A1nchez%20de%20Toca%20Alameda%20on%20CTV%2010-11-2017.jpg",
-      "sitelinks": 4,
-      "birthYear": "1966",
-      "deathYear": null,
-      "occupation": "athletics competitor",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q5384648",
-      "answerKey": "melchor sanchez de toca alameda",
-      "wikipediaUrl": null
-    },
-    {
-      "id": 22,
       "name": "Slađan Ćosić",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sla%C4%91an%20%C4%86osi%C4%87%2020171103.jpg",
       "sitelinks": 4,
@@ -266,6 +254,18 @@
       "occupation": "Catholic priest",
       "wikidataUrl": "http://www.wikidata.org/entity/Q29246375",
       "answerKey": "slaan cosic",
+      "wikipediaUrl": null
+    },
+    {
+      "id": 22,
+      "name": "Melchor Sánchez de Toca Alameda",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Melchor%20S%C3%A1nchez%20de%20Toca%20Alameda%20on%20CTV%2010-11-2017.jpg",
+      "sitelinks": 4,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "athletics competitor",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q5384648",
+      "answerKey": "melchor sanchez de toca alameda",
       "wikipediaUrl": null
     },
     {
@@ -305,6 +305,7 @@
       "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:24:34.719Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vatican%20City%20%282023%E2%80%93present%29.svg",
+  "updated": "2025-12-18T02:11:56.335Z",
   "wikipediaLinksAdded": true
 }

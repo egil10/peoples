@@ -1,7 +1,7 @@
 {
   "country": "Nauru",
   "countryCode": "Q697",
-  "generated": "2025-12-14T21:22:22.470Z",
+  "generated": "2025-12-18T02:04:35.613Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -162,18 +162,6 @@
     },
     {
       "id": 14,
-      "name": "Marlene Moses",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Moses%202012%20%28cropped%29.jpg",
-      "sitelinks": 11,
-      "birthYear": "1961",
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q443558",
-      "answerKey": "marlene moses",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlene_Moses"
-    },
-    {
-      "id": 15,
       "name": "Kieren Keke",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kieren%20Keke%202019%20%28cropped%29.jpg",
       "sitelinks": 11,
@@ -183,6 +171,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q1391207",
       "answerKey": "kieren keke",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Kieren_Keke"
+    },
+    {
+      "id": 15,
+      "name": "Marlene Moses",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marlene%20Moses%202012%20%28cropped%29.jpg",
+      "sitelinks": 11,
+      "birthYear": "1961",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q443558",
+      "answerKey": "marlene moses",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marlene_Moses"
     },
     {
       "id": 16,
@@ -210,18 +210,6 @@
     },
     {
       "id": 18,
-      "name": "Raymond Gadabu",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NRU-Gadabu-DeRoburt-1968-1.jpg",
-      "sitelinks": 6,
-      "birthYear": null,
-      "deathYear": "1964",
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q321044",
-      "answerKey": "raymond gadabu",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Gadabu"
-    },
-    {
-      "id": 19,
       "name": "Isabella Dageago",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Isabella%20Dageago.png",
       "sitelinks": 6,
@@ -231,6 +219,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q108884363",
       "answerKey": "isabella dageago",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Isabella_Dageago"
+    },
+    {
+      "id": 19,
+      "name": "Raymond Gadabu",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NRU-Gadabu-DeRoburt-1968-1.jpg",
+      "sitelinks": 6,
+      "birthYear": null,
+      "deathYear": "1964",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q321044",
+      "answerKey": "raymond gadabu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Gadabu"
     },
     {
       "id": 20,
@@ -246,18 +246,6 @@
     },
     {
       "id": 21,
-      "name": "Charmaine Scotty",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charmaine%20Scotty%20crop.jpg",
-      "sitelinks": 6,
-      "birthYear": "2000",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q13454037",
-      "answerKey": "charmaine scotty",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charmaine_Scotty"
-    },
-    {
-      "id": 22,
       "name": "Dominic Tabuna",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Tabuna%20%28crop1%29.jpg",
       "sitelinks": 6,
@@ -267,6 +255,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q5290659",
       "answerKey": "dominic tabuna",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominic_Tabuna"
+    },
+    {
+      "id": 22,
+      "name": "Charmaine Scotty",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charmaine%20Scotty%20crop.jpg",
+      "sitelinks": 6,
+      "birthYear": "2000",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q13454037",
+      "answerKey": "charmaine scotty",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charmaine_Scotty"
     },
     {
       "id": 23,
@@ -282,6 +282,18 @@
     },
     {
       "id": 24,
+      "name": "Shadlog Bernicke",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shadlog%20Bernicke%20%28cropped%29.jpg",
+      "sitelinks": 4,
+      "birthYear": "1966",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q282252",
+      "answerKey": "shadlog bernicke",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shadlog_Bernicke"
+    },
+    {
+      "id": 25,
       "name": "Ludwig Keke",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20Keke%202016%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -293,7 +305,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Ludwig_Keke"
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Aaron Cook",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aaron%20Cook%20MP%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -305,7 +317,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Aaron_Cook_(politician)"
     },
     {
-      "id": 26,
+      "id": 27,
       "name": "Sean Oppenheimer",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Oppenheimer%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -317,7 +329,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Sean_Oppenheimer"
     },
     {
-      "id": 27,
+      "id": 28,
       "name": "Gabrissa Hartman",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gabrissa%20Hartman%202023%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -327,18 +339,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q42698375",
       "answerKey": "gabrissa hartman",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabrissa_Hartman"
-    },
-    {
-      "id": 28,
-      "name": "Shadlog Bernicke",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shadlog%20Bernicke%20%28cropped%29.jpg",
-      "sitelinks": 4,
-      "birthYear": "1966",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q282252",
-      "answerKey": "shadlog bernicke",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shadlog_Bernicke"
     },
     {
       "id": 29,
@@ -426,18 +426,6 @@
     },
     {
       "id": 36,
-      "name": "Ezekiel Moses",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weightlifting%20at%20the%202018%20Summer%20Youth%20Olympics%20%E2%80%93%20Boys%27%2062%20kg%201229.jpg",
-      "sitelinks": 1,
-      "birthYear": "2001",
-      "deathYear": null,
-      "occupation": "weightlifter",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q74449502",
-      "answerKey": "ezekiel moses",
-      "wikipediaUrl": null
-    },
-    {
-      "id": 37,
       "name": "Delvin Oneil Thoma",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Delvin%20Thoma%20%28crop1%29.jpg",
       "sitelinks": 1,
@@ -447,8 +435,21 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q114321576",
       "answerKey": "delvin oneil thoma",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Delvin_Thoma"
+    },
+    {
+      "id": 37,
+      "name": "Ezekiel Moses",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Weightlifting%20at%20the%202018%20Summer%20Youth%20Olympics%20%E2%80%93%20Boys%27%2062%20kg%201229.jpg",
+      "sitelinks": 1,
+      "birthYear": "2001",
+      "deathYear": null,
+      "occupation": "weightlifter",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q74449502",
+      "answerKey": "ezekiel moses",
+      "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:19:15.033Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nauru.svg",
+  "updated": "2025-12-18T02:10:01.413Z",
   "wikipediaLinksAdded": true
 }

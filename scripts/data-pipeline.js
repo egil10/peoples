@@ -97,7 +97,7 @@ const COUNTRIES = [
   { code: 'Q423', name: 'North Korea' },
   { code: 'Q711', name: 'Mongolia' },
   { code: 'Q794', name: 'Iran' },
-  { code: 'Q967', name: 'Bhutan' },
+  { code: 'Q917', name: 'Bhutan' },
   { code: 'Q837', name: 'Nepal' },
   { code: 'Q921', name: 'Brunei' },
   { code: 'Q805', name: 'Yemen' },
@@ -119,11 +119,11 @@ const COUNTRIES = [
   { code: 'Q717', name: 'Venezuela' },
   { code: 'Q736', name: 'Ecuador' },
   { code: 'Q750', name: 'Bolivia' },
-  { code: 'Q299', name: 'Paraguay' },
+  { code: 'Q733', name: 'Paraguay' },
   { code: 'Q77', name: 'Uruguay' },
   { code: 'Q298', name: 'Chile' },
   { code: 'Q790', name: 'Haiti' },
-  { code: 'Q754', name: 'Jamaica' },
+  { code: 'Q766', name: 'Jamaica' },
   { code: 'Q241', name: 'Cuba' },
   { code: 'Q786', name: 'Dominican Republic' },
   { code: 'Q800', name: 'Costa Rica' },
@@ -132,7 +132,7 @@ const COUNTRIES = [
   { code: 'Q792', name: 'El Salvador' },
   { code: 'Q811', name: 'Nicaragua' },
   { code: 'Q804', name: 'Panama' },
-  { code: 'Q734', name: 'Trinidad and Tobago' },
+  { code: 'Q754', name: 'Trinidad and Tobago' },
   { code: 'Q244', name: 'Barbados' },
   { code: 'Q778', name: 'Bahamas' },
   { code: 'Q781', name: 'Antigua and Barbuda' },
@@ -140,20 +140,20 @@ const COUNTRIES = [
   { code: 'Q760', name: 'Saint Lucia' },
   { code: 'Q757', name: 'Saint Vincent and the Grenadines' },
   { code: 'Q769', name: 'Grenada' },
-  { code: 'Q766', name: 'Dominica' },
+  { code: 'Q784', name: 'Dominica' },
   { code: 'Q242', name: 'Belize' },
-  { code: 'Q733', name: 'Guyana' },
+  { code: 'Q734', name: 'Guyana' },
   { code: 'Q730', name: 'Suriname' },
   // Africa
   { code: 'Q79', name: 'Egypt' },
   { code: 'Q43', name: 'Turkey' },
-  { code: 'Q231', name: 'Ethiopia' },
+  { code: 'Q115', name: 'Ethiopia' },
   { code: 'Q1028', name: 'Morocco' },
-  { code: 'Q1029', name: 'Cameroon' },
+  { code: 'Q1009', name: 'Cameroon' },
   { code: 'Q916', name: 'Angola' },
-  { code: 'Q115', name: 'Kenya' },
+  { code: 'Q114', name: 'Kenya' },
   { code: 'Q1037', name: 'Rwanda' },
-  { code: 'Q1025', name: 'Mauritius' },
+  { code: 'Q1027', name: 'Mauritius' },
   { code: 'Q1019', name: 'Madagascar' },
   { code: 'Q974', name: 'DRC' },
   { code: 'Q1036', name: 'Uganda' },
@@ -164,40 +164,40 @@ const COUNTRIES = [
   { code: 'Q262', name: 'Algeria' },
   { code: 'Q1016', name: 'Libya' },
   { code: 'Q924', name: 'Tanzania' },
-  { code: 'Q1027', name: 'Mozambique' },
-  { code: 'Q1030', name: 'Ghana' },
-  { code: 'Q1032', name: 'Senegal' },
-  { code: 'Q1039', name: 'Zimbabwe' },
-  { code: 'Q1041', name: 'Zambia' },
-  { code: 'Q1042', name: 'Botswana' },
-  { code: 'Q1044', name: 'Namibia' },
+  { code: 'Q1029', name: 'Mozambique' },
+  { code: 'Q117', name: 'Ghana' },
+  { code: 'Q1041', name: 'Senegal' },
+  { code: 'Q954', name: 'Zimbabwe' },
+  { code: 'Q953', name: 'Zambia' },
+  { code: 'Q963', name: 'Botswana' },
+  { code: 'Q1030', name: 'Namibia' },
   { code: 'Q657', name: 'Chad' },
   { code: 'Q1008', name: 'Ivory Coast' },
   { code: 'Q965', name: 'Burkina Faso' },
-  { code: 'Q1006', name: 'Niger' },
-  { code: 'Q1005', name: 'Guinea' },
-  { code: 'Q1004', name: 'Benin' },
-  { code: 'Q1003', name: 'Togo' },
-  { code: 'Q1002', name: 'Sierra Leone' },
-  { code: 'Q1001', name: 'Liberia' },
+  { code: 'Q1032', name: 'Niger' },
+  { code: 'Q1006', name: 'Guinea' },
+  { code: 'Q962', name: 'Benin' },
+  { code: 'Q945', name: 'Togo' },
+  { code: 'Q1044', name: 'Sierra Leone' },
+  { code: 'Q1014', name: 'Liberia' },
   { code: 'Q986', name: 'Eritrea' },
-  { code: 'Q1038', name: 'Burundi' },
+  { code: 'Q967', name: 'Burundi' },
   { code: 'Q1007', name: 'Guinea-Bissau' },
-  { code: 'Q1013', name: 'Equatorial Guinea' },
-  { code: 'Q1014', name: 'Gabon' },
-  { code: 'Q1015', name: 'Republic of the Congo' },
-  { code: 'Q1017', name: 'Central African Republic' },
-  { code: 'Q1018', name: 'São Tomé and Príncipe' },
-  { code: 'Q1009', name: 'Lesotho' },
-  { code: 'Q1021', name: 'Mali' },
-  { code: 'Q1023', name: 'Eswatini' },
-  { code: 'Q1024', name: 'Comoros' },
-  { code: 'Q1026', name: 'Djibouti' },
+  { code: 'Q983', name: 'Equatorial Guinea' },
+  { code: 'Q1000', name: 'Gabon' },
+  { code: 'Q971', name: 'Republic of the Congo' },
+  { code: 'Q929', name: 'Central African Republic' },
+  { code: 'Q1039', name: 'São Tomé and Príncipe' },
+  { code: 'Q1013', name: 'Lesotho' },
+  { code: 'Q912', name: 'Mali' },
+  { code: 'Q1050', name: 'Eswatini' },
+  { code: 'Q970', name: 'Comoros' },
+  { code: 'Q977', name: 'Djibouti' },
   { code: 'Q1031', name: 'Gambia' },
-  { code: 'Q1034', name: 'Cape Verde' },
-  { code: 'Q1035', name: 'Mauritania' },
-  { code: 'Q1040', name: 'South Sudan' },
-  { code: 'Q1043', name: 'Seychelles' },
+  { code: 'Q1011', name: 'Cape Verde' },
+  { code: 'Q1025', name: 'Mauritania' },
+  { code: 'Q958', name: 'South Sudan' },
+  { code: 'Q1042', name: 'Seychelles' },
   // Pacific
   { code: 'Q664', name: 'New Zealand' },
   { code: 'Q691', name: 'Papua New Guinea' },
@@ -230,7 +230,7 @@ function buildQuery(countryCode, isLargeCountry = false) {
   // For large countries, add minimum sitelinks filter to reduce dataset size
   // This makes queries much faster by filtering out less famous people upfront
   const minSitelinksFilter = isLargeCountry ? 'FILTER(?sitelinks >= 50)' : '';
-  
+
   // Simplified query for large countries - remove some optional fields to speed up
   if (isLargeCountry) {
     return `
@@ -256,7 +256,7 @@ function buildQuery(countryCode, isLargeCountry = false) {
       LIMIT ${PEOPLE_LIMIT}
     `;
   }
-  
+
   // Standard query for smaller countries
   return `
     SELECT DISTINCT ?person ?personLabel ?image ?sitelinks ?birthYear ?deathYear 
@@ -371,7 +371,7 @@ function transformResults(sparqlResults) {
   return bindings.map((binding, index) => {
     // Extract name, handling cases where personLabel might be a Q code
     let name = binding.personLabel?.value || 'Unknown';
-    
+
     // If name is a Wikidata Q code (starts with Q followed by numbers), try to extract from URL
     if (name && name.match(/^Q\d+$/)) {
       // Try to get name from person URL if available
@@ -387,12 +387,12 @@ function transformResults(sparqlResults) {
         name = `Unknown (${name})`;
       }
     }
-    
+
     const nameForAnswerKey = name.replace(/^Unknown \(Q\d+\)$/, '').toLowerCase();
     const answerKey = nameForAnswerKey && !nameForAnswerKey.startsWith('unknown')
       ? nameForAnswerKey.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^\w\s]/g, '').replace(/\s+/g, ' ').trim()
       : '';
-    
+
     return {
       id: index + 1,
       name: name,
@@ -413,11 +413,18 @@ async function generateCountryData(country, index, total, forceRegenerate = fals
   const outputPath = path.join(outputDir, filename);
   const isLargeCountry = LARGE_COUNTRIES.includes(country.name);
 
-  // Check if file exists and has enough people
+  // Check if file exists and has enough people and matching countryCode
   if (fs.existsSync(outputPath) && !forceRegenerate) {
     try {
       const existingData = JSON.parse(fs.readFileSync(outputPath, 'utf-8'));
-      if (existingData.people && existingData.people.length >= PEOPLE_LIMIT) {
+
+      // Verification: Check if this file actually belongs to this country code
+      // This prevents issues where country names were swapped or misaligned
+      const codeMismatch = existingData.countryCode && existingData.countryCode !== country.code;
+
+      if (codeMismatch) {
+        console.log(`   ⚠️  [${index + 1}/${total}] ${country.name} (mismatch detected: file has ${existingData.countryCode}, expected ${country.code}) - REGENERATING`);
+      } else if (existingData.people && existingData.people.length >= PEOPLE_LIMIT) {
         console.log(`   ⏭️  [${index + 1}/${total}] ${country.name} (skipped - has ${existingData.people.length} people)`);
         return { success: true, country: country.name, skipped: true };
       } else if (existingData.people && existingData.people.length > 0) {
@@ -480,7 +487,7 @@ async function main() {
 
     const promises = batch.map((c, bi) => generateCountryData(c, i + bi, COUNTRIES.length));
     const batchResults = await Promise.allSettled(promises);
-    
+
     // Convert Promise.allSettled results to our format
     const formattedResults = batchResults.map((result, idx) => {
       if (result.status === 'fulfilled') {
@@ -489,7 +496,7 @@ async function main() {
         return { success: false, country: batch[idx].name, error: result.reason?.message || 'Unknown error' };
       }
     });
-    
+
     results.push(...formattedResults);
 
     const done = results.filter(r => r.success).length;
@@ -500,7 +507,9 @@ async function main() {
     }
     console.log('');
 
-    if (i + BATCH_SIZE < COUNTRIES.length) {
+    const anyProcessed = formattedResults.some(r => r.success && !r.skipped);
+
+    if (i + BATCH_SIZE < COUNTRIES.length && anyProcessed) {
       await new Promise(r => setTimeout(r, batchDelay));
     }
   }

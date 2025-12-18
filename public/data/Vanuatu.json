@@ -1,7 +1,7 @@
 {
   "country": "Vanuatu",
   "countryCode": "Q686",
-  "generated": "2025-12-14T21:22:01.748Z",
+  "generated": "2025-12-18T02:04:16.224Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -11,7 +11,7 @@
       "sitelinks": 74,
       "birthYear": "1986",
       "deathYear": null,
-      "occupation": "digital marketing expert",
+      "occupation": "television personality",
       "wikidataUrl": "http://www.wikidata.org/entity/Q18637166",
       "answerKey": "andrew tate",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_Tate"
@@ -47,7 +47,7 @@
       "sitelinks": 29,
       "birthYear": "1949",
       "deathYear": null,
-      "occupation": "lawyer",
+      "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q316133",
       "answerKey": "kalkot mataskelekele",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Kalkot_Mataskelekele"
@@ -186,18 +186,6 @@
     },
     {
       "id": 16,
-      "name": "Moana Carcasses Kalosil",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moana%20Carcasses%20Kalosil%202013%20%28cropped%29.jpg",
-      "sitelinks": 16,
-      "birthYear": "1963",
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q3317554",
-      "answerKey": "moana carcasses kalosil",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
-    },
-    {
-      "id": 17,
       "name": "Joe Natuman",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Natuman%202014%20%28cropped%29.jpg",
       "sitelinks": 16,
@@ -207,6 +195,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q58222",
       "answerKey": "joe natuman",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Joe_Natuman"
+    },
+    {
+      "id": 17,
+      "name": "Moana Carcasses Kalosil",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Moana%20Carcasses%20Kalosil%202013%20%28cropped%29.jpg",
+      "sitelinks": 16,
+      "birthYear": "1963",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q3317554",
+      "answerKey": "moana carcasses kalosil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moana_Carcasses_Kalosil"
     },
     {
       "id": 18,
@@ -258,18 +258,6 @@
     },
     {
       "id": 22,
-      "name": "Brian Kaltak",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Kaltak.jpg",
-      "sitelinks": 12,
-      "birthYear": "1993",
-      "deathYear": null,
-      "occupation": "association football player",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q2912672",
-      "answerKey": "brian kaltak",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Kaltak"
-    },
-    {
-      "id": 23,
       "name": "Barak Sopé",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barak%20Sope%202000.jpg",
       "sitelinks": 12,
@@ -279,6 +267,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q807232",
       "answerKey": "barak sope",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Barak_Sop%C3%A9"
+    },
+    {
+      "id": 23,
+      "name": "Brian Kaltak",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Kaltak.jpg",
+      "sitelinks": 12,
+      "birthYear": "1993",
+      "deathYear": null,
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q2912672",
+      "answerKey": "brian kaltak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brian_Kaltak"
     },
     {
       "id": 24,
@@ -521,6 +521,7 @@
       "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:24:31.782Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vanuatu.svg",
+  "updated": "2025-12-18T02:11:53.473Z",
   "wikipediaLinksAdded": true
 }

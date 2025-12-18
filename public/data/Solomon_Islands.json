@@ -1,7 +1,7 @@
 {
   "country": "Solomon Islands",
   "countryCode": "Q685",
-  "generated": "2025-12-14T21:22:23.214Z",
+  "generated": "2025-12-18T02:04:35.854Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -20,7 +20,7 @@
       "id": 2,
       "name": "Jeremiah Manele",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Head%20of%20the%20Solomon%20Islander%20Delegation%20to%20the%2012th%20World%20Trade%20Organization%20Ministerial%20Conference%20Jeremiah%20Manele.jpg",
-      "sitelinks": 23,
+      "sitelinks": 24,
       "birthYear": "1968",
       "deathYear": null,
       "occupation": "politician",
@@ -66,18 +66,6 @@
     },
     {
       "id": 6,
-      "name": "Danny Philip",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DannyPhilip%20%28cropped%29.jpg",
-      "sitelinks": 18,
-      "birthYear": "1953",
-      "deathYear": null,
-      "occupation": "diplomat",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q561575",
-      "answerKey": "danny philip",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Philip"
-    },
-    {
-      "id": 7,
       "name": "Snyder Rini",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Snyder%20Rini%202004.jpg",
       "sitelinks": 18,
@@ -87,6 +75,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q1370998",
       "answerKey": "snyder rini",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Snyder_Rini"
+    },
+    {
+      "id": 7,
+      "name": "Danny Philip",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DannyPhilip%20%28cropped%29.jpg",
+      "sitelinks": 18,
+      "birthYear": "1953",
+      "deathYear": null,
+      "occupation": "diplomat",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q561575",
+      "answerKey": "danny philip",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Danny_Philip"
     },
     {
       "id": 8,
@@ -150,18 +150,6 @@
     },
     {
       "id": 13,
-      "name": "Benjamin Totori",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Totori%20%28July%202012%29%20%28cropped%29.jpg",
-      "sitelinks": 13,
-      "birthYear": "1986",
-      "deathYear": null,
-      "occupation": "association football player",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q154696",
-      "answerKey": "benjamin totori",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Totori"
-    },
-    {
-      "id": 14,
       "name": "Bartholomew Ulufa'alu",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomew%20ULUFA%27ALU%20visit%20%28cropped%29.jpg",
       "sitelinks": 13,
@@ -173,7 +161,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_Ulufa'alu"
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Bartholomew Ulufa'alu",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bartholomew%20ULUFA%27ALU%20visit%20%28cropped%29.jpg",
       "sitelinks": 13,
@@ -185,7 +173,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Bartholomew_Ulufa'alu"
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "John Lapli",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Lapli%202002.jpg",
       "sitelinks": 13,
@@ -197,19 +185,19 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Lapli"
     },
     {
-      "id": 17,
-      "name": "Gordon Darcy Lilo",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gordon%20Darcy%20Lilo.jpg",
-      "sitelinks": 12,
-      "birthYear": "1965",
+      "id": 16,
+      "name": "Benjamin Totori",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Totori%20%28July%202012%29%20%28cropped%29.jpg",
+      "sitelinks": 13,
+      "birthYear": "1986",
       "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q939825",
-      "answerKey": "gordon darcy lilo",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Darcy_Lilo"
+      "occupation": "association football player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q154696",
+      "answerKey": "benjamin totori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Totori"
     },
     {
-      "id": 18,
+      "id": 17,
       "name": "Baddeley Devesi",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Baddeley%20Devesi%20%28cropped%29.jpg",
       "sitelinks": 12,
@@ -219,6 +207,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q798849",
       "answerKey": "baddeley devesi",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Baddeley_Devesi"
+    },
+    {
+      "id": 18,
+      "name": "Gordon Darcy Lilo",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gordon%20Darcy%20Lilo.jpg",
+      "sitelinks": 12,
+      "birthYear": "1965",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q939825",
+      "answerKey": "gordon darcy lilo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gordon_Darcy_Lilo"
     },
     {
       "id": 19,
@@ -258,6 +258,18 @@
     },
     {
       "id": 22,
+      "name": "Daniel Suidani",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Partnership%202022%20visits%20Kilu%E2%80%99ufi%20Provincial%20Hospital%20220907-N-AU520-1104%20%28cropped%29.jpg",
+      "sitelinks": 6,
+      "birthYear": "1970",
+      "deathYear": "2025",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q109773683",
+      "answerKey": "daniel suidani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Suidani"
+    },
+    {
+      "id": 23,
       "name": "Patteson Oti",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patteson%20Oti%20070822-N-6410J-063%200X7SU.jpg",
       "sitelinks": 5,
@@ -269,7 +281,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Patteson_Oti"
     },
     {
-      "id": 23,
+      "id": 24,
       "name": "Milner Tozaka",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Milner%20Tozaka%202015.jpg",
       "sitelinks": 5,
@@ -281,7 +293,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Milner_Tozaka"
     },
     {
-      "id": 24,
+      "id": 25,
       "name": "Jackson Fiulaua",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jackson%20Fiulaua%20poses%20for%20an%20official%20photo%20as%20part%20of%20the%20delegation%20led%20by%20Solomon%20Islands%20Prime%20Minister%20Manasseh%20Sogavare%20%2826%20September%202017%29%20in%20Taipei%2C%20Taiwan.jpg",
       "sitelinks": 5,
@@ -293,7 +305,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Jackson_Fiulaua"
     },
     {
-      "id": 25,
+      "id": 26,
       "name": "Peter Kenilorea Jr.",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Kenilorea%20Jr%20RAMSI%20Farewell.jpg",
       "sitelinks": 5,
@@ -303,18 +315,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q68229731",
       "answerKey": "peter kenilorea jr",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Kenilorea_Jr."
-    },
-    {
-      "id": 26,
-      "name": "Daniel Suidani",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pacific%20Partnership%202022%20visits%20Kilu%E2%80%99ufi%20Provincial%20Hospital%20220907-N-AU520-1104%20%28cropped%29.jpg",
-      "sitelinks": 5,
-      "birthYear": "1970",
-      "deathYear": "2025",
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q109773683",
-      "answerKey": "daniel suidani",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Suidani"
     },
     {
       "id": 27,
@@ -330,6 +330,18 @@
     },
     {
       "id": 28,
+      "name": "Paul Tovua",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Tovua.jpg",
+      "sitelinks": 4,
+      "birthYear": "1947",
+      "deathYear": "2021",
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q7154057",
+      "answerKey": "paul tovua",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Tovua"
+    },
+    {
+      "id": 29,
       "name": "Manasseh Maelanga",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Manasseh%20Maelanga%202010.jpg",
       "sitelinks": 4,
@@ -341,7 +353,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Manasseh_Maelanga"
     },
     {
-      "id": 29,
+      "id": 30,
       "name": "Matthew Wale",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Matthew%20Wale%202018%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -353,7 +365,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Matthew_Wale"
     },
     {
-      "id": 30,
+      "id": 31,
       "name": "Peter Shannel Agovaka",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Shannel%20Agovaka%27s%20visit%20to%20the%20European%20Commission%20-%202025%20-%20P065425-828836%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -365,7 +377,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Peter_Shannel_Agovaka"
     },
     {
-      "id": 31,
+      "id": 32,
       "name": "Samuel Manetoali",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Minister%20Samuel%20Manetoali%20displays%20a%20memorandum%20of%20understanding%20on%20meteorology%20and%20seismology%20cooperation%20between%20Solomon%20Islands%20and%20the%20Republic%20of%20China%20%28Taiwan%29%20on%2028%20April%202017%20in%20Taipei%20City.jpg",
       "sitelinks": 4,
@@ -377,7 +389,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Samuel_Manetoali"
     },
     {
-      "id": 32,
+      "id": 33,
       "name": "Dr. Tautai Agikimu'a Kaitu'u",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tautai%20Kaitu%27u%20for%20website%20%28cropped%29.jpg",
       "sitelinks": 4,
@@ -389,7 +401,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Tautai_Agikimu'a_Kaitu'u"
     },
     {
-      "id": 33,
+      "id": 34,
       "name": "Freda Soria Comua",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/11.02%20%E7%B8%BD%E7%B5%B1%E5%90%91%E7%B4%A2%E7%BE%85%E9%96%80%E7%BE%A4%E5%B3%B6%E5%9C%8B%E6%9C%83%E8%AD%B0%E5%93%A1%E6%8F%A1%E6%89%8B%E8%87%B4%E6%84%8F%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%8F%8D%E5%B0%8D%E9%BB%A8%E9%BB%A8%E4%B8%BB%E5%B8%AD%E9%A6%AC%E5%85%A7%E9%9B%B7%EF%BC%88Jeremiah%20Manele%EF%BC%89%E3%80%81%E7%8D%A8%E7%AB%8B%E6%B4%BE%E9%A0%98%E8%A2%96%E5%B8%AD%E5%BA%AB%E7%93%A6%EF%BC%88Derek%20Sikua%EF%BC%89%E5%8F%8A%E5%89%8D%E5%89%AF%E7%B8%BD%E7%90%86%E9%A6%AC%E6%9C%97%E5%98%89%EF%BC%88Maelanga%EF%BC%89%E7%AD%89%E5%9D%87%E5%87%BA%E5%B8%AD%20%2837397295234%29.jpg",
       "sitelinks": 4,
@@ -399,18 +411,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q42559064",
       "answerKey": "freda soria comua",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Freda_Soria_Comua"
-    },
-    {
-      "id": 34,
-      "name": "Paul Tovua",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Tovua.jpg",
-      "sitelinks": 4,
-      "birthYear": "1947",
-      "deathYear": "2021",
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q7154057",
-      "answerKey": "paul tovua",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paul_Tovua"
     },
     {
       "id": 35,
@@ -486,6 +486,18 @@
     },
     {
       "id": 41,
+      "name": "Charles Sigoto",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Sigoto%202010.jpg",
+      "sitelinks": 2,
+      "birthYear": "1957",
+      "deathYear": null,
+      "occupation": "civil servant",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q948060",
+      "answerKey": "charles sigoto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Sigoto"
+    },
+    {
+      "id": 42,
       "name": "Hellen Saohaga",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hellen%20Saohaga.JPG",
       "sitelinks": 2,
@@ -497,7 +509,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Hellen_Saohaga"
     },
     {
-      "id": 42,
+      "id": 43,
       "name": "Alice Pollard",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr%20Alice%20Pollard%20with%20Australian%20Governor%20General%20Quentin%20Bryce%20%2810693514683%29.jpg",
       "sitelinks": 2,
@@ -507,18 +519,6 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q42948062",
       "answerKey": "alice pollard",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Alice_Pollard"
-    },
-    {
-      "id": 43,
-      "name": "Charles Sigoto",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Sigoto%202010.jpg",
-      "sitelinks": 2,
-      "birthYear": "1957",
-      "deathYear": null,
-      "occupation": "civil servant",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q948060",
-      "answerKey": "charles sigoto",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charles_Sigoto"
     },
     {
       "id": 44,
@@ -545,6 +545,7 @@
       "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:22:07.841Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Solomon%20Islands.svg",
+  "updated": "2025-12-18T02:11:08.135Z",
   "wikipediaLinksAdded": true
 }

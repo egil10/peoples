@@ -1,7 +1,7 @@
 {
   "country": "Saint Vincent and the Grenadines",
   "countryCode": "Q757",
-  "generated": "2025-12-14T21:18:20.239Z",
+  "generated": "2025-12-18T02:01:08.863Z",
   "rankingMetric": "sitelinks",
   "people": [
     {
@@ -90,6 +90,18 @@
     },
     {
       "id": 8,
+      "name": "Godwin Friday",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Godwin%20Friday%202019.jpg",
+      "sitelinks": 14,
+      "birthYear": "1959",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q28319076",
+      "answerKey": "godwin friday",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Godwin_Friday"
+    },
+    {
+      "id": 9,
       "name": "Arnhim Eustace",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arnhim%20Eustace.jpg",
       "sitelinks": 13,
@@ -101,31 +113,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Arnhim_Eustace"
     },
     {
-      "id": 9,
-      "name": "Godwin Friday",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Godwin%20Friday%202019.jpg",
-      "sitelinks": 13,
-      "birthYear": "1959",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q28319076",
-      "answerKey": "godwin friday",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Godwin_Friday"
-    },
-    {
       "id": 10,
-      "name": "Monica Dacon",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dame%20Monica%20Dacon%20%28cropped%29.JPG",
-      "sitelinks": 12,
-      "birthYear": "1934",
-      "deathYear": null,
-      "occupation": "politician",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q6899931",
-      "answerKey": "monica dacon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Dacon"
-    },
-    {
-      "id": 11,
       "name": "Ezra Hendrickson",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/EzraHendrickson20041017.jpg",
       "sitelinks": 12,
@@ -135,6 +123,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q1008088",
       "answerKey": "ezra hendrickson",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Ezra_Hendrickson"
+    },
+    {
+      "id": 11,
+      "name": "Monica Dacon",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dame%20Monica%20Dacon%20%28cropped%29.JPG",
+      "sitelinks": 12,
+      "birthYear": "1934",
+      "deathYear": null,
+      "occupation": "politician",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q6899931",
+      "answerKey": "monica dacon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monica_Dacon"
     },
     {
       "id": 12,
@@ -270,18 +270,6 @@
     },
     {
       "id": 23,
-      "name": "Nyika Williams",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nyika%20Williams.jpg",
-      "sitelinks": 5,
-      "birthYear": "1987",
-      "deathYear": null,
-      "occupation": "basketball player",
-      "wikidataUrl": "http://www.wikidata.org/entity/Q11324184",
-      "answerKey": "nyika williams",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nyika_Williams"
-    },
-    {
-      "id": 24,
       "name": "Shafiqua Maloney",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shafiqua%20Maloney%20Paris%202024.jpg",
       "sitelinks": 5,
@@ -293,7 +281,7 @@
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Shafiqua_Maloney"
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "Handal Roban",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Handal%20Roban%20Paris%202024.jpg",
       "sitelinks": 5,
@@ -303,6 +291,18 @@
       "wikidataUrl": "http://www.wikidata.org/entity/Q121085186",
       "answerKey": "handal roban",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Handal_Roban"
+    },
+    {
+      "id": 25,
+      "name": "Nyika Williams",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nyika%20Williams.jpg",
+      "sitelinks": 5,
+      "birthYear": "1987",
+      "deathYear": null,
+      "occupation": "basketball player",
+      "wikidataUrl": "http://www.wikidata.org/entity/Q11324184",
+      "answerKey": "nyika williams",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nyika_Williams"
     },
     {
       "id": 26,
@@ -449,6 +449,7 @@
       "wikipediaUrl": null
     }
   ],
-  "updated": "2025-12-14T22:21:21.875Z",
+  "flag": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Vincent%20and%20the%20Grenadines.svg",
+  "updated": "2025-12-18T02:10:42.521Z",
   "wikipediaLinksAdded": true
 }
