@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
-import { Image, User, Award, Check, X, PanelLeft, Timer, BarChart, Grid3x3, ExternalLink } from 'lucide-react';
+import { Image, User, Award, Check, X, PanelLeft, Timer, ExternalLink } from 'lucide-react';
 import './EndlessQuiz.css';
 import './EndlessQuiz-mobile.css';
 
@@ -92,7 +92,7 @@ const ImageOption = React.memo(({ person, index, isSelected, isCorrect, isAnswer
         prevProps.isAnswered === nextProps.isAnswered;
 });
 
-function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGallery }) {
+function EndlessQuiz({ allPeopleData }) {
     const [allPeople, setAllPeople] = useState([]);
     const [filteredPeople, setFilteredPeople] = useState([]);
     const [selectedCountry, setSelectedCountry] = useState('all');
@@ -383,10 +383,6 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 </div>
 
                 <div className="action-capsule">
-
-
-                    <div className="capsule-divider"></div>
-
                     <button
                         className={`action-button ${gameMode === 'image-to-name' ? 'active' : ''}`}
                         onClick={() => gameMode !== 'image-to-name' && toggleGameMode('image-to-name')}
