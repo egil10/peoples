@@ -246,6 +246,12 @@ html {
     transition: color 0.3s ease;
     border-radius: 50%;
     padding: 0;
+    outline: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.mode-btn:focus {
+    outline: none;
 }
 
 .mode-btn.active {
@@ -260,7 +266,7 @@ html {
     height: 26px;
     background: #FFF;
     border-radius: 50%;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 1;
 }

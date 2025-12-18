@@ -38,12 +38,12 @@
 
     .mode-btn,
     .mode-glaze {
-        width: 32px !important;
-        height: 32px !important;
+        width: 26px !important;
+        height: 26px !important;
     }
 
     .mode-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-        transform: translateX(32px) !important;
+        transform: translateX(26px) !important;
     }
 
     .action-button {
