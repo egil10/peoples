@@ -325,8 +325,8 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         localStorage.setItem('quizStats', JSON.stringify(stats));
     }, [totalAnswered, correctCount, streak, elo]);
 
-    const toggleGameMode = useCallback((e) => {
-        const newMode = e.target.value;
+    const toggleGameMode = useCallback((modeOrEvent) => {
+        const newMode = modeOrEvent.target ? modeOrEvent.target.value : modeOrEvent;
         setGameMode(newMode);
         setCurrentQuestion(null);
         setQuestionQueue([]);
@@ -412,14 +412,14 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                     <div className="mode-capsule">
                         <button
                             className={`mode-btn ${gameMode === 'image-to-name' ? 'active' : ''}`}
-                            onClick={() => gameMode !== 'image-to-name' && toggleGameMode()}
+                            onClick={() => gameMode !== 'image-to-name' && toggleGameMode('image-to-name')}
                             title="Image to Name"
                         >
                             <Image size={16} />
                         </button>
                         <button
                             className={`mode-btn ${gameMode === 'name-to-image' ? 'active' : ''}`}
-                            onClick={() => gameMode !== 'name-to-image' && toggleGameMode()}
+                            onClick={() => gameMode !== 'name-to-image' && toggleGameMode('name-to-image')}
                             title="Name to Image"
                         >
                             <User size={16} />
