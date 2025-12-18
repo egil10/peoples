@@ -111,34 +111,53 @@ html {
     font-weight: 400;
 }
 
-.controls {
+.action-capsule {
     display: flex;
-    gap: 8px;
     align-items: center;
+    gap: 0.25rem;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 3px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.02);
     flex-shrink: 0;
 }
 
-.gallery-button,
-.stats-button,
-.controls button {
+.action-button {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 8px;
+    width: 32px;
+    height: 32px;
+    padding: 0;
     background: transparent;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     cursor: pointer;
-    color: #666;
+    color: #999;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     outline: none;
-    transition: all 0.15s ease;
+    -webkit-tap-highlight-color: transparent;
 }
 
-.gallery-button:hover,
-.stats-button:hover,
-.controls button:hover {
-    background: #F5F5F5;
+.action-button:hover {
     color: #444;
+}
+
+.action-button.active {
+    background: #FFF;
+    color: #444;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.action-button.delay-btn {
+    width: auto;
+    padding: 0 8px;
+    gap: 4px;
+}
+
+.btn-label {
+    font-size: 13px;
+    font-weight: 600;
 }
 
 .hint-container-always {
@@ -219,61 +238,7 @@ html {
 
 
 
-/* Mode Capsule - Slick Sliding Toggle */
-.mode-capsule {
-    display: flex;
-    position: relative;
-    background: rgba(0, 0, 0, 0.04);
-    padding: 3px;
-    border-radius: 100px;
-    gap: 0;
-    border: 1px solid rgba(0, 0, 0, 0.02);
-    width: fit-content;
-}
-
-.mode-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 26px;
-    height: 26px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    color: #999;
-    position: relative;
-    z-index: 2;
-    transition: color 0.3s ease;
-    border-radius: 50%;
-    padding: 0;
-    outline: none;
-    -webkit-tap-highlight-color: transparent;
-}
-
-.mode-btn:focus {
-    outline: none;
-}
-
-.mode-btn.active {
-    color: #444;
-}
-
-.mode-glaze {
-    position: absolute;
-    top: 3px;
-    left: 3px;
-    width: 26px;
-    height: 26px;
-    background: #FFF;
-    border-radius: 50%;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    z-index: 1;
-}
-
-.mode-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-    transform: translateX(26px);
-}
+/* Removing separate mode-capsule styles as they are now integrated into action-capsule */
 
 /* Sidebar - Slides under header */
 .sidebar {

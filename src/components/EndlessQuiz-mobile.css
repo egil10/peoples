@@ -32,19 +32,7 @@
         display: none !important;
     }
 
-    .mode-capsule {
-        padding: 2px !important;
-    }
 
-    .mode-btn,
-    .mode-glaze {
-        width: 26px !important;
-        height: 26px !important;
-    }
-
-    .mode-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-        transform: translateX(26px) !important;
-    }
 
     .action-button {
         padding: 6px !important;

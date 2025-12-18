@@ -383,54 +383,51 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 </div>
 
                 <div className="action-capsule">
-                    <div className="control-group">
-                        {onNavigateToGallery && (
-                            <button
-                                onClick={onNavigateToGallery}
-                                className="action-button"
-                                title="View Gallery"
-                            >
-                                <Grid3x3 size={16} />
-                            </button>
-                        )}
-                        {onNavigateToStatistics && (
-                            <button
-                                onClick={onNavigateToStatistics}
-                                className="action-button"
-                                title="View Statistics"
-                            >
-                                <BarChart size={16} />
-                            </button>
-                        )}
-                    </div>
-
-                    <div className="mode-capsule">
+                    {onNavigateToGallery && (
                         <button
-                            className={`mode-btn ${gameMode === 'image-to-name' ? 'active' : ''}`}
-                            onClick={() => gameMode !== 'image-to-name' && toggleGameMode('image-to-name')}
-                            title="Image to Name"
+                            onClick={onNavigateToGallery}
+                            className="action-button"
+                            title="View Gallery"
                         >
-                            <Image size={14} />
+                            <Grid3x3 size={16} />
                         </button>
+                    )}
+                    {onNavigateToStatistics && (
                         <button
-                            className={`mode-btn ${gameMode === 'name-to-image' ? 'active' : ''}`}
-                            onClick={() => gameMode !== 'name-to-image' && toggleGameMode('name-to-image')}
-                            title="Name to Image"
+                            onClick={onNavigateToStatistics}
+                            className="action-button"
+                            title="View Statistics"
                         >
-                            <User size={14} />
+                            <BarChart size={16} />
                         </button>
-                        <div className="mode-glaze"></div>
-                    </div>
+                    )}
 
-                    <div className="control-group">
-                        <button onClick={cycleDelay} className="action-button delay-btn" title={`Delay: ${autoAdvanceDelay}s`}>
-                            <Timer size={16} />
-                            <span className="btn-label">{autoAdvanceDelay}s</span>
-                        </button>
-                        <button onClick={() => setShowCountryFilter(!showCountryFilter)} className="action-button filter-btn">
-                            <PanelLeft size={16} />
-                        </button>
-                    </div>
+                    <div className="capsule-divider"></div>
+
+                    <button
+                        className={`action-button ${gameMode === 'image-to-name' ? 'active' : ''}`}
+                        onClick={() => gameMode !== 'image-to-name' && toggleGameMode('image-to-name')}
+                        title="Image to Name"
+                    >
+                        <Image size={16} />
+                    </button>
+                    <button
+                        className={`action-button ${gameMode === 'name-to-image' ? 'active' : ''}`}
+                        onClick={() => gameMode !== 'name-to-image' && toggleGameMode('name-to-image')}
+                        title="Name to Image"
+                    >
+                        <User size={16} />
+                    </button>
+
+                    <div className="capsule-divider"></div>
+
+                    <button onClick={cycleDelay} className="action-button delay-btn" title={`Delay: ${autoAdvanceDelay}s`}>
+                        <Timer size={16} />
+                        <span className="btn-label">{autoAdvanceDelay}s</span>
+                    </button>
+                    <button onClick={() => setShowCountryFilter(!showCountryFilter)} className="action-button filter-btn">
+                        <PanelLeft size={16} />
+                    </button>
                 </div>
             </header>
 
