@@ -507,9 +507,10 @@ html {
 .split {
     position: relative;
     display: flex;
-    gap: 60px;
-    align-items: center;
-    max-width: 1100px;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: center;
+    max-width: 1400px;
     width: 100%;
     contain: layout style;
 }
@@ -644,6 +645,15 @@ html {
     color: #000;
 }
 
+.imgs-wrapper {
+    display: flex;
+    gap: 40px;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    contain: layout style;
+}
+
 .imgs {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -770,30 +780,29 @@ html {
 /* FEEDBACK POPUP - Upper Right, No Overlay */
 
 .feedback-popup {
-    position: fixed;
-    top: 100px;
-    right: 24px;
-    z-index: 1000;
-    animation: slideInRight 0.3s ease;
+    position: sticky;
+    top: 76px;
+    z-index: 100;
+    animation: fadeIn 0.3s ease;
     contain: layout style paint;
     max-width: 360px;
+    flex-shrink: 0;
 }
 
 /* Feedback in name-to-image mode - same position */
 .feedback-popup-name-mode {
-    top: 100px;
-    right: 24px;
+    top: 76px;
 }
 
-@keyframes slideInRight {
+@keyframes fadeIn {
     from {
-        transform: translateX(100%);
         opacity: 0;
+        transform: translateY(10px);
     }
 
     to {
-        transform: translateX(0);
         opacity: 1;
+        transform: translateY(0);
     }
 }
 
@@ -1021,13 +1030,17 @@ html {
     }
 
     .feedback-popup {
+        position: fixed;
         right: 16px;
         top: 100px;
+        z-index: 1000;
     }
 
     .feedback-popup-name-mode {
+        position: fixed;
         top: 100px;
         right: 16px;
+        z-index: 1000;
     }
 
     .feedback-content {
