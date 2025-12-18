@@ -4,50 +4,49 @@
 
     /* Header optimizations for mobile */
     .header {
-        padding: 0.5rem 1rem !important;
-        gap: 0.5rem !important;
+        padding: 8px 16px !important;
+        gap: 12px !important;
     }
 
     .logo-button h1 {
-        letter-spacing: 0.05rem !important;
+        font-size: 16px !important;
+    }
+
+    .stats {
+        gap: 8px !important;
         font-size: 12px !important;
     }
 
-    .stats-capsule {
-        padding: 0.3rem 0.75rem !important;
-        gap: 0.5rem !important;
-    }
-
-    .stat-item.rank,
-    .stat-item.count,
-    .capsule-divider {
+    .stats .dim,
+    .stats span:nth-last-child(-n+2) {
         display: none !important;
     }
 
-    .action-capsule {
-        gap: 0.5rem !important;
+    .controls {
+        gap: 4px !important;
     }
 
-    .btn-label {
-        display: none !important;
-    }
-
-    .mode-capsule {
-        padding: 2px !important;
-    }
-
-    .mode-btn,
-    .mode-glaze {
-        width: 32px !important;
-        height: 32px !important;
-    }
-
-    .action-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-        transform: translateX(32px) !important;
-    }
-
-    .action-button {
+    .controls button {
         padding: 6px !important;
+    }
+
+    .game-mode-toggle {
+        width: 44px !important;
+        height: 20px !important;
+    }
+
+    .game-mode-toggle::after {
+        width: 16px !important;
+        height: 16px !important;
+    }
+
+    .game-mode-toggle[data-mode="name-to-image"]::after {
+        transform: translateX(24px) !important;
+    }
+
+    .game-mode-option {
+        width: 16px !important;
+        height: 16px !important;
     }
 
     /* Better feedback popup positioning on mobile */

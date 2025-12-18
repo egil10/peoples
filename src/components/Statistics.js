@@ -44,7 +44,7 @@ function Statistics({ onNavigateToQuiz }) {
 
     return (
         <div className="statistics-container">
-            <header className="header">
+            <header className="statistics-header">
                 <button className="logo-button" onClick={onNavigateToQuiz}>
                     <h1>Famous Nationals</h1>
                 </button>

@@ -14,6 +14,17 @@
     gap: 16px;
 }
 
+.gallery-country-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.dim {
+    color: #CCC;
+    font-weight: 300;
+}
+
 .country-flag-mini {
     width: 24px;
     height: 16px;
@@ -31,6 +42,32 @@
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.gallery-controls {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.filter-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: #F5F5F5;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    color: #444;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.filter-button:hover {
+    background: #EEEEEE;
+    color: #000;
 }
 
 .logo-button {

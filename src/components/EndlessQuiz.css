@@ -60,10 +60,118 @@ html {
     color: #999;
 }
 
-/* COMPONENT SPECIFIC STYLES */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 24px;
+    border-bottom: 1px solid #F0F0F0;
+    background: #FFF;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    contain: layout style;
+    gap: 16px;
+    min-height: 56px;
+}
 
-.header .sidebar-toggle {
+.logo-button {
+    background: none !important;
     border: none;
+    cursor: pointer;
+    padding: 0;
+    text-align: left;
+    flex-shrink: 0;
+    color: #000;
+    text-decoration: none;
+}
+
+.logo-button h1 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #444;
+    margin: 0;
+    letter-spacing: normal;
+    text-transform: none;
+}
+
+.stats {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    flex: 1;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.stats .dim {
+    color: #999;
+    font-weight: 400;
+}
+
+.controls {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.gallery-button,
+.stats-button,
+.controls button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #666;
+    outline: none;
+    transition: all 0.15s ease;
+}
+
+.gallery-button:hover,
+.stats-button:hover,
+.controls button:hover {
+    background: #F5F5F5;
+    color: #444;
+}
+
+.hint-container-always {
+    padding: 12px 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.hint-toggle-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: #FFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 700;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.hint-toggle-btn:hover {
+    border-color: #999;
+    background: #F9F9F9;
+}
+
+.hint-toggle-btn.active {
+    background: #444;
+    color: #FFF;
+    border-color: #444;
 }
 
 .country-badge {
@@ -85,104 +193,96 @@ html {
     box-shadow: 0 0 0 1px #eee;
 }
 
-.action-capsule {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    flex-shrink: 0;
-}
 
-.control-group {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
-    background: rgba(0, 0, 0, 0.03);
-    padding: 3px;
-    border-radius: 10px;
-    border: 1px solid rgba(0, 0, 0, 0.02);
-}
 
-.action-button {
+/* Game Mode Toggle - Rounded Switch Style */
+.game-mode-toggle {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 8px;
-    background: transparent;
     border: none;
-    border-radius: 8px;
-    cursor: pointer;
-    color: #666;
-    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.action-button:hover {
-    background: #FFF;
-    color: #000;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
-
-.action-button.delay-btn {
-    gap: 6px;
-    padding-left: 10px;
-    padding-right: 12px;
-}
-
-.btn-label {
-    font-size: 12px;
-    font-weight: 700;
-    font-variant-numeric: tabular-nums;
-}
-
-/* Mode Capsule - Slick Sliding Toggle */
-.mode-capsule {
-    display: flex;
+    border-radius: 12px;
+    padding: 2px;
+    background: #E8E8E8;
+    margin: 0;
     position: relative;
-    background: rgba(0, 0, 0, 0.04);
-    padding: 3px;
-    border-radius: 100px;
-    gap: 0;
-    border: 1px solid rgba(0, 0, 0, 0.02);
+    width: 52px;
+    height: 24px;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.mode-btn {
+.game-mode-toggle legend {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
+
+.game-mode-option {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 36px;
-    height: 36px;
-    border: none;
-    background: transparent;
+    padding: 0;
     cursor: pointer;
-    color: #999;
-    z-index: 2;
-    transition: color 0.3s ease;
     border-radius: 50%;
+    position: relative;
+    z-index: 2;
+    width: 20px;
+    height: 20px;
+    background: transparent;
+    flex: 0 0 20px;
 }
 
-.mode-btn.active {
+.game-mode-option input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* Animated toggle slider */
+.game-mode-toggle::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 20px;
+    height: 20px;
+    background: #FFF;
+    border-radius: 50%;
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
+
+.game-mode-toggle[data-mode="name-to-image"]::after {
+    transform: translateX(28px);
+}
+
+.game-mode-option.active .game-mode-icon {
     color: #444;
 }
 
-.mode-glaze {
-    position: absolute;
-    top: 3px;
-    left: 3px;
-    width: 36px;
-    height: 36px;
-    background: #FFF;
-    border-radius: 50%;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    z-index: 1;
+.game-mode-option:not(.active) .game-mode-icon {
+    color: #999;
 }
 
-.action-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-    transform: translateX(36px);
+.game-mode-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
 }
 
-/* Fallback if :has not supported */
-.mode-btn.active:last-child~.mode-glaze {
-    transform: translateX(36px);
+.game-mode-icon svg {
+    width: 12px;
+    height: 12px;
+    display: block;
+    flex-shrink: 0;
 }
 
 /* Sidebar - Slides under header */
@@ -362,10 +462,10 @@ html {
 .split {
     position: relative;
     display: flex;
-    gap: 60px;
+    gap: 40px;
     align-items: flex-start;
     justify-content: center;
-    max-width: 1300px;
+    max-width: 1200px;
     margin: 0 auto;
     width: 100%;
 }
@@ -374,7 +474,7 @@ html {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    width: 440px;
+    width: 400px;
 }
 
 .quiz-side-panel {
@@ -384,7 +484,7 @@ html {
 }
 
 .img-box {
-    flex: 0 0 500px;
+    flex: 0 0 450px;
     aspect-ratio: 3 / 4;
     overflow: hidden;
     background: #F9F9F9;
@@ -455,51 +555,7 @@ html {
     cursor: default;
 }
 
-.feedback-placeholder {
-    width: 100%;
-    min-height: 400px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border: 2px dashed rgba(0, 0, 0, 0.05);
-    border-radius: 12px;
-    color: #999;
-    gap: 16px;
-}
 
-.placeholder-text {
-    font-size: 14px;
-    font-weight: 500;
-}
-
-.hint-button-small {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
-    background: #FFF;
-    border: 1px solid #E0E0E0;
-    border-radius: 100px;
-    font-size: 12px;
-    font-weight: 700;
-    color: #666;
-    cursor: pointer;
-    transition: all 0.2s ease;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
-}
-
-.hint-button-small:hover {
-    border-color: #999;
-    color: #444;
-    background: #F9F9F9;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-}
-
-.hint-button-small svg {
-    color: #999;
-}
 
 .opt .letter {
     width: 32px;
@@ -576,8 +632,8 @@ html {
 .imgs {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    width: 500px;
+    gap: 16px;
+    width: 420px;
 }
 
 .img-opt {
