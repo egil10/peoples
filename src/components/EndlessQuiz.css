@@ -60,82 +60,10 @@ html {
     color: #999;
 }
 
-/* HEADER - MINIMALISTIC */
+/* COMPONENT SPECIFIC STYLES */
 
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 24px;
-    border-bottom: 1px solid #F0F0F0;
-    background: #FFF;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    contain: layout style;
-    transition: none;
-    gap: 16px;
-    min-height: 56px;
-}
-
-.logo-button {
-    background: none !important;
+.header .sidebar-toggle {
     border: none;
-    cursor: pointer;
-    padding: 0;
-    text-align: left;
-    flex-shrink: 0;
-    color: #000;
-    text-decoration: none;
-}
-
-.logo-button,
-.logo-button:link,
-.logo-button:visited,
-.logo-button:hover,
-.logo-button:active,
-.logo-button:focus,
-.logo-button:focus-visible {
-    color: #000 !important;
-    text-decoration: none !important;
-    outline: none !important;
-    background: none !important;
-    background-color: transparent !important;
-    -webkit-tap-highlight-color: transparent !important;
-}
-
-.logo-button h1 {
-    font-size: 20px;
-    font-weight: 700;
-    color: #444;
-    margin: 0;
-    background: none !important;
-    background-color: transparent !important;
-}
-
-.logo-button:hover h1 {
-    color: #000;
-}
-
-.stats {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    font-size: 14px;
-    font-weight: 600;
-    flex: 1;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-.stats .dim {
-    color: #999;
-    font-weight: 400;
-}
-
-.stats svg {
-    color: #000;
-    flex-shrink: 0;
 }
 
 .country-badge {
@@ -157,176 +85,104 @@ html {
     box-shadow: 0 0 0 1px #eee;
 }
 
-.controls {
+.action-capsule {
     display: flex;
-    gap: 8px;
     align-items: center;
+    gap: 1rem;
     flex-shrink: 0;
 }
 
-.gallery-button,
-.stats-button {
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: rgba(0, 0, 0, 0.03);
+    padding: 3px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.action-button {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 8px;
     background: transparent;
     border: none;
-    border-radius: 6px;
+    border-radius: 8px;
     cursor: pointer;
     color: #666;
-    outline: none;
-    transition: all 0.15s ease;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.gallery-button:hover,
-.stats-button:hover {
-    background: #F5F5F5;
-    color: #444;
+.action-button:hover {
+    background: #FFF;
+    color: #000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
 }
 
-.gallery-button:active,
-.stats-button:active {
-    background: #E8E8E8;
-    color: #444;
+.action-button.delay-btn {
+    gap: 6px;
+    padding-left: 10px;
+    padding-right: 12px;
 }
 
-.gallery-button svg,
-.stats-button svg {
-    display: block;
+.btn-label {
+    font-size: 12px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
 }
 
-/* Game Mode Toggle - Rounded Switch Style */
-.game-mode-toggle {
+/* Mode Capsule - Slick Sliding Toggle */
+.mode-capsule {
     display: flex;
-    border: none;
-    border-radius: 12px;
-    padding: 2px;
-    background: #E8E8E8;
-    margin: 0;
     position: relative;
-    width: 52px;
-    height: 24px;
-    justify-content: space-between;
-    align-items: center;
+    background: rgba(0, 0, 0, 0.04);
+    padding: 3px;
+    border-radius: 100px;
+    gap: 0;
+    border: 1px solid rgba(0, 0, 0, 0.02);
 }
 
-.game-mode-toggle legend {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border-width: 0;
-}
-
-.game-mode-option {
+.mode-btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0;
-    cursor: pointer;
-    border-radius: 50%;
-    position: relative;
-    z-index: 2;
-    width: 20px;
-    height: 20px;
+    width: 36px;
+    height: 36px;
+    border: none;
     background: transparent;
-    flex: 0 0 20px;
+    cursor: pointer;
+    color: #999;
+    z-index: 2;
+    transition: color 0.3s ease;
+    border-radius: 50%;
 }
 
-.game-mode-option input[type="radio"] {
-    position: absolute;
-    opacity: 0;
-    width: 0;
-    height: 0;
+.mode-btn.active {
+    color: #444;
 }
 
-/* Animated toggle slider */
-.game-mode-toggle::after {
-    content: '';
+.mode-glaze {
     position: absolute;
-    top: 2px;
-    left: 2px;
-    width: 20px;
-    height: 20px;
+    top: 3px;
+    left: 3px;
+    width: 36px;
+    height: 36px;
     background: #FFF;
     border-radius: 50%;
-    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 1;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
 }
 
-.game-mode-toggle[data-mode="name-to-image"]::after {
-    transform: translateX(28px);
+.action-capsule:has(.mode-btn:last-child.active) .mode-glaze {
+    transform: translateX(36px);
 }
 
-.game-mode-option.active {
-    background: transparent;
-    color: #444;
-}
-
-.game-mode-option:not(.active) {
-    color: #999;
-}
-
-.game-mode-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    pointer-events: none;
-}
-
-.game-mode-option.active .game-mode-icon {
-    color: #444;
-}
-
-.game-mode-option:not(.active) .game-mode-icon {
-    color: #999;
-}
-
-.game-mode-icon svg {
-    width: 12px;
-    height: 12px;
-    display: block;
-    flex-shrink: 0;
-}
-
-.controls button {
-    display: flex;
-    align-items: center;
-    gap: 4px;
-    padding: 6px 10px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    font-size: 13px;
-    color: #666;
-    border-radius: 4px;
-    outline: none;
-    transition: all 0.15s ease;
-}
-
-.controls button:hover {
-    background: #F5F5F5;
-    color: #444;
-}
-
-.controls button:active {
-    background: #E8E8E8;
-    color: #444;
-}
-
-.controls button svg {
-    display: block;
-    transform: none;
-}
-
-.sidebar-toggle {
-    border: none;
+/* Fallback if :has not supported */
+.mode-btn.active:last-child~.mode-glaze {
+    transform: translateX(36px);
 }
 
 /* Sidebar - Slides under header */
@@ -506,10 +362,10 @@ html {
 .split {
     position: relative;
     display: flex;
-    gap: 40px;
+    gap: 60px;
     align-items: flex-start;
     justify-content: center;
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
     width: 100%;
 }
@@ -518,17 +374,17 @@ html {
     display: flex;
     flex-direction: column;
     gap: 20px;
-    width: 320px;
+    width: 440px;
 }
 
 .quiz-side-panel {
-    width: 360px;
-    min-height: 400px;
+    width: 320px;
+    min-height: 480px;
     flex-shrink: 0;
 }
 
 .img-box {
-    flex: 0 0 400px;
+    flex: 0 0 500px;
     aspect-ratio: 3 / 4;
     overflow: hidden;
     background: #F9F9F9;
@@ -597,6 +453,52 @@ html {
 .opt.dim {
     opacity: 0.7;
     cursor: default;
+}
+
+.feedback-placeholder {
+    width: 100%;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px dashed rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    color: #999;
+    gap: 16px;
+}
+
+.placeholder-text {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.hint-button-small {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background: #FFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 100px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+}
+
+.hint-button-small:hover {
+    border-color: #999;
+    color: #444;
+    background: #F9F9F9;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.hint-button-small svg {
+    color: #999;
 }
 
 .opt .letter {
@@ -674,8 +576,8 @@ html {
 .imgs {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 16px;
-    width: 320px;
+    gap: 20px;
+    width: 500px;
 }
 
 .img-opt {
@@ -686,9 +588,9 @@ html {
     border: 1px solid #E0E0E0;
     cursor: pointer;
     padding: 0;
-    border-radius: 8px;
+    border-radius: 12px;
     contain: layout style paint;
-    transition: all 0.2s ease;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .img-opt:hover:not(.correct):not(.wrong):not(.dim) {

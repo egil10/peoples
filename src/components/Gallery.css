@@ -8,31 +8,10 @@
     overflow-x: hidden;
 }
 
-.gallery-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 24px;
-    border-bottom: 1px solid #F0F0F0;
-    background: #FFF;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    contain: layout style;
-    transition: margin-left 0.3s ease;
-    min-height: 56px;
-}
-
 .gallery-header-left {
     display: flex;
     align-items: center;
     gap: 16px;
-}
-
-.gallery-country-info {
-    display: flex;
-    align-items: center;
-    gap: 12px;
 }
 
 .country-flag-mini {
@@ -41,11 +20,6 @@
     object-fit: contain;
     border-radius: 2px;
     box-shadow: 0 0 0 1px #eee;
-}
-
-.dim {
-    color: #CCC;
-    font-weight: 300;
 }
 
 .country-badge {

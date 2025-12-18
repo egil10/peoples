@@ -366,82 +366,76 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 <button className="logo-button" onClick={() => window.location.reload()}>
                     <h1>Famous Nationals</h1>
                 </button>
-                <div className="stats">
+                <div className="stats-capsule">
                     {selectedCountry !== 'all' && (
                         <>
                             {selectedCountryData?.flag && (
                                 <img src={selectedCountryData.flag} alt="" className="country-flag-mini" />
                             )}
                             <span className="country-badge">{selectedCountry}</span>
-                            <span className="dim">|</span>
+                            <span className="capsule-divider"></span>
                         </>
                     )}
-                    <span>{elo}</span>
-                    <span className="dim">{rank}</span>
-                    <span className="dim">|</span>
-                    <Award size={14} />
-                    <span>{streak}</span>
-                    <span className="dim">|</span>
-                    <span>{accuracy}%</span>
-                    <span className="dim">|</span>
-                    <span className="dim">#{totalAnswered + 1}</span>
+                    <span className="stat-item">{elo}</span>
+                    <span className="stat-item rank">{rank}</span>
+                    <span className="capsule-divider"></span>
+                    <Award size={18} className="stat-icon" />
+                    <span className="stat-item">{streak}</span>
+                    <span className="capsule-divider"></span>
+                    <span className="stat-item">{accuracy}%</span>
+                    <span className="capsule-divider"></span>
+                    <span className="stat-item count">#{totalAnswered + 1}</span>
                 </div>
 
-                <div className="controls">
-                    {onNavigateToGallery && (
+                <div className="action-capsule">
+                    <div className="control-group">
+                        {onNavigateToGallery && (
+                            <button
+                                onClick={onNavigateToGallery}
+                                className="action-button"
+                                title="View Gallery"
+                            >
+                                <Grid3x3 size={18} />
+                            </button>
+                        )}
+                        {onNavigateToStatistics && (
+                            <button
+                                onClick={onNavigateToStatistics}
+                                className="action-button"
+                                title="View Statistics"
+                            >
+                                <BarChart size={18} />
+                            </button>
+                        )}
+                    </div>
+
+                    <div className="mode-capsule">
                         <button
-                            onClick={onNavigateToGallery}
-                            className="gallery-button"
-                            title="View Gallery"
+                            className={`mode-btn ${gameMode === 'image-to-name' ? 'active' : ''}`}
+                            onClick={() => gameMode !== 'image-to-name' && toggleGameMode()}
+                            title="Image to Name"
                         >
-                            <Grid3x3 size={16} />
+                            <Image size={18} />
                         </button>
-                    )}
-                    {onNavigateToStatistics && (
                         <button
-                            onClick={onNavigateToStatistics}
-                            className="stats-button"
-                            title="View Statistics"
+                            className={`mode-btn ${gameMode === 'name-to-image' ? 'active' : ''}`}
+                            onClick={() => gameMode !== 'name-to-image' && toggleGameMode()}
+                            title="Name to Image"
                         >
-                            <BarChart size={16} />
+                            <User size={18} />
                         </button>
-                    )}
-                    <fieldset className="game-mode-toggle" data-mode={gameMode}>
-                        <legend className="sr-only">Game Mode</legend>
-                        <label className={`game-mode-option ${gameMode === 'image-to-name' ? 'active' : ''}`}>
-                            <input
-                                type="radio"
-                                name="gameMode"
-                                value="image-to-name"
-                                checked={gameMode === 'image-to-name'}
-                                onChange={toggleGameMode}
-                                aria-label="Image to Name"
-                            />
-                            <span className="game-mode-icon" aria-hidden="true">
-                                <Image size={16} />
-                            </span>
-                        </label>
-                        <label className={`game-mode-option ${gameMode === 'name-to-image' ? 'active' : ''}`}>
-                            <input
-                                type="radio"
-                                name="gameMode"
-                                value="name-to-image"
-                                checked={gameMode === 'name-to-image'}
-                                onChange={toggleGameMode}
-                                aria-label="Name to Image"
-                            />
-                            <span className="game-mode-icon" aria-hidden="true">
-                                <User size={16} />
-                            </span>
-                        </label>
-                    </fieldset>
-                    <button onClick={cycleDelay} title={`Delay: ${autoAdvanceDelay}s`}>
-                        <Timer size={14} />
-                        <span>{autoAdvanceDelay}s</span>
-                    </button>
-                    <button onClick={() => setShowCountryFilter(!showCountryFilter)} className="sidebar-toggle">
-                        <PanelLeft size={14} />
-                    </button>
+                        <div className="mode-glaze"></div>
+                    </div>
+
+                    <div className="control-group">
+                        <button onClick={cycleDelay} className="action-button delay-btn" title={`Delay: ${autoAdvanceDelay}s`}>
+                            <Timer size={18} />
+                            <span className="btn-label">{autoAdvanceDelay}s</span>
+                        </button>
+                        <button onClick={() => setShowCountryFilter(!showCountryFilter)} className="action-button filter-btn">
+                            <PanelLeft size={18} />
+                        </button>
+                    </div>
                 </div>
             </header>
 
@@ -511,20 +505,21 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                         />
                                     ))}
                                 </div>
-                                {!isAnswered && (
-                                    <button
-                                        className="hint-button"
-                                        onClick={() => setShowHint(true)}
-                                        disabled={showHint}
-                                    >
-                                        <Grid3x3 size={16} />
-                                        <span>Show Hint</span>
-                                    </button>
-                                )}
                             </div>
 
                             <div className="quiz-side-panel">
-                                {(isAnswered || showHint) ? (
+                                {!isAnswered && !showHint ? (
+                                    <div className="feedback-placeholder">
+                                        <div className="placeholder-text">Need a hand?</div>
+                                        <button
+                                            className="hint-button-small"
+                                            onClick={() => setShowHint(true)}
+                                        >
+                                            <Grid3x3 size={14} />
+                                            <span>Show Hint</span>
+                                        </button>
+                                    </div>
+                                ) : (isAnswered || showHint) ? (
                                     <div className="feedback-popup sticky">
                                         <div className="feedback-content">
                                             {isAnswered ? (
@@ -620,34 +615,33 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                         <div className="name-top">
                             <h2>{currentQuestion.correct.name}</h2>
                             <div className="imgs-wrapper">
-                                <div className="imgs-with-hint">
-                                    <div className="imgs">
-                                        {currentQuestion.options.map((person, i) => (
-                                            <ImageOption
-                                                key={person.wikidataUrl}
-                                                person={person}
-                                                index={i}
-                                                isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
-                                                isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
-                                                isAnswered={isAnswered}
-                                                onSelect={() => handleAnswerSelect(person)}
-                                            />
-                                        ))}
-                                    </div>
-                                    {!isAnswered && (
-                                        <button
-                                            className="hint-button"
-                                            onClick={() => setShowHint(true)}
-                                            disabled={showHint}
-                                        >
-                                            <Grid3x3 size={16} />
-                                            <span>Show Hint</span>
-                                        </button>
-                                    )}
+                                <div className="imgs">
+                                    {currentQuestion.options.map((person, i) => (
+                                        <ImageOption
+                                            key={person.wikidataUrl}
+                                            person={person}
+                                            index={i}
+                                            isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
+                                            isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
+                                            isAnswered={isAnswered}
+                                            onSelect={() => handleAnswerSelect(person)}
+                                        />
+                                    ))}
                                 </div>
 
                                 <div className="quiz-side-panel">
-                                    {(isAnswered || showHint) ? (
+                                    {!isAnswered && !showHint ? (
+                                        <div className="feedback-placeholder">
+                                            <div className="placeholder-text">Not sure which one?</div>
+                                            <button
+                                                className="hint-button-small"
+                                                onClick={() => setShowHint(true)}
+                                            >
+                                                <Grid3x3 size={14} />
+                                                <span>Show Hint</span>
+                                            </button>
+                                        </div>
+                                    ) : (isAnswered || showHint) ? (
                                         <div className="feedback-popup sticky">
                                             <div className="feedback-content">
                                                 {isAnswered ? (

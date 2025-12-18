@@ -101,14 +101,14 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
 
     return (
         <div className="gallery-container">
-            <header className={`gallery-header ${showCountryFilter ? 'sidebar-open' : ''}`}>
+            <header className={`header ${showCountryFilter ? 'sidebar-open' : ''}`}>
                 <div className="gallery-header-left">
                     <button className="logo-button" onClick={onNavigateToQuiz}>
                         <h1>Famous Nationals</h1>
                     </button>
                     {selectedCountry !== 'all' && (
-                        <div className="gallery-country-info">
-                            <span className="dim">|</span>
+                        <div className="stats-capsule">
+                            <span className="capsule-divider"></span>
                             {countryData?.flag && (
                                 <img src={countryData.flag} alt="" className="country-flag-mini" />
                             )}
@@ -116,14 +116,16 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                         </div>
                     )}
                 </div>
-                <div className="gallery-controls">
-                    <button
-                        onClick={() => setShowCountryFilter(!showCountryFilter)}
-                        className="filter-button"
-                    >
-                        <Filter size={16} />
-                        <span>Filter</span>
-                    </button>
+                <div className="action-capsule">
+                    <div className="control-group">
+                        <button
+                            onClick={() => setShowCountryFilter(!showCountryFilter)}
+                            className="action-button filter-btn"
+                            title="Filter by Country"
+                        >
+                            <PanelLeft size={18} />
+                        </button>
+                    </div>
                 </div>
             </header>
 
