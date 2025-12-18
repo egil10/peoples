@@ -162,26 +162,26 @@
     },
     {
       "id": 14,
-      "name": "Unknown (Q55767)",
+      "name": "Astrid Lindgren",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Astrid%20Lindgren%20%28cropped%29.jpg",
       "sitelinks": 116,
       "birthYear": "1907",
       "deathYear": "2002",
       "occupation": "novelist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55767",
-      "answerKey": "",
+      "answerKey": "astrid lindgren",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Astrid_Lindgren"
     },
     {
       "id": 15,
-      "name": "Unknown (Q7724)",
+      "name": "August Strindberg",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/August%20Strindberg%20%28Bj%C3%B6rkman%201912%29.jpg",
       "sitelinks": 115,
       "birthYear": "1849",
       "deathYear": "1912",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7724",
-      "answerKey": "",
+      "answerKey": "august strindberg",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/August_Strindberg"
     },
     {

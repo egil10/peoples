@@ -6,14 +6,14 @@
   "people": [
     {
       "id": 1,
-      "name": "Unknown (Q49747)",
+      "name": "Maurice Maeterlinck",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Maurice%20Maeterlinck.jpg",
       "sitelinks": 132,
       "birthYear": "1862",
       "deathYear": "1949",
       "occupation": "essayist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q49747",
-      "answerKey": "",
+      "answerKey": "maurice maeterlinck",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Maurice_Maeterlinck"
     },
     {
@@ -54,14 +54,14 @@
     },
     {
       "id": 5,
-      "name": "Unknown (Q7836)",
+      "name": "René Magritte",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ren%C3%A9%20Magritte%20in%201961.jpg",
       "sitelinks": 96,
       "birthYear": "1898",
       "deathYear": "1967",
       "occupation": "collagist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7836",
-      "answerKey": "",
+      "answerKey": "rene magritte",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
     },
     {

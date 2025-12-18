@@ -138,14 +138,14 @@
     },
     {
       "id": 12,
-      "name": "Unknown (Q7245)",
+      "name": "Mark Tven",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MarkTwain.LOC.jpg",
       "sitelinks": 244,
       "birthYear": null,
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q7245",
-      "answerKey": "",
+      "answerKey": "mark tven",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Twain"
     },
     {
@@ -294,14 +294,14 @@
     },
     {
       "id": 25,
-      "name": "Unknown (Q303)",
+      "name": "Elvis Presley",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elvis%20Presley%20Publicity%20Photo%20for%20The%20Trouble%20with%20Girls%201968.jpg",
       "sitelinks": 213,
       "birthYear": null,
       "deathYear": null,
       "occupation": "actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q303",
-      "answerKey": "",
+      "answerKey": "elvis presley",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Elvis_Presley"
     },
     {

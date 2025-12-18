@@ -18,14 +18,14 @@
     },
     {
       "id": 2,
-      "name": "Unknown (Q444)",
+      "name": "Lech Wałęsa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lech%20Walesa%20-%202009.jpg",
       "sitelinks": 171,
       "birthYear": "1943",
       "deathYear": null,
       "occupation": "anti-communist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q444",
-      "answerKey": "",
+      "answerKey": "lech waesa",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa"
     },
     {
@@ -378,14 +378,14 @@
     },
     {
       "id": 32,
-      "name": "Unknown (Q55917)",
+      "name": "Jarosław Kaczyński",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jaros%C5%82aw%20Kaczy%C5%84ski%2C%2015%20March%202022%20%28cropped%29.jpg",
       "sitelinks": 78,
       "birthYear": "1949",
       "deathYear": null,
       "occupation": "trade unionist",
       "wikidataUrl": "http://www.wikidata.org/entity/Q55917",
-      "answerKey": "",
+      "answerKey": "jarosaw kaczynski",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski"
     },
     {
@@ -546,14 +546,14 @@
     },
     {
       "id": 46,
-      "name": "Unknown (Q160359)",
+      "name": "Robert Kubica",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kubica%20at%20Monza%202023.jpg",
       "sitelinks": 67,
       "birthYear": "1984",
       "deathYear": null,
       "occupation": "Formula One driver",
       "wikidataUrl": "http://www.wikidata.org/entity/Q160359",
-      "answerKey": "",
+      "answerKey": "robert kubica",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Robert_Kubica"
     },
     {

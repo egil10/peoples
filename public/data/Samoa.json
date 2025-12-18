@@ -6,7 +6,7 @@
   "people": [
     {
       "id": 1,
-      "name": "Tuilaʻepa Saʻilele Malielegaoi",
+      "name": "Tuila'epa Sailele Malielegaoi",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuilaepa%20Aiono%20Sailele%20Malielegaoi%202014%20%28cropped%29.jpg",
       "sitelinks": 42,
       "birthYear": "1945",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "name": "Fiamē Naomi Mataʻafa",
+      "name": "Fiame Naomi Mataafa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiam%C4%93%20Naomi%20Mata%CA%BBafa%20in%202024%20%28cropped%29.jpg",
       "sitelinks": 36,
       "birthYear": "1957",
@@ -102,7 +102,7 @@
     },
     {
       "id": 9,
-      "name": "Tupua Tamasese Meaʻole",
+      "name": "Tupua Tamasese Mea'ole",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tupua%20Tamasese%20Mea%CA%BBole.jpg",
       "sitelinks": 15,
       "birthYear": "1905",
@@ -198,14 +198,14 @@
     },
     {
       "id": 17,
-      "name": "Laʻauli Leuatea Schmidt",
+      "name": "Laauli Leuatea Polataivao",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/La%CA%BBauli%20Leuatea%20Schmidt%20in%202023.jpg",
       "sitelinks": 10,
       "birthYear": "1966",
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q16734600",
-      "answerKey": "laauli leuatea schmidt",
+      "answerKey": "laauli leuatea polataivao",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/La%CA%BBauli_Leuatea_Schmidt"
     },
     {

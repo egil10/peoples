@@ -114,14 +114,14 @@
     },
     {
       "id": 10,
-      "name": "K’naan Warsame",
+      "name": "Knaan",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/K%27naan%20by%20David%20Shankbone.jpg",
       "sitelinks": 40,
       "birthYear": "1978",
       "deathYear": null,
       "occupation": "rapper",
       "wikidataUrl": "http://www.wikidata.org/entity/Q297693",
-      "answerKey": "knaan warsame",
+      "answerKey": "knaan",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/K'naan"
     },
     {
@@ -318,14 +318,14 @@
     },
     {
       "id": 27,
-      "name": "Muhammad ʿAbdallah Hasan",
+      "name": "Maxamed Cabdule Xasan",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sayyid%20Mohammed%20Abdullah%20Hassan.jpeg",
       "sitelinks": 24,
       "birthYear": "1856",
       "deathYear": "1920",
       "occupation": "religious leader",
       "wikidataUrl": "http://www.wikidata.org/entity/Q557341",
-      "answerKey": "muhammad abdallah hasan",
+      "answerKey": "maxamed cabdule xasan",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Mu%E1%B8%A5ammad_ibn_'Abdall%C4%81h_Hassan"
     },
     {

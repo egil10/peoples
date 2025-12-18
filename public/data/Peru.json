@@ -18,14 +18,14 @@
     },
     {
       "id": 2,
-      "name": "Unknown (Q539)",
+      "name": "Žuzeppe Garibaldi",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giuseppe%20Garibaldi%201861.jpg",
       "sitelinks": 129,
       "birthYear": "1807",
       "deathYear": "1882",
       "occupation": "autobiographer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q539",
-      "answerKey": "",
+      "answerKey": "zuzeppe garibaldi",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Giuseppe_Garibaldi"
     },
     {
@@ -330,26 +330,26 @@
     },
     {
       "id": 28,
-      "name": "Unknown (Q294404)",
+      "name": "Henry Ian Cusick",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ian%20Cusick.jpeg",
       "sitelinks": 40,
       "birthYear": "1967",
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294404",
-      "answerKey": "",
+      "answerKey": "henry ian cusick",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Ian_Cusick"
     },
     {
       "id": 29,
-      "name": "Unknown (Q294404)",
+      "name": "Henry Ian Cusick",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Ian%20Cusick%20%289330119142%29.jpg",
       "sitelinks": 40,
       "birthYear": "1967",
       "deathYear": null,
       "occupation": "television actor",
       "wikidataUrl": "http://www.wikidata.org/entity/Q294404",
-      "answerKey": "",
+      "answerKey": "henry ian cusick",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Henry_Ian_Cusick"
     },
     {

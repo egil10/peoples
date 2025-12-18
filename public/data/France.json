@@ -498,14 +498,14 @@
     },
     {
       "id": 42,
-      "name": "Unknown (Q493)",
+      "name": "Rimbaud",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rimbaud.PNG",
       "sitelinks": 140,
       "birthYear": null,
       "deathYear": null,
       "occupation": "writer",
       "wikidataUrl": "http://www.wikidata.org/entity/Q493",
-      "answerKey": "",
+      "answerKey": "rimbaud",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Rimbaud"
     },
     {

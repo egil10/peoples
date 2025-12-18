@@ -162,14 +162,14 @@
     },
     {
       "id": 14,
-      "name": "Unknown (Q610788)",
+      "name": "António Costa",
       "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Costa%20Portrait%202024%20%28cropped%29.jpg",
       "sitelinks": 75,
       "birthYear": "1961",
       "deathYear": null,
       "occupation": "politician",
       "wikidataUrl": "http://www.wikidata.org/entity/Q610788",
-      "answerKey": "",
+      "answerKey": "antonio costa",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Costa"
     },
     {
