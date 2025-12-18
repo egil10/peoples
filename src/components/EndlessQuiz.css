@@ -151,15 +151,25 @@ html {
 .stats-capsule {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin-right: 12px;
+    gap: 0.75rem;
+    padding: 0.4rem 1.25rem;
+    background: rgba(0, 0, 0, 0.03);
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1px solid rgba(0, 0, 0, 0.02);
+    margin-right: 0;
+}
+
+.stat-icon {
+    color: #999;
 }
 
 .capsule-divider {
     width: 1px;
-    height: 14px;
-    background: #DDD;
-    margin-right: 4px;
+    height: 12px;
+    background: rgba(0, 0, 0, 0.1);
+    margin: 0 4px;
 }
 
 .hint-toggle-btn {
@@ -209,94 +219,53 @@ html {
 
 
 
-/* Game Mode Toggle - Rounded Switch Style */
-.game-mode-toggle {
+/* Mode Capsule - Slick Sliding Toggle */
+.mode-capsule {
     display: flex;
-    border: none;
-    border-radius: 12px;
-    padding: 2px;
-    background: #E8E8E8;
-    margin: 0;
     position: relative;
-    width: 52px;
-    height: 24px;
-    justify-content: space-between;
-    align-items: center;
+    background: rgba(0, 0, 0, 0.04);
+    padding: 3px;
+    border-radius: 100px;
+    gap: 0;
+    border: 1px solid rgba(0, 0, 0, 0.02);
+    width: fit-content;
 }
 
-.game-mode-toggle legend {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border-width: 0;
-}
-
-.game-mode-option {
+.mode-btn {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0;
+    width: 32px;
+    height: 32px;
+    background: transparent;
+    border: none;
     cursor: pointer;
-    border-radius: 50%;
+    color: #999;
     position: relative;
     z-index: 2;
-    width: 20px;
-    height: 20px;
-    background: transparent;
-    flex: 0 0 20px;
-}
-
-.game-mode-option input[type="radio"] {
-    position: absolute;
-    opacity: 0;
-    width: 0;
-    height: 0;
-}
-
-/* Animated toggle slider */
-.game-mode-toggle::after {
-    content: '';
-    position: absolute;
-    top: 2px;
-    left: 2px;
-    width: 20px;
-    height: 20px;
-    background: #FFF;
+    transition: color 0.3s ease;
     border-radius: 50%;
-    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-    z-index: 1;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
 }
 
-.game-mode-toggle[data-mode="name-to-image"]::after {
-    transform: translateX(28px);
-}
-
-.game-mode-option.active .game-mode-icon {
+.mode-btn.active {
     color: #444;
 }
 
-.game-mode-option:not(.active) .game-mode-icon {
-    color: #999;
+.mode-glaze {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 32px;
+    height: 32px;
+    background: #FFF;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 1;
 }
 
-.game-mode-icon {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    pointer-events: none;
-}
-
-.game-mode-icon svg {
-    width: 12px;
-    height: 12px;
-    display: block;
-    flex-shrink: 0;
+.mode-capsule:has(.mode-btn:last-child.active) .mode-glaze {
+    transform: translateX(32px);
 }
 
 /* Sidebar - Slides under header */
@@ -650,9 +619,10 @@ html {
 
 .imgs {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     gap: 16px;
-    width: 420px;
+    width: 100%;
+    max-width: 900px;
 }
 
 .img-opt {

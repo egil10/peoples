@@ -54,6 +54,110 @@
 }
 
 /* ========================================
+   GLOBAL HEADER (ANTIGRAVITY DESIGN)
+   ======================================== */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 2rem;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  contain: layout style;
+  gap: 2rem;
+  min-height: 64px;
+}
+
+.logo-button {
+  background: none !important;
+  border: none !important;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+  flex-shrink: 0;
+  color: #444;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.logo-button:hover {
+  opacity: 0.8;
+}
+
+.logo-button h1 {
+  font-size: 14px;
+  font-weight: 800;
+  color: #444;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+  background: none !important;
+}
+
+.stats-capsule {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.4rem 1.25rem;
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 100px;
+  font-size: 13px;
+  font-weight: 600;
+  flex: 1;
+  justify-content: center;
+  max-width: fit-content;
+  border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.action-capsule {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  background: rgba(0, 0, 0, 0.03);
+  padding: 3px;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.02);
+}
+
+.action-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #666;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.action-button:hover {
+  background: #FFF;
+  color: #000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.capsule-divider {
+  width: 1px;
+  height: 12px;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/* ========================================
    Base Styles
    ======================================== */
 

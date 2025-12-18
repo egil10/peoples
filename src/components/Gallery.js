@@ -116,14 +116,16 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
                         </div>
                     )}
                 </div>
-                <div className="gallery-controls">
-                    <button
-                        onClick={() => setShowCountryFilter(!showCountryFilter)}
-                        className="filter-button"
-                    >
-                        <PanelLeft size={14} />
-                        <span>Filter</span>
-                    </button>
+                <div className="action-capsule">
+                    <div className="control-group">
+                        <button
+                            onClick={() => setShowCountryFilter(!showCountryFilter)}
+                            className="action-button"
+                            title="Filter by Country"
+                        >
+                            <PanelLeft size={16} />
+                        </button>
+                    </div>
                 </div>
             </header>
 

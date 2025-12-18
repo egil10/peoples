@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Award, TrendingUp, Target, Clock } from 'lucide-react';
+import { Award, TrendingUp, Target, Clock, Grid3x3 } from 'lucide-react';
 import './Statistics.css';
 
 function Statistics({ onNavigateToQuiz }) {
@@ -44,10 +44,17 @@ function Statistics({ onNavigateToQuiz }) {
 
     return (
         <div className="statistics-container">
-            <header className="statistics-header">
+            <header className="header">
                 <button className="logo-button" onClick={onNavigateToQuiz}>
                     <h1>Famous Nationals</h1>
                 </button>
+                <div className="action-capsule">
+                    <div className="control-group">
+                        <button className="action-button" onClick={onNavigateToQuiz} title="Back to Quiz">
+                            <Grid3x3 size={16} />
+                        </button>
+                    </div>
+                </div>
             </header>
 
             <main className="statistics-content">
