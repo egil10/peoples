@@ -379,12 +379,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                     <span className="stat-item">{elo}</span>
                     <span className="stat-item rank">{rank}</span>
                     <span className="capsule-divider"></span>
-
-                    <span className="stat-item">{streak}</span>
-                    <span className="capsule-divider"></span>
-                    <span className="stat-item">{accuracy}%</span>
-                    <span className="capsule-divider"></span>
-                    <span className="stat-item count">#{totalAnswered + 1}</span>
+                    <span className="stat-item">{correctCount} / {totalAnswered}</span>
                 </div>
 
                 <div className="action-capsule">
