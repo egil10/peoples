@@ -119,9 +119,9 @@ html {
 
 .stats {
     display: flex;
-    gap: 8px;
     align-items: center;
-    font-size: 13px;
+    gap: 12px;
+    font-size: 14px;
     font-weight: 600;
     flex: 1;
     justify-content: center;
@@ -147,6 +147,14 @@ html {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.country-flag-mini {
+    width: 20px;
+    height: 14px;
+    object-fit: contain;
+    border-radius: 1px;
+    box-shadow: 0 0 0 1px #eee;
 }
 
 .controls {
@@ -501,9 +509,22 @@ html {
     gap: 40px;
     align-items: flex-start;
     justify-content: center;
-    max-width: 1400px;
+    max-width: 1200px;
+    margin: 0 auto;
     width: 100%;
-    contain: layout style;
+}
+
+.opts-column {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 320px;
+}
+
+.quiz-side-panel {
+    width: 360px;
+    min-height: 400px;
+    flex-shrink: 0;
 }
 
 .img-box {
@@ -640,16 +661,21 @@ html {
     align-items: flex-start;
     justify-content: center;
     width: 100%;
-    contain: layout style;
+    margin-top: 20px;
+}
+
+.imgs-with-hint {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
 }
 
 .imgs {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
-    width: 100%;
-    max-width: 800px;
-    contain: layout style;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    width: 320px;
 }
 
 .img-opt {
@@ -773,6 +799,67 @@ html {
     contain: layout style paint;
     max-width: 360px;
     flex-shrink: 0;
+}
+
+.feedback-popup.sticky {
+    position: sticky;
+    top: 76px;
+    width: 100%;
+    margin: 0;
+    max-width: none;
+    animation: fadeIn 0.1s ease;
+}
+
+.feedback-placeholder {
+    width: 100%;
+    height: 100%;
+    border: 2px dashed #eee;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+    color: #999;
+}
+
+.feedback-hint {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #eee;
+    margin-bottom: 20px;
+}
+
+.feedback-hint h3 {
+    margin: 0 0 8px 0;
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.hint-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 12px;
+    background: white;
+    border: 2px solid #eee;
+    border-radius: 8px;
+    color: #666;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.1s ease;
+}
+
+.hint-button:hover:not(:disabled) {
+    border-color: #666;
+    background: #fafafa;
+}
+
+.hint-button:disabled {
+    opacity: 0.5;
+    cursor: default;
 }
 
 /* Feedback in name-to-image mode - same position */
@@ -1031,6 +1118,45 @@ html {
         width: calc(100vw - 32px);
         max-width: 360px;
         padding: 16px;
+    }
+}
+
+@media (max-width: 1100px) {
+    .split {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .opts-column,
+    .quiz-side-panel {
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .feedback-placeholder {
+        display: none;
+    }
+
+    .quiz-side-panel {
+        min-height: auto;
+    }
+
+    .img-box {
+        flex: 0 0 auto;
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .imgs-wrapper {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imgs {
+        width: 100%;
+        max-width: 500px;
+        grid-template-columns: repeat(4, 1fr);
     }
 }
 

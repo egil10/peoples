@@ -52,16 +52,9 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
         const shuffled = shuffleArray(filtered);
         setShuffledPeople(shuffled);
 
-        // When filtering by country, show ALL people from that country (max rows)
-        // When showing all, start with 24 people (3 rows of 8)
-        if (selectedCountry === 'all') {
-            setLoadedCount(24);
-            setDisplayedPeople(shuffled.slice(0, Math.min(24, shuffled.length)));
-        } else {
-            // Show all people from the filtered country
-            setLoadedCount(shuffled.length);
-            setDisplayedPeople(shuffled);
-        }
+        // Always start with 24 people (3 rows of 8) regardless of filter
+        setLoadedCount(24);
+        setDisplayedPeople(shuffled.slice(0, Math.min(24, shuffled.length)));
     }, [selectedCountry, allPeople]);
 
     // Load more people
@@ -78,6 +71,11 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     const countries = useMemo(() =>
         [...new Set(allPeople.map(p => p.country))].sort(),
         [allPeople]
+    );
+
+    const countryData = useMemo(() =>
+        selectedCountry !== 'all' ? allPeopleData.find(c => c.country === selectedCountry) : null,
+        [selectedCountry, allPeopleData]
     );
 
     // Close sidebar on Escape key
@@ -104,9 +102,20 @@ function Gallery({ allPeopleData, onNavigateToQuiz }) {
     return (
         <div className="gallery-container">
             <header className={`gallery-header ${showCountryFilter ? 'sidebar-open' : ''}`}>
-                <button className="logo-button" onClick={onNavigateToQuiz}>
-                    <h1>Famous Nationals</h1>
-                </button>
+                <div className="gallery-header-left">
+                    <button className="logo-button" onClick={onNavigateToQuiz}>
+                        <h1>Famous Nationals</h1>
+                    </button>
+                    {selectedCountry !== 'all' && (
+                        <div className="gallery-country-info">
+                            <span className="dim">|</span>
+                            {countryData?.flag && (
+                                <img src={countryData.flag} alt="" className="country-flag-mini" />
+                            )}
+                            <span className="country-badge">{selectedCountry}</span>
+                        </div>
+                    )}
+                </div>
                 <div className="gallery-controls">
                     <button
                         onClick={() => setShowCountryFilter(!showCountryFilter)}

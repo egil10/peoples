@@ -108,6 +108,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
     const [showCountryFilter, setShowCountryFilter] = useState(false);
     const [preloadedImages, setPreloadedImages] = useState(new Set());
     const [autoAdvanceDelay, setAutoAdvanceDelay] = useState(2);
+    const [showHint, setShowHint] = useState(false);
 
     // Flatten people data once on mount
     useEffect(() => {
@@ -141,6 +142,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         setStreak(0);
         setTotalAnswered(0);
         setCorrectCount(0);
+        setShowHint(false);
     }, [selectedCountry, allPeople]);
 
     // Close sidebar on Escape key
@@ -257,6 +259,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
             }
             setSelectedAnswer(null);
             setIsAnswered(false);
+            setShowHint(false);
         });
     }, [questionQueue, generateQuestion, preloadQuestionImages, gameMode]);
 
@@ -352,6 +355,11 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
         [currentQuestion, allPeopleData]
     );
 
+    const selectedCountryData = useMemo(() =>
+        selectedCountry !== 'all' ? allPeopleData.find(c => c.country === selectedCountry) : null,
+        [selectedCountry, allPeopleData]
+    );
+
     return (
         <div className="quiz-container">
             <header className={`header ${showCountryFilter ? 'sidebar-open' : ''}`}>
@@ -361,6 +369,9 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 <div className="stats">
                     {selectedCountry !== 'all' && (
                         <>
+                            {selectedCountryData?.flag && (
+                                <img src={selectedCountryData.flag} alt="" className="country-flag-mini" />
+                            )}
                             <span className="country-badge">{selectedCountry}</span>
                             <span className="dim">|</span>
                         </>
@@ -486,106 +497,10 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                     fetchpriority="high"
                                 />
                             </div>
-                            <div className="opts">
-                                {currentQuestion.options.map((person, i) => (
-                                    <PersonOption
-                                        key={person.wikidataUrl}
-                                        person={person}
-                                        index={i}
-                                        isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
-                                        isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
-                                        isAnswered={isAnswered}
-                                        onSelect={() => handleAnswerSelect(person)}
-                                    />
-                                ))}
-                            </div>
-
-                            {isAnswered && (
-                                <div className="feedback-popup">
-                                    <div className="feedback-content">
-                                        {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                            <div className="feedback-correct">
-                                                <Check size={32} />
-                                                <h3>Correct!</h3>
-                                                {currentQuestion.correct.wikipediaUrl ? (
-                                                    <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
-                                                        <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                                    </a>
-                                                ) : (
-                                                    <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                                )}
-                                                <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
-                                            </div>
-                                        ) : (
-                                            <div className="feedback-wrong">
-                                                <X size={32} />
-                                                <h3>Incorrect</h3>
-                                                <div className="feedback-wrong-answer">
-                                                    <span className="label">You selected:</span>
-                                                    <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
-                                                </div>
-                                                <div className="feedback-correct-answer">
-                                                    <span className="label">Correct answer:</span>
-                                                    {currentQuestion.correct.wikipediaUrl ? (
-                                                        <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
-                                                            <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
-                                                        </a>
-                                                    ) : (
-                                                        <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
-                                                    )}
-                                                </div>
-                                                <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
-                                            </div>
-                                        )}
-                                        <div className="feedback-details">
-                                            {currentQuestion.correct.occupation && (
-                                                <div className="detail-item">
-                                                    <strong>{currentQuestion.correct.occupation}</strong>
-                                                </div>
-                                            )}
-                                            {currentQuestion.correct.description && (
-                                                <div className="detail-item desc">{currentQuestion.correct.description}</div>
-                                            )}
-                                            {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
-                                                <div className="detail-item">
-                                                    {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
-                                                </div>
-                                            )}
-                                            <div className="country-flag-large">
-                                                {countryData?.flag && (
-                                                    <img
-                                                        src={countryData.flag}
-                                                        alt=""
-                                                        className="flag-large"
-                                                        loading="lazy"
-                                                        decoding="async"
-                                                    />
-                                                )}
-                                                <span className="country-name-large">{currentQuestion.correct.country}</span>
-                                            </div>
-                                            {currentQuestion.correct.wikipediaUrl && (
-                                                <a
-                                                    href={currentQuestion.correct.wikipediaUrl}
-                                                    target="_blank"
-                                                    rel="noopener noreferrer"
-                                                    className="wikipedia-link"
-                                                >
-                                                    <ExternalLink size={16} />
-                                                    <span>Read on Wikipedia</span>
-                                                </a>
-                                            )}
-                                        </div>
-                                    </div>
-                                </div>
-                            )}
-                        </div>
-                    ) : (
-                        <div className="name-top">
-                            <h2>{currentQuestion.correct.name}</h2>
-                            <div className="imgs-wrapper">
-                                <div className="imgs">
+                            <div className="opts-column">
+                                <div className="opts">
                                     {currentQuestion.options.map((person, i) => (
-                                        <ImageOption
+                                        <PersonOption
                                             key={person.wikidataUrl}
                                             person={person}
                                             index={i}
@@ -596,44 +511,64 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                         />
                                     ))}
                                 </div>
+                                {!isAnswered && (
+                                    <button
+                                        className="hint-button"
+                                        onClick={() => setShowHint(true)}
+                                        disabled={showHint}
+                                    >
+                                        <Grid3x3 size={16} />
+                                        <span>Show Hint</span>
+                                    </button>
+                                )}
+                            </div>
 
-                                {isAnswered && (
-                                    <div className="feedback-popup feedback-popup-name-mode">
+                            <div className="quiz-side-panel">
+                                {(isAnswered || showHint) ? (
+                                    <div className="feedback-popup sticky">
                                         <div className="feedback-content">
-                                            {selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
-                                                <div className="feedback-correct">
-                                                    <Check size={32} />
-                                                    <h3>Correct!</h3>
-                                                    {currentQuestion.correct.wikipediaUrl ? (
-                                                        <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
-                                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                                        </a>
-                                                    ) : (
-                                                        <div className="feedback-name">{currentQuestion.correct.name}</div>
-                                                    )}
-                                                    <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
-                                                </div>
-                                            ) : (
-                                                <div className="feedback-wrong">
-                                                    <X size={32} />
-                                                    <h3>Incorrect</h3>
-                                                    <div className="feedback-wrong-answer">
-                                                        <span className="label">You selected:</span>
-                                                        <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
-                                                    </div>
-                                                    <div className="feedback-correct-answer">
-                                                        <span className="label">Correct answer:</span>
+                                            {isAnswered ? (
+                                                selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
+                                                    <div className="feedback-correct">
+                                                        <Check size={32} />
+                                                        <h3>Correct!</h3>
                                                         {currentQuestion.correct.wikipediaUrl ? (
                                                             <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
-                                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
                                                             </a>
                                                         ) : (
-                                                            <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                            <div className="feedback-name">{currentQuestion.correct.name}</div>
                                                         )}
+                                                        <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
                                                     </div>
-                                                    <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
+                                                ) : (
+                                                    <div className="feedback-wrong">
+                                                        <X size={32} />
+                                                        <h3>Incorrect</h3>
+                                                        <div className="feedback-wrong-answer">
+                                                            <span className="label">You selected:</span>
+                                                            <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                                        </div>
+                                                        <div className="feedback-correct-answer">
+                                                            <span className="label">Correct answer:</span>
+                                                            {currentQuestion.correct.wikipediaUrl ? (
+                                                                <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                                </a>
+                                                            ) : (
+                                                                <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                            )}
+                                                        </div>
+                                                        <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
+                                                    </div>
+                                                )
+                                            ) : (
+                                                <div className="feedback-hint">
+                                                    <h3>Hint</h3>
+                                                    <div className="feedback-name">???</div>
                                                 </div>
                                             )}
+
                                             <div className="feedback-details">
                                                 {currentQuestion.correct.occupation && (
                                                     <div className="detail-item">
@@ -660,7 +595,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                                     )}
                                                     <span className="country-name-large">{currentQuestion.correct.country}</span>
                                                 </div>
-                                                {currentQuestion.correct.wikipediaUrl && (
+                                                {isAnswered && currentQuestion.correct.wikipediaUrl && (
                                                     <a
                                                         href={currentQuestion.correct.wikipediaUrl}
                                                         target="_blank"
@@ -674,7 +609,135 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                                             </div>
                                         </div>
                                     </div>
+                                ) : (
+                                    <div className="feedback-placeholder">
+                                        <div className="placeholder-text">Feedback and hints will appear here</div>
+                                    </div>
                                 )}
+                            </div>
+                        </div>
+                    ) : (
+                        <div className="name-top">
+                            <h2>{currentQuestion.correct.name}</h2>
+                            <div className="imgs-wrapper">
+                                <div className="imgs-with-hint">
+                                    <div className="imgs">
+                                        {currentQuestion.options.map((person, i) => (
+                                            <ImageOption
+                                                key={person.wikidataUrl}
+                                                person={person}
+                                                index={i}
+                                                isSelected={selectedAnswer?.wikidataUrl === person.wikidataUrl}
+                                                isCorrect={person.wikidataUrl === currentQuestion.correct.wikidataUrl}
+                                                isAnswered={isAnswered}
+                                                onSelect={() => handleAnswerSelect(person)}
+                                            />
+                                        ))}
+                                    </div>
+                                    {!isAnswered && (
+                                        <button
+                                            className="hint-button"
+                                            onClick={() => setShowHint(true)}
+                                            disabled={showHint}
+                                        >
+                                            <Grid3x3 size={16} />
+                                            <span>Show Hint</span>
+                                        </button>
+                                    )}
+                                </div>
+
+                                <div className="quiz-side-panel">
+                                    {(isAnswered || showHint) ? (
+                                        <div className="feedback-popup sticky">
+                                            <div className="feedback-content">
+                                                {isAnswered ? (
+                                                    selectedAnswer.wikidataUrl === currentQuestion.correct.wikidataUrl ? (
+                                                        <div className="feedback-correct">
+                                                            <Check size={32} />
+                                                            <h3>Correct!</h3>
+                                                            {currentQuestion.correct.wikipediaUrl ? (
+                                                                <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                                    <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                                </a>
+                                                            ) : (
+                                                                <div className="feedback-name">{currentQuestion.correct.name}</div>
+                                                            )}
+                                                            <div className="feedback-elo">+{calculateElo(elo, true) - elo} ELO</div>
+                                                        </div>
+                                                    ) : (
+                                                        <div className="feedback-wrong">
+                                                            <X size={32} />
+                                                            <h3>Incorrect</h3>
+                                                            <div className="feedback-wrong-answer">
+                                                                <span className="label">You selected:</span>
+                                                                <div className="feedback-name wrong-name">{selectedAnswer.name}</div>
+                                                            </div>
+                                                            <div className="feedback-correct-answer">
+                                                                <span className="label">Correct answer:</span>
+                                                                {currentQuestion.correct.wikipediaUrl ? (
+                                                                    <a href={currentQuestion.correct.wikipediaUrl} target="_blank" rel="noopener noreferrer" className="feedback-name-link">
+                                                                        <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                                    </a>
+                                                                ) : (
+                                                                    <div className="feedback-name correct-name">{currentQuestion.correct.name}</div>
+                                                                )}
+                                                            </div>
+                                                            <div className="feedback-elo">-{Math.abs(calculateElo(elo, false) - elo)} ELO</div>
+                                                        </div>
+                                                    )
+                                                ) : (
+                                                    <div className="feedback-hint">
+                                                        <h3>Hint</h3>
+                                                        <div className="feedback-name">???</div>
+                                                    </div>
+                                                )}
+
+                                                <div className="feedback-details">
+                                                    {currentQuestion.correct.occupation && (
+                                                        <div className="detail-item">
+                                                            <strong>{currentQuestion.correct.occupation}</strong>
+                                                        </div>
+                                                    )}
+                                                    {currentQuestion.correct.description && (
+                                                        <div className="detail-item desc">{currentQuestion.correct.description}</div>
+                                                    )}
+                                                    {(currentQuestion.correct.birthYear || currentQuestion.correct.deathYear) && (
+                                                        <div className="detail-item">
+                                                            {currentQuestion.correct.birthYear || '?'} – {currentQuestion.correct.deathYear || ''}
+                                                        </div>
+                                                    )}
+                                                    <div className="country-flag-large">
+                                                        {countryData?.flag && (
+                                                            <img
+                                                                src={countryData.flag}
+                                                                alt=""
+                                                                className="flag-large"
+                                                                loading="lazy"
+                                                                decoding="async"
+                                                            />
+                                                        )}
+                                                        <span className="country-name-large">{currentQuestion.correct.country}</span>
+                                                    </div>
+                                                    {isAnswered && currentQuestion.correct.wikipediaUrl && (
+                                                        <a
+                                                            href={currentQuestion.correct.wikipediaUrl}
+                                                            target="_blank"
+                                                            rel="noopener noreferrer"
+                                                            className="wikipedia-link"
+                                                        >
+                                                            <ExternalLink size={16} />
+                                                            <span>Read on Wikipedia</span>
+                                                        </a>
+                                                    )}
+                                                </div>
+                                            </div>
+                                        </div>
+                                    ) : (
+                                        <div className="feedback-placeholder">
+                                            <div className="placeholder-text">Feedback and hints will appear here</div>
+                                        </div>
+                                    )}
+                                </div>
                             </div>
                         </div>
                     )
