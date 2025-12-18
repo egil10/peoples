@@ -383,24 +383,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                 </div>
 
                 <div className="action-capsule">
-                    {onNavigateToGallery && (
-                        <button
-                            onClick={onNavigateToGallery}
-                            className="action-button"
-                            title="View Gallery"
-                        >
-                            <Grid3x3 size={16} />
-                        </button>
-                    )}
-                    {onNavigateToStatistics && (
-                        <button
-                            onClick={onNavigateToStatistics}
-                            className="action-button"
-                            title="View Statistics"
-                        >
-                            <BarChart size={16} />
-                        </button>
-                    )}
+
 
                     <div className="capsule-divider"></div>
 
