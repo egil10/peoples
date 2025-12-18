@@ -379,7 +379,7 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                     <span className="stat-item">{elo}</span>
                     <span className="stat-item rank">{rank}</span>
                     <span className="capsule-divider"></span>
-                    <Award size={16} className="stat-icon" />
+                    <Award size={13} className="stat-icon" />
                     <span className="stat-item">{streak}</span>
                     <span className="capsule-divider"></span>
                     <span className="stat-item">{accuracy}%</span>
@@ -415,14 +415,14 @@ function EndlessQuiz({ allPeopleData, onNavigateToStatistics, onNavigateToGaller
                             onClick={() => gameMode !== 'image-to-name' && toggleGameMode('image-to-name')}
                             title="Image to Name"
                         >
-                            <Image size={16} />
+                            <Image size={14} />
                         </button>
                         <button
                             className={`mode-btn ${gameMode === 'name-to-image' ? 'active' : ''}`}
                             onClick={() => gameMode !== 'name-to-image' && toggleGameMode('name-to-image')}
                             title="Name to Image"
                         >
-                            <User size={16} />
+                            <User size={14} />
                         </button>
                         <div className="mode-glaze"></div>
                     </div>

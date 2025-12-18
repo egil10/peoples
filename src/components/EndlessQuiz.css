@@ -175,8 +175,8 @@ html {
 .hint-toggle-btn {
     display: flex;
     align-items: center;
-    gap: 8px;
-    padding: 8px 16px;
+    gap: 6px;
+    padding: 6px 12px;
     background: #FFF;
     border: 1px solid #E0E0E0;
     border-radius: 100px;
@@ -235,8 +235,8 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 32px;
-    height: 32px;
+    width: 26px;
+    height: 26px;
     background: transparent;
     border: none;
     cursor: pointer;
@@ -245,6 +245,7 @@ html {
     z-index: 2;
     transition: color 0.3s ease;
     border-radius: 50%;
+    padding: 0;
 }
 
 .mode-btn.active {
@@ -255,17 +256,17 @@ html {
     position: absolute;
     top: 3px;
     left: 3px;
-    width: 32px;
-    height: 32px;
+    width: 26px;
+    height: 26px;
     background: #FFF;
     border-radius: 50%;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     z-index: 1;
 }
 
 .mode-capsule:has(.mode-btn:last-child.active) .mode-glaze {
-    transform: translateX(32px);
+    transform: translateX(26px);
 }
 
 /* Sidebar - Slides under header */
@@ -461,8 +462,7 @@ html {
 }
 
 .quiz-side-panel {
-    width: 320px;
-    min-height: 480px;
+    width: 260px;
     flex-shrink: 0;
     border: 2px dashed #EEE;
     border-radius: 16px;
@@ -603,11 +603,12 @@ html {
 
 .imgs-wrapper {
     display: flex;
-    gap: 40px;
+    gap: 24px;
     align-items: flex-start;
     justify-content: center;
     width: 100%;
     margin-top: 20px;
+    max-width: 1400px;
 }
 
 .imgs-with-hint {
@@ -622,7 +623,7 @@ html {
     grid-template-columns: repeat(4, 1fr);
     gap: 16px;
     width: 100%;
-    max-width: 900px;
+    flex: 1;
 }
 
 .img-opt {
@@ -829,9 +830,9 @@ html {
 .feedback-content {
     background: #FFF;
     border-radius: 12px;
-    padding: 20px;
+    padding: 16px;
     width: 100%;
-    min-height: 200px;
+    min-height: 150px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     border: 1px solid #E0E0E0;
     contain: layout style paint;
