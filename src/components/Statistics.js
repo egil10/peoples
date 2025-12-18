@@ -27,8 +27,8 @@ function Statistics({ onNavigateToQuiz }) {
     }, []);
 
     const accuracy = useMemo(() => {
-        return stats.totalAnswered > 0 
-            ? Math.round((stats.correctCount / stats.totalAnswered) * 100) 
+        return stats.totalAnswered > 0
+            ? Math.round((stats.correctCount / stats.totalAnswered) * 100)
             : 0;
     }, [stats.totalAnswered, stats.correctCount]);
 
@@ -44,7 +44,7 @@ function Statistics({ onNavigateToQuiz }) {
 
     return (
         <div className="statistics-container">
-            <header className="statistics-header">
+            <header className="header">
                 <button className="logo-button" onClick={onNavigateToQuiz}>
                     <h1>Famous Nationals</h1>
                 </button>

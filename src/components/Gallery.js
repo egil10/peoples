@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import { Filter } from 'lucide-react';
+import { PanelLeft } from 'lucide-react';
 import './Gallery.css';
 
 function Gallery({ allPeopleData, onNavigateToQuiz }) {
